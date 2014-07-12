@@ -1,0 +1,2471 @@
+Apr 2, 2013	 @ Tampa Bay	REG	W	7-4	147	O	6.5	 -	Recap
+Apr 3, 2013	 @ Tampa Bay	REG	L	8-7	120	O	7	 -	Recap
+Apr 4, 2013	 @ Tampa Bay	REG	W	6-3	101	O	8	 -	Recap
+Apr 5, 2013	 vs Minnesota	REG	W	9-5	-152	O	9	 -	Recap
+Apr 6, 2013	 vs Minnesota	REG	L	6-5	-138	O	8.5	 -	Recap
+Apr 7, 2013	 vs Minnesota	REG	L	4-3	-170	U	9	 -	Recap
+Apr 8, 2013	 @ Boston	REG	L	3-1	130	U	9	 -	Recap
+Apr 10, 2013	 @ Boston	REG	W	8-5	134	O	9	 -	Recap
+Apr 11, 2013	 @ Boston	REG	W	3-2	122	U	9	 -	Recap
+Apr 12, 2013	 @ NY Yankees	REG	L	5-2	136	U	8	 -	Recap
+Apr 13, 2013	 @ NY Yankees	REG	W	5-3	100	U	9	 -	Recap
+Apr 14, 2013	 @ NY Yankees	REG	L	3-0	101	U	8.5	 -	Recap
+Apr 16, 2013	 vs Tampa Bay	REG	W	5-4	-120	P	9	 -	Recap
+Apr 17, 2013	 vs Tampa Bay	REG	L	6-2	105	P	8	 -	Recap
+Apr 18, 2013	 vs Tampa Bay	REG	W	10-6	123	O	7.5	 -	Recap
+Apr 20, 2013	 vs LA Dodgers	REG	W	7-5	-116	O	8.5	 -	Recap
+Apr 20, 2013	 vs LA Dodgers	REG	W	6-1	-118	U	8	 -	Recap
+Apr 21, 2013	 vs LA Dodgers	REG	L	7-4	-125	O	8.5	 -	Recap
+Apr 22, 2013	 vs Toronto	REG	W	2-1	-126	U	8	 -	Recap
+Apr 23, 2013	 vs Toronto	REG	W	4-3	-102	U	7.5	 -	Recap
+Apr 24, 2013	 vs Toronto	REG	L	6-5	117	O	8.5	 -	Recap
+Apr 25, 2013	 @ Oakland	REG	W	10-2	124	O	8	 -	Recap
+Apr 26, 2013	 @ Oakland	REG	W	3-0	119	U	7.5	 -	Recap
+Apr 27, 2013	 @ Oakland	REG	W	7-3	142	O	8	 -	Recap
+Apr 28, 2013	 @ Oakland	REG	L	9-8	143	O	8	 -	Recap
+Apr 29, 2013	 @ Seattle	REG	L	6-2	-109	O	7.5	 -	Recap
+Apr 30, 2013	 @ Seattle	REG	W	7-2	-106	O	7	 -	Recap
+May 1, 2013	 @ Seattle	REG	L	8-3	-128	O	7.5	 -	Recap
+May 2, 2013	 @ LA Angels	REG	W	5-1	109	U	9	 -	Recap
+May 3, 2013	 @ LA Angels	REG	L	4-0	126	U	8.5	 -	Recap
+May 4, 2013	 @ LA Angels	REG	W	5-4	137	O	8.5	 -	Recap
+May 5, 2013	 @ LA Angels	REG	W	8-4	118	O	8	 -	Recap
+May 7, 2013	 vs Kansas City	REG	W	4-3	-121	U	8	 -	Recap
+May 8, 2013	 vs Kansas City	REG	W	5-3	-141	U	8.5	 -	Recap
+May 9, 2013	 vs Kansas City	REG	L	6-2	-115	U	8.5	 -	Recap
+May 10, 2013	 @ Minnesota	REG	W	9-6	-113	O	8.5	 -	Recap
+May 11, 2013	 @ Minnesota	REG	L	8-5	102	O	8.5	 -	Recap
+May 12, 2013	 @ Minnesota	REG	W	6-0	-108	U	8	 -	Recap
+May 14, 2013	 vs San Diego	REG	L	3-2	-142	U	8	 -	Recap
+May 15, 2013	 vs San Diego	REG	L	8-4	-158	O	9	 -	Recap
+May 17, 2013	 vs Tampa Bay	REG	L	12-10	-110	O	9	 -	Recap
+May 18, 2013	 vs Tampa Bay	REG	L	10-6	101	O	9	 -	Recap
+May 19, 2013	 vs Tampa Bay	REG	L	3-1	-102	U	8.5	 -	Recap
+May 20, 2013	 vs NY Yankees	REG	L	6-4	119	O	9	 -	Recap
+May 21, 2013	 vs NY Yankees	REG	W	3-2	-116	U	9	 -	Recap
+May 22, 2013	 vs NY Yankees	REG	W	6-3	103	P	9	 -	Recap
+May 23, 2013	 @ Toronto	REG	L	12-6	111	O	9	 -	Recap
+May 24, 2013	 @ Toronto	REG	W	10-6	-105	O	9	 -	Recap
+May 25, 2013	 @ Toronto	REG	W	6-5	136	O	9	 -	Recap
+May 26, 2013	 @ Toronto	REG	L	6-5	-108	O	9.5	 -	Recap
+May 27, 2013	 @ Washington	REG	W	6-2	112	O	7.5	 -	Recap
+May 28, 2013	 @ Washington	REG	L	9-3	-114	O	8.5	 -	Recap
+May 29, 2013	 vs Washington	REG	W	9-6	-117	O	8.5	 -	Recap
+May 30, 2013	 vs Washington	REG	W	2-0	-134	U	9.5	 -	Recap
+May 31, 2013	 vs Detroit	REG	W	7-5	118	O	9	 -	Recap
+Jun 1, 2013	 vs Detroit	REG	L	10-3	130	O	8.5	 -	Recap
+Jun 2, 2013	 vs Detroit	REG	W	4-2	104	U	10	 -	Recap
+Jun 4, 2013	 @ Houston	REG	W	4-1	-170	U	9	 -	Recap
+Jun 5, 2013	 @ Houston	REG	L	11-7	-149	O	9	 -	Recap
+Jun 6, 2013	 @ Houston	REG	W	3-1	-155	U	8.5	 -	Recap
+Jun 7, 2013	 @ Tampa Bay	REG	L	2-1	100	U	8.5	 -	Recap
+Jun 8, 2013	 @ Tampa Bay	REG	L	8-0	109	U	8.5	 -	Recap
+Jun 9, 2013	 @ Tampa Bay	REG	W	10-7	124	O	7.5	 -	Recap
+Jun 10, 2013	 vs LA Angels	REG	W	4-3	109	U	9	 -	Recap
+Jun 11, 2013	 vs LA Angels	REG	W	3-2	-121	U	9.5	 -	Recap
+Jun 12, 2013	 vs LA Angels	REG	L	9-5	-116	O	9.5	 -	Recap
+Jun 13, 2013	 vs Boston	REG	W	5-4	104	U	9.5	 -	Recap
+Jun 14, 2013	 vs Boston	REG	W	2-0	-115	U	9.5	 -	Recap
+Jun 15, 2013	 vs Boston	REG	L	5-4	-102	U	9.5	 -	Recap
+Jun 16, 2013	 vs Boston	REG	W	6-3	-113	P	9	 -	Recap
+Jun 17, 2013	 @ Detroit	REG	L	5-1	175	U	8.5	 -	Recap
+Jun 18, 2013	 @ Detroit	REG	W	5-2	190	U	8	 -	Recap
+Jun 19, 2013	 @ Detroit	REG	W	13-3	129	O	9	 -	Recap
+Jun 21, 2013	 @ Toronto	REG	L	7-6	110	O	9	 -	Recap
+Jun 22, 2013	 @ Toronto	REG	L	4-2	-116	U	9.5	 -	Recap
+Jun 23, 2013	 @ Toronto	REG	L	13-5	145	O	8.5	 -	Recap
+Jun 24, 2013	 vs Cleveland	REG	L	5-2	-145	U	10	 -	Recap
+Jun 25, 2013	 vs Cleveland	REG	W	6-3	-120	U	9.5	 -	Recap
+Jun 26, 2013	 vs Cleveland	REG	L	4-3	-145	U	9.5	 -	Recap
+Jun 27, 2013	 vs Cleveland	REG	W	7-3	-138	O	9.5	 -	Recap
+Jun 28, 2013	 vs NY Yankees	REG	W	4-3	-114	U	8.5	 -	Recap
+Jun 29, 2013	 vs NY Yankees	REG	W	11-3	-132	O	9	 -	Recap
+Jun 30, 2013	 vs NY Yankees	REG	W	4-2	-122	U	8.5	 -	Recap
+Jul 2, 2013	 @ Chi White Sox	REG	L	5-2	-115	U	8.5	 -	Recap
+Jul 3, 2013	 @ Chi White Sox	REG	W	4-2	-120	U	8.5	 -	Recap
+Jul 4, 2013	 @ Chi White Sox	REG	L	3-2	-102	U	9	 -	Recap
+Jul 5, 2013	 @ NY Yankees	REG	L	3-2	-110	U	9	 -	Recap
+Jul 6, 2013	 @ NY Yankees	REG	L	5-4	115	P	9	 -	Recap
+Jul 7, 2013	 @ NY Yankees	REG	W	2-1	117	U	8.5	 -	Recap
+Jul 8, 2013	 vs Texas	REG	L	8-5	102	O	8.5	 -	Recap
+Jul 9, 2013	 vs Texas	REG	L	8-4	-118	O	9.5	 -	Recap
+Jul 10, 2013	 vs Texas	REG	W	6-1	-145	U	9.5	 -	Recap
+Jul 11, 2013	 vs Texas	REG	W	3-1	-144	U	9.5	 -	Recap
+Jul 12, 2013	 vs Toronto	REG	W	8-5	-136	O	9	 -	Recap
+Jul 13, 2013	 vs Toronto	REG	L	7-3	-150	O	9.5	 -	Recap
+Jul 14, 2013	 vs Toronto	REG	W	7-4	-119	O	9	 -	Recap
+Jul 19, 2013	 @ Texas	REG	W	3-1	131	U	9	 -	Recap
+Jul 20, 2013	 @ Texas	REG	W	7-4	-106	O	9.5	 -	Recap
+Jul 21, 2013	 @ Texas	REG	W	4-2	125	U	9.5	 -	Recap
+Jul 22, 2013	 @ Kansas City	REG	W	9-2	-110	O	9	 -	Recap
+Jul 23, 2013	 @ Kansas City	REG	L	3-2	106	U	8.5	 -	Recap
+Jul 24, 2013	 @ Kansas City	REG	L	4-3	-106	U	7.5	 -	Recap
+Jul 25, 2013	 @ Kansas City	REG	L	7-1	-139	U	8.5	 -	Recap
+Jul 26, 2013	 vs Boston	REG	W	6-0	-103	U	9	 -	Recap
+Jul 27, 2013	 vs Boston	REG	L	7-3	-124	O	9	 -	Recap
+Jul 28, 2013	 vs Boston	REG	L	5-0	107	U	9	 -	Recap
+Jul 30, 2013	 vs Houston	REG	W	4-3	-240	U	8.5	 -	Recap
+Jul 31, 2013	 vs Houston	REG	L	11-0	-250	O	8.5	 -	Recap
+Aug 1, 2013	 vs Houston	REG	W	6-3	-230	P	9	 -	Recap
+Aug 2, 2013	 vs Seattle	REG	W	11-8	-178	O	9	 -	Recap
+Aug 3, 2013	 vs Seattle	REG	L	8-4	-168	O	9	 -	Recap
+Aug 4, 2013	 vs Seattle	REG	L	3-2	-187	U	9	 -	Recap
+Aug 6, 2013	 @ San Diego	REG	W	4-1	-136	U	7.5	 -	Recap
+Aug 7, 2013	 @ San Diego	REG	W	10-3	-119	O	7.5	 -	Recap
+Aug 9, 2013	 @ San Francisco	REG	W	5-2	-130	P	7	 -	Recap
+Aug 10, 2013	 @ San Francisco	REG	L	3-2	-121	U	7.5	 -	Recap
+Aug 11, 2013	 @ San Francisco	REG	W	10-2	100	O	7	 -	Recap
+Aug 12, 2013	 @ Arizona	REG	L	7-6	-103	O	8.5	 -	Recap
+Aug 13, 2013	 @ Arizona	REG	L	4-3	-112	U	8.5	 -	Recap
+Aug 14, 2013	 @ Arizona	REG	L	5-4	117	O	7.5	 -	Recap
+Aug 16, 2013	 vs Colorado	REG	L	6-3	-170	O	8.5	 -	Recap
+Aug 17, 2013	 vs Colorado	REG	W	8-4	-190	O	9	 -	Recap
+Aug 18, 2013	 vs Colorado	REG	W	7-2	-144	O	8	 -	Recap
+Aug 19, 2013	 vs Tampa Bay	REG	L	4-3	118	U	7.5	 -	Recap
+Aug 20, 2013	 vs Tampa Bay	REG	L	7-4	-101	O	8.5	 -	Recap
+Aug 21, 2013	 vs Tampa Bay	REG	W	4-2	-121	U	8.5	 -	Recap
+Aug 23, 2013	 vs Oakland	REG	W	9-7	-120	O	9	 -	Recap
+Aug 24, 2013	 vs Oakland	REG	L	2-1	-117	U	8.5	 -	Recap
+Aug 25, 2013	 vs Oakland	REG	W	10-3	-110	O	8.5	 -	Recap
+Aug 27, 2013	 @ Boston	REG	L	13-2	114	O	9	 -	Recap
+Aug 28, 2013	 @ Boston	REG	L	4-3	170	U	9.5	 -	Recap
+Aug 29, 2013	 @ Boston	REG	W	3-2	137	U	8.5	 -	Recap
+Aug 30, 2013	 @ NY Yankees	REG	L	8-5	118	O	8.5	 -	Recap
+Aug 31, 2013	 @ NY Yankees	REG	L	2-0	120	U	9	 -	Recap
+Sep 1, 2013	 @ NY Yankees	REG	W	7-3	112	O	8.5	 -	Recap
+Sep 2, 2013	 @ Cleveland	REG	W	7-2	112	O	8	 -	Recap
+Sep 3, 2013	 @ Cleveland	REG	L	4-3	-121	U	8	 -	Recap
+Sep 4, 2013	 @ Cleveland	REG	L	6-4	106	O	8.5	 -	Recap
+Sep 5, 2013	 vs Chi White Sox	REG	W	3-1	-158	U	8.5	 -	Recap
+Sep 6, 2013	 vs Chi White Sox	REG	W	4-0	-180	U	8	 -	Recap
+Sep 7, 2013	 vs Chi White Sox	REG	W	4-3	-170	U	8.5	 -	Recap
+Sep 8, 2013	 vs Chi White Sox	REG	L	4-2	-210	U	9	 -	Recap
+Sep 9, 2013	 vs NY Yankees	REG	W	4-2	-131	U	8.5	 -	Recap
+Sep 10, 2013	 vs NY Yankees	REG	L	7-5	-121	O	8.5	 -	Recap
+Sep 11, 2013	 vs NY Yankees	REG	L	5-4	-127	P	9	 -	Recap
+Sep 12, 2013	 vs NY Yankees	REG	L	6-5	-156	O	9	 -	Recap
+Sep 13, 2013	 @ Toronto	REG	W	5-3	-117	U	9	 -	Recap
+Sep 14, 2013	 @ Toronto	REG	L	4-3	-130	U	9	 -	Recap
+Sep 15, 2013	 @ Toronto	REG	W	3-1	-117	U	9	 -	Recap
+Sep 17, 2013	 @ Boston	REG	W	3-2	105	U	8.5	 -	Recap
+Sep 18, 2013	 @ Boston	REG	W	5-3	130	U	8.5	 -	Recap
+Sep 19, 2013	 @ Boston	REG	L	3-1	120	U	8.5	 -	Recap
+Sep 20, 2013	 @ Tampa Bay	REG	L	5-4	170	O	7.5	 -	Recap
+Sep 21, 2013	 @ Tampa Bay	REG	L	5-1	135	U	7	 -	Recap
+Sep 22, 2013	 @ Tampa Bay	REG	L	3-1	-114	U	7.5	 -	Recap
+Sep 23, 2013	 @ Tampa Bay	REG	L	5-4	111	O	7	 -	Recap
+Sep 24, 2013	 vs Toronto	REG	L	3-2	-163	U	8	 -	Recap
+Sep 25, 2013	 vs Toronto	REG	W	9-5	-141	O	8	 -	Recap
+Sep 26, 2013	 vs Toronto	REG	W	3-2	-126	U	7.5	 -	Recap
+Sep 27, 2013	 vs Boston	REG	L	12-3	120	O	7.5	 -	Recap
+Sep 28, 2013	 vs Boston	REG	W	6-5	121	O	8	 -	Recap
+Sep 29, 2013	 vs Boston	REG	W	7-6	-148	O	8.5	 -	Recap
+Apr 2, 2013	 vs Cleveland	REG	L	4-1	-174	U	8.5	 -	Recap
+Apr 3, 2013	 vs Cleveland	REG	L	3-2	-170	U	9	 -	Recap
+Apr 4, 2013	 vs Cleveland	REG	W	10-8	-180	O	9	 -	Recap
+Apr 5, 2013	 vs Boston	REG	L	6-4	-138	O	8.5	 -	Recap
+Apr 6, 2013	 vs Boston	REG	W	5-0	-136	U	9	 -	Recap
+Apr 7, 2013	 vs Boston	REG	L	13-0	-122	O	8	 -	Recap
+Apr 9, 2013	 @ Detroit	REG	L	7-3	118	O	8	 -	Recap
+Apr 10, 2013	 @ Detroit	REG	W	8-6	125	O	9	 -	Recap
+Apr 11, 2013	 @ Detroit	REG	L	11-1	124	O	8	 -	Recap
+Apr 12, 2013	 @ Kansas City	REG	W	8-4	-105	O	8	 -	Recap
+Apr 13, 2013	 @ Kansas City	REG	W	3-2	125	U	7.5	 -	Recap
+Apr 14, 2013	 @ Kansas City	REG	L	3-2	111	U	8.5	 -	Recap
+Apr 15, 2013	 vs Chi White Sox	REG	W	4-3	-114	U	8.5	 -	Recap
+Apr 16, 2013	 vs Chi White Sox	REG	L	4-3	-156	U	9	 -	Recap
+Apr 17, 2013	 vs Chi White Sox	REG	L	7-0	-119	U	8.5	 -	Recap
+Apr 18, 2013	 vs Chi White Sox	REG	W	3-1	-106	U	7.5	 -	Recap
+Apr 19, 2013	 vs NY Yankees	REG	L	9-4	-123	O	8	 -	Recap
+Apr 20, 2013	 vs NY Yankees	REG	L	5-3	-103	U	8.5	 -	Recap
+Apr 21, 2013	 vs NY Yankees	REG	W	8-4	-146	O	8.5	 -	Recap
+Apr 22, 2013	 @ Baltimore	REG	L	2-1	116	U	8	 -	Recap
+Apr 23, 2013	 @ Baltimore	REG	L	4-3	-108	U	7.5	 -	Recap
+Apr 24, 2013	 @ Baltimore	REG	W	6-5	-127	O	8.5	 -	Recap
+Apr 25, 2013	 @ NY Yankees	REG	L	5-3	124	P	8	 -	Recap
+Apr 26, 2013	 @ NY Yankees	REG	L	6-4	126	O	9	 -	Recap
+Apr 27, 2013	 @ NY Yankees	REG	L	5-4	137	O	7.5	 -	Recap
+Apr 28, 2013	 @ NY Yankees	REG	L	3-2	-114	U	8.5	 -	Recap
+Apr 30, 2013	 vs Boston	REG	W	9-7	102	O	8.5	 -	Recap
+May 1, 2013	 vs Boston	REG	L	10-1	109	O	9	 -	Recap
+May 2, 2013	 vs Boston	REG	L	3-1	107	U	8.5	 -	Recap
+May 3, 2013	 vs Seattle	REG	L	4-0	122	U	7.5	 -	Recap
+May 4, 2013	 vs Seattle	REG	L	8-1	-134	O	7.5	 -	Recap
+May 5, 2013	 vs Seattle	REG	W	10-2	-156	O	9	 -	Recap
+May 6, 2013	 @ Tampa Bay	REG	W	8-7	128	O	7.5	 -	Recap
+May 7, 2013	 @ Tampa Bay	REG	W	6-4	130	O	8	 -	Recap
+May 8, 2013	 @ Tampa Bay	REG	L	10-4	155	O	8	 -	Recap
+May 9, 2013	 @ Tampa Bay	REG	L	5-4	140	O	7	 -	Recap
+May 10, 2013	 @ Boston	REG	L	5-0	189	U	9.5	 -	Recap
+May 11, 2013	 @ Boston	REG	W	3-2	175	U	9.5	 -	Recap
+May 12, 2013	 @ Boston	REG	W	12-4	200	O	9.5	 -	Recap
+May 14, 2013	 vs San Francisco	REG	W	10-6	-138	O	9	 -	Recap
+May 15, 2013	 vs San Francisco	REG	W	11-3	108	O	10	 -	Recap
+May 17, 2013	 @ NY Yankees	REG	L	5-0	122	U	8.5	 -	Recap
+May 18, 2013	 @ NY Yankees	REG	L	7-2	112	O	8.5	 -	Recap
+May 20, 2013	 vs Tampa Bay	REG	W	7-5	-151	O	9	 -	Recap
+May 21, 2013	 vs Tampa Bay	REG	L	4-3	135	U	9.5	 -	Recap
+May 22, 2013	 vs Tampa Bay	REG	W	4-3	-103	U	9.5	 -	Recap
+May 23, 2013	 vs Baltimore	REG	W	12-6	-121	O	9	 -	Recap
+May 24, 2013	 vs Baltimore	REG	L	10-6	-105	O	9	 -	Recap
+May 25, 2013	 vs Baltimore	REG	L	6-5	-146	O	9	 -	Recap
+May 26, 2013	 vs Baltimore	REG	W	6-5	-102	O	9.5	 -	Recap
+May 27, 2013	 vs Atlanta	REG	W	9-3	-101	O	9	 -	Recap
+May 28, 2013	 vs Atlanta	REG	L	7-6	-118	O	9	 -	Recap
+May 29, 2013	 @ Atlanta	REG	W	3-0	176	U	8	 -	Recap
+May 30, 2013	 @ Atlanta	REG	L	11-3	129	O	7.5	 -	Recap
+May 31, 2013	 @ San Diego	REG	L	4-3	108	U	8.5	 -	Recap
+Jun 1, 2013	 @ San Diego	REG	L	4-3	-120	U	8	 -	Recap
+Jun 2, 2013	 @ San Diego	REG	W	7-4	118	O	8.5	 -	Recap
+Jun 4, 2013	 @ San Francisco	REG	L	2-1	112	U	7.5	 -	Recap
+Jun 5, 2013	 @ San Francisco	REG	W	4-0	-103	U	7.5	 -	Recap
+Jun 7, 2013	 vs Texas	REG	W	6-1	-107	U	9.5	 -	Recap
+Jun 8, 2013	 vs Texas	REG	W	4-3	141	U	8.5	 -	Recap
+Jun 9, 2013	 vs Texas	REG	L	6-4	-138	O	9	 -	Recap
+Jun 10, 2013	 @ Chi White Sox	REG	L	10-6	-118	O	8.5	 -	Recap
+Jun 11, 2013	 @ Chi White Sox	REG	W	7-5	115	O	9.5	 -	Recap
+Jun 13, 2013	 @ Texas	REG	W	3-1	210	U	9	 -	Recap
+Jun 14, 2013	 @ Texas	REG	W	8-0	117	U	9.5	 -	Recap
+Jun 15, 2013	 @ Texas	REG	W	6-1	111	U	9.5	 -	Recap
+Jun 16, 2013	 @ Texas	REG	W	7-2	185	U	10	 -	Recap
+Jun 17, 2013	 vs Colorado	REG	W	2-0	-164	U	9	 -	Recap
+Jun 18, 2013	 vs Colorado	REG	W	8-3	-148	O	9	 -	Recap
+Jun 19, 2013	 vs Colorado	REG	W	5-2	-156	U	9	 -	Recap
+Jun 21, 2013	 vs Baltimore	REG	W	7-6	-120	O	9	 -	Recap
+Jun 22, 2013	 vs Baltimore	REG	W	4-2	106	U	9.5	 -	Recap
+Jun 23, 2013	 vs Baltimore	REG	W	13-5	-155	O	8.5	 -	Recap
+Jun 24, 2013	 @ Tampa Bay	REG	L	4-1	128	U	8.5	 -	Recap
+Jun 25, 2013	 @ Tampa Bay	REG	L	5-1	124	U	8	 -	Recap
+Jun 26, 2013	 @ Tampa Bay	REG	W	3-0	104	U	8.5	 -	Recap
+Jun 27, 2013	 @ Boston	REG	L	7-4	162	O	9.5	 -	Recap
+Jun 28, 2013	 @ Boston	REG	L	7-5	105	O	10	 -	Recap
+Jun 29, 2013	 @ Boston	REG	W	6-2	134	U	10.5	 -	Recap
+Jun 30, 2013	 @ Boston	REG	L	5-4	142	U	10	 -	Recap
+Jul 1, 2013	 vs Detroit	REG	W	8-3	-127	O	9	 -	Recap
+Jul 2, 2013	 vs Detroit	REG	L	7-6	140	O	9	 -	Recap
+Jul 3, 2013	 vs Detroit	REG	L	6-2	120	U	8.5	 -	Recap
+Jul 4, 2013	 vs Detroit	REG	L	11-1	122	O	8.5	 -	Recap
+Jul 5, 2013	 vs Minnesota	REG	W	4-0	-175	U	9	 -	Recap
+Jul 6, 2013	 vs Minnesota	REG	L	6-0	-195	U	9	 -	Recap
+Jul 7, 2013	 vs Minnesota	REG	W	11-5	-156	O	9.5	 -	Recap
+Jul 9, 2013	 @ Cleveland	REG	L	3-0	-110	U	9	 -	Recap
+Jul 10, 2013	 @ Cleveland	REG	W	5-4	140	O	8.5	 -	Recap
+Jul 11, 2013	 @ Cleveland	REG	L	4-2	-117	U	8.5	 -	Recap
+Jul 12, 2013	 @ Baltimore	REG	L	8-5	126	O	9	 -	Recap
+Jul 13, 2013	 @ Baltimore	REG	W	7-3	140	O	9.5	 -	Recap
+Jul 14, 2013	 @ Baltimore	REG	L	7-4	109	O	9	 -	Recap
+Jul 19, 2013	 vs Tampa Bay	REG	L	8-5	124	O	8.5	 -	Recap
+Jul 20, 2013	 vs Tampa Bay	REG	L	4-3	-103	U	9	 -	Recap
+Jul 21, 2013	 vs Tampa Bay	REG	L	4-3	-125	U	9	 -	Recap
+Jul 22, 2013	 vs LA Dodgers	REG	L	14-5	-127	O	9	 -	Recap
+Jul 23, 2013	 vs LA Dodgers	REG	L	10-9	-110	O	9.5	 -	Recap
+Jul 24, 2013	 vs LA Dodgers	REG	L	8-3	-113	O	9.5	 -	Recap
+Jul 25, 2013	 vs Houston	REG	W	4-0	-210	U	9	 -	Recap
+Jul 26, 2013	 vs Houston	REG	W	12-6	-240	O	9	 -	Recap
+Jul 27, 2013	 vs Houston	REG	L	8-6	-240	O	9.5	 -	Recap
+Jul 28, 2013	 vs Houston	REG	W	2-1	-190	U	9.5	 -	Recap
+Jul 29, 2013	 @ Oakland	REG	L	9-4	159	O	7.5	 -	Recap
+Jul 30, 2013	 @ Oakland	REG	W	5-0	132	U	7.5	 -	Recap
+Jul 31, 2013	 @ Oakland	REG	W	5-2	140	P	7	 -	Recap
+Aug 1, 2013	 @ LA Angels	REG	L	8-2	-105	O	8.5	 -	Recap
+Aug 2, 2013	 @ LA Angels	REG	L	7-5	113	O	8.5	 -	Recap
+Aug 3, 2013	 @ LA Angels	REG	L	7-3	150	O	8	 -	Recap
+Aug 4, 2013	 @ LA Angels	REG	W	6-5	115	O	8.5	 -	Recap
+Aug 5, 2013	 @ Seattle	REG	W	3-1	119	U	7.5	 -	Recap
+Aug 6, 2013	 @ Seattle	REG	W	7-2	155	O	7.5	 -	Recap
+Aug 7, 2013	 @ Seattle	REG	L	9-7	-112	O	9	 -	Recap
+Aug 9, 2013	 vs Oakland	REG	L	14-6	100	O	9	 -	Recap
+Aug 10, 2013	 vs Oakland	REG	W	5-4	-112	P	9	 -	Recap
+Aug 11, 2013	 vs Oakland	REG	L	6-4	-114	O	9	 -	Recap
+Aug 12, 2013	 vs Oakland	REG	L	5-1	107	U	9.5	 -	Recap
+Aug 13, 2013	 vs Boston	REG	L	4-2	115	U	10	 -	Recap
+Aug 14, 2013	 vs Boston	REG	W	4-3	133	U	9.5	 -	Recap
+Aug 15, 2013	 vs Boston	REG	W	2-1	105	U	8.5	 -	Recap
+Aug 16, 2013	 @ Tampa Bay	REG	L	5-4	132	O	7.5	 -	Recap
+Aug 17, 2013	 @ Tampa Bay	REG	W	6-2	150	U	8.5	 -	Recap
+Aug 18, 2013	 @ Tampa Bay	REG	L	2-1	141	U	8	 -	Recap
+Aug 20, 2013	 @ NY Yankees	REG	L	8-4	169	O	9	 -	Recap
+Aug 20, 2013	 @ NY Yankees	REG	L	3-2	122	U	9	 -	Recap
+Aug 21, 2013	 @ NY Yankees	REG	L	4-2	108	U	9	 -	Recap
+Aug 22, 2013	 @ NY Yankees	REG	L	5-3	137	U	9	 -	Recap
+Aug 23, 2013	 @ Houston	REG	L	12-4	-144	O	9	 -	Recap
+Aug 24, 2013	 @ Houston	REG	L	8-5	-110	O	9	 -	Recap
+Aug 25, 2013	 @ Houston	REG	W	2-1	-143	U	8.5	 -	Recap
+Aug 26, 2013	 vs NY Yankees	REG	W	5-2	-106	U	8.5	 -	Recap
+Aug 27, 2013	 vs NY Yankees	REG	L	7-1	107	U	9	 -	Recap
+Aug 28, 2013	 vs NY Yankees	REG	W	7-2	128	O	8.5	 -	Recap
+Aug 30, 2013	 vs Kansas City	REG	W	3-2	108	U	8.5	 -	Recap
+Aug 31, 2013	 vs Kansas City	REG	W	4-2	-117	U	8.5	 -	Recap
+Sep 1, 2013	 vs Kansas City	REG	L	5-0	145	U	8.5	 -	Recap
+Sep 2, 2013	 @ Arizona	REG	W	4-1	143	U	8.5	 -	Recap
+Sep 3, 2013	 @ Arizona	REG	W	10-4	136	O	8.5	 -	Recap
+Sep 4, 2013	 @ Arizona	REG	L	4-3	110	U	8	 -	Recap
+Sep 6, 2013	 @ Minnesota	REG	W	6-5	-120	O	7.5	 -	Recap
+Sep 7, 2013	 @ Minnesota	REG	W	11-2	103	O	8.5	 -	Recap
+Sep 8, 2013	 @ Minnesota	REG	W	2-0	-101	U	8.5	 -	Recap
+Sep 10, 2013	 vs LA Angels	REG	L	12-6	-129	O	9	 -	Recap
+Sep 11, 2013	 vs LA Angels	REG	L	5-4	-105	O	8.5	 -	Recap
+Sep 12, 2013	 vs LA Angels	REG	L	4-3	109	U	9	 -	Recap
+Sep 13, 2013	 vs Baltimore	REG	L	5-3	107	U	9	 -	Recap
+Sep 14, 2013	 vs Baltimore	REG	W	4-3	120	U	9	 -	Recap
+Sep 15, 2013	 vs Baltimore	REG	L	3-1	107	U	9	 -	Recap
+Sep 17, 2013	 vs NY Yankees	REG	W	2-0	107	U	8	 -	Recap
+Sep 18, 2013	 vs NY Yankees	REG	L	4-3	-104	U	8.5	 -	Recap
+Sep 19, 2013	 vs NY Yankees	REG	W	6-2	109	P	8	 -	Recap
+Sep 20, 2013	 @ Boston	REG	L	6-3	189	O	8.5	 -	Recap
+Sep 21, 2013	 @ Boston	REG	W	4-2	138	U	8	 -	Recap
+Sep 22, 2013	 @ Boston	REG	L	5-2	140	U	8.5	 -	Recap
+Sep 23, 2013	 @ Chi White Sox	REG	L	3-2	133	U	7.5	 -	Recap
+Sep 24, 2013	 @ Baltimore	REG	W	3-2	153	U	8	 -	Recap
+Sep 25, 2013	 @ Baltimore	REG	L	9-5	131	O	8	 -	Recap
+Sep 26, 2013	 @ Baltimore	REG	L	3-2	116	U	7.5	 -	Recap
+Sep 27, 2013	 vs Tampa Bay	REG	W	6-3	117	O	8	 -	Recap
+Sep 28, 2013	 vs Tampa Bay	REG	W	7-2	160	O	7.5	 -	Recap
+Sep 29, 2013	 vs Tampa Bay	REG	L	7-6	167	O	7.5	 -	Recap
+Apr 2, 2013	 vs Baltimore	REG	L	7-4	-157	O	6.5	 -	Recap
+Apr 3, 2013	 vs Baltimore	REG	W	8-7	-130	O	7	 -	Recap
+Apr 4, 2013	 vs Baltimore	REG	L	6-3	-111	O	8	 -	Recap
+Apr 5, 2013	 vs Cleveland	REG	W	4-0	-145	U	7.5	 -	Recap
+Apr 6, 2013	 vs Cleveland	REG	W	6-0	-156	U	8	 -	Recap
+Apr 7, 2013	 vs Cleveland	REG	L	13-0	-193	O	7	 -	Recap
+Apr 8, 2013	 @ Texas	REG	L	5-4	142	P	9	 -	Recap
+Apr 9, 2013	 @ Texas	REG	L	6-1	118	U	10.5	 -	Recap
+Apr 10, 2013	 @ Texas	REG	W	2-0	113	U	8.5	 -	Recap
+Apr 13, 2013	 @ Boston	REG	L	2-1	112	U	8	 -	Recap
+Apr 14, 2013	 @ Boston	REG	L	5-0	123	U	8.5	 -	Recap
+Apr 15, 2013	 @ Boston	REG	L	3-2	135	U	8.5	 -	Recap
+Apr 16, 2013	 @ Baltimore	REG	L	5-4	110	P	9	 -	Recap
+Apr 17, 2013	 @ Baltimore	REG	W	6-2	-115	P	8	 -	Recap
+Apr 18, 2013	 @ Baltimore	REG	L	10-6	-133	O	7.5	 -	Recap
+Apr 19, 2013	 vs Oakland	REG	W	8-3	-123	O	7.5	 -	Recap
+Apr 20, 2013	 vs Oakland	REG	W	1-0	-132	U	8	 -	Recap
+Apr 21, 2013	 vs Oakland	REG	W	8-1	100	O	8	 -	Recap
+Apr 22, 2013	 vs NY Yankees	REG	W	5-1	-128	U	7	 -	Recap
+Apr 23, 2013	 vs NY Yankees	REG	L	4-3	-178	P	7	 -	Recap
+Apr 24, 2013	 vs NY Yankees	REG	W	3-0	-136	U	7	 -	Recap
+Apr 25, 2013	 @ Chi White Sox	REG	L	5-2	120	P	7	 -	Recap
+Apr 26, 2013	 @ Chi White Sox	REG	L	5-4	132	O	7.5	 -	Recap
+Apr 27, 2013	 @ Chi White Sox	REG	W	10-4	-114	O	7	 -	Recap
+Apr 28, 2013	 @ Chi White Sox	REG	W	8-3	-138	O	7.5	 -	Recap
+Apr 30, 2013	 @ Kansas City	REG	L	8-2	123	O	7.5	 -	Recap
+May 1, 2013	 @ Kansas City	REG	L	9-8	-112	O	7.5	 -	Recap
+May 3, 2013	 @ Colorado	REG	W	7-4	-131	O	9	 -	Recap
+May 4, 2013	 @ Colorado	REG	L	9-3	-129	O	9	 -	Recap
+May 5, 2013	 @ Colorado	REG	W	8-3	104	O	9.5	 -	Recap
+May 6, 2013	 vs Toronto	REG	L	8-7	-138	O	7.5	 -	Recap
+May 7, 2013	 vs Toronto	REG	L	6-4	-140	O	8	 -	Recap
+May 8, 2013	 vs Toronto	REG	W	10-4	-165	O	8	 -	Recap
+May 9, 2013	 vs Toronto	REG	W	5-4	-150	O	7	 -	Recap
+May 10, 2013	 vs San Diego	REG	W	6-3	-176	O	8	 -	Recap
+May 11, 2013	 vs San Diego	REG	W	8-7	-140	O	8	 -	Recap
+May 12, 2013	 vs San Diego	REG	W	4-2	-150	U	8.5	 -	Recap
+May 14, 2013	 vs Boston	REG	W	5-3	-130	O	7.5	 -	Recap
+May 15, 2013	 vs Boston	REG	L	9-2	-125	O	7	 -	Recap
+May 16, 2013	 vs Boston	REG	L	4-3	-139	U	8	 -	Recap
+May 17, 2013	 @ Baltimore	REG	W	12-10	100	O	9	 -	Recap
+May 18, 2013	 @ Baltimore	REG	W	10-6	-111	O	9	 -	Recap
+May 19, 2013	 @ Baltimore	REG	W	3-1	-108	U	8.5	 -	Recap
+May 20, 2013	 @ Toronto	REG	L	7-5	141	O	9	 -	Recap
+May 21, 2013	 @ Toronto	REG	W	4-3	-145	U	9.5	 -	Recap
+May 22, 2013	 @ Toronto	REG	L	4-3	-107	U	9.5	 -	Recap
+May 24, 2013	 vs NY Yankees	REG	L	9-4	-115	O	8.5	 -	Recap
+May 25, 2013	 vs NY Yankees	REG	L	4-3	-166	U	7.5	 -	Recap
+May 26, 2013	 vs NY Yankees	REG	W	8-3	-120	O	7	 -	Recap
+May 27, 2013	 vs Miami	REG	W	10-6	-193	O	7.5	 -	Recap
+May 28, 2013	 vs Miami	REG	W	7-6	-255	O	7.5	 -	Recap
+May 29, 2013	 @ Miami	REG	W	3-1	-158	U	7.5	 -	Recap
+May 30, 2013	 @ Miami	REG	W	5-2	-142	U	7.5	 -	Recap
+May 31, 2013	 @ Cleveland	REG	W	9-2	-105	O	8.5	 -	Recap
+Jun 1, 2013	 @ Cleveland	REG	L	5-0	118	U	9.5	 -	Recap
+Jun 2, 2013	 @ Cleveland	REG	W	11-3	-104	O	9	 -	Recap
+Jun 4, 2013	 @ Detroit	REG	L	10-1	137	O	8	 -	Recap
+Jun 5, 2013	 @ Detroit	REG	W	3-0	134	U	8	 -	Recap
+Jun 6, 2013	 @ Detroit	REG	L	5-2	185	U	8.5	 -	Recap
+Jun 7, 2013	 vs Baltimore	REG	W	2-1	-110	U	8.5	 -	Recap
+Jun 8, 2013	 vs Baltimore	REG	W	8-0	-119	U	8.5	 -	Recap
+Jun 9, 2013	 vs Baltimore	REG	L	10-7	-134	O	7.5	 -	Recap
+Jun 10, 2013	 vs Boston	REG	L	10-8	-140	O	7.5	 -	Recap
+Jun 11, 2013	 vs Boston	REG	W	8-3	105	O	8	 -	Recap
+Jun 12, 2013	 vs Boston	REG	L	2-1	-140	U	9	 -	Recap
+Jun 13, 2013	 vs Kansas City	REG	L	10-1	-145	O	7.5	 -	Recap
+Jun 14, 2013	 vs Kansas City	REG	L	7-2	-161	O	8	 -	Recap
+Jun 15, 2013	 vs Kansas City	REG	W	5-3	-173	O	7.5	 -	Recap
+Jun 16, 2013	 vs Kansas City	REG	L	5-3	-145	P	8	 -	Recap
+Jun 18, 2013	 @ Boston	REG	L	5-1	106	U	10	 -	Recap
+Jun 18, 2013	 @ Boston	REG	L	3-1	143	U	10	 -	Recap
+Jun 19, 2013	 @ Boston	REG	W	6-2	119	U	9.5	 -	Recap
+Jun 20, 2013	 @ NY Yankees	REG	W	8-3	-102	O	8	 -	Recap
+Jun 21, 2013	 @ NY Yankees	REG	L	6-2	-101	U	9	 -	Recap
+Jun 22, 2013	 @ NY Yankees	REG	L	7-5	134	O	8	 -	Recap
+Jun 23, 2013	 @ NY Yankees	REG	W	3-1	104	U	9	 -	Recap
+Jun 24, 2013	 vs Toronto	REG	W	4-1	-138	U	8.5	 -	Recap
+Jun 25, 2013	 vs Toronto	REG	W	5-1	-134	U	8	 -	Recap
+Jun 26, 2013	 vs Toronto	REG	L	3-0	-114	U	8.5	 -	Recap
+Jun 28, 2013	 vs Detroit	REG	L	6-3	123	O	8	 -	Recap
+Jun 29, 2013	 vs Detroit	REG	W	4-3	131	U	7.5	 -	Recap
+Jun 30, 2013	 vs Detroit	REG	W	3-1	-120	U	7.5	 -	Recap
+Jul 1, 2013	 @ Houston	REG	W	12-0	-162	O	8	 -	Recap
+Jul 2, 2013	 @ Houston	REG	W	8-0	-189	P	8	 -	Recap
+Jul 3, 2013	 @ Houston	REG	L	4-1	-158	U	8.5	 -	Recap
+Jul 4, 2013	 @ Houston	REG	W	7-5	-155	O	8.5	 -	Recap
+Jul 5, 2013	 vs Chi White Sox	REG	W	8-3	-205	O	7.5	 -	Recap
+Jul 6, 2013	 vs Chi White Sox	REG	W	3-0	-138	U	7	 -	Recap
+Jul 7, 2013	 vs Chi White Sox	REG	W	3-1	-240	U	7.5	 -	Recap
+Jul 8, 2013	 vs Minnesota	REG	W	7-4	-159	O	8.5	 -	Recap
+Jul 9, 2013	 vs Minnesota	REG	W	4-1	-167	U	8.5	 -	Recap
+Jul 10, 2013	 vs Minnesota	REG	W	4-3	-183	U	8	 -	Recap
+Jul 11, 2013	 vs Minnesota	REG	W	4-3	-218	U	8	 -	Recap
+Jul 12, 2013	 vs Houston	REG	L	2-1	-325	U	7.5	 -	Recap
+Jul 13, 2013	 vs Houston	REG	W	4-3	-260	U	8	 -	Recap
+Jul 14, 2013	 vs Houston	REG	W	5-0	-232	U	8.5	 -	Recap
+Jul 19, 2013	 @ Toronto	REG	W	8-5	-134	O	8.5	 -	Recap
+Jul 20, 2013	 @ Toronto	REG	W	4-3	-107	U	9	 -	Recap
+Jul 21, 2013	 @ Toronto	REG	W	4-3	115	U	9	 -	Recap
+Jul 22, 2013	 @ Boston	REG	W	3-0	-130	U	9	 -	Recap
+Jul 23, 2013	 @ Boston	REG	L	6-2	130	U	9.5	 -	Recap
+Jul 24, 2013	 @ Boston	REG	W	5-1	-108	U	8.5	 -	Recap
+Jul 26, 2013	 @ NY Yankees	REG	W	10-6	-105	O	8	 -	Recap
+Jul 27, 2013	 @ NY Yankees	REG	W	1-0	-105	U	8	 -	Recap
+Jul 28, 2013	 @ NY Yankees	REG	L	6-5	-137	O	8	 -	Recap
+Jul 29, 2013	 @ Boston	REG	W	2-1	-109	U	8	 -	Recap
+Jul 30, 2013	 vs Arizona	REG	W	5-2	-165	U	8	 -	Recap
+Jul 31, 2013	 vs Arizona	REG	L	7-0	-180	U	7.5	 -	Recap
+Aug 2, 2013	 vs San Francisco	REG	L	4-1	-152	U	7	 -	Recap
+Aug 3, 2013	 vs San Francisco	REG	W	2-1	-240	U	7	 -	Recap
+Aug 4, 2013	 vs San Francisco	REG	W	4-3	-205	U	8	 -	Recap
+Aug 6, 2013	 @ Arizona	REG	L	6-1	-123	U	8	 -	Recap
+Aug 7, 2013	 @ Arizona	REG	L	9-8	-126	O	8	 -	Recap
+Aug 9, 2013	 @ LA Dodgers	REG	L	7-6	-145	O	6.5	 -	Recap
+Aug 10, 2013	 @ LA Dodgers	REG	L	5-0	128	U	7.5	 -	Recap
+Aug 11, 2013	 @ LA Dodgers	REG	L	8-2	166	O	6.5	 -	Recap
+Aug 13, 2013	 vs Seattle	REG	L	5-4	-178	O	8	 -	Recap
+Aug 14, 2013	 vs Seattle	REG	W	5-4	-270	O	7	 -	Recap
+Aug 15, 2013	 vs Seattle	REG	W	7-1	-205	P	8	 -	Recap
+Aug 16, 2013	 vs Toronto	REG	W	5-4	-142	O	7.5	 -	Recap
+Aug 17, 2013	 vs Toronto	REG	L	6-2	-160	U	8.5	 -	Recap
+Aug 18, 2013	 vs Toronto	REG	W	2-1	-151	U	8	 -	Recap
+Aug 19, 2013	 @ Baltimore	REG	W	4-3	-128	U	7.5	 -	Recap
+Aug 20, 2013	 @ Baltimore	REG	W	7-4	-109	O	8.5	 -	Recap
+Aug 21, 2013	 @ Baltimore	REG	L	4-2	111	U	8.5	 -	Recap
+Aug 23, 2013	 vs NY Yankees	REG	W	7-2	-109	O	7	 -	Recap
+Aug 24, 2013	 vs NY Yankees	REG	W	4-2	-169	U	7	 -	Recap
+Aug 25, 2013	 vs NY Yankees	REG	L	3-2	-156	U	7	 -	Recap
+Aug 26, 2013	 @ Kansas City	REG	L	11-1	-110	O	9	 -	Recap
+Aug 27, 2013	 vs LA Angels	REG	L	6-5	-135	O	7.5	 -	Recap
+Aug 28, 2013	 vs LA Angels	REG	W	4-1	-166	U	7.5	 -	Recap
+Aug 29, 2013	 vs LA Angels	REG	L	2-0	-166	U	8.5	 -	Recap
+Aug 30, 2013	 @ Oakland	REG	L	4-3	-108	O	6.5	 -	Recap
+Aug 31, 2013	 @ Oakland	REG	L	2-1	102	U	7	 -	Recap
+Sep 1, 2013	 @ Oakland	REG	L	5-1	122	U	8	 -	Recap
+Sep 2, 2013	 @ LA Angels	REG	L	11-2	-131	O	8	 -	Recap
+Sep 3, 2013	 @ LA Angels	REG	W	7-1	-131	O	7.5	 -	Recap
+Sep 4, 2013	 @ LA Angels	REG	W	3-1	116	U	7.5	 -	Recap
+Sep 5, 2013	 @ LA Angels	REG	L	6-2	-186	O	7.5	 -	Recap
+Sep 6, 2013	 @ Seattle	REG	L	6-4	-124	O	7	 -	Recap
+Sep 7, 2013	 @ Seattle	REG	L	6-2	-150	P	8	 -	Recap
+Sep 8, 2013	 @ Seattle	REG	W	4-1	-147	U	7.5	 -	Recap
+Sep 10, 2013	 vs Boston	REG	L	2-0	-142	U	7	 -	Recap
+Sep 11, 2013	 vs Boston	REG	L	7-3	-140	O	7.5	 -	Recap
+Sep 12, 2013	 vs Boston	REG	W	4-3	-106	U	8	 -	Recap
+Sep 13, 2013	 @ Minnesota	REG	W	3-0	-161	U	8	 -	Recap
+Sep 14, 2013	 @ Minnesota	REG	W	7-0	-161	U	7.5	 -	Recap
+Sep 15, 2013	 @ Minnesota	REG	L	6-4	-220	O	7.5	 -	Recap
+Sep 16, 2013	 vs Texas	REG	W	6-2	-130	O	7	 -	Recap
+Sep 17, 2013	 vs Texas	REG	L	7-1	-123	O	7.5	 -	Recap
+Sep 18, 2013	 vs Texas	REG	W	4-3	-123	P	7	 -	Recap
+Sep 19, 2013	 vs Texas	REG	L	8-2	106	O	6.5	 -	Recap
+Sep 20, 2013	 vs Baltimore	REG	W	5-4	-180	O	7.5	 -	Recap
+Sep 21, 2013	 vs Baltimore	REG	W	5-1	-145	U	7	 -	Recap
+Sep 22, 2013	 vs Baltimore	REG	W	3-1	104	U	7.5	 -	Recap
+Sep 23, 2013	 vs Baltimore	REG	W	5-4	-121	O	7	 -	Recap
+Sep 24, 2013	 @ NY Yankees	REG	W	7-0	-108	U	7.5	 -	Recap
+Sep 25, 2013	 @ NY Yankees	REG	W	8-3	-163	O	7.5	 -	Recap
+Sep 26, 2013	 @ NY Yankees	REG	W	4-0	-125	U	7.5	 -	Recap
+Sep 27, 2013	 @ Toronto	REG	L	6-3	-127	O	8	 -	Recap
+Sep 28, 2013	 @ Toronto	REG	L	7-2	-170	O	7.5	 -	Recap
+Sep 29, 2013	 @ Toronto	REG	W	7-6	-177	O	7.5	 -	Recap
+Sep 30, 2013	 @ Texas	PST	W	5-2	-114	U	7.5	 -	Recap
+Oct 2, 2013	 @ Cleveland	PST	W	4-0	-108	U	7	 -	Recap
+Oct 4, 2013	 @ Boston	PST	L	12-2	132	O	7.5	 -	Recap
+Oct 5, 2013	 @ Boston	PST	L	7-4	-107	O	7.5	 -	Recap
+Oct 7, 2013	 vs Boston	PST	W	5-4	-105	O	7	 -	Recap
+Oct 8, 2013	 vs Boston	PST	L	3-1	109	U	7.5	 -	Recap
+Apr 1, 2013	 @ NY Yankees	REG	W	8-2	-105	O	8	 -	Recap
+Apr 3, 2013	 @ NY Yankees	REG	W	7-4	109	O	7.5	 -	Recap
+Apr 4, 2013	 @ NY Yankees	REG	L	4-2	107	U	8	 -	Recap
+Apr 5, 2013	 @ Toronto	REG	W	6-4	128	O	8.5	 -	Recap
+Apr 6, 2013	 @ Toronto	REG	L	5-0	126	U	9	 -	Recap
+Apr 7, 2013	 @ Toronto	REG	W	13-0	112	O	8	 -	Recap
+Apr 8, 2013	 vs Baltimore	REG	W	3-1	-140	U	9	 -	Recap
+Apr 10, 2013	 vs Baltimore	REG	L	8-5	-144	O	9	 -	Recap
+Apr 11, 2013	 vs Baltimore	REG	L	3-2	-132	U	9	 -	Recap
+Apr 13, 2013	 vs Tampa Bay	REG	W	2-1	-122	U	8	 -	Recap
+Apr 14, 2013	 vs Tampa Bay	REG	W	5-0	-133	U	8.5	 -	Recap
+Apr 15, 2013	 vs Tampa Bay	REG	W	3-2	-145	U	8.5	 -	Recap
+Apr 16, 2013	 @ Cleveland	REG	W	7-2	-117	O	8	 -	Recap
+Apr 17, 2013	 @ Cleveland	REG	W	6-3	122	O	8	 -	Recap
+Apr 18, 2013	 @ Cleveland	REG	W	6-3	-122	O	8	 -	Recap
+Apr 20, 2013	 vs Kansas City	REG	W	4-3	-139	U	8	 -	Recap
+Apr 21, 2013	 vs Kansas City	REG	L	4-2	-155	U	8	 -	Recap
+Apr 21, 2013	 vs Kansas City	REG	L	5-4	-155	O	8.5	 -	Recap
+Apr 22, 2013	 vs Oakland	REG	W	9-6	-136	O	8	 -	Recap
+Apr 23, 2013	 vs Oakland	REG	L	13-0	-117	O	8.5	 -	Recap
+Apr 24, 2013	 vs Oakland	REG	W	6-5	-150	O	8	 -	Recap
+Apr 25, 2013	 vs Houston	REG	W	7-2	-290	P	9	 -	Recap
+Apr 26, 2013	 vs Houston	REG	W	7-3	-260	O	8.5	 -	Recap
+Apr 27, 2013	 vs Houston	REG	W	8-4	-260	O	9.5	 -	Recap
+Apr 28, 2013	 vs Houston	REG	W	6-1	-210	U	9.5	 -	Recap
+Apr 30, 2013	 @ Toronto	REG	L	9-7	-112	O	8.5	 -	Recap
+May 1, 2013	 @ Toronto	REG	W	10-1	-119	O	9	 -	Recap
+May 2, 2013	 @ Toronto	REG	W	3-1	-117	U	8.5	 -	Recap
+May 3, 2013	 @ Texas	REG	L	7-0	118	U	9	 -	Recap
+May 4, 2013	 @ Texas	REG	L	5-1	123	U	9	 -	Recap
+May 5, 2013	 @ Texas	REG	L	4-3	152	U	7.5	 -	Recap
+May 6, 2013	 vs Minnesota	REG	W	6-5	-195	O	8.5	 -	Recap
+May 7, 2013	 vs Minnesota	REG	L	6-1	-174	U	9	 -	Recap
+May 8, 2013	 vs Minnesota	REG	L	15-8	-170	O	9.5	 -	Recap
+May 9, 2013	 vs Minnesota	REG	L	5-3	-160	U	9.5	 -	Recap
+May 10, 2013	 vs Toronto	REG	W	5-0	-207	U	9.5	 -	Recap
+May 11, 2013	 vs Toronto	REG	L	3-2	-185	U	9.5	 -	Recap
+May 12, 2013	 vs Toronto	REG	L	12-4	-220	O	9.5	 -	Recap
+May 14, 2013	 @ Tampa Bay	REG	L	5-3	120	O	7.5	 -	Recap
+May 15, 2013	 @ Tampa Bay	REG	W	9-2	115	O	7	 -	Recap
+May 16, 2013	 @ Tampa Bay	REG	W	4-3	129	U	8	 -	Recap
+May 17, 2013	 @ Minnesota	REG	W	3-2	-138	U	8.5	 -	Recap
+May 18, 2013	 @ Minnesota	REG	W	12-5	-125	O	9	 -	Recap
+May 19, 2013	 @ Minnesota	REG	W	5-1	-130	U	10	 -	Recap
+May 20, 2013	 @ Chi White Sox	REG	L	6-4	-146	O	9	 -	Recap
+May 21, 2013	 @ Chi White Sox	REG	L	3-1	-107	U	9	 -	Recap
+May 22, 2013	 @ Chi White Sox	REG	W	6-2	-142	P	8	 -	Recap
+May 23, 2013	 vs Cleveland	REG	L	12-3	-154	O	9.5	 -	Recap
+May 24, 2013	 vs Cleveland	REG	W	8-1	-118	P	9	 -	Recap
+May 25, 2013	 vs Cleveland	REG	W	7-4	-180	O	9	 -	Recap
+May 26, 2013	 vs Cleveland	REG	W	6-5	-140	O	9.5	 -	Recap
+May 27, 2013	 vs Philadelphia	REG	W	9-3	-174	O	9.5	 -	Recap
+May 28, 2013	 vs Philadelphia	REG	L	3-1	-133	U	8	 -	Recap
+May 29, 2013	 @ Philadelphia	REG	L	4-3	-140	U	8.5	 -	Recap
+May 30, 2013	 @ Philadelphia	REG	W	9-2	-132	O	9	 -	Recap
+May 31, 2013	 @ NY Yankees	REG	L	4-1	108	U	8	 -	Recap
+Jun 1, 2013	 @ NY Yankees	REG	W	11-1	106	O	9	 -	Recap
+Jun 2, 2013	 @ NY Yankees	REG	W	3-0	115	U	7.5	 -	Recap
+Jun 4, 2013	 vs Texas	REG	W	17-5	-142	O	9	 -	Recap
+Jun 5, 2013	 vs Texas	REG	L	3-2	-127	U	9	 -	Recap
+Jun 6, 2013	 vs Texas	REG	W	6-3	-137	O	8.5	 -	Recap
+Jun 8, 2013	 vs LA Angels	REG	L	9-5	-160	O	10.5	 -	Recap
+Jun 8, 2013	 vs LA Angels	REG	W	7-2	-164	O	8.5	 -	Recap
+Jun 9, 2013	 vs LA Angels	REG	W	10-5	-162	O	10.5	 -	Recap
+Jun 10, 2013	 @ Tampa Bay	REG	W	10-8	130	O	7.5	 -	Recap
+Jun 11, 2013	 @ Tampa Bay	REG	L	8-3	-115	O	8	 -	Recap
+Jun 12, 2013	 @ Tampa Bay	REG	W	2-1	130	U	9	 -	Recap
+Jun 13, 2013	 @ Baltimore	REG	L	5-4	-114	U	9.5	 -	Recap
+Jun 14, 2013	 @ Baltimore	REG	L	2-0	105	U	9.5	 -	Recap
+Jun 15, 2013	 @ Baltimore	REG	W	5-4	-108	U	9.5	 -	Recap
+Jun 16, 2013	 @ Baltimore	REG	L	6-3	103	P	9	 -	Recap
+Jun 18, 2013	 vs Tampa Bay	REG	W	5-1	-116	U	10	 -	Recap
+Jun 18, 2013	 vs Tampa Bay	REG	W	3-1	-153	U	10	 -	Recap
+Jun 19, 2013	 vs Tampa Bay	REG	L	6-2	-129	U	9.5	 -	Recap
+Jun 20, 2013	 @ Detroit	REG	L	4-3	101	U	9	 -	Recap
+Jun 21, 2013	 @ Detroit	REG	W	10-6	126	O	8.5	 -	Recap
+Jun 22, 2013	 @ Detroit	REG	L	10-3	163	O	9	 -	Recap
+Jun 23, 2013	 @ Detroit	REG	L	7-5	160	O	8.5	 -	Recap
+Jun 25, 2013	 vs Colorado	REG	W	11-4	-187	O	10.5	 -	Recap
+Jun 26, 2013	 vs Colorado	REG	W	5-3	-186	U	9.5	 -	Recap
+Jun 27, 2013	 vs Toronto	REG	W	7-4	-172	O	9.5	 -	Recap
+Jun 28, 2013	 vs Toronto	REG	W	7-5	-115	O	10	 -	Recap
+Jun 29, 2013	 vs Toronto	REG	L	6-2	-144	U	10.5	 -	Recap
+Jun 30, 2013	 vs Toronto	REG	W	5-4	-152	U	10	 -	Recap
+Jul 2, 2013	 vs San Diego	REG	W	4-1	-220	U	9.5	 -	Recap
+Jul 3, 2013	 vs San Diego	REG	W	2-1	-192	U	10	 -	Recap
+Jul 4, 2013	 vs San Diego	REG	W	8-2	-160	U	10.5	 -	Recap
+Jul 5, 2013	 @ LA Angels	REG	W	6-2	131	U	8.5	 -	Recap
+Jul 6, 2013	 @ LA Angels	REG	L	9-7	-105	O	8.5	 -	Recap
+Jul 7, 2013	 @ LA Angels	REG	L	3-0	125	U	8	 -	Recap
+Jul 8, 2013	 @ Seattle	REG	L	11-4	109	O	7	 -	Recap
+Jul 9, 2013	 @ Seattle	REG	W	11-8	121	O	7.5	 -	Recap
+Jul 10, 2013	 @ Seattle	REG	W	11-4	-126	O	8	 -	Recap
+Jul 11, 2013	 @ Seattle	REG	W	8-7	-130	O	8	 -	Recap
+Jul 12, 2013	 @ Oakland	REG	W	4-2	101	U	7.5	 -	Recap
+Jul 13, 2013	 @ Oakland	REG	L	3-0	112	U	7.5	 -	Recap
+Jul 14, 2013	 @ Oakland	REG	L	3-2	144	U	8	 -	Recap
+Jul 19, 2013	 vs NY Yankees	REG	W	4-2	-174	U	9.5	 -	Recap
+Jul 20, 2013	 vs NY Yankees	REG	L	5-2	-155	U	9	 -	Recap
+Jul 21, 2013	 vs NY Yankees	REG	W	8-7	-142	O	8.5	 -	Recap
+Jul 22, 2013	 vs Tampa Bay	REG	L	3-0	120	U	9	 -	Recap
+Jul 23, 2013	 vs Tampa Bay	REG	W	6-2	-140	U	9.5	 -	Recap
+Jul 24, 2013	 vs Tampa Bay	REG	L	5-1	-102	U	8.5	 -	Recap
+Jul 26, 2013	 @ Baltimore	REG	L	6-0	-107	U	9	 -	Recap
+Jul 27, 2013	 @ Baltimore	REG	W	7-3	114	O	9	 -	Recap
+Jul 28, 2013	 @ Baltimore	REG	W	5-0	-117	U	9	 -	Recap
+Jul 29, 2013	 vs Tampa Bay	REG	L	2-1	-101	U	8	 -	Recap
+Jul 30, 2013	 vs Seattle	REG	W	8-2	-187	P	10	 -	Recap
+Jul 31, 2013	 vs Seattle	REG	W	5-4	-158	O	8.5	 -	Recap
+Aug 1, 2013	 vs Seattle	REG	W	8-7	-105	O	8.5	 -	Recap
+Aug 2, 2013	 vs Arizona	REG	L	7-6	-186	O	9	 -	Recap
+Aug 3, 2013	 vs Arizona	REG	W	5-2	-147	U	8	 -	Recap
+Aug 4, 2013	 vs Arizona	REG	W	4-0	-210	U	9	 -	Recap
+Aug 5, 2013	 @ Houston	REG	L	2-0	-192	U	8.5	 -	Recap
+Aug 6, 2013	 @ Houston	REG	W	15-10	-171	O	9	 -	Recap
+Aug 7, 2013	 @ Houston	REG	W	7-5	-170	O	8.5	 -	Recap
+Aug 8, 2013	 @ Kansas City	REG	L	5-1	-111	U	7.5	 -	Recap
+Aug 9, 2013	 @ Kansas City	REG	L	9-6	-103	O	7.5	 -	Recap
+Aug 10, 2013	 @ Kansas City	REG	W	5-3	-135	U	8.5	 -	Recap
+Aug 11, 2013	 @ Kansas City	REG	L	4-3	-106	U	8	 -	Recap
+Aug 13, 2013	 @ Toronto	REG	W	4-2	-125	U	10	 -	Recap
+Aug 14, 2013	 @ Toronto	REG	L	4-3	-143	U	9.5	 -	Recap
+Aug 15, 2013	 @ Toronto	REG	L	2-1	-115	U	8.5	 -	Recap
+Aug 16, 2013	 vs NY Yankees	REG	L	10-3	-180	O	9	 -	Recap
+Aug 17, 2013	 vs NY Yankees	REG	W	6-1	-130	U	8	 -	Recap
+Aug 18, 2013	 vs NY Yankees	REG	L	9-6	-120	O	9	 -	Recap
+Aug 19, 2013	 @ San Francisco	REG	W	7-0	-119	P	7	 -	Recap
+Aug 20, 2013	 @ San Francisco	REG	L	3-2	-158	U	7	 -	Recap
+Aug 21, 2013	 @ San Francisco	REG	W	12-1	-160	O	7.5	 -	Recap
+Aug 23, 2013	 @ LA Dodgers	REG	L	2-0	-105	U	7.5	 -	Recap
+Aug 24, 2013	 @ LA Dodgers	REG	W	4-2	105	U	7	 -	Recap
+Aug 25, 2013	 @ LA Dodgers	REG	W	8-1	-119	O	7.5	 -	Recap
+Aug 27, 2013	 vs Baltimore	REG	W	13-2	-124	O	9	 -	Recap
+Aug 28, 2013	 vs Baltimore	REG	W	4-3	-180	U	9.5	 -	Recap
+Aug 29, 2013	 vs Baltimore	REG	L	3-2	-147	U	8.5	 -	Recap
+Aug 30, 2013	 vs Chi White Sox	REG	W	4-3	-168	U	9	 -	Recap
+Aug 31, 2013	 vs Chi White Sox	REG	W	7-2	-210	P	9	 -	Recap
+Sep 1, 2013	 vs Chi White Sox	REG	W	7-6	-245	O	9.5	 -	Recap
+Sep 2, 2013	 vs Detroit	REG	L	3-0	-152	U	9	 -	Recap
+Sep 3, 2013	 vs Detroit	REG	W	2-1	-109	U	8	 -	Recap
+Sep 4, 2013	 vs Detroit	REG	W	20-4	-119	O	9.5	 -	Recap
+Sep 5, 2013	 @ NY Yankees	REG	W	9-8	-105	O	8	 -	Recap
+Sep 6, 2013	 @ NY Yankees	REG	W	12-8	-113	O	9	 -	Recap
+Sep 7, 2013	 @ NY Yankees	REG	W	13-9	-125	O	9	 -	Recap
+Sep 8, 2013	 @ NY Yankees	REG	L	4-3	100	U	8.5	 -	Recap
+Sep 10, 2013	 @ Tampa Bay	REG	W	2-0	132	U	7	 -	Recap
+Sep 11, 2013	 @ Tampa Bay	REG	W	7-3	130	O	7.5	 -	Recap
+Sep 12, 2013	 @ Tampa Bay	REG	L	4-3	-104	U	8	 -	Recap
+Sep 13, 2013	 vs NY Yankees	REG	W	8-4	-130	O	8.5	 -	Recap
+Sep 14, 2013	 vs NY Yankees	REG	W	5-1	-156	U	9	 -	Recap
+Sep 15, 2013	 vs NY Yankees	REG	W	9-2	-156	O	8.5	 -	Recap
+Sep 17, 2013	 vs Baltimore	REG	L	3-2	-115	U	8.5	 -	Recap
+Sep 18, 2013	 vs Baltimore	REG	L	5-3	-140	U	8.5	 -	Recap
+Sep 19, 2013	 vs Baltimore	REG	W	3-1	-130	U	8.5	 -	Recap
+Sep 20, 2013	 vs Toronto	REG	W	6-3	-208	O	8.5	 -	Recap
+Sep 21, 2013	 vs Toronto	REG	L	4-2	-148	U	8	 -	Recap
+Sep 22, 2013	 vs Toronto	REG	W	5-2	-150	U	8.5	 -	Recap
+Sep 24, 2013	 @ Colorado	REG	L	8-3	-150	O	10	 -	Recap
+Sep 25, 2013	 @ Colorado	REG	W	15-5	-122	O	10	 -	Recap
+Sep 27, 2013	 @ Baltimore	REG	W	12-3	-130	O	7.5	 -	Recap
+Sep 28, 2013	 @ Baltimore	REG	L	6-5	-131	O	8	 -	Recap
+Sep 29, 2013	 @ Baltimore	REG	L	7-6	138	O	8.5	 -	Recap
+Oct 4, 2013	 vs Tampa Bay	PST	W	12-2	-142	O	7.5	 -	Recap
+Oct 5, 2013	 vs Tampa Bay	PST	W	7-4	-103	O	7.5	 -	Recap
+Oct 7, 2013	 @ Tampa Bay	PST	L	5-4	-105	O	7	 -	Recap
+Oct 8, 2013	 @ Tampa Bay	PST	W	3-1	-119	U	7.5	 -	Recap
+Oct 12, 2013	 vs Detroit	PST	L	1-0	-140	U	8	 -	Recap
+Oct 13, 2013	 vs Detroit	PST	W	6-5	-129	O	7	 -	Recap
+Oct 15, 2013	 @ Detroit	PST	W	1-0	135	U	7	 -	Recap
+Oct 16, 2013	 @ Detroit	PST	L	7-3	100	O	7.5	 -	Recap
+Oct 17, 2013	 @ Detroit	PST	W	4-3	106	P	7	 -	Recap
+Oct 19, 2013	 vs Detroit	PST	W	5-2	-106	P	7	 -	Recap
+Oct 23, 2013	 vs St. Louis	PST	W	8-1	-122	O	7	 -	Recap
+Oct 24, 2013	 vs St. Louis	PST	L	4-2	-113	U	7	 -	Recap
+Oct 26, 2013	 @ St. Louis	PST	L	5-4	-101	O	7.5	 -	Recap
+Oct 27, 2013	 @ St. Louis	PST	W	4-2	-107	U	7.5	 -	Recap
+Oct 28, 2013	 @ St. Louis	PST	W	3-1	121	U	6.5	 -	Recap
+Oct 30, 2013	 vs St. Louis	PST	W	6-1	-115	P	7	 -	Recap
+Apr 1, 2013	 vs Boston	REG	L	8-2	-105	O	8	 -	Recap
+Apr 3, 2013	 vs Boston	REG	L	7-4	-119	O	7.5	 -	Recap
+Apr 4, 2013	 vs Boston	REG	W	4-2	-117	U	8	 -	Recap
+Apr 5, 2013	 @ Detroit	REG	L	8-3	165	O	8	 -	Recap
+Apr 6, 2013	 @ Detroit	REG	L	8-4	172	O	8	 -	Recap
+Apr 7, 2013	 @ Detroit	REG	W	7-0	183	P	7	 -	Recap
+Apr 8, 2013	 @ Cleveland	REG	W	11-6	106	O	8.5	 -	Recap
+Apr 9, 2013	 @ Cleveland	REG	W	14-1	-120	O	8	 -	Recap
+Apr 12, 2013	 vs Baltimore	REG	W	5-2	-146	U	8	 -	Recap
+Apr 13, 2013	 vs Baltimore	REG	L	5-3	-110	U	9	 -	Recap
+Apr 14, 2013	 vs Baltimore	REG	W	3-0	-106	U	8.5	 -	Recap
+Apr 16, 2013	 vs Arizona	REG	W	4-2	-129	U	9	 -	Recap
+Apr 17, 2013	 vs Arizona	REG	W	4-3	-145	U	7.5	 -	Recap
+Apr 18, 2013	 vs Arizona	REG	L	6-2	-112	U	8.5	 -	Recap
+Apr 19, 2013	 @ Toronto	REG	W	9-4	113	O	8	 -	Recap
+Apr 20, 2013	 @ Toronto	REG	W	5-3	-107	U	8.5	 -	Recap
+Apr 21, 2013	 @ Toronto	REG	L	8-4	136	O	8.5	 -	Recap
+Apr 22, 2013	 @ Tampa Bay	REG	L	5-1	118	U	7	 -	Recap
+Apr 23, 2013	 @ Tampa Bay	REG	W	4-3	168	P	7	 -	Recap
+Apr 24, 2013	 @ Tampa Bay	REG	L	3-0	126	U	7	 -	Recap
+Apr 25, 2013	 vs Toronto	REG	W	5-3	-134	P	8	 -	Recap
+Apr 26, 2013	 vs Toronto	REG	W	6-4	-136	O	9	 -	Recap
+Apr 27, 2013	 vs Toronto	REG	W	5-4	-147	O	7.5	 -	Recap
+Apr 28, 2013	 vs Toronto	REG	W	3-2	104	U	8.5	 -	Recap
+Apr 29, 2013	 vs Houston	REG	L	9-1	-230	O	7.5	 -	Recap
+Apr 30, 2013	 vs Houston	REG	W	7-4	-255	O	8	 -	Recap
+May 1, 2013	 vs Houston	REG	W	5-4	-180	O	8.5	 -	Recap
+May 3, 2013	 vs Oakland	REG	L	2-0	-144	U	8	 -	Recap
+May 4, 2013	 vs Oakland	REG	W	4-2	-110	U	8.5	 -	Recap
+May 5, 2013	 vs Oakland	REG	L	5-4	-126	O	8	 -	Recap
+May 7, 2013	 @ Colorado	REG	L	2-0	120	U	9	 -	Recap
+May 8, 2013	 @ Colorado	REG	W	3-2	113	U	10	 -	Recap
+May 9, 2013	 @ Colorado	REG	W	3-1	-109	U	9	 -	Recap
+May 10, 2013	 @ Kansas City	REG	W	11-6	103	O	8	 -	Recap
+May 11, 2013	 @ Kansas City	REG	W	3-2	150	U	7.5	 -	Recap
+May 12, 2013	 @ Kansas City	REG	W	4-2	107	U	7	 -	Recap
+May 13, 2013	 @ Cleveland	REG	L	1-0	129	U	8	 -	Recap
+May 13, 2013	 @ Cleveland	REG	W	7-0	114	U	8.5	 -	Recap
+May 14, 2013	 vs Seattle	REG	W	4-3	-114	P	7	 -	Recap
+May 15, 2013	 vs Seattle	REG	L	12-2	-123	O	7.5	 -	Recap
+May 16, 2013	 vs Seattle	REG	L	3-2	-187	U	9	 -	Recap
+May 17, 2013	 vs Toronto	REG	W	5-0	-132	U	8.5	 -	Recap
+May 18, 2013	 vs Toronto	REG	W	7-2	-122	O	8.5	 -	Recap
+May 20, 2013	 @ Baltimore	REG	W	6-4	-129	O	9	 -	Recap
+May 21, 2013	 @ Baltimore	REG	L	3-2	106	U	9	 -	Recap
+May 22, 2013	 @ Baltimore	REG	L	6-3	-113	P	9	 -	Recap
+May 24, 2013	 @ Tampa Bay	REG	W	9-4	105	O	8.5	 -	Recap
+May 25, 2013	 @ Tampa Bay	REG	W	4-3	156	U	7.5	 -	Recap
+May 26, 2013	 @ Tampa Bay	REG	L	8-3	110	O	7	 -	Recap
+May 27, 2013	 @ NY Mets	REG	L	2-1	-109	U	7	 -	Recap
+May 28, 2013	 @ NY Mets	REG	L	2-1	112	U	6.5	 -	Recap
+May 29, 2013	 vs NY Mets	REG	L	9-4	-177	O	9	 -	Recap
+May 30, 2013	 vs NY Mets	REG	L	3-1	-200	U	9	 -	Recap
+May 31, 2013	 vs Boston	REG	W	4-1	-118	U	8	 -	Recap
+Jun 1, 2013	 vs Boston	REG	L	11-1	-116	O	9	 -	Recap
+Jun 2, 2013	 vs Boston	REG	L	3-0	-120	U	7.5	 -	Recap
+Jun 3, 2013	 vs Cleveland	REG	W	7-4	-115	O	8.5	 -	Recap
+Jun 4, 2013	 vs Cleveland	REG	W	4-3	-137	U	9	 -	Recap
+Jun 5, 2013	 vs Cleveland	REG	W	6-4	-180	O	8	 -	Recap
+Jun 6, 2013	 @ Seattle	REG	W	6-1	-113	U	7.5	 -	Recap
+Jun 7, 2013	 @ Seattle	REG	L	4-1	-173	U	8	 -	Recap
+Jun 8, 2013	 @ Seattle	REG	W	3-1	-122	U	7.5	 -	Recap
+Jun 9, 2013	 @ Seattle	REG	W	2-1	136	U	6.5	 -	Recap
+Jun 11, 2013	 @ Oakland	REG	L	6-4	106	O	7	 -	Recap
+Jun 12, 2013	 @ Oakland	REG	L	5-2	105	U	7.5	 -	Recap
+Jun 13, 2013	 @ Oakland	REG	L	3-2	-101	U	7.5	 -	Recap
+Jun 14, 2013	 @ LA Angels	REG	L	5-2	148	U	8	 -	Recap
+Jun 15, 2013	 @ LA Angels	REG	L	6-2	110	P	8	 -	Recap
+Jun 16, 2013	 @ LA Angels	REG	W	6-5	126	O	7	 -	Recap
+Jun 19, 2013	 vs LA Dodgers	REG	W	6-4	-142	O	7.5	 -	Recap
+Jun 19, 2013	 vs LA Dodgers	REG	L	6-0	-142	U	8	 -	Recap
+Jun 20, 2013	 vs Tampa Bay	REG	L	8-3	-108	O	8	 -	Recap
+Jun 21, 2013	 vs Tampa Bay	REG	W	6-2	-109	U	9	 -	Recap
+Jun 22, 2013	 vs Tampa Bay	REG	W	7-5	-144	O	8	 -	Recap
+Jun 23, 2013	 vs Tampa Bay	REG	L	3-1	-114	U	9	 -	Recap
+Jun 25, 2013	 vs Texas	REG	W	4-3	111	U	7.5	 -	Recap
+Jun 26, 2013	 vs Texas	REG	L	8-5	-129	O	9	 -	Recap
+Jun 27, 2013	 vs Texas	REG	L	2-0	113	U	8.5	 -	Recap
+Jun 28, 2013	 @ Baltimore	REG	L	4-3	104	U	8.5	 -	Recap
+Jun 29, 2013	 @ Baltimore	REG	L	11-3	122	O	9	 -	Recap
+Jun 30, 2013	 @ Baltimore	REG	L	4-2	117	U	8.5	 -	Recap
+Jul 1, 2013	 @ Minnesota	REG	W	10-4	-119	O	8	 -	Recap
+Jul 2, 2013	 @ Minnesota	REG	W	7-3	103	O	8.5	 -	Recap
+Jul 3, 2013	 @ Minnesota	REG	W	3-2	-166	U	8	 -	Recap
+Jul 4, 2013	 @ Minnesota	REG	W	9-5	112	O	8.5	 -	Recap
+Jul 5, 2013	 vs Baltimore	REG	W	3-2	100	U	9	 -	Recap
+Jul 6, 2013	 vs Baltimore	REG	W	5-4	-125	P	9	 -	Recap
+Jul 7, 2013	 vs Baltimore	REG	L	2-1	-127	U	8.5	 -	Recap
+Jul 8, 2013	 vs Kansas City	REG	L	5-1	-146	U	9	 -	Recap
+Jul 9, 2013	 vs Kansas City	REG	L	3-1	-138	U	7.5	 -	Recap
+Jul 10, 2013	 vs Kansas City	REG	W	8-1	-138	O	8.5	 -	Recap
+Jul 11, 2013	 vs Kansas City	REG	W	8-4	-116	O	8	 -	Recap
+Jul 12, 2013	 vs Minnesota	REG	W	2-0	-167	U	8.5	 -	Recap
+Jul 13, 2013	 vs Minnesota	REG	L	4-1	-147	U	8.5	 -	Recap
+Jul 14, 2013	 vs Minnesota	REG	L	10-4	-205	O	8.5	 -	Recap
+Jul 19, 2013	 @ Boston	REG	L	4-2	164	U	9.5	 -	Recap
+Jul 20, 2013	 @ Boston	REG	W	5-2	145	U	9	 -	Recap
+Jul 21, 2013	 @ Boston	REG	L	8-7	137	O	8.5	 -	Recap
+Jul 22, 2013	 @ Texas	REG	L	3-0	180	U	8.5	 -	Recap
+Jul 23, 2013	 @ Texas	REG	W	5-4	153	P	9	 -	Recap
+Jul 24, 2013	 @ Texas	REG	L	3-1	157	U	8.5	 -	Recap
+Jul 25, 2013	 @ Texas	REG	W	2-0	143	U	7.5	 -	Recap
+Jul 26, 2013	 vs Tampa Bay	REG	L	10-6	-105	O	8	 -	Recap
+Jul 27, 2013	 vs Tampa Bay	REG	L	1-0	-105	U	8	 -	Recap
+Jul 28, 2013	 vs Tampa Bay	REG	W	6-5	127	O	8	 -	Recap
+Jul 30, 2013	 @ LA Dodgers	REG	L	3-2	149	U	7	 -	Recap
+Jul 31, 2013	 @ LA Dodgers	REG	W	3-0	170	U	6	 -	Recap
+Aug 2, 2013	 @ San Diego	REG	L	7-2	-123	O	7	 -	Recap
+Aug 3, 2013	 @ San Diego	REG	W	3-0	-114	U	7	 -	Recap
+Aug 4, 2013	 @ San Diego	REG	L	6-3	-106	O	7.5	 -	Recap
+Aug 5, 2013	 @ Chi White Sox	REG	L	8-1	111	O	7.5	 -	Recap
+Aug 6, 2013	 @ Chi White Sox	REG	L	3-2	113	U	6.5	 -	Recap
+Aug 7, 2013	 @ Chi White Sox	REG	L	6-5	-102	O	8	 -	Recap
+Aug 9, 2013	 vs Detroit	REG	W	4-3	-109	U	8.5	 -	Recap
+Aug 10, 2013	 vs Detroit	REG	L	9-3	144	O	8.5	 -	Recap
+Aug 11, 2013	 vs Detroit	REG	W	5-4	151	O	8.5	 -	Recap
+Aug 12, 2013	 vs LA Angels	REG	W	2-1	-170	U	8	 -	Recap
+Aug 13, 2013	 vs LA Angels	REG	W	14-7	-149	O	8.5	 -	Recap
+Aug 14, 2013	 vs LA Angels	REG	W	11-3	-133	O	7.5	 -	Recap
+Aug 15, 2013	 vs LA Angels	REG	L	8-4	-111	O	8.5	 -	Recap
+Aug 16, 2013	 @ Boston	REG	W	10-3	170	O	9	 -	Recap
+Aug 17, 2013	 @ Boston	REG	L	6-1	120	U	8	 -	Recap
+Aug 18, 2013	 @ Boston	REG	W	9-6	115	O	9	 -	Recap
+Aug 20, 2013	 vs Toronto	REG	W	8-4	-179	O	9	 -	Recap
+Aug 20, 2013	 vs Toronto	REG	W	3-2	-132	U	9	 -	Recap
+Aug 21, 2013	 vs Toronto	REG	W	4-2	-118	U	9	 -	Recap
+Aug 22, 2013	 vs Toronto	REG	W	5-3	-147	U	9	 -	Recap
+Aug 23, 2013	 @ Tampa Bay	REG	L	7-2	-101	O	7	 -	Recap
+Aug 24, 2013	 @ Tampa Bay	REG	L	4-2	159	U	7	 -	Recap
+Aug 25, 2013	 @ Tampa Bay	REG	W	3-2	146	U	7	 -	Recap
+Aug 26, 2013	 @ Toronto	REG	L	5-2	-104	U	8.5	 -	Recap
+Aug 27, 2013	 @ Toronto	REG	W	7-1	-117	U	9	 -	Recap
+Aug 28, 2013	 @ Toronto	REG	L	7-2	-138	O	8.5	 -	Recap
+Aug 30, 2013	 vs Baltimore	REG	W	8-5	-128	O	8.5	 -	Recap
+Aug 31, 2013	 vs Baltimore	REG	W	2-0	-130	U	9	 -	Recap
+Sep 1, 2013	 vs Baltimore	REG	L	7-3	-122	O	8.5	 -	Recap
+Sep 2, 2013	 vs Chi White Sox	REG	W	9-1	-141	O	8.5	 -	Recap
+Sep 3, 2013	 vs Chi White Sox	REG	W	6-4	-142	O	7	 -	Recap
+Sep 4, 2013	 vs Chi White Sox	REG	W	6-5	-180	O	8.5	 -	Recap
+Sep 5, 2013	 vs Boston	REG	L	9-8	-105	O	8	 -	Recap
+Sep 6, 2013	 vs Boston	REG	L	12-8	103	O	9	 -	Recap
+Sep 7, 2013	 vs Boston	REG	L	13-9	115	O	9	 -	Recap
+Sep 8, 2013	 vs Boston	REG	W	4-3	-110	U	8.5	 -	Recap
+Sep 9, 2013	 @ Baltimore	REG	L	4-2	121	U	8.5	 -	Recap
+Sep 10, 2013	 @ Baltimore	REG	W	7-5	111	O	8.5	 -	Recap
+Sep 11, 2013	 @ Baltimore	REG	W	5-4	117	P	9	 -	Recap
+Sep 12, 2013	 @ Baltimore	REG	W	6-5	146	O	9	 -	Recap
+Sep 13, 2013	 @ Boston	REG	L	8-4	120	O	8.5	 -	Recap
+Sep 14, 2013	 @ Boston	REG	L	5-1	146	U	9	 -	Recap
+Sep 15, 2013	 @ Boston	REG	L	9-2	151	O	8.5	 -	Recap
+Sep 17, 2013	 @ Toronto	REG	L	2-0	-117	U	8	 -	Recap
+Sep 18, 2013	 @ Toronto	REG	W	4-3	-106	U	8.5	 -	Recap
+Sep 19, 2013	 @ Toronto	REG	L	6-2	-119	P	8	 -	Recap
+Sep 20, 2013	 vs San Francisco	REG	W	5-1	-150	U	8.5	 -	Recap
+Sep 21, 2013	 vs San Francisco	REG	W	6-0	-163	U	9	 -	Recap
+Sep 22, 2013	 vs San Francisco	REG	L	2-1	-145	U	8.5	 -	Recap
+Sep 24, 2013	 vs Tampa Bay	REG	L	7-0	-102	U	7.5	 -	Recap
+Sep 25, 2013	 vs Tampa Bay	REG	L	8-3	153	O	7.5	 -	Recap
+Sep 26, 2013	 vs Tampa Bay	REG	L	4-0	115	U	7.5	 -	Recap
+Sep 27, 2013	 @ Houston	REG	W	3-2	-110	U	8.5	 -	Recap
+Sep 28, 2013	 @ Houston	REG	W	2-1	-167	U	8.5	 -	Recap
+Sep 29, 2013	 @ Houston	REG	W	5-1	-117	U	8.5	 -	Recap
+Apr 1, 2013	 @ Chi White Sox	REG	L	1-0	125	U	7	 -	Recap
+Apr 3, 2013	 @ Chi White Sox	REG	L	5-2	135	U	7.5	 -	Recap
+Apr 4, 2013	 @ Chi White Sox	REG	W	3-1	106	U	8	 -	Recap
+Apr 5, 2013	 @ Philadelphia	REG	W	13-4	110	O	8	 -	Recap
+Apr 6, 2013	 @ Philadelphia	REG	L	4-3	-102	U	8	 -	Recap
+Apr 7, 2013	 @ Philadelphia	REG	W	9-8	106	O	7	 -	Recap
+Apr 8, 2013	 vs Minnesota	REG	W	3-1	-143	U	8.5	 -	Recap
+Apr 9, 2013	 vs Minnesota	REG	W	7-4	-145	O	8.5	 -	Recap
+Apr 10, 2013	 vs Minnesota	REG	W	3-0	-150	U	8.5	 -	Recap
+Apr 12, 2013	 vs Toronto	REG	L	8-4	-105	O	8	 -	Recap
+Apr 13, 2013	 vs Toronto	REG	L	3-2	-135	U	7.5	 -	Recap
+Apr 14, 2013	 vs Toronto	REG	W	3-2	-121	U	8.5	 -	Recap
+Apr 16, 2013	 @ Atlanta	REG	L	6-3	164	O	7	 -	Recap
+Apr 17, 2013	 @ Atlanta	REG	W	1-0	157	U	7.5	 -	Recap
+Apr 20, 2013	 @ Boston	REG	L	4-3	129	U	8	 -	Recap
+Apr 21, 2013	 @ Boston	REG	W	4-2	145	U	8	 -	Recap
+Apr 21, 2013	 @ Boston	REG	W	5-4	145	O	8.5	 -	Recap
+Apr 24, 2013	 @ Detroit	REG	L	7-5	162	O	7.5	 -	Recap
+Apr 25, 2013	 @ Detroit	REG	W	8-3	161	O	6.5	 -	Recap
+Apr 27, 2013	 vs Cleveland	REG	W	3-2	-150	U	9	 -	Recap
+Apr 28, 2013	 vs Cleveland	REG	W	9-0	-107	O	8.5	 -	Recap
+Apr 28, 2013	 vs Cleveland	REG	L	10-3	-138	O	9	 -	Recap
+Apr 29, 2013	 vs Cleveland	REG	L	9-0	-144	P	9	 -	Recap
+Apr 30, 2013	 vs Tampa Bay	REG	W	8-2	-133	O	7.5	 -	Recap
+May 1, 2013	 vs Tampa Bay	REG	W	9-8	102	O	7.5	 -	Recap
+May 4, 2013	 vs Chi White Sox	REG	W	2-0	-143	U	7.5	 -	Recap
+May 5, 2013	 vs Chi White Sox	REG	W	6-5	-133	O	7.5	 -	Recap
+May 6, 2013	 vs Chi White Sox	REG	L	2-1	-132	U	7	 -	Recap
+May 7, 2013	 @ Baltimore	REG	L	4-3	111	U	8	 -	Recap
+May 8, 2013	 @ Baltimore	REG	L	5-3	131	U	8.5	 -	Recap
+May 9, 2013	 @ Baltimore	REG	W	6-2	105	U	8.5	 -	Recap
+May 10, 2013	 vs NY Yankees	REG	L	11-6	-113	O	8	 -	Recap
+May 11, 2013	 vs NY Yankees	REG	L	3-2	-160	U	7.5	 -	Recap
+May 12, 2013	 vs NY Yankees	REG	L	4-2	-117	U	7	 -	Recap
+May 13, 2013	 @ LA Angels	REG	W	11-4	132	O	9	 -	Recap
+May 14, 2013	 @ LA Angels	REG	L	6-2	117	U	8.5	 -	Recap
+May 15, 2013	 @ LA Angels	REG	W	9-5	-105	O	9	 -	Recap
+May 17, 2013	 @ Oakland	REG	L	2-1	-108	U	7	 -	Recap
+May 18, 2013	 @ Oakland	REG	L	2-1	129	U	7	 -	Recap
+May 19, 2013	 @ Oakland	REG	L	4-3	158	U	8	 -	Recap
+May 20, 2013	 @ Houston	REG	L	6-5	-151	O	9	 -	Recap
+May 21, 2013	 @ Houston	REG	W	7-3	-130	O	9	 -	Recap
+May 22, 2013	 @ Houston	REG	L	3-1	-210	U	7.5	 -	Recap
+May 23, 2013	 vs LA Angels	REG	L	5-4	-115	O	8.5	 -	Recap
+May 24, 2013	 vs LA Angels	REG	L	5-2	105	U	8.5	 -	Recap
+May 25, 2013	 vs LA Angels	REG	L	7-0	-123	U	9.5	 -	Recap
+May 26, 2013	 vs LA Angels	REG	L	5-2	101	U	9	 -	Recap
+May 27, 2013	 vs St. Louis	REG	L	6-3	104	O	7	 -	Recap
+May 28, 2013	 vs St. Louis	REG	L	4-1	-119	U	9	 -	Recap
+May 29, 2013	 @ St. Louis	REG	L	5-3	173	P	8	 -	Recap
+May 30, 2013	 @ St. Louis	REG	W	4-2	160	U	8.5	 -	Recap
+May 31, 2013	 @ Texas	REG	L	7-2	200	U	9.5	 -	Recap
+Jun 1, 2013	 @ Texas	REG	W	4-1	109	U	9	 -	Recap
+Jun 2, 2013	 @ Texas	REG	L	3-1	189	U	8	 -	Recap
+Jun 4, 2013	 vs Minnesota	REG	L	3-0	-133	U	8.5	 -	Recap
+Jun 5, 2013	 vs Minnesota	REG	W	4-1	-133	U	8.5	 -	Recap
+Jun 6, 2013	 vs Minnesota	REG	W	7-3	-143	O	9	 -	Recap
+Jun 7, 2013	 vs Houston	REG	W	4-2	-235	U	7.5	 -	Recap
+Jun 8, 2013	 vs Houston	REG	W	7-2	-173	O	8.5	 -	Recap
+Jun 9, 2013	 vs Houston	REG	W	2-0	-164	U	8.5	 -	Recap
+Jun 10, 2013	 vs Detroit	REG	W	3-2	131	U	8.5	 -	Recap
+Jun 11, 2013	 vs Detroit	REG	L	3-2	152	U	8.5	 -	Recap
+Jun 12, 2013	 vs Detroit	REG	W	3-2	109	U	7.5	 -	Recap
+Jun 13, 2013	 @ Tampa Bay	REG	W	10-1	135	O	7.5	 -	Recap
+Jun 14, 2013	 @ Tampa Bay	REG	W	7-2	151	O	8	 -	Recap
+Jun 15, 2013	 @ Tampa Bay	REG	L	5-3	163	O	7.5	 -	Recap
+Jun 16, 2013	 @ Tampa Bay	REG	W	5-3	135	P	8	 -	Recap
+Jun 17, 2013	 @ Cleveland	REG	W	2-1	-138	U	8	 -	Recap
+Jun 18, 2013	 @ Cleveland	REG	L	4-3	-112	U	7.5	 -	Recap
+Jun 19, 2013	 @ Cleveland	REG	L	6-3	140	O	8	 -	Recap
+Jun 21, 2013	 vs Chi White Sox	REG	L	9-1	-133	O	8.5	 -	Recap
+Jun 22, 2013	 vs Chi White Sox	REG	L	3-2	-122	U	8.5	 -	Recap
+Jun 23, 2013	 vs Chi White Sox	REG	W	7-6	-180	O	8	 -	Recap
+Jun 25, 2013	 vs Atlanta	REG	L	4-3	-114	U	8	 -	Recap
+Jun 26, 2013	 vs Atlanta	REG	W	4-3	115	U	9	 -	Recap
+Jun 27, 2013	 @ Minnesota	REG	L	3-1	123	U	9	 -	Recap
+Jun 28, 2013	 @ Minnesota	REG	W	9-3	-132	O	8	 -	Recap
+Jun 29, 2013	 @ Minnesota	REG	L	6-2	101	U	8.5	 -	Recap
+Jun 30, 2013	 @ Minnesota	REG	W	9-8	-108	O	8	 -	Recap
+Jul 2, 2013	 vs Cleveland	REG	L	6-5	-110	O	8.5	 -	Recap
+Jul 3, 2013	 vs Cleveland	REG	W	6-5	-110	O	9	 -	Recap
+Jul 4, 2013	 vs Cleveland	REG	W	10-7	-140	O	8	 -	Recap
+Jul 5, 2013	 vs Oakland	REG	L	6-3	108	P	9	 -	Recap
+Jul 6, 2013	 vs Oakland	REG	W	4-3	-109	U	8.5	 -	Recap
+Jul 7, 2013	 vs Oakland	REG	L	10-4	118	O	9	 -	Recap
+Jul 8, 2013	 @ NY Yankees	REG	W	5-1	136	U	9	 -	Recap
+Jul 9, 2013	 @ NY Yankees	REG	W	3-1	128	U	7.5	 -	Recap
+Jul 10, 2013	 @ NY Yankees	REG	L	8-1	128	O	8.5	 -	Recap
+Jul 11, 2013	 @ NY Yankees	REG	L	8-4	106	O	8	 -	Recap
+Jul 12, 2013	 @ Cleveland	REG	L	3-0	134	U	8.5	 -	Recap
+Jul 13, 2013	 @ Cleveland	REG	L	5-3	129	U	9	 -	Recap
+Jul 14, 2013	 @ Cleveland	REG	L	6-4	-108	O	8	 -	Recap
+Jul 19, 2013	 vs Detroit	REG	W	1-0	115	U	8.5	 -	Recap
+Jul 20, 2013	 vs Detroit	REG	W	6-5	175	O	8.5	 -	Recap
+Jul 21, 2013	 vs Detroit	REG	L	4-1	-104	U	8	 -	Recap
+Jul 22, 2013	 vs Baltimore	REG	L	9-2	100	O	9	 -	Recap
+Jul 23, 2013	 vs Baltimore	REG	W	3-2	-116	U	8.5	 -	Recap
+Jul 24, 2013	 vs Baltimore	REG	W	4-3	-104	U	7.5	 -	Recap
+Jul 25, 2013	 vs Baltimore	REG	W	7-1	129	U	8.5	 -	Recap
+Jul 26, 2013	 @ Chi White Sox	REG	W	5-1	-120	U	7.5	 -	Recap
+Jul 27, 2013	 @ Chi White Sox	REG	W	1-0	150	U	7	 -	Recap
+Jul 28, 2013	 @ Chi White Sox	REG	W	4-2	-102	U	7.5	 -	Recap
+Jul 30, 2013	 @ Minnesota	REG	W	7-2	-126	O	7.5	 -	Recap
+Jul 31, 2013	 @ Minnesota	REG	W	4-3	-112	U	8	 -	Recap
+Aug 1, 2013	 @ Minnesota	REG	W	7-2	-160	O	7.5	 -	Recap
+Aug 2, 2013	 @ NY Mets	REG	L	4-2	-109	U	8	 -	Recap
+Aug 3, 2013	 @ NY Mets	REG	W	4-3	-133	U	7.5	 -	Recap
+Aug 4, 2013	 @ NY Mets	REG	W	6-2	-147	O	7	 -	Recap
+Aug 5, 2013	 vs Minnesota	REG	W	13-0	-152	O	8.5	 -	Recap
+Aug 6, 2013	 vs Minnesota	REG	L	7-0	-184	U	7.5	 -	Recap
+Aug 7, 2013	 vs Minnesota	REG	W	5-2	-148	U	8	 -	Recap
+Aug 8, 2013	 vs Boston	REG	W	5-1	101	U	7.5	 -	Recap
+Aug 9, 2013	 vs Boston	REG	W	9-6	-107	O	7.5	 -	Recap
+Aug 10, 2013	 vs Boston	REG	L	5-3	125	U	8.5	 -	Recap
+Aug 11, 2013	 vs Boston	REG	W	4-3	-104	U	8	 -	Recap
+Aug 12, 2013	 vs Miami	REG	W	6-2	-215	P	8	 -	Recap
+Aug 13, 2013	 vs Miami	REG	L	1-0	-139	U	6.5	 -	Recap
+Aug 14, 2013	 vs Miami	REG	L	5-2	-240	P	7	 -	Recap
+Aug 15, 2013	 @ Detroit	REG	L	4-1	158	U	8	 -	Recap
+Aug 16, 2013	 @ Detroit	REG	W	2-1	200	U	8.5	 -	Recap
+Aug 16, 2013	 @ Detroit	REG	W	3-0	-110	U	8.5	 -	Recap
+Aug 17, 2013	 @ Detroit	REG	L	6-5	166	O	8.5	 -	Recap
+Aug 18, 2013	 @ Detroit	REG	L	6-3	158	O	7.5	 -	Recap
+Aug 20, 2013	 vs Chi White Sox	REG	L	2-0	-187	U	7.5	 -	Recap
+Aug 21, 2013	 vs Chi White Sox	REG	L	5-2	-174	U	8	 -	Recap
+Aug 22, 2013	 vs Chi White Sox	REG	L	4-3	-170	U	7.5	 -	Recap
+Aug 23, 2013	 vs Washington	REG	L	11-10	-105	O	7.5	 -	Recap
+Aug 24, 2013	 vs Washington	REG	L	7-2	-104	O	8.5	 -	Recap
+Aug 25, 2013	 vs Washington	REG	W	6-4	-128	O	8.5	 -	Recap
+Aug 26, 2013	 vs Tampa Bay	REG	W	11-1	100	O	9	 -	Recap
+Aug 27, 2013	 @ Minnesota	REG	W	6-1	-164	U	8.5	 -	Recap
+Aug 28, 2013	 @ Minnesota	REG	W	8-1	-119	O	8.5	 -	Recap
+Aug 29, 2013	 @ Minnesota	REG	W	3-1	-133	U	8	 -	Recap
+Aug 30, 2013	 @ Toronto	REG	L	3-2	-118	U	8.5	 -	Recap
+Aug 31, 2013	 @ Toronto	REG	L	4-2	107	U	8.5	 -	Recap
+Sep 1, 2013	 @ Toronto	REG	W	5-0	-155	U	8.5	 -	Recap
+Sep 2, 2013	 vs Seattle	REG	W	3-1	-118	U	7	 -	Recap
+Sep 3, 2013	 vs Seattle	REG	W	4-3	-164	U	8	 -	Recap
+Sep 4, 2013	 vs Seattle	REG	L	6-4	-165	O	8	 -	Recap
+Sep 5, 2013	 vs Seattle	REG	W	7-6	-166	O	9	 -	Recap
+Sep 6, 2013	 vs Detroit	REG	L	16-2	101	O	7.5	 -	Recap
+Sep 7, 2013	 vs Detroit	REG	W	4-3	111	U	8	 -	Recap
+Sep 8, 2013	 vs Detroit	REG	W	5-2	107	U	8.5	 -	Recap
+Sep 9, 2013	 @ Cleveland	REG	L	4-3	-109	U	7.5	 -	Recap
+Sep 10, 2013	 @ Cleveland	REG	W	6-3	107	P	9	 -	Recap
+Sep 11, 2013	 @ Cleveland	REG	W	6-2	-115	O	7.5	 -	Recap
+Sep 13, 2013	 @ Detroit	REG	L	6-3	152	O	7.5	 -	Recap
+Sep 14, 2013	 @ Detroit	REG	W	1-0	116	U	7.5	 -	Recap
+Sep 15, 2013	 @ Detroit	REG	L	3-2	178	U	8	 -	Recap
+Sep 16, 2013	 vs Cleveland	REG	W	7-1	-145	O	7.5	 -	Recap
+Sep 17, 2013	 vs Cleveland	REG	L	5-3	-105	P	8	 -	Recap
+Sep 18, 2013	 vs Cleveland	REG	W	7-2	-101	O	8	 -	Recap
+Sep 20, 2013	 vs Texas	REG	W	2-1	-129	U	7	 -	Recap
+Sep 21, 2013	 vs Texas	REG	L	3-1	-106	U	7.5	 -	Recap
+Sep 22, 2013	 vs Texas	REG	W	4-0	-127	U	7	 -	Recap
+Sep 23, 2013	 @ Seattle	REG	W	6-5	-140	O	7.5	 -	Recap
+Sep 24, 2013	 @ Seattle	REG	L	4-0	-125	U	7	 -	Recap
+Sep 25, 2013	 @ Seattle	REG	L	6-0	108	U	6.5	 -	Recap
+Sep 26, 2013	 @ Chi White Sox	REG	W	3-2	-118	U	8	 -	Recap
+Sep 27, 2013	 @ Chi White Sox	REG	W	6-1	-109	O	6.5	 -	Recap
+Sep 28, 2013	 @ Chi White Sox	REG	L	6-5	-129	O	7.5	 -	Recap
+Sep 29, 2013	 @ Chi White Sox	REG	W	4-1	102	U	7.5	 -	Recap
+Apr 1, 2013	 vs Kansas City	REG	W	1-0	-135	U	7	 -	Recap
+Apr 3, 2013	 vs Kansas City	REG	W	5-2	-145	U	7.5	 -	Recap
+Apr 4, 2013	 vs Kansas City	REG	L	3-1	-116	U	8	 -	Recap
+Apr 5, 2013	 vs Seattle	REG	L	8-7	-140	O	8	 -	Recap
+Apr 6, 2013	 vs Seattle	REG	W	4-3	129	U	7.5	 -	Recap
+Apr 7, 2013	 vs Seattle	REG	W	4-3	-160	P	7	 -	Recap
+Apr 9, 2013	 @ Washington	REG	L	8-7	137	O	7	 -	Recap
+Apr 10, 2013	 @ Washington	REG	L	5-2	142	U	8	 -	Recap
+Apr 11, 2013	 @ Washington	REG	L	7-4	132	O	8	 -	Recap
+Apr 12, 2013	 @ Cleveland	REG	L	1-0	128	U	7.5	 -	Recap
+Apr 13, 2013	 @ Cleveland	REG	L	9-4	-127	O	7.5	 -	Recap
+Apr 14, 2013	 @ Cleveland	REG	W	3-1	-123	U	8	 -	Recap
+Apr 15, 2013	 @ Toronto	REG	L	4-3	104	U	8.5	 -	Recap
+Apr 16, 2013	 @ Toronto	REG	W	4-3	146	U	9	 -	Recap
+Apr 17, 2013	 @ Toronto	REG	W	7-0	109	U	8.5	 -	Recap
+Apr 18, 2013	 @ Toronto	REG	L	3-1	-104	U	7.5	 -	Recap
+Apr 20, 2013	 vs Minnesota	REG	L	2-1	-168	U	8.5	 -	Recap
+Apr 21, 2013	 vs Minnesota	REG	L	5-3	-145	P	8	 -	Recap
+Apr 22, 2013	 vs Cleveland	REG	L	3-2	109	U	8.5	 -	Recap
+Apr 24, 2013	 vs Cleveland	REG	W	3-2	-136	U	7.5	 -	Recap
+Apr 25, 2013	 vs Tampa Bay	REG	W	5-2	-130	P	7	 -	Recap
+Apr 26, 2013	 vs Tampa Bay	REG	W	5-4	-142	O	7.5	 -	Recap
+Apr 27, 2013	 vs Tampa Bay	REG	L	10-4	104	O	7	 -	Recap
+Apr 28, 2013	 vs Tampa Bay	REG	L	8-3	128	O	7.5	 -	Recap
+Apr 30, 2013	 @ Texas	REG	L	10-6	183	O	8	 -	Recap
+May 1, 2013	 @ Texas	REG	W	5-2	107	U	8.5	 -	Recap
+May 2, 2013	 @ Texas	REG	W	3-1	145	U	8.5	 -	Recap
+May 4, 2013	 @ Kansas City	REG	L	2-0	133	U	7.5	 -	Recap
+May 5, 2013	 @ Kansas City	REG	L	6-5	123	O	7.5	 -	Recap
+May 6, 2013	 @ Kansas City	REG	W	2-1	122	U	7	 -	Recap
+May 7, 2013	 @ NY Mets	REG	L	1-0	150	U	6.5	 -	Recap
+May 8, 2013	 @ NY Mets	REG	W	6-3	-113	O	7	 -	Recap
+May 10, 2013	 vs LA Angels	REG	L	7-5	-117	O	8.5	 -	Recap
+May 11, 2013	 vs LA Angels	REG	L	3-2	-101	U	8.5	 -	Recap
+May 12, 2013	 vs LA Angels	REG	W	3-0	-123	U	7.5	 -	Recap
+May 13, 2013	 @ Minnesota	REG	L	10-3	-110	O	8	 -	Recap
+May 14, 2013	 @ Minnesota	REG	W	4-2	-109	U	8.5	 -	Recap
+May 15, 2013	 @ Minnesota	REG	W	9-4	128	O	9	 -	Recap
+May 16, 2013	 @ LA Angels	REG	W	5-4	134	O	8	 -	Recap
+May 17, 2013	 @ LA Angels	REG	W	3-0	108	U	7	 -	Recap
+May 18, 2013	 @ LA Angels	REG	L	12-9	124	O	8.5	 -	Recap
+May 19, 2013	 @ LA Angels	REG	L	6-2	111	O	7.5	 -	Recap
+May 20, 2013	 vs Boston	REG	W	6-4	136	O	9	 -	Recap
+May 21, 2013	 vs Boston	REG	W	3-1	-103	U	9	 -	Recap
+May 22, 2013	 vs Boston	REG	L	6-2	132	P	8	 -	Recap
+May 24, 2013	 vs Miami	REG	W	4-3	-170	U	7.5	 -	Recap
+May 25, 2013	 vs Miami	REG	W	2-1	-210	U	7	 -	Recap
+May 26, 2013	 vs Miami	REG	W	5-3	-195	P	8	 -	Recap
+May 27, 2013	 vs Chi Cubs	REG	L	7-0	-116	P	7	 -	Recap
+May 29, 2013	 @ Chi Cubs	REG	L	9-3	125	O	9.5	 -	Recap
+May 30, 2013	 @ Chi Cubs	REG	L	8-3	-127	P	11	 -	Recap
+May 31, 2013	 @ Oakland	REG	L	3-0	175	U	7.5	 -	Recap
+Jun 1, 2013	 @ Oakland	REG	L	4-3	138	U	8	 -	Recap
+Jun 2, 2013	 @ Oakland	REG	L	2-0	107	U	7	 -	Recap
+Jun 3, 2013	 @ Seattle	REG	L	4-2	-104	U	7	 -	Recap
+Jun 4, 2013	 @ Seattle	REG	L	7-4	142	O	6	 -	Recap
+Jun 5, 2013	 @ Seattle	REG	W	7-5	160	O	7	 -	Recap
+Jun 6, 2013	 vs Oakland	REG	L	5-4	120	O	8	 -	Recap
+Jun 7, 2013	 vs Oakland	REG	L	4-3	-134	U	7.5	 -	Recap
+Jun 8, 2013	 vs Oakland	REG	W	4-1	116	U	8.5	 -	Recap
+Jun 9, 2013	 vs Oakland	REG	W	4-2	116	U	8.5	 -	Recap
+Jun 10, 2013	 vs Toronto	REG	W	10-6	108	O	8.5	 -	Recap
+Jun 11, 2013	 vs Toronto	REG	L	7-5	-125	O	9.5	 -	Recap
+Jun 14, 2013	 @ Houston	REG	L	2-1	-190	U	7.5	 -	Recap
+Jun 15, 2013	 @ Houston	REG	L	4-3	-120	U	8	 -	Recap
+Jun 16, 2013	 @ Houston	REG	L	5-4	-127	O	8.5	 -	Recap
+Jun 17, 2013	 @ Houston	REG	W	4-2	-101	U	8	 -	Recap
+Jun 18, 2013	 @ Minnesota	REG	L	7-5	128	O	8.5	 -	Recap
+Jun 19, 2013	 @ Minnesota	REG	L	7-4	-140	O	7	 -	Recap
+Jun 20, 2013	 @ Minnesota	REG	L	8-4	112	O	8	 -	Recap
+Jun 21, 2013	 @ Kansas City	REG	W	9-1	123	O	8.5	 -	Recap
+Jun 22, 2013	 @ Kansas City	REG	W	3-2	112	U	8.5	 -	Recap
+Jun 23, 2013	 @ Kansas City	REG	L	7-6	170	O	8	 -	Recap
+Jun 25, 2013	 vs NY Mets	REG	W	5-4	-175	O	7.5	 -	Recap
+Jun 26, 2013	 vs NY Mets	REG	L	3-0	-123	U	8.5	 -	Recap
+Jun 28, 2013	 vs Cleveland	REG	L	19-10	-130	O	9	 -	Recap
+Jun 28, 2013	 vs Cleveland	REG	L	9-8	-127	O	9	 -	Recap
+Jun 29, 2013	 vs Cleveland	REG	L	4-3	108	U	9	 -	Recap
+Jun 30, 2013	 vs Cleveland	REG	L	4-0	-133	U	7.5	 -	Recap
+Jul 2, 2013	 vs Baltimore	REG	W	5-2	105	U	8.5	 -	Recap
+Jul 3, 2013	 vs Baltimore	REG	L	4-2	110	U	8.5	 -	Recap
+Jul 4, 2013	 vs Baltimore	REG	W	3-2	-108	U	9	 -	Recap
+Jul 5, 2013	 @ Tampa Bay	REG	L	8-3	188	O	7.5	 -	Recap
+Jul 6, 2013	 @ Tampa Bay	REG	L	3-0	128	U	7	 -	Recap
+Jul 7, 2013	 @ Tampa Bay	REG	L	3-1	220	U	7.5	 -	Recap
+Jul 8, 2013	 vs Chi Cubs	REG	L	8-2	-123	O	8	 -	Recap
+Jul 9, 2013	 @ Detroit	REG	W	11-4	250	O	8	 -	Recap
+Jul 10, 2013	 @ Detroit	REG	L	8-5	215	O	9.5	 -	Recap
+Jul 11, 2013	 @ Detroit	REG	W	6-3	141	O	7	 -	Recap
+Jul 13, 2013	 @ Philadelphia	REG	W	5-4	105	O	8.5	 -	Recap
+Jul 13, 2013	 @ Philadelphia	REG	L	2-1	123	U	8.5	 -	Recap
+Jul 14, 2013	 @ Philadelphia	REG	L	4-3	142	U	8	 -	Recap
+Jul 19, 2013	 vs Atlanta	REG	L	6-4	103	O	9	 -	Recap
+Jul 20, 2013	 vs Atlanta	REG	W	10-6	-115	O	9	 -	Recap
+Jul 21, 2013	 vs Atlanta	REG	W	3-1	112	U	8.5	 -	Recap
+Jul 22, 2013	 vs Detroit	REG	L	7-3	109	O	7.5	 -	Recap
+Jul 23, 2013	 vs Detroit	REG	L	6-2	-102	U	8.5	 -	Recap
+Jul 24, 2013	 vs Detroit	REG	L	6-2	124	P	8	 -	Recap
+Jul 25, 2013	 vs Detroit	REG	W	7-4	135	O	7.5	 -	Recap
+Jul 26, 2013	 vs Kansas City	REG	L	5-1	110	U	7.5	 -	Recap
+Jul 27, 2013	 vs Kansas City	REG	L	1-0	-160	U	7	 -	Recap
+Jul 28, 2013	 vs Kansas City	REG	L	4-2	-108	U	7.5	 -	Recap
+Jul 29, 2013	 @ Cleveland	REG	L	3-2	148	U	8	 -	Recap
+Jul 30, 2013	 @ Cleveland	REG	L	7-4	178	O	8	 -	Recap
+Jul 31, 2013	 @ Cleveland	REG	L	6-5	145	O	7.5	 -	Recap
+Aug 1, 2013	 @ Cleveland	REG	L	6-1	115	O	6.5	 -	Recap
+Aug 2, 2013	 @ Detroit	REG	L	2-1	190	U	8	 -	Recap
+Aug 3, 2013	 @ Detroit	REG	L	3-0	240	U	7.5	 -	Recap
+Aug 4, 2013	 @ Detroit	REG	L	3-2	185	U	8.5	 -	Recap
+Aug 5, 2013	 vs NY Yankees	REG	W	8-1	-121	O	7.5	 -	Recap
+Aug 6, 2013	 vs NY Yankees	REG	W	3-2	-123	U	6.5	 -	Recap
+Aug 7, 2013	 vs NY Yankees	REG	W	6-5	-108	O	8	 -	Recap
+Aug 9, 2013	 vs Minnesota	REG	L	7-5	-134	O	9	 -	Recap
+Aug 9, 2013	 vs Minnesota	REG	L	3-2	-135	U	9	 -	Recap
+Aug 10, 2013	 vs Minnesota	REG	W	5-4	-111	P	9	 -	Recap
+Aug 11, 2013	 vs Minnesota	REG	L	5-2	-139	U	8.5	 -	Recap
+Aug 12, 2013	 vs Detroit	REG	W	6-2	112	O	7	 -	Recap
+Aug 13, 2013	 vs Detroit	REG	W	4-3	175	U	7.5	 -	Recap
+Aug 14, 2013	 vs Detroit	REG	L	6-4	150	O	8.5	 -	Recap
+Aug 15, 2013	 @ Minnesota	REG	L	4-3	129	U	8.5	 -	Recap
+Aug 16, 2013	 @ Minnesota	REG	W	5-2	107	U	8	 -	Recap
+Aug 17, 2013	 @ Minnesota	REG	W	8-5	-128	O	7	 -	Recap
+Aug 18, 2013	 @ Minnesota	REG	W	5-2	114	U	8	 -	Recap
+Aug 20, 2013	 @ Kansas City	REG	W	2-0	177	U	7.5	 -	Recap
+Aug 21, 2013	 @ Kansas City	REG	W	5-2	164	U	8	 -	Recap
+Aug 22, 2013	 @ Kansas City	REG	W	4-3	160	U	7.5	 -	Recap
+Aug 23, 2013	 vs Texas	REG	L	11-5	-122	O	7.5	 -	Recap
+Aug 24, 2013	 vs Texas	REG	W	3-2	175	U	7	 -	Recap
+Aug 25, 2013	 vs Texas	REG	W	5-2	128	U	8.5	 -	Recap
+Aug 26, 2013	 vs Houston	REG	L	10-8	-148	O	9	 -	Recap
+Aug 27, 2013	 vs Houston	REG	W	4-3	-235	U	9	 -	Recap
+Aug 28, 2013	 vs Houston	REG	W	6-1	-240	U	7.5	 -	Recap
+Aug 30, 2013	 @ Boston	REG	L	4-3	158	U	9	 -	Recap
+Aug 31, 2013	 @ Boston	REG	L	7-2	190	P	9	 -	Recap
+Sep 1, 2013	 @ Boston	REG	L	7-6	225	O	9.5	 -	Recap
+Sep 2, 2013	 @ NY Yankees	REG	L	9-1	131	O	8.5	 -	Recap
+Sep 3, 2013	 @ NY Yankees	REG	L	6-4	132	O	7	 -	Recap
+Sep 4, 2013	 @ NY Yankees	REG	L	6-5	170	O	8.5	 -	Recap
+Sep 5, 2013	 @ Baltimore	REG	L	3-1	148	U	8.5	 -	Recap
+Sep 6, 2013	 @ Baltimore	REG	L	4-0	170	U	8	 -	Recap
+Sep 7, 2013	 @ Baltimore	REG	L	4-3	160	U	8.5	 -	Recap
+Sep 8, 2013	 @ Baltimore	REG	W	4-2	190	U	9	 -	Recap
+Sep 9, 2013	 vs Detroit	REG	W	5-1	123	U	7	 -	Recap
+Sep 10, 2013	 vs Detroit	REG	L	9-1	150	O	9	 -	Recap
+Sep 11, 2013	 vs Detroit	REG	L	1-0	165	U	8	 -	Recap
+Sep 12, 2013	 vs Cleveland	REG	L	14-3	115	O	8.5	 -	Recap
+Sep 13, 2013	 vs Cleveland	REG	L	3-1	124	U	8	 -	Recap
+Sep 14, 2013	 vs Cleveland	REG	L	8-1	148	O	8.5	 -	Recap
+Sep 15, 2013	 vs Cleveland	REG	L	7-1	-124	O	7.5	 -	Recap
+Sep 16, 2013	 vs Minnesota	REG	W	12-1	-120	O	8.5	 -	Recap
+Sep 17, 2013	 vs Minnesota	REG	W	4-3	-145	U	7.5	 -	Recap
+Sep 18, 2013	 vs Minnesota	REG	L	4-3	-138	U	8.5	 -	Recap
+Sep 20, 2013	 @ Detroit	REG	L	12-5	280	O	8	 -	Recap
+Sep 21, 2013	 @ Detroit	REG	L	7-6	124	O	7.5	 -	Recap
+Sep 22, 2013	 @ Detroit	REG	W	6-3	223	O	7.5	 -	Recap
+Sep 23, 2013	 vs Toronto	REG	W	3-2	-143	U	7.5	 -	Recap
+Sep 24, 2013	 @ Cleveland	REG	L	5-4	188	O	7.5	 -	Recap
+Sep 25, 2013	 @ Cleveland	REG	L	7-2	260	O	7	 -	Recap
+Sep 26, 2013	 vs Kansas City	REG	L	3-2	108	U	8	 -	Recap
+Sep 27, 2013	 vs Kansas City	REG	L	6-1	-101	O	6.5	 -	Recap
+Sep 28, 2013	 vs Kansas City	REG	W	6-5	119	O	7.5	 -	Recap
+Sep 29, 2013	 vs Kansas City	REG	L	4-1	-112	U	7.5	 -	Recap
+Apr 1, 2013	 @ Minnesota	REG	W	4-2	-176	U	7	 -	Recap
+Apr 3, 2013	 @ Minnesota	REG	L	3-2	-149	U	8.5	 -	Recap
+Apr 4, 2013	 @ Minnesota	REG	L	8-2	-140	O	8.5	 -	Recap
+Apr 5, 2013	 vs NY Yankees	REG	W	8-3	-175	O	8	 -	Recap
+Apr 6, 2013	 vs NY Yankees	REG	W	8-4	-182	O	8	 -	Recap
+Apr 7, 2013	 vs NY Yankees	REG	L	7-0	-195	P	7	 -	Recap
+Apr 9, 2013	 vs Toronto	REG	W	7-3	-128	O	8	 -	Recap
+Apr 10, 2013	 vs Toronto	REG	L	8-6	-135	O	9	 -	Recap
+Apr 11, 2013	 vs Toronto	REG	W	11-1	-134	O	8	 -	Recap
+Apr 12, 2013	 @ Oakland	REG	L	4-3	-115	U	7.5	 -	Recap
+Apr 13, 2013	 @ Oakland	REG	W	7-3	-129	O	7	 -	Recap
+Apr 14, 2013	 @ Oakland	REG	W	10-1	-132	O	8	 -	Recap
+Apr 16, 2013	 @ Seattle	REG	W	6-2	-163	O	7.5	 -	Recap
+Apr 17, 2013	 @ Seattle	REG	W	2-1	-116	U	6.5	 -	Recap
+Apr 18, 2013	 @ Seattle	REG	L	2-0	-162	U	6.5	 -	Recap
+Apr 19, 2013	 @ LA Angels	REG	L	8-1	-125	O	8.5	 -	Recap
+Apr 20, 2013	 @ LA Angels	REG	L	10-0	-102	O	9	 -	Recap
+Apr 21, 2013	 @ LA Angels	REG	L	4-3	-101	U	8	 -	Recap
+Apr 24, 2013	 vs Kansas City	REG	W	7-5	-172	O	7.5	 -	Recap
+Apr 25, 2013	 vs Kansas City	REG	L	8-3	-171	O	6.5	 -	Recap
+Apr 26, 2013	 vs Atlanta	REG	W	10-0	-141	O	7.5	 -	Recap
+Apr 27, 2013	 vs Atlanta	REG	W	7-4	-107	O	8	 -	Recap
+Apr 28, 2013	 vs Atlanta	REG	W	8-3	-145	O	7.5	 -	Recap
+Apr 29, 2013	 vs Minnesota	REG	W	4-3	-230	U	8.5	 -	Recap
+Apr 30, 2013	 vs Minnesota	REG	W	6-1	-240	U	8	 -	Recap
+May 1, 2013	 vs Minnesota	REG	L	6-2	-220	U	8.5	 -	Recap
+May 2, 2013	 @ Houston	REG	W	7-3	-163	O	9.5	 -	Recap
+May 3, 2013	 @ Houston	REG	W	4-3	-194	U	8	 -	Recap
+May 4, 2013	 @ Houston	REG	W	17-2	-196	O	8	 -	Recap
+May 5, 2013	 @ Houston	REG	W	9-0	-270	O	8	 -	Recap
+May 8, 2013	 @ Washington	REG	L	3-1	-115	U	7	 -	Recap
+May 9, 2013	 @ Washington	REG	L	5-4	-119	O	7.5	 -	Recap
+May 10, 2013	 vs Cleveland	REG	W	10-4	-190	O	8.5	 -	Recap
+May 11, 2013	 vs Cleveland	REG	L	7-6	-250	O	8	 -	Recap
+May 12, 2013	 vs Cleveland	REG	L	4-3	-143	U	9	 -	Recap
+May 13, 2013	 vs Houston	REG	W	7-2	-310	O	8	 -	Recap
+May 14, 2013	 vs Houston	REG	W	6-2	-290	U	8.5	 -	Recap
+May 15, 2013	 vs Houston	REG	L	7-5	-360	O	9	 -	Recap
+May 16, 2013	 @ Texas	REG	L	10-4	101	O	7.5	 -	Recap
+May 17, 2013	 @ Texas	REG	W	2-1	110	U	10.5	 -	Recap
+May 18, 2013	 @ Texas	REG	L	7-2	-128	U	9.5	 -	Recap
+May 19, 2013	 @ Texas	REG	L	11-8	123	O	9	 -	Recap
+May 21, 2013	 @ Cleveland	REG	W	5-1	-142	U	9	 -	Recap
+May 22, 2013	 @ Cleveland	REG	W	11-7	-150	O	8	 -	Recap
+May 23, 2013	 vs Minnesota	REG	W	7-6	-165	O	9	 -	Recap
+May 24, 2013	 vs Minnesota	REG	W	6-0	-215	U	8.5	 -	Recap
+May 25, 2013	 vs Minnesota	REG	L	3-2	-225	U	9	 -	Recap
+May 26, 2013	 vs Minnesota	REG	W	6-1	-260	U	9	 -	Recap
+May 27, 2013	 vs Pittsburgh	REG	W	6-5	-190	O	7.5	 -	Recap
+May 28, 2013	 vs Pittsburgh	REG	L	1-0	-155	U	9.5	 -	Recap
+May 29, 2013	 @ Pittsburgh	REG	L	5-3	-119	O	7	 -	Recap
+May 30, 2013	 @ Pittsburgh	REG	L	1-0	-125	U	8	 -	Recap
+May 31, 2013	 @ Baltimore	REG	L	7-5	-128	O	9	 -	Recap
+Jun 1, 2013	 @ Baltimore	REG	W	10-3	-140	O	8.5	 -	Recap
+Jun 2, 2013	 @ Baltimore	REG	L	4-2	-114	U	10	 -	Recap
+Jun 4, 2013	 vs Tampa Bay	REG	W	10-1	-147	O	8	 -	Recap
+Jun 5, 2013	 vs Tampa Bay	REG	L	3-0	-144	U	8	 -	Recap
+Jun 6, 2013	 vs Tampa Bay	REG	W	5-2	-200	U	8.5	 -	Recap
+Jun 7, 2013	 vs Cleveland	REG	W	7-5	-215	O	8	 -	Recap
+Jun 8, 2013	 vs Cleveland	REG	W	6-4	-180	O	9.5	 -	Recap
+Jun 9, 2013	 vs Cleveland	REG	W	4-1	-120	U	9	 -	Recap
+Jun 10, 2013	 @ Kansas City	REG	L	3-2	-141	U	8.5	 -	Recap
+Jun 11, 2013	 @ Kansas City	REG	W	3-2	-162	U	8.5	 -	Recap
+Jun 12, 2013	 @ Kansas City	REG	L	3-2	-119	U	7.5	 -	Recap
+Jun 14, 2013	 @ Minnesota	REG	W	4-0	-138	U	9	 -	Recap
+Jun 15, 2013	 @ Minnesota	REG	L	6-3	-160	O	8.5	 -	Recap
+Jun 16, 2013	 @ Minnesota	REG	W	5-2	-147	U	9	 -	Recap
+Jun 17, 2013	 vs Baltimore	REG	W	5-1	-185	U	8.5	 -	Recap
+Jun 18, 2013	 vs Baltimore	REG	L	5-2	-210	U	8	 -	Recap
+Jun 19, 2013	 vs Baltimore	REG	L	13-3	-139	O	9	 -	Recap
+Jun 20, 2013	 vs Boston	REG	W	4-3	-111	U	9	 -	Recap
+Jun 21, 2013	 vs Boston	REG	L	10-6	-136	O	8.5	 -	Recap
+Jun 22, 2013	 vs Boston	REG	W	10-3	-173	O	9	 -	Recap
+Jun 23, 2013	 vs Boston	REG	W	7-5	-170	O	8.5	 -	Recap
+Jun 25, 2013	 vs LA Angels	REG	L	14-8	-134	O	9.5	 -	Recap
+Jun 26, 2013	 vs LA Angels	REG	L	7-4	-146	O	10	 -	Recap
+Jun 27, 2013	 vs LA Angels	REG	L	3-1	-152	U	8.5	 -	Recap
+Jun 28, 2013	 @ Tampa Bay	REG	W	6-3	-133	O	8	 -	Recap
+Jun 29, 2013	 @ Tampa Bay	REG	L	4-3	-141	U	7.5	 -	Recap
+Jun 30, 2013	 @ Tampa Bay	REG	L	3-1	110	U	7.5	 -	Recap
+Jul 1, 2013	 @ Toronto	REG	L	8-3	117	O	9	 -	Recap
+Jul 2, 2013	 @ Toronto	REG	W	7-6	-150	O	9	 -	Recap
+Jul 3, 2013	 @ Toronto	REG	W	6-2	-130	U	8.5	 -	Recap
+Jul 4, 2013	 @ Toronto	REG	W	11-1	-132	O	8.5	 -	Recap
+Jul 5, 2013	 @ Cleveland	REG	W	7-0	115	U	8.5	 -	Recap
+Jul 6, 2013	 @ Cleveland	REG	W	9-4	-160	O	9	 -	Recap
+Jul 7, 2013	 @ Cleveland	REG	L	9-6	-131	O	8.5	 -	Recap
+Jul 8, 2013	 @ Cleveland	REG	W	4-2	-154	U	8.5	 -	Recap
+Jul 9, 2013	 vs Chi White Sox	REG	L	11-4	-275	O	8	 -	Recap
+Jul 10, 2013	 vs Chi White Sox	REG	W	8-5	-235	O	9.5	 -	Recap
+Jul 11, 2013	 vs Chi White Sox	REG	L	6-3	-151	O	7	 -	Recap
+Jul 12, 2013	 vs Texas	REG	W	7-2	-179	U	9.5	 -	Recap
+Jul 13, 2013	 vs Texas	REG	L	7-1	-151	P	8	 -	Recap
+Jul 14, 2013	 vs Texas	REG	W	5-0	-166	U	9	 -	Recap
+Jul 19, 2013	 @ Kansas City	REG	L	1-0	-125	U	8.5	 -	Recap
+Jul 20, 2013	 @ Kansas City	REG	L	6-5	-185	O	8.5	 -	Recap
+Jul 21, 2013	 @ Kansas City	REG	W	4-1	-106	U	8	 -	Recap
+Jul 22, 2013	 @ Chi White Sox	REG	W	7-3	-119	O	7.5	 -	Recap
+Jul 23, 2013	 @ Chi White Sox	REG	W	6-2	-108	U	8.5	 -	Recap
+Jul 24, 2013	 @ Chi White Sox	REG	W	6-2	-134	P	8	 -	Recap
+Jul 25, 2013	 @ Chi White Sox	REG	L	7-4	-145	O	7.5	 -	Recap
+Jul 26, 2013	 vs Philadelphia	REG	W	2-1	-155	U	7.5	 -	Recap
+Jul 27, 2013	 vs Philadelphia	REG	W	10-0	-270	O	8.5	 -	Recap
+Jul 28, 2013	 vs Philadelphia	REG	W	12-4	-230	O	9	 -	Recap
+Jul 30, 2013	 vs Washington	REG	W	5-1	-130	U	7.5	 -	Recap
+Jul 31, 2013	 vs Washington	REG	W	11-1	-136	O	7	 -	Recap
+Aug 2, 2013	 vs Chi White Sox	REG	W	2-1	-210	U	8	 -	Recap
+Aug 3, 2013	 vs Chi White Sox	REG	W	3-0	-260	U	7.5	 -	Recap
+Aug 4, 2013	 vs Chi White Sox	REG	W	3-2	-200	U	8.5	 -	Recap
+Aug 5, 2013	 @ Cleveland	REG	W	4-2	-118	U	7.5	 -	Recap
+Aug 6, 2013	 @ Cleveland	REG	W	5-1	-105	U	7.5	 -	Recap
+Aug 7, 2013	 @ Cleveland	REG	W	6-5	-110	O	8	 -	Recap
+Aug 8, 2013	 @ Cleveland	REG	W	10-3	-160	O	7.5	 -	Recap
+Aug 9, 2013	 @ NY Yankees	REG	L	4-3	-101	U	8.5	 -	Recap
+Aug 10, 2013	 @ NY Yankees	REG	W	9-3	-154	O	8.5	 -	Recap
+Aug 11, 2013	 @ NY Yankees	REG	L	5-4	-161	O	8.5	 -	Recap
+Aug 12, 2013	 @ Chi White Sox	REG	L	6-2	-122	O	7	 -	Recap
+Aug 13, 2013	 @ Chi White Sox	REG	L	4-3	-185	U	7.5	 -	Recap
+Aug 14, 2013	 @ Chi White Sox	REG	W	6-4	-160	O	8.5	 -	Recap
+Aug 15, 2013	 vs Kansas City	REG	W	4-1	-168	U	8	 -	Recap
+Aug 16, 2013	 vs Kansas City	REG	L	2-1	-220	U	8.5	 -	Recap
+Aug 16, 2013	 vs Kansas City	REG	L	3-0	100	U	8.5	 -	Recap
+Aug 17, 2013	 vs Kansas City	REG	W	6-5	-176	O	8.5	 -	Recap
+Aug 18, 2013	 vs Kansas City	REG	W	6-3	-168	O	7.5	 -	Recap
+Aug 20, 2013	 vs Minnesota	REG	L	6-3	-188	P	9	 -	Recap
+Aug 21, 2013	 vs Minnesota	REG	W	7-1	-265	P	8	 -	Recap
+Aug 22, 2013	 vs Minnesota	REG	L	7-6	-260	O	8	 -	Recap
+Aug 23, 2013	 @ NY Mets	REG	W	6-1	-182	U	8	 -	Recap
+Aug 24, 2013	 @ NY Mets	REG	W	3-0	-132	U	6	 -	Recap
+Aug 25, 2013	 @ NY Mets	REG	W	11-3	-150	O	7.5	 -	Recap
+Aug 26, 2013	 vs Oakland	REG	L	8-6	-154	O	8.5	 -	Recap
+Aug 27, 2013	 vs Oakland	REG	L	6-3	-160	O	8.5	 -	Recap
+Aug 28, 2013	 vs Oakland	REG	L	14-4	-158	O	9	 -	Recap
+Aug 29, 2013	 vs Oakland	REG	W	7-6	-189	O	8	 -	Recap
+Aug 30, 2013	 vs Cleveland	REG	W	7-2	-146	U	9.5	 -	Recap
+Aug 31, 2013	 vs Cleveland	REG	W	10-5	-166	O	8.5	 -	Recap
+Sep 1, 2013	 vs Cleveland	REG	L	4-0	-155	U	8.5	 -	Recap
+Sep 2, 2013	 @ Boston	REG	W	3-0	142	U	9	 -	Recap
+Sep 3, 2013	 @ Boston	REG	L	2-1	-101	U	8	 -	Recap
+Sep 4, 2013	 @ Boston	REG	L	20-4	109	O	9.5	 -	Recap
+Sep 6, 2013	 @ Kansas City	REG	W	16-2	-111	O	7.5	 -	Recap
+Sep 7, 2013	 @ Kansas City	REG	L	4-3	-121	U	8	 -	Recap
+Sep 8, 2013	 @ Kansas City	REG	L	5-2	-117	U	8.5	 -	Recap
+Sep 9, 2013	 @ Chi White Sox	REG	L	5-1	-133	U	7	 -	Recap
+Sep 10, 2013	 @ Chi White Sox	REG	W	9-1	-160	O	9	 -	Recap
+Sep 11, 2013	 @ Chi White Sox	REG	W	1-0	-175	U	8	 -	Recap
+Sep 13, 2013	 vs Kansas City	REG	W	6-3	-162	O	7.5	 -	Recap
+Sep 14, 2013	 vs Kansas City	REG	L	1-0	-126	U	7.5	 -	Recap
+Sep 15, 2013	 vs Kansas City	REG	W	3-2	-188	U	8	 -	Recap
+Sep 16, 2013	 vs Seattle	REG	W	4-2	-220	U	9	 -	Recap
+Sep 17, 2013	 vs Seattle	REG	W	6-2	-265	P	8	 -	Recap
+Sep 18, 2013	 vs Seattle	REG	L	8-0	-170	O	7.5	 -	Recap
+Sep 19, 2013	 vs Seattle	REG	W	5-4	-194	O	8.5	 -	Recap
+Sep 20, 2013	 vs Chi White Sox	REG	W	12-5	-310	O	8	 -	Recap
+Sep 21, 2013	 vs Chi White Sox	REG	W	7-6	-134	O	7.5	 -	Recap
+Sep 22, 2013	 vs Chi White Sox	REG	L	6-3	-243	O	7.5	 -	Recap
+Sep 23, 2013	 @ Minnesota	REG	L	4-3	-200	U	7.5	 -	Recap
+Sep 24, 2013	 @ Minnesota	REG	W	4-2	-210	U	8.5	 -	Recap
+Sep 25, 2013	 @ Minnesota	REG	W	1-0	-235	U	7.5	 -	Recap
+Sep 27, 2013	 @ Miami	REG	L	3-2	-132	U	8	 -	Recap
+Sep 28, 2013	 @ Miami	REG	L	2-1	-193	U	6.5	 -	Recap
+Sep 29, 2013	 @ Miami	REG	L	1-0	-175	U	7	 -	Recap
+Oct 4, 2013	 @ Oakland	PST	W	3-2	-118	U	6.5	 -	Recap
+Oct 5, 2013	 @ Oakland	PST	L	1-0	-111	U	7	 -	Recap
+Oct 7, 2013	 vs Oakland	PST	L	6-3	-151	O	7	 -	Recap
+Oct 8, 2013	 vs Oakland	PST	W	8-6	-145	O	7.5	 -	Recap
+Oct 10, 2013	 @ Oakland	PST	W	3-0	-103	U	6.5	 -	Recap
+Oct 12, 2013	 @ Boston	PST	W	1-0	130	U	8	 -	Recap
+Oct 13, 2013	 @ Boston	PST	L	6-5	119	O	7	 -	Recap
+Oct 15, 2013	 vs Boston	PST	L	1-0	-145	U	7	 -	Recap
+Oct 16, 2013	 vs Boston	PST	W	7-3	-110	O	7.5	 -	Recap
+Oct 17, 2013	 vs Boston	PST	L	4-3	-116	P	7	 -	Recap
+Oct 19, 2013	 @ Boston	PST	L	5-2	-104	P	7	 -	Recap
+
+Apr 1, 2013	 vs Detroit	REG	L	4-2	166	U	7	 -	Recap
+Apr 3, 2013	 vs Detroit	REG	W	3-2	139	U	8.5	 -	Recap
+Apr 4, 2013	 vs Detroit	REG	W	8-2	130	O	8.5	 -	Recap
+Apr 5, 2013	 @ Baltimore	REG	L	9-5	142	O	9	 -	Recap
+Apr 6, 2013	 @ Baltimore	REG	W	6-5	128	O	8.5	 -	Recap
+Apr 7, 2013	 @ Baltimore	REG	W	4-3	160	U	9	 -	Recap
+Apr 8, 2013	 @ Kansas City	REG	L	3-1	133	U	8.5	 -	Recap
+Apr 9, 2013	 @ Kansas City	REG	L	7-4	135	O	8.5	 -	Recap
+Apr 10, 2013	 @ Kansas City	REG	L	3-0	140	U	8.5	 -	Recap
+Apr 12, 2013	 vs NY Mets	REG	L	16-5	-104	O	7.5	 -	Recap
+Apr 13, 2013	 vs NY Mets	REG	L	4-2	113	U	7	 -	Recap
+Apr 15, 2013	 vs LA Angels	REG	W	8-2	120	O	8.5	 -	Recap
+Apr 16, 2013	 vs LA Angels	REG	W	8-6	124	O	8.5	 -	Recap
+Apr 20, 2013	 @ Chi White Sox	REG	W	2-1	158	U	8.5	 -	Recap
+Apr 21, 2013	 @ Chi White Sox	REG	W	5-3	135	P	8	 -	Recap
+Apr 23, 2013	 vs Miami	REG	W	4-3	-150	U	7.5	 -	Recap
+Apr 23, 2013	 vs Miami	REG	L	8-5	-148	O	7.5	 -	Recap
+Apr 25, 2013	 vs Texas	REG	L	2-1	-104	U	8.5	 -	Recap
+Apr 26, 2013	 vs Texas	REG	L	4-3	104	U	8.5	 -	Recap
+Apr 27, 2013	 vs Texas	REG	W	7-2	125	O	8.5	 -	Recap
+Apr 28, 2013	 vs Texas	REG	W	5-0	108	U	9	 -	Recap
+Apr 29, 2013	 @ Detroit	REG	L	4-3	210	U	8.5	 -	Recap
+Apr 30, 2013	 @ Detroit	REG	L	6-1	220	U	8	 -	Recap
+May 1, 2013	 @ Detroit	REG	W	6-2	200	U	8.5	 -	Recap
+May 3, 2013	 @ Cleveland	REG	L	7-6	138	O	8.5	 -	Recap
+May 4, 2013	 @ Cleveland	REG	L	7-3	101	O	9	 -	Recap
+May 5, 2013	 @ Cleveland	REG	W	4-2	141	U	9	 -	Recap
+May 6, 2013	 @ Boston	REG	L	6-5	183	O	8.5	 -	Recap
+May 7, 2013	 @ Boston	REG	W	6-1	164	U	9	 -	Recap
+May 8, 2013	 @ Boston	REG	W	15-8	160	O	9.5	 -	Recap
+May 9, 2013	 @ Boston	REG	W	5-3	150	U	9.5	 -	Recap
+May 10, 2013	 vs Baltimore	REG	L	9-6	103	O	8.5	 -	Recap
+May 11, 2013	 vs Baltimore	REG	W	8-5	-112	O	8.5	 -	Recap
+May 12, 2013	 vs Baltimore	REG	L	6-0	-102	U	8	 -	Recap
+May 13, 2013	 vs Chi White Sox	REG	W	10-3	100	O	8	 -	Recap
+May 14, 2013	 vs Chi White Sox	REG	L	4-2	-101	U	8.5	 -	Recap
+May 15, 2013	 vs Chi White Sox	REG	L	9-4	-138	O	9	 -	Recap
+May 17, 2013	 vs Boston	REG	L	3-2	128	U	8.5	 -	Recap
+May 18, 2013	 vs Boston	REG	L	12-5	115	O	9	 -	Recap
+May 19, 2013	 vs Boston	REG	L	5-1	120	U	10	 -	Recap
+May 20, 2013	 @ Atlanta	REG	L	5-1	141	U	8.5	 -	Recap
+May 21, 2013	 @ Atlanta	REG	L	5-4	180	O	8.5	 -	Recap
+May 22, 2013	 @ Atlanta	REG	L	8-3	165	O	7.5	 -	Recap
+May 23, 2013	 @ Detroit	REG	L	7-6	155	O	9	 -	Recap
+May 24, 2013	 @ Detroit	REG	L	6-0	195	U	8.5	 -	Recap
+May 25, 2013	 @ Detroit	REG	W	3-2	205	U	9	 -	Recap
+May 26, 2013	 @ Detroit	REG	L	6-1	240	U	9	 -	Recap
+May 27, 2013	 @ Milwaukee	REG	W	6-3	106	O	8.5	 -	Recap
+May 28, 2013	 @ Milwaukee	REG	W	6-5	135	O	9	 -	Recap
+May 29, 2013	 vs Milwaukee	REG	W	4-1	112	U	9	 -	Recap
+May 30, 2013	 vs Milwaukee	REG	W	8-6	100	O	9	 -	Recap
+May 31, 2013	 vs Seattle	REG	L	3-0	110	U	8	 -	Recap
+Jun 1, 2013	 vs Seattle	REG	W	5-4	-113	O	8.5	 -	Recap
+Jun 2, 2013	 vs Seattle	REG	W	10-0	-145	O	8.5	 -	Recap
+Jun 4, 2013	 @ Kansas City	REG	W	3-0	123	U	8.5	 -	Recap
+Jun 5, 2013	 @ Kansas City	REG	L	4-1	123	U	8.5	 -	Recap
+Jun 6, 2013	 @ Kansas City	REG	L	7-3	133	O	9	 -	Recap
+Jun 8, 2013	 @ Washington	REG	W	4-3	170	U	7.5	 -	Recap
+Jun 9, 2013	 @ Washington	REG	L	7-0	178	U	7.5	 -	Recap
+Jun 9, 2013	 @ Washington	REg	L	5-4	112	O	8.5	 -	Recap
+Jun 11, 2013	 vs Philadelphia	REG	W	3-2	105	U	8	 -	Recap
+Jun 12, 2013	 vs Philadelphia	REG	W	4-3	-131	U	8.5	 -	Recap
+Jun 13, 2013	 vs Philadelphia	REG	L	3-2	127	U	7.5	 -	Recap
+Jun 14, 2013	 vs Detroit	REG	L	4-0	128	U	9	 -	Recap
+Jun 15, 2013	 vs Detroit	REG	W	6-3	150	O	8.5	 -	Recap
+Jun 16, 2013	 vs Detroit	REG	L	5-2	137	U	9	 -	Recap
+Jun 18, 2013	 vs Chi White Sox	REG	W	7-5	-138	O	8.5	 -	Recap
+Jun 19, 2013	 vs Chi White Sox	REG	W	7-4	130	O	7	 -	Recap
+Jun 20, 2013	 vs Chi White Sox	REG	W	8-4	-122	O	8	 -	Recap
+Jun 21, 2013	 @ Cleveland	REG	L	5-1	115	U	9	 -	Recap
+Jun 22, 2013	 @ Cleveland	REG	L	8-7	135	O	9	 -	Recap
+Jun 23, 2013	 @ Cleveland	REG	W	5-3	141	U	9.5	 -	Recap
+Jun 25, 2013	 @ Miami	REG	L	4-2	106	U	7	 -	Recap
+Jun 26, 2013	 @ Miami	REG	L	5-3	-109	P	8	 -	Recap
+Jun 27, 2013	 vs Kansas City	REG	W	3-1	-133	U	9	 -	Recap
+Jun 28, 2013	 vs Kansas City	REG	L	9-3	122	O	8	 -	Recap
+Jun 29, 2013	 vs Kansas City	REG	W	6-2	-111	U	8.5	 -	Recap
+Jun 30, 2013	 vs Kansas City	REG	L	9-8	-102	O	8	 -	Recap
+Jul 1, 2013	 vs NY Yankees	REG	L	10-4	109	O	8	 -	Recap
+Jul 2, 2013	 vs NY Yankees	REG	L	7-3	-113	O	8.5	 -	Recap
+Jul 3, 2013	 vs NY Yankees	REG	L	3-2	156	U	8	 -	Recap
+Jul 4, 2013	 vs NY Yankees	REG	L	9-5	-122	O	8.5	 -	Recap
+Jul 5, 2013	 @ Toronto	REG	L	4-0	165	U	9	 -	Recap
+Jul 6, 2013	 @ Toronto	REG	W	6-0	183	U	9	 -	Recap
+Jul 7, 2013	 @ Toronto	REG	L	11-5	146	O	9.5	 -	Recap
+Jul 8, 2013	 @ Tampa Bay	REG	L	7-4	149	O	8.5	 -	Recap
+Jul 9, 2013	 @ Tampa Bay	REG	L	4-1	157	U	8.5	 -	Recap
+Jul 10, 2013	 @ Tampa Bay	REG	L	4-3	173	U	8	 -	Recap
+Jul 11, 2013	 @ Tampa Bay	REG	L	4-3	198	U	8	 -	Recap
+Jul 12, 2013	 @ NY Yankees	REG	L	2-0	157	U	8.5	 -	Recap
+Jul 13, 2013	 @ NY Yankees	REG	W	4-1	137	U	8.5	 -	Recap
+Jul 14, 2013	 @ NY Yankees	REG	W	10-4	188	O	8.5	 -	Recap
+Jul 19, 2013	 vs Cleveland	REG	W	3-2	112	U	9	 -	Recap
+Jul 20, 2013	 vs Cleveland	REG	W	3-2	119	U	9	 -	Recap
+Jul 21, 2013	 vs Cleveland	REG	L	7-1	126	U	9	 -	Recap
+Jul 22, 2013	 @ LA Angels	REG	W	4-3	150	U	8.5	 -	Recap
+Jul 23, 2013	 @ LA Angels	REG	W	10-3	148	O	8.5	 -	Recap
+Jul 24, 2013	 @ LA Angels	REG	L	1-0	210	U	7.5	 -	Recap
+Jul 25, 2013	 @ Seattle	REG	L	8-2	178	O	7.5	 -	Recap
+Jul 26, 2013	 @ Seattle	REG	W	3-2	220	U	7	 -	Recap
+Jul 27, 2013	 @ Seattle	REG	W	4-0	130	U	8	 -	Recap
+Jul 28, 2013	 @ Seattle	REG	L	6-4	126	O	8.5	 -	Recap
+Jul 30, 2013	 vs Kansas City	REG	L	7-2	116	O	7.5	 -	Recap
+Jul 31, 2013	 vs Kansas City	REG	L	4-3	102	U	8	 -	Recap
+Aug 1, 2013	 vs Kansas City	REG	L	7-2	150	O	7.5	 -	Recap
+Aug 2, 2013	 vs Houston	REG	W	4-3	-168	U	8.5	 -	Recap
+Aug 3, 2013	 vs Houston	REG	W	6-4	-156	O	8.5	 -	Recap
+Aug 4, 2013	 vs Houston	REG	W	3-2	-169	U	8.5	 -	Recap
+Aug 5, 2013	 @ Kansas City	REG	L	13-0	142	O	8.5	 -	Recap
+Aug 6, 2013	 @ Kansas City	REG	W	7-0	174	U	7.5	 -	Recap
+Aug 7, 2013	 @ Kansas City	REG	L	5-2	138	U	8	 -	Recap
+Aug 9, 2013	 @ Chi White Sox	REG	W	7-5	124	O	9	 -	Recap
+Aug 9, 2013	 @ Chi White Sox	REG	W	3-2	125	U	9	 -	Recap
+Aug 10, 2013	 @ Chi White Sox	REG	L	5-4	101	P	9	 -	Recap
+Aug 11, 2013	 @ Chi White Sox	REG	W	5-2	129	U	8.5	 -	Recap
+Aug 12, 2013	 vs Cleveland	REG	W	3-0	112	U	8	 -	Recap
+Aug 13, 2013	 vs Cleveland	REG	L	5-2	-123	U	8.5	 -	Recap
+Aug 14, 2013	 vs Cleveland	REG	L	9-8	-113	O	9.5	 -	Recap
+Aug 15, 2013	 vs Chi White Sox	REG	W	4-3	-139	U	8.5	 -	Recap
+Aug 16, 2013	 vs Chi White Sox	REG	L	5-2	-117	U	8	 -	Recap
+Aug 17, 2013	 vs Chi White Sox	REG	L	8-5	118	O	7	 -	Recap
+Aug 18, 2013	 vs Chi White Sox	REG	L	5-2	-124	U	8	 -	Recap
+Aug 19, 2013	 vs NY Mets	REG	L	6-1	-139	U	8.5	 -	Recap
+Aug 20, 2013	 @ Detroit	REG	W	6-3	178	P	9	 -	Recap
+Aug 21, 2013	 @ Detroit	REG	L	7-1	245	P	8	 -	Recap
+Aug 22, 2013	 @ Detroit	REG	W	7-6	240	O	8	 -	Recap
+Aug 23, 2013	 @ Cleveland	REG	W	5-1	145	U	8.5	 -	Recap
+Aug 24, 2013	 @ Cleveland	REG	L	7-2	163	O	8.5	 -	Recap
+Aug 25, 2013	 @ Cleveland	REG	L	3-1	152	U	8.5	 -	Recap
+Aug 27, 2013	 vs Kansas City	REG	L	6-1	154	U	8.5	 -	Recap
+Aug 28, 2013	 vs Kansas City	REG	L	8-1	109	O	8.5	 -	Recap
+Aug 29, 2013	 vs Kansas City	REG	L	3-1	123	U	8	 -	Recap
+Aug 30, 2013	 @ Texas	REG	W	3-2	305	U	8.5	 -	Recap
+Aug 31, 2013	 @ Texas	REG	L	2-1	210	U	9	 -	Recap
+Sep 1, 2013	 @ Texas	REG	W	4-2	188	U	9.5	 -	Recap
+Sep 2, 2013	 @ Houston	REG	W	10-6	-125	O	8.5	 -	Recap
+Sep 3, 2013	 @ Houston	REG	W	9-6	105	O	8.5	 -	Recap
+Sep 4, 2013	 @ Houston	REG	L	6-5	-101	O	8.5	 -	Recap
+Sep 6, 2013	 vs Toronto	REG	L	6-5	110	O	7.5	 -	Recap
+Sep 7, 2013	 vs Toronto	REG	L	11-2	-113	O	8.5	 -	Recap
+Sep 8, 2013	 vs Toronto	REG	L	2-0	-109	U	8.5	 -	Recap
+Sep 9, 2013	 vs LA Angels	REG	W	6-3	154	O	8.5	 -	Recap
+Sep 10, 2013	 vs Oakland	REG	W	4-3	168	U	8.5	 -	Recap
+Sep 11, 2013	 vs Oakland	REG	L	18-3	153	O	8	 -	Recap
+Sep 12, 2013	 vs Oakland	REG	L	8-2	172	O	8.5	 -	Recap
+Sep 13, 2013	 vs Tampa Bay	REG	L	3-0	151	U	8	 -	Recap
+Sep 14, 2013	 vs Tampa Bay	REG	L	7-0	151	U	7.5	 -	Recap
+Sep 15, 2013	 vs Tampa Bay	REG	W	6-4	200	O	7.5	 -	Recap
+Sep 16, 2013	 @ Chi White Sox	REG	L	12-1	110	O	8.5	 -	Recap
+Sep 17, 2013	 @ Chi White Sox	REG	L	4-3	135	U	7.5	 -	Recap
+Sep 18, 2013	 @ Chi White Sox	REG	W	4-3	128	U	8.5	 -	Recap
+Sep 19, 2013	 @ Oakland	REG	L	8-6	188	O	7.5	 -	Recap
+Sep 20, 2013	 @ Oakland	REG	L	11-0	189	O	7.5	 -	Recap
+Sep 21, 2013	 @ Oakland	REG	L	9-1	225	O	8	 -	Recap
+Sep 22, 2013	 @ Oakland	REG	L	11-7	237	O	8	 -	Recap
+Sep 23, 2013	 vs Detroit	REG	W	4-3	185	U	7.5	 -	Recap
+Sep 24, 2013	 vs Detroit	REG	L	4-2	190	U	8.5	 -	Recap
+Sep 25, 2013	 vs Detroit	REG	L	1-0	215	U	7.5	 -	Recap
+Sep 26, 2013	 vs Cleveland	REG	L	6-5	138	O	8	 -	Recap
+Sep 27, 2013	 vs Cleveland	REG	L	12-6	178	O	8.5	 -	Recap
+Sep 28, 2013	 vs Cleveland	REG	L	5-1	185	U	8.5	 -	Recap
+Sep 29, 2013	 vs Cleveland	REG	L	5-1	199	U	8	 -	Recap
+Apr 2, 2013	 @ Toronto	REG	W	4-1	164	U	8.5	 -	Recap
+Apr 3, 2013	 @ Toronto	REG	W	3-2	160	U	9	 -	Recap
+Apr 4, 2013	 @ Toronto	REG	L	10-8	170	O	9	 -	Recap
+Apr 5, 2013	 @ Tampa Bay	REG	L	4-0	135	U	7.5	 -	Recap
+Apr 6, 2013	 @ Tampa Bay	REG	L	6-0	146	U	8	 -	Recap
+Apr 7, 2013	 @ Tampa Bay	REG	W	13-0	182	O	7	 -	Recap
+Apr 8, 2013	 vs NY Yankees	REG	L	11-6	-116	O	8.5	 -	Recap
+Apr 9, 2013	 vs NY Yankees	REG	L	14-1	110	O	8	 -	Recap
+Apr 12, 2013	 vs Chi White Sox	REG	W	1-0	-138	U	7.5	 -	Recap
+Apr 13, 2013	 vs Chi White Sox	REG	W	9-4	117	O	7.5	 -	Recap
+Apr 14, 2013	 vs Chi White Sox	REG	L	3-1	113	U	8	 -	Recap
+Apr 16, 2013	 vs Boston	REG	L	7-2	107	O	8	 -	Recap
+Apr 17, 2013	 vs Boston	REG	L	6-3	-132	O	8	 -	Recap
+Apr 18, 2013	 vs Boston	REG	L	6-3	112	O	8	 -	Recap
+Apr 19, 2013	 @ Houston	REG	L	3-2	-124	U	8.5	 -	Recap
+Apr 20, 2013	 @ Houston	REG	W	19-6	-112	O	9	 -	Recap
+Apr 21, 2013	 @ Houston	REG	W	5-4	-105	P	9	 -	Recap
+Apr 22, 2013	 @ Chi White Sox	REG	W	3-2	-119	U	8.5	 -	Recap
+Apr 24, 2013	 @ Chi White Sox	REG	L	3-2	126	U	7.5	 -	Recap
+Apr 27, 2013	 @ Kansas City	REG	L	3-2	140	U	9	 -	Recap
+Apr 28, 2013	 @ Kansas City	REG	L	9-0	-103	O	8.5	 -	Recap
+Apr 28, 2013	 @ Kansas City	REG	W	10-3	128	O	9	 -	Recap
+Apr 29, 2013	 @ Kansas City	REG	W	9-0	134	P	9	 -	Recap
+Apr 30, 2013	 vs Philadelphia	REG	W	14-2	-103	O	8	 -	Recap
+May 1, 2013	 vs Philadelphia	REG	W	6-0	116	U	8	 -	Recap
+May 3, 2013	 vs Minnesota	REG	W	7-6	-148	O	8.5	 -	Recap
+May 4, 2013	 vs Minnesota	REG	W	7-3	-111	O	9	 -	Recap
+May 5, 2013	 vs Minnesota	REG	L	4-2	-151	U	9	 -	Recap
+May 6, 2013	 vs Oakland	REG	W	7-3	-113	O	9	 -	Recap
+May 7, 2013	 vs Oakland	REG	W	1-0	-103	U	8.5	 -	Recap
+May 8, 2013	 vs Oakland	REG	W	4-3	-111	U	8.5	 -	Recap
+May 9, 2013	 vs Oakland	REG	W	9-2	105	O	8.5	 -	Recap
+May 10, 2013	 @ Detroit	REG	L	10-4	180	O	8.5	 -	Recap
+May 11, 2013	 @ Detroit	REG	W	7-6	230	O	8	 -	Recap
+May 12, 2013	 @ Detroit	REG	W	4-3	133	U	9	 -	Recap
+May 13, 2013	 vs NY Yankees	REG	W	1-0	-139	U	8	 -	Recap
+May 13, 2013	 vs NY Yankees	REG	L	7-0	-124	U	8.5	 -	Recap
+May 14, 2013	 @ Philadelphia	REG	L	6-2	-122	U	8.5	 -	Recap
+May 15, 2013	 @ Philadelphia	REG	W	10-4	150	O	8	 -	Recap
+May 17, 2013	 vs Seattle	REG	W	6-3	-152	P	9	 -	Recap
+May 18, 2013	 vs Seattle	REG	W	5-4	-152	O	8.5	 -	Recap
+May 19, 2013	 vs Seattle	REG	W	6-0	101	U	7.5	 -	Recap
+May 20, 2013	 vs Seattle	REG	W	10-8	-103	O	8	 -	Recap
+May 21, 2013	 vs Detroit	REG	L	5-1	132	U	9	 -	Recap
+May 22, 2013	 vs Detroit	REG	L	11-7	140	O	8	 -	Recap
+May 23, 2013	 @ Boston	REG	W	12-3	144	O	9.5	 -	Recap
+May 24, 2013	 @ Boston	REG	L	8-1	108	P	9	 -	Recap
+May 25, 2013	 @ Boston	REG	L	7-4	170	O	9	 -	Recap
+May 26, 2013	 @ Boston	REG	L	6-5	130	O	9.5	 -	Recap
+May 27, 2013	 @ Cincinnati	REG	L	4-2	139	U	9	 -	Recap
+May 28, 2013	 @ Cincinnati	REG	L	8-2	138	O	8.5	 -	Recap
+May 29, 2013	 vs Cincinnati	REG	W	5-2	-135	U	8.5	 -	Recap
+May 30, 2013	 vs Cincinnati	REG	W	7-1	106	U	9	 -	Recap
+May 31, 2013	 vs Tampa Bay	REG	L	9-2	-105	O	8.5	 -	Recap
+Jun 1, 2013	 vs Tampa Bay	REG	W	5-0	-128	U	9.5	 -	Recap
+Jun 2, 2013	 vs Tampa Bay	REG	L	11-3	-106	O	9	 -	Recap
+Jun 3, 2013	 @ NY Yankees	REG	L	7-4	105	O	8.5	 -	Recap
+Jun 4, 2013	 @ NY Yankees	REG	L	4-3	127	U	9	 -	Recap
+Jun 5, 2013	 @ NY Yankees	REG	L	6-4	170	O	8	 -	Recap
+Jun 7, 2013	 @ Detroit	REG	L	7-5	195	O	8	 -	Recap
+Jun 8, 2013	 @ Detroit	REG	L	6-4	170	O	9.5	 -	Recap
+Jun 9, 2013	 @ Detroit	REG	L	4-1	110	U	9	 -	Recap
+Jun 10, 2013	 @ Texas	REG	L	6-3	126	U	10.5	 -	Recap
+Jun 11, 2013	 @ Texas	REG	W	5-2	158	U	9.5	 -	Recap
+Jun 12, 2013	 @ Texas	REG	W	5-2	134	U	10	 -	Recap
+Jun 14, 2013	 vs Washington	REG	W	2-1	-135	U	7.5	 -	Recap
+Jun 15, 2013	 vs Washington	REG	L	7-6	100	O	7.5	 -	Recap
+Jun 16, 2013	 vs Washington	REG	W	2-0	100	U	7.5	 -	Recap
+Jun 17, 2013	 vs Kansas City	REG	L	2-1	128	U	8	 -	Recap
+Jun 18, 2013	 vs Kansas City	REG	W	4-3	102	U	7.5	 -	Recap
+Jun 19, 2013	 vs Kansas City	REG	W	6-3	-150	O	8	 -	Recap
+Jun 21, 2013	 vs Minnesota	REG	W	5-1	-125	U	9	 -	Recap
+Jun 22, 2013	 vs Minnesota	REG	W	8-7	-145	O	9	 -	Recap
+Jun 23, 2013	 vs Minnesota	REG	L	5-3	-151	U	9.5	 -	Recap
+Jun 24, 2013	 @ Baltimore	REG	W	5-2	135	U	10	 -	Recap
+Jun 25, 2013	 @ Baltimore	REG	L	6-3	110	U	9.5	 -	Recap
+Jun 26, 2013	 @ Baltimore	REG	W	4-3	135	U	9.5	 -	Recap
+Jun 27, 2013	 @ Baltimore	REG	L	7-3	128	O	9.5	 -	Recap
+Jun 28, 2013	 @ Chi White Sox	REG	W	19-10	120	O	9	 -	Recap
+Jun 28, 2013	 @ Chi White Sox	REG	W	9-8	117	O	9	 -	Recap
+Jun 29, 2013	 @ Chi White Sox	REG	W	4-3	-118	U	9	 -	Recap
+Jun 30, 2013	 @ Chi White Sox	REG	W	4-0	123	U	7.5	 -	Recap
+Jul 2, 2013	 @ Kansas City	REG	W	6-5	100	O	8.5	 -	Recap
+Jul 3, 2013	 @ Kansas City	REG	L	6-5	100	O	9	 -	Recap
+Jul 4, 2013	 @ Kansas City	REG	L	10-7	130	O	8	 -	Recap
+Jul 5, 2013	 vs Detroit	REG	L	7-0	-125	U	8.5	 -	Recap
+Jul 6, 2013	 vs Detroit	REG	L	9-4	150	O	9	 -	Recap
+Jul 7, 2013	 vs Detroit	REG	W	9-6	121	O	8.5	 -	Recap
+Jul 8, 2013	 vs Detroit	REG	L	4-2	144	U	8.5	 -	Recap
+Jul 9, 2013	 vs Toronto	REG	W	3-0	100	U	9	 -	Recap
+Jul 10, 2013	 vs Toronto	REG	L	5-4	-150	O	8.5	 -	Recap
+Jul 11, 2013	 vs Toronto	REG	W	4-2	107	U	8.5	 -	Recap
+Jul 12, 2013	 vs Kansas City	REG	W	3-0	-144	U	8.5	 -	Recap
+Jul 13, 2013	 vs Kansas City	REG	W	5-3	-139	U	9	 -	Recap
+Jul 14, 2013	 vs Kansas City	REG	W	6-4	-102	O	8	 -	Recap
+Jul 19, 2013	 @ Minnesota	REG	L	3-2	-122	U	9	 -	Recap
+Jul 20, 2013	 @ Minnesota	REG	L	3-2	-129	U	9	 -	Recap
+Jul 21, 2013	 @ Minnesota	REG	W	7-1	-136	U	9	 -	Recap
+Jul 22, 2013	 @ Seattle	REG	L	2-1	-101	U	8.5	 -	Recap
+Jul 23, 2013	 @ Seattle	REG	L	4-3	101	U	8.5	 -	Recap
+Jul 24, 2013	 @ Seattle	REG	W	10-1	-120	O	8	 -	Recap
+Jul 26, 2013	 vs Texas	REG	W	11-8	-122	O	8	 -	Recap
+Jul 27, 2013	 vs Texas	REG	W	1-0	105	U	7.5	 -	Recap
+Jul 28, 2013	 vs Texas	REG	W	6-0	102	U	8	 -	Recap
+Jul 29, 2013	 vs Chi White Sox	REG	W	3-2	-158	U	8	 -	Recap
+Jul 30, 2013	 vs Chi White Sox	REG	W	7-4	-188	O	8	 -	Recap
+Jul 31, 2013	 vs Chi White Sox	REG	W	6-5	-155	O	7.5	 -	Recap
+Aug 1, 2013	 vs Chi White Sox	REG	W	6-1	-125	O	6.5	 -	Recap
+Aug 2, 2013	 @ Miami	REG	L	10-0	104	O	7	 -	Recap
+Aug 3, 2013	 @ Miami	REG	W	4-3	-123	U	7.5	 -	Recap
+Aug 4, 2013	 @ Miami	REG	W	2-0	-125	U	7.5	 -	Recap
+Aug 5, 2013	 vs Detroit	REG	L	4-2	108	U	7.5	 -	Recap
+Aug 6, 2013	 vs Detroit	REG	L	5-1	-105	U	7.5	 -	Recap
+Aug 7, 2013	 vs Detroit	REG	L	6-5	100	O	8	 -	Recap
+Aug 8, 2013	 vs Detroit	REG	L	10-3	150	O	7.5	 -	Recap
+Aug 9, 2013	 vs LA Angels	REG	L	5-2	-117	U	7.5	 -	Recap
+Aug 10, 2013	 vs LA Angels	REG	L	7-2	-111	O	8.5	 -	Recap
+Aug 11, 2013	 vs LA Angels	REG	W	6-5	-183	O	8.5	 -	Recap
+Aug 12, 2013	 @ Minnesota	REG	L	3-0	-122	U	8	 -	Recap
+Aug 13, 2013	 @ Minnesota	REG	W	5-2	113	U	8.5	 -	Recap
+Aug 14, 2013	 @ Minnesota	REG	W	9-8	103	O	9.5	 -	Recap
+Aug 16, 2013	 @ Oakland	REG	L	3-2	127	U	7	 -	Recap
+Aug 17, 2013	 @ Oakland	REG	W	7-1	147	P	8	 -	Recap
+Aug 18, 2013	 @ Oakland	REG	L	7-3	127	O	8.5	 -	Recap
+Aug 19, 2013	 @ LA Angels	REG	W	5-2	113	U	7.5	 -	Recap
+Aug 20, 2013	 @ LA Angels	REG	W	4-1	-104	U	7.5	 -	Recap
+Aug 21, 2013	 @ LA Angels	REG	W	3-1	-150	U	8.5	 -	Recap
+Aug 23, 2013	 vs Minnesota	REG	L	5-1	-155	U	8.5	 -	Recap
+Aug 24, 2013	 vs Minnesota	REG	W	7-2	-173	O	8.5	 -	Recap
+Aug 25, 2013	 vs Minnesota	REG	W	3-1	-162	U	8.5	 -	Recap
+Aug 27, 2013	 @ Atlanta	REG	L	2-0	116	U	7	 -	Recap
+Aug 28, 2013	 @ Atlanta	REG	L	3-2	-109	U	7.5	 -	Recap
+Aug 29, 2013	 @ Atlanta	REG	L	3-1	134	U	7.5	 -	Recap
+Aug 30, 2013	 @ Detroit	REG	L	7-2	136	U	9.5	 -	Recap
+Aug 31, 2013	 @ Detroit	REG	L	10-5	156	O	8.5	 -	Recap
+Sep 1, 2013	 @ Detroit	REG	W	4-0	145	U	8.5	 -	Recap
+Sep 2, 2013	 vs Baltimore	REG	L	7-2	-122	O	8	 -	Recap
+Sep 3, 2013	 vs Baltimore	REG	W	4-3	111	U	8	 -	Recap
+Sep 4, 2013	 vs Baltimore	REG	W	6-4	-116	O	8.5	 -	Recap
+Sep 6, 2013	 vs NY Mets	REG	W	8-1	-168	O	8	 -	Recap
+Sep 7, 2013	 vs NY Mets	REG	W	9-4	-160	O	8	 -	Recap
+Sep 8, 2013	 vs NY Mets	REG	L	2-1	-255	U	8.5	 -	Recap
+Sep 9, 2013	 vs Kansas City	REG	W	4-3	-101	U	7.5	 -	Recap
+Sep 10, 2013	 vs Kansas City	REG	L	6-3	-117	P	9	 -	Recap
+Sep 11, 2013	 vs Kansas City	REG	L	6-2	105	O	7.5	 -	Recap
+Sep 12, 2013	 @ Chi White Sox	REG	W	14-3	-125	O	8.5	 -	Recap
+Sep 13, 2013	 @ Chi White Sox	REG	W	3-1	-134	U	8	 -	Recap
+Sep 14, 2013	 @ Chi White Sox	REG	W	8-1	-158	O	8.5	 -	Recap
+Sep 15, 2013	 @ Chi White Sox	REG	W	7-1	114	O	7.5	 -	Recap
+Sep 16, 2013	 @ Kansas City	REG	L	7-1	135	O	7.5	 -	Recap
+Sep 17, 2013	 @ Kansas City	REG	W	5-3	-105	P	8	 -	Recap
+Sep 18, 2013	 @ Kansas City	REG	L	7-2	-109	O	8	 -	Recap
+Sep 19, 2013	 vs Houston	REG	W	2-1	-260	U	8	 -	Recap
+Sep 20, 2013	 vs Houston	REG	W	2-1	-205	U	8	 -	Recap
+Sep 21, 2013	 vs Houston	REG	W	4-1	-270	U	8.5	 -	Recap
+Sep 22, 2013	 vs Houston	REG	W	9-2	-256	O	8	 -	Recap
+Sep 24, 2013	 vs Chi White Sox	REG	W	5-4	-205	O	7.5	 -	Recap
+Sep 25, 2013	 vs Chi White Sox	REG	W	7-2	-290	O	7	 -	Recap
+Sep 26, 2013	 @ Minnesota	REG	W	6-5	-148	O	8	 -	Recap
+Sep 27, 2013	 @ Minnesota	REG	W	12-6	-188	O	8.5	 -	Recap
+Sep 28, 2013	 @ Minnesota	REG	W	5-1	-200	U	8.5	 -	Recap
+Sep 29, 2013	 @ Minnesota	REG	W	5-1	-219	U	8	 -	Recap
+Oct 2, 2013	 vs Tampa Bay	PST	L	4-0	103	U	7	 -	Recap
+Apr 1, 2013	 @ Oakland	REG	W	2-0	106	U	6.5	 -	Recap
+Apr 2, 2013	 @ Oakland	REG	W	7-1	123	O	7	 -	Recap
+Apr 3, 2013	 @ Oakland	REG	L	6-2	136	O	7.5	 -	Recap
+Apr 4, 2013	 @ Oakland	REG	L	8-2	147	O	7.5	 -	Recap
+Apr 5, 2013	 @ Chi White Sox	REG	W	8-7	130	O	8	 -	Recap
+Apr 6, 2013	 @ Chi White Sox	REG	L	4-3	-139	U	7.5	 -	Recap
+Apr 7, 2013	 @ Chi White Sox	REG	L	4-3	150	P	7	 -	Recap
+Apr 8, 2013	 vs Houston	REG	W	3-0	-163	U	7.5	 -	Recap
+Apr 9, 2013	 vs Houston	REG	L	16-9	-152	O	7	 -	Recap
+Apr 10, 2013	 vs Houston	REG	L	8-3	-165	O	7.5	 -	Recap
+Apr 11, 2013	 vs Texas	REG	L	4-3	-145	P	7	 -	Recap
+Apr 12, 2013	 vs Texas	REG	W	3-1	132	U	6.5	 -	Recap
+Apr 13, 2013	 vs Texas	REG	L	3-1	126	U	7	 -	Recap
+Apr 14, 2013	 vs Texas	REG	W	4-3	120	U	8	 -	Recap
+Apr 16, 2013	 vs Detroit	REG	L	6-2	153	O	7.5	 -	Recap
+Apr 17, 2013	 vs Detroit	REG	L	2-1	106	U	6.5	 -	Recap
+Apr 18, 2013	 vs Detroit	REG	W	2-0	152	U	6.5	 -	Recap
+Apr 19, 2013	 @ Texas	REG	L	7-0	205	U	8	 -	Recap
+Apr 20, 2013	 @ Texas	REG	L	5-0	152	U	9.5	 -	Recap
+Apr 21, 2013	 @ Texas	REG	L	11-3	147	O	9.5	 -	Recap
+Apr 22, 2013	 @ Houston	REG	W	7-1	-165	P	8	 -	Recap
+Apr 23, 2013	 @ Houston	REG	L	3-2	-129	U	8	 -	Recap
+Apr 24, 2013	 @ Houston	REG	L	10-3	100	O	8	 -	Recap
+Apr 25, 2013	 vs LA Angels	REG	W	6-0	117	U	7.5	 -	Recap
+Apr 26, 2013	 vs LA Angels	REG	L	6-3	129	O	7.5	 -	Recap
+Apr 27, 2013	 vs LA Angels	REG	W	3-2	-154	U	7	 -	Recap
+Apr 28, 2013	 vs LA Angels	REG	W	2-1	-108	U	7	 -	Recap
+Apr 29, 2013	 vs Baltimore	REG	W	6-2	-101	O	7.5	 -	Recap
+Apr 30, 2013	 vs Baltimore	REG	L	7-2	-104	O	7	 -	Recap
+May 1, 2013	 vs Baltimore	REG	W	8-3	118	O	7.5	 -	Recap
+May 3, 2013	 @ Toronto	REG	W	4-0	-132	U	7.5	 -	Recap
+May 4, 2013	 @ Toronto	REG	W	8-1	124	O	7.5	 -	Recap
+May 5, 2013	 @ Toronto	REG	L	10-2	146	O	9	 -	Recap
+May 7, 2013	 @ Pittsburgh	REG	L	4-1	122	U	8	 -	Recap
+May 8, 2013	 @ Pittsburgh	REG	W	2-1	-105	U	6.5	 -	Recap
+May 10, 2013	 vs Oakland	REG	W	6-3	-124	O	7	 -	Recap
+May 11, 2013	 vs Oakland	REG	L	4-3	101	U	8.5	 -	Recap
+May 12, 2013	 vs Oakland	REG	W	6-1	112	U	7.5	 -	Recap
+May 14, 2013	 @ NY Yankees	REG	L	4-3	104	P	7	 -	Recap
+May 15, 2013	 @ NY Yankees	REG	W	12-2	113	O	7.5	 -	Recap
+May 16, 2013	 @ NY Yankees	REG	W	3-2	177	U	9	 -	Recap
+May 17, 2013	 @ Cleveland	REG	L	6-3	142	P	9	 -	Recap
+May 18, 2013	 @ Cleveland	REG	L	5-4	142	O	8.5	 -	Recap
+May 19, 2013	 @ Cleveland	REG	L	6-0	-111	U	7.5	 -	Recap
+May 20, 2013	 @ Cleveland	REG	L	10-8	-107	O	8	 -	Recap
+May 21, 2013	 @ LA Angels	REG	L	12-0	147	O	9	 -	Recap
+May 22, 2013	 @ LA Angels	REG	L	7-1	174	U	8.5	 -	Recap
+May 24, 2013	 vs Texas	REG	L	9-5	101	O	8	 -	Recap
+May 25, 2013	 vs Texas	REG	L	5-2	-138	O	6.5	 -	Recap
+May 26, 2013	 vs Texas	REG	W	4-3	-125	P	7	 -	Recap
+May 27, 2013	 vs San Diego	REG	W	9-0	-123	O	8.5	 -	Recap
+May 28, 2013	 vs San Diego	REG	L	6-1	-114	U	8	 -	Recap
+May 29, 2013	 @ San Diego	REG	L	3-2	145	U	7.5	 -	Recap
+May 30, 2013	 @ San Diego	REG	W	7-1	-124	O	6.5	 -	Recap
+May 31, 2013	 @ Minnesota	REG	W	3-0	-120	U	8	 -	Recap
+Jun 1, 2013	 @ Minnesota	REG	L	5-4	103	O	8.5	 -	Recap
+Jun 2, 2013	 @ Minnesota	REG	L	10-0	135	O	8.5	 -	Recap
+Jun 3, 2013	 vs Chi White Sox	REG	W	4-2	-106	U	7	 -	Recap
+Jun 4, 2013	 vs Chi White Sox	REG	W	7-4	-152	O	6	 -	Recap
+Jun 5, 2013	 vs Chi White Sox	REG	L	7-5	-170	O	7	 -	Recap
+Jun 6, 2013	 vs NY Yankees	REG	L	6-1	103	U	7.5	 -	Recap
+Jun 7, 2013	 vs NY Yankees	REG	W	4-1	163	U	8	 -	Recap
+Jun 8, 2013	 vs NY Yankees	REG	L	3-1	112	U	7.5	 -	Recap
+Jun 9, 2013	 vs NY Yankees	REG	L	2-1	-146	U	6.5	 -	Recap
+Jun 10, 2013	 vs Houston	REG	W	3-2	-240	U	6.5	 -	Recap
+Jun 11, 2013	 vs Houston	REG	W	4-0	-158	U	7	 -	Recap
+Jun 12, 2013	 vs Houston	REG	L	6-1	-134	U	7.5	 -	Recap
+Jun 14, 2013	 @ Oakland	REG	W	3-2	165	U	7.5	 -	Recap
+Jun 15, 2013	 @ Oakland	REG	W	4-0	110	U	6.5	 -	Recap
+Jun 16, 2013	 @ Oakland	REG	L	10-2	125	O	7	 -	Recap
+Jun 17, 2013	 @ LA Angels	REG	L	11-3	180	O	8	 -	Recap
+Jun 18, 2013	 @ LA Angels	REG	W	3-2	185	U	9	 -	Recap
+Jun 19, 2013	 @ LA Angels	REG	L	1-0	205	U	8	 -	Recap
+Jun 20, 2013	 @ LA Angels	REG	L	10-9	-105	O	7	 -	Recap
+Jun 21, 2013	 vs Oakland	REG	L	6-3	-103	O	6.5	 -	Recap
+Jun 22, 2013	 vs Oakland	REG	W	7-5	120	O	7.5	 -	Recap
+Jun 23, 2013	 vs Oakland	REG	W	6-3	141	O	7.5	 -	Recap
+Jun 25, 2013	 vs Pittsburgh	REG	L	9-4	110	O	7	 -	Recap
+Jun 26, 2013	 vs Pittsburgh	REG	L	4-2	-171	U	6.5	 -	Recap
+Jun 28, 2013	 vs Chi Cubs	REG	W	5-4	-154	O	7	 -	Recap
+Jun 29, 2013	 vs Chi Cubs	REG	L	5-3	-109	O	7	 -	Recap
+Jun 30, 2013	 vs Chi Cubs	REG	L	7-6	-114	O	8.5	 -	Recap
+Jul 2, 2013	 @ Texas	REG	W	9-2	142	O	9.5	 -	Recap
+Jul 3, 2013	 @ Texas	REG	W	4-2	130	U	8	 -	Recap
+Jul 4, 2013	 @ Texas	REG	L	5-4	125	O	8.5	 -	Recap
+Jul 5, 2013	 @ Cincinnati	REG	W	4-2	188	U	8.5	 -	Recap
+Jul 6, 2013	 @ Cincinnati	REG	L	13-4	228	O	8.5	 -	Recap
+Jul 7, 2013	 @ Cincinnati	REG	W	3-1	168	U	8.5	 -	Recap
+Jul 8, 2013	 vs Boston	REG	W	11-4	-119	O	7	 -	Recap
+Jul 9, 2013	 vs Boston	REG	L	11-8	-131	O	7.5	 -	Recap
+Jul 10, 2013	 vs Boston	REG	L	11-4	116	O	8	 -	Recap
+Jul 11, 2013	 vs Boston	REG	L	8-7	120	O	8	 -	Recap
+Jul 12, 2013	 vs LA Angels	REG	W	8-3	118	O	8	 -	Recap
+Jul 13, 2013	 vs LA Angels	REG	W	6-0	-118	U	7	 -	Recap
+Jul 14, 2013	 vs LA Angels	REG	W	4-3	-110	U	8	 -	Recap
+Jul 19, 2013	 @ Houston	REG	W	10-7	-115	O	8.5	 -	Recap
+Jul 20, 2013	 @ Houston	REG	W	4-2	-137	U	8	 -	Recap
+Jul 21, 2013	 @ Houston	REG	W	12-5	-210	O	7.5	 -	Recap
+Jul 22, 2013	 vs Cleveland	REG	W	2-1	-109	U	8.5	 -	Recap
+Jul 23, 2013	 vs Cleveland	REG	W	4-3	-111	U	8.5	 -	Recap
+Jul 24, 2013	 vs Cleveland	REG	L	10-1	110	O	8	 -	Recap
+Jul 25, 2013	 vs Minnesota	REG	W	8-2	-188	O	7.5	 -	Recap
+Jul 26, 2013	 vs Minnesota	REG	L	3-2	-240	U	7	 -	Recap
+Jul 27, 2013	 vs Minnesota	REG	L	4-0	-140	U	8	 -	Recap
+Jul 28, 2013	 vs Minnesota	REG	W	6-4	-136	O	8.5	 -	Recap
+Jul 30, 2013	 @ Boston	REG	L	8-2	177	P	10	 -	Recap
+Jul 31, 2013	 @ Boston	REG	L	5-4	148	O	8.5	 -	Recap
+Aug 1, 2013	 @ Boston	REG	L	8-7	-105	O	8.5	 -	Recap
+Aug 2, 2013	 @ Baltimore	REG	L	11-8	168	O	9	 -	Recap
+Aug 3, 2013	 @ Baltimore	REG	W	8-4	158	O	9	 -	Recap
+Aug 4, 2013	 @ Baltimore	REG	W	3-2	177	U	9	 -	Recap
+Aug 5, 2013	 vs Toronto	REG	L	3-1	-129	U	7.5	 -	Recap
+Aug 6, 2013	 vs Toronto	REG	L	7-2	-165	O	7.5	 -	Recap
+Aug 7, 2013	 vs Toronto	REG	W	9-7	102	O	9	 -	Recap
+Aug 9, 2013	 vs Milwaukee	REG	L	10-5	-133	O	7.5	 -	Recap
+Aug 10, 2013	 vs Milwaukee	REG	L	10-0	-167	O	7	 -	Recap
+Aug 11, 2013	 vs Milwaukee	REG	W	2-0	-200	U	7	 -	Recap
+Aug 13, 2013	 @ Tampa Bay	REG	W	5-4	168	O	8	 -	Recap
+Aug 14, 2013	 @ Tampa Bay	REG	L	5-4	248	O	7	 -	Recap
+Aug 15, 2013	 @ Tampa Bay	REG	L	7-1	188	P	8	 -	Recap
+Aug 16, 2013	 @ Texas	REG	W	3-1	167	U	8	 -	Recap
+Aug 17, 2013	 @ Texas	REG	L	15-3	103	O	8	 -	Recap
+Aug 18, 2013	 @ Texas	REG	W	4-3	230	U	8	 -	Recap
+Aug 19, 2013	 @ Oakland	REG	L	2-1	175	U	8	 -	Recap
+Aug 20, 2013	 @ Oakland	REG	W	7-4	179	O	8.5	 -	Recap
+Aug 21, 2013	 @ Oakland	REG	W	5-3	132	O	7.5	 -	Recap
+Aug 23, 2013	 vs LA Angels	REG	L	2-0	-168	U	7.5	 -	Recap
+Aug 24, 2013	 vs LA Angels	REG	L	5-1	-122	U	8	 -	Recap
+Aug 25, 2013	 vs LA Angels	REG	L	7-1	120	O	7.5	 -	Recap
+Aug 26, 2013	 vs Texas	REG	L	8-3	117	O	8.5	 -	Recap
+Aug 27, 2013	 vs Texas	REG	L	4-3	122	P	7	 -	Recap
+Aug 28, 2013	 vs Texas	REG	L	12-4	-115	O	7	 -	Recap
+Aug 29, 2013	 @ Houston	REG	W	3-2	-138	U	9	 -	Recap
+Aug 30, 2013	 @ Houston	REG	W	7-1	-132	U	9	 -	Recap
+Aug 31, 2013	 @ Houston	REG	W	3-1	111	U	9	 -	Recap
+Sep 1, 2013	 @ Houston	REG	L	2-0	-151	U	8	 -	Recap
+Sep 2, 2013	 @ Kansas City	REG	L	3-1	108	U	7	 -	Recap
+Sep 3, 2013	 @ Kansas City	REG	L	4-3	154	U	8	 -	Recap
+Sep 4, 2013	 @ Kansas City	REG	W	6-4	155	O	8	 -	Recap
+Sep 5, 2013	 @ Kansas City	REG	L	7-6	156	O	9	 -	Recap
+Sep 6, 2013	 vs Tampa Bay	REG	W	6-4	114	O	7	 -	Recap
+Sep 7, 2013	 vs Tampa Bay	REG	W	6-2	140	P	8	 -	Recap
+Sep 8, 2013	 vs Tampa Bay	REG	L	4-1	137	U	7.5	 -	Recap
+Sep 9, 2013	 vs Houston	REG	L	6-4	-168	O	7.5	 -	Recap
+Sep 10, 2013	 vs Houston	REG	L	13-2	-150	O	8	 -	Recap
+Sep 11, 2013	 vs Houston	REG	L	6-1	-148	U	9.5	 -	Recap
+Sep 13, 2013	 @ St. Louis	REG	L	2-1	169	U	7	 -	Recap
+Sep 14, 2013	 @ St. Louis	REG	W	4-1	186	U	7.5	 -	Recap
+Sep 15, 2013	 @ St. Louis	REG	L	12-2	181	O	7.5	 -	Recap
+Sep 16, 2013	 @ Detroit	REG	L	4-2	200	U	9	 -	Recap
+Sep 17, 2013	 @ Detroit	REG	L	6-2	245	P	8	 -	Recap
+Sep 18, 2013	 @ Detroit	REG	W	8-0	160	O	7.5	 -	Recap
+Sep 19, 2013	 @ Detroit	REG	L	5-4	182	O	8.5	 -	Recap
+Sep 20, 2013	 @ LA Angels	REG	L	3-2	119	U	8.5	 -	Recap
+Sep 21, 2013	 @ LA Angels	REG	L	6-5	160	O	9	 -	Recap
+Sep 22, 2013	 @ LA Angels	REG	W	3-2	-102	U	7	 -	Recap
+Sep 23, 2013	 vs Kansas City	REG	L	6-5	130	O	7.5	 -	Recap
+Sep 24, 2013	 vs Kansas City	REG	W	4-0	115	U	7	 -	Recap
+Sep 25, 2013	 vs Kansas City	REG	W	6-0	-118	U	6.5	 -	Recap
+Sep 27, 2013	 vs Oakland	REG	L	8-2	-120	O	6.5	 -	Recap
+Sep 28, 2013	 vs Oakland	REG	W	7-5	137	O	7.5	 -	Recap
+Sep 29, 2013	 vs Oakland	REG	L	9-0	123	O	7.5	 -	Recap
+Apr 1, 2013	 vs Seattle	REG	L	2-0	-116	U	6.5	 -	Recap
+Apr 2, 2013	 vs Seattle	REG	L	7-1	-133	O	7	 -	Recap
+Apr 3, 2013	 vs Seattle	REG	W	6-2	-146	O	7.5	 -	Recap
+Apr 4, 2013	 vs Seattle	REG	W	8-2	-157	O	7.5	 -	Recap
+Apr 5, 2013	 @ Houston	REG	W	8-3	-135	O	8.5	 -	Recap
+Apr 6, 2013	 @ Houston	REG	W	6-3	-133	O	8	 -	Recap
+Apr 7, 2013	 @ Houston	REG	W	9-3	-157	O	8	 -	Recap
+Apr 9, 2013	 @ LA Angels	REG	W	9-5	135	O	7.5	 -	Recap
+Apr 10, 2013	 @ LA Angels	REG	W	11-5	121	O	8.5	 -	Recap
+Apr 11, 2013	 @ LA Angels	REG	W	8-1	132	O	8	 -	Recap
+Apr 12, 2013	 vs Detroit	REG	W	4-3	105	U	7.5	 -	Recap
+Apr 13, 2013	 vs Detroit	REG	L	7-3	119	O	7	 -	Recap
+Apr 14, 2013	 vs Detroit	REG	L	10-1	122	O	8	 -	Recap
+Apr 15, 2013	 vs Houston	REG	W	11-2	-194	O	7	 -	Recap
+Apr 16, 2013	 vs Houston	REG	W	4-3	-235	U	7.5	 -	Recap
+Apr 17, 2013	 vs Houston	REG	W	7-5	-187	O	8	 -	Recap
+Apr 19, 2013	 @ Tampa Bay	REG	L	8-3	113	O	7.5	 -	Recap
+Apr 20, 2013	 @ Tampa Bay	REG	L	1-0	122	U	8	 -	Recap
+Apr 21, 2013	 @ Tampa Bay	REG	L	8-1	-110	O	8	 -	Recap
+Apr 22, 2013	 @ Boston	REG	L	9-6	126	O	8	 -	Recap
+Apr 23, 2013	 @ Boston	REG	W	13-0	107	O	8.5	 -	Recap
+Apr 24, 2013	 @ Boston	REG	L	6-5	140	O	8	 -	Recap
+Apr 25, 2013	 vs Baltimore	REG	L	10-2	-134	O	8	 -	Recap
+Apr 26, 2013	 vs Baltimore	REG	L	3-0	-129	U	7.5	 -	Recap
+Apr 27, 2013	 vs Baltimore	REG	L	7-3	-152	O	8	 -	Recap
+Apr 28, 2013	 vs Baltimore	REG	W	9-8	-153	O	8	 -	Recap
+Apr 29, 2013	 vs LA Angels	REG	W	10-8	-130	O	8.5	 -	Recap
+Apr 30, 2013	 vs LA Angels	REG	W	10-6	-107	O	8.5	 -	Recap
+May 1, 2013	 vs LA Angels	REG	L	5-4	-118	O	8.5	 -	Recap
+May 3, 2013	 @ NY Yankees	REG	W	2-0	134	U	8	 -	Recap
+May 4, 2013	 @ NY Yankees	REG	L	4-2	100	U	8.5	 -	Recap
+May 5, 2013	 @ NY Yankees	REG	W	5-4	116	O	8	 -	Recap
+May 6, 2013	 @ Cleveland	REG	L	7-3	103	O	9	 -	Recap
+May 7, 2013	 @ Cleveland	REG	L	1-0	-107	U	8.5	 -	Recap
+May 8, 2013	 @ Cleveland	REG	L	4-3	101	U	8.5	 -	Recap
+May 9, 2013	 @ Cleveland	REG	L	9-2	-115	O	8.5	 -	Recap
+May 10, 2013	 @ Seattle	REG	L	6-3	114	O	7	 -	Recap
+May 11, 2013	 @ Seattle	REG	W	4-3	-111	U	8.5	 -	Recap
+May 12, 2013	 @ Seattle	REG	L	6-1	-122	U	7.5	 -	Recap
+May 13, 2013	 vs Texas	REG	W	5-1	-120	U	8	 -	Recap
+May 14, 2013	 vs Texas	REG	L	6-5	102	O	7.5	 -	Recap
+May 15, 2013	 vs Texas	REG	L	6-2	-115	U	8.5	 -	Recap
+May 17, 2013	 vs Kansas City	REG	W	2-1	-102	U	7	 -	Recap
+May 18, 2013	 vs Kansas City	REG	W	2-1	-139	U	7	 -	Recap
+May 19, 2013	 vs Kansas City	REG	W	4-3	-168	U	8	 -	Recap
+May 20, 2013	 @ Texas	REG	W	9-2	120	O	10.5	 -	Recap
+May 21, 2013	 @ Texas	REG	W	1-0	188	U	8.5	 -	Recap
+May 22, 2013	 @ Texas	REG	L	3-1	104	U	10	 -	Recap
+May 24, 2013	 @ Houston	REG	W	6-5	-155	O	8.5	 -	Recap
+May 25, 2013	 @ Houston	REG	W	11-5	-157	O	8	 -	Recap
+May 26, 2013	 @ Houston	REG	W	6-2	-172	U	9	 -	Recap
+May 27, 2013	 vs San Francisco	REG	W	4-1	100	U	7.5	 -	Recap
+May 28, 2013	 vs San Francisco	REG	W	6-3	-140	O	8.5	 -	Recap
+May 29, 2013	 @ San Francisco	REG	W	9-6	107	O	7.5	 -	Recap
+May 30, 2013	 @ San Francisco	REG	L	5-2	-114	U	7.5	 -	Recap
+May 31, 2013	 vs Chi White Sox	REG	W	3-0	-185	U	7.5	 -	Recap
+Jun 1, 2013	 vs Chi White Sox	REG	W	4-3	-148	U	8	 -	Recap
+Jun 2, 2013	 vs Chi White Sox	REG	W	2-0	-117	U	7	 -	Recap
+Jun 3, 2013	 @ Milwaukee	REG	W	10-2	115	O	9	 -	Recap
+Jun 4, 2013	 @ Milwaukee	REG	L	4-3	-132	U	9	 -	Recap
+Jun 5, 2013	 @ Milwaukee	REG	W	6-1	-127	U	8.5	 -	Recap
+Jun 6, 2013	 @ Chi White Sox	REG	W	5-4	-130	O	8	 -	Recap
+Jun 7, 2013	 @ Chi White Sox	REG	W	4-3	124	U	7.5	 -	Recap
+Jun 8, 2013	 @ Chi White Sox	REG	L	4-1	-126	U	8.5	 -	Recap
+Jun 9, 2013	 @ Chi White Sox	REG	L	4-2	-126	U	8.5	 -	Recap
+Jun 11, 2013	 vs NY Yankees	REG	W	6-4	-116	O	7	 -	Recap
+Jun 12, 2013	 vs NY Yankees	REG	W	5-2	-115	U	7.5	 -	Recap
+Jun 13, 2013	 vs NY Yankees	REG	W	3-2	-109	U	7.5	 -	Recap
+Jun 14, 2013	 vs Seattle	REG	L	3-2	-175	U	7.5	 -	Recap
+Jun 15, 2013	 vs Seattle	REG	L	4-0	-120	U	6.5	 -	Recap
+Jun 16, 2013	 vs Seattle	REG	W	10-2	-135	O	7	 -	Recap
+Jun 17, 2013	 @ Texas	REG	L	8-7	105	O	9.5	 -	Recap
+Jun 18, 2013	 @ Texas	REG	W	6-2	165	P	8	 -	Recap
+Jun 19, 2013	 @ Texas	REG	L	9-4	-118	O	9.5	 -	Recap
+Jun 20, 2013	 @ Texas	REG	L	4-3	-107	U	9.5	 -	Recap
+Jun 21, 2013	 @ Seattle	REG	W	6-3	-107	O	6.5	 -	Recap
+Jun 22, 2013	 @ Seattle	REG	L	7-5	-130	O	7.5	 -	Recap
+Jun 23, 2013	 @ Seattle	REG	L	6-3	-151	O	7.5	 -	Recap
+Jun 25, 2013	 vs Cincinnati	REG	W	7-3	-152	O	7.5	 -	Recap
+Jun 26, 2013	 vs Cincinnati	REG	W	5-0	-120	U	7.5	 -	Recap
+Jun 28, 2013	 vs St. Louis	REG	W	6-1	-115	U	7.5	 -	Recap
+Jun 29, 2013	 vs St. Louis	REG	L	7-1	106	O	7.5	 -	Recap
+Jun 30, 2013	 vs St. Louis	REG	W	7-5	-128	O	8.5	 -	Recap
+Jul 2, 2013	 vs Chi Cubs	REG	W	8-7	-220	O	8	 -	Recap
+Jul 3, 2013	 vs Chi Cubs	REG	L	3-1	-192	U	7.5	 -	Recap
+Jul 4, 2013	 vs Chi Cubs	REG	W	1-0	-162	U	8	 -	Recap
+Jul 5, 2013	 @ Kansas City	REG	W	6-3	-118	P	9	 -	Recap
+Jul 6, 2013	 @ Kansas City	REG	L	4-3	-101	U	8.5	 -	Recap
+Jul 7, 2013	 @ Kansas City	REG	W	10-4	-128	O	9	 -	Recap
+Jul 8, 2013	 @ Pittsburgh	REG	W	2-1	-115	U	7.5	 -	Recap
+Jul 9, 2013	 @ Pittsburgh	REG	W	2-1	-102	U	7.5	 -	Recap
+Jul 10, 2013	 @ Pittsburgh	REG	L	5-0	121	U	7	 -	Recap
+Jul 12, 2013	 vs Boston	REG	L	4-2	-111	U	7.5	 -	Recap
+Jul 13, 2013	 vs Boston	REG	W	3-0	-122	U	7.5	 -	Recap
+Jul 14, 2013	 vs Boston	REG	W	3-2	-154	U	8	 -	Recap
+Jul 19, 2013	 @ LA Angels	REG	L	4-1	121	U	7.5	 -	Recap
+Jul 20, 2013	 @ LA Angels	REG	L	2-0	128	U	8	 -	Recap
+Jul 21, 2013	 @ LA Angels	REG	W	6-0	-123	U	8	 -	Recap
+Jul 22, 2013	 @ Houston	REG	W	4-3	-165	U	9	 -	Recap
+Jul 23, 2013	 @ Houston	REG	L	5-4	-175	O	8.5	 -	Recap
+Jul 24, 2013	 @ Houston	REG	W	4-3	-170	U	8.5	 -	Recap
+Jul 25, 2013	 vs LA Angels	REG	L	8-3	-108	O	7.5	 -	Recap
+Jul 26, 2013	 vs LA Angels	REG	W	6-4	-165	O	7.5	 -	Recap
+Jul 27, 2013	 vs LA Angels	REG	W	3-1	-147	U	8	 -	Recap
+Jul 28, 2013	 vs LA Angels	REG	W	10-6	-150	O	8	 -	Recap
+Jul 29, 2013	 vs Toronto	REG	W	9-4	-169	O	7.5	 -	Recap
+Jul 30, 2013	 vs Toronto	REG	L	5-0	-142	U	7.5	 -	Recap
+Jul 31, 2013	 vs Toronto	REG	L	5-2	-150	P	7	 -	Recap
+Aug 2, 2013	 vs Texas	REG	L	8-3	-122	O	7.5	 -	Recap
+Aug 3, 2013	 vs Texas	REG	W	4-2	-119	U	7.5	 -	Recap
+Aug 4, 2013	 vs Texas	REG	L	4-0	-113	U	7	 -	Recap
+Aug 6, 2013	 @ Cincinnati	REG	L	3-1	144	U	8	 -	Recap
+Aug 7, 2013	 @ Cincinnati	REG	L	6-5	115	O	7.5	 -	Recap
+Aug 9, 2013	 @ Toronto	REG	W	14-6	-110	O	9	 -	Recap
+Aug 10, 2013	 @ Toronto	REG	L	5-4	102	P	9	 -	Recap
+Aug 11, 2013	 @ Toronto	REG	W	6-4	104	O	9	 -	Recap
+Aug 12, 2013	 @ Toronto	REG	W	5-1	-117	U	9.5	 -	Recap
+Aug 13, 2013	 vs Houston	REG	L	5-4	-260	O	8	 -	Recap
+Aug 14, 2013	 vs Houston	REG	L	2-1	-255	U	7.5	 -	Recap
+Aug 15, 2013	 vs Houston	REG	W	5-0	-245	U	7.5	 -	Recap
+Aug 16, 2013	 vs Cleveland	REG	W	3-2	-137	U	7	 -	Recap
+Aug 17, 2013	 vs Cleveland	REG	L	7-1	-157	P	8	 -	Recap
+Aug 18, 2013	 vs Cleveland	REG	W	7-3	-137	O	8.5	 -	Recap
+Aug 19, 2013	 vs Seattle	REG	W	2-1	-185	U	8	 -	Recap
+Aug 20, 2013	 vs Seattle	REG	L	7-4	-189	O	8.5	 -	Recap
+Aug 21, 2013	 vs Seattle	REG	L	5-3	-142	O	7.5	 -	Recap
+Aug 23, 2013	 @ Baltimore	REG	L	9-7	110	O	9	 -	Recap
+Aug 24, 2013	 @ Baltimore	REG	W	2-1	107	U	8.5	 -	Recap
+Aug 25, 2013	 @ Baltimore	REG	L	10-3	100	O	8.5	 -	Recap
+Aug 26, 2013	 @ Detroit	REG	W	8-6	144	O	8.5	 -	Recap
+Aug 27, 2013	 @ Detroit	REG	W	6-3	150	O	8.5	 -	Recap
+Aug 28, 2013	 @ Detroit	REG	W	14-4	148	O	9	 -	Recap
+Aug 29, 2013	 @ Detroit	REG	L	7-6	179	O	8	 -	Recap
+Aug 30, 2013	 vs Tampa Bay	REG	W	4-3	-102	O	6.5	 -	Recap
+Aug 31, 2013	 vs Tampa Bay	REG	W	2-1	-112	U	7	 -	Recap
+Sep 1, 2013	 vs Tampa Bay	REG	W	5-1	-132	U	8	 -	Recap
+Sep 2, 2013	 vs Texas	REG	W	4-2	100	U	7.5	 -	Recap
+Sep 3, 2013	 vs Texas	REG	L	5-1	-126	U	7.5	 -	Recap
+Sep 4, 2013	 vs Texas	REG	W	11-4	113	O	6.5	 -	Recap
+Sep 5, 2013	 vs Houston	REG	L	3-2	-270	U	8	 -	Recap
+Sep 6, 2013	 vs Houston	REG	W	7-5	-265	O	7.5	 -	Recap
+Sep 7, 2013	 vs Houston	REG	W	2-1	-210	U	8.5	 -	Recap
+Sep 8, 2013	 vs Houston	REG	W	7-2	-268	O	8	 -	Recap
+Sep 10, 2013	 @ Minnesota	REG	L	4-3	-178	U	8.5	 -	Recap
+Sep 11, 2013	 @ Minnesota	REG	W	18-3	-163	O	8	 -	Recap
+Sep 12, 2013	 @ Minnesota	REG	W	8-2	-182	O	8.5	 -	Recap
+Sep 13, 2013	 @ Texas	REG	W	9-8	115	O	9	 -	Recap
+Sep 14, 2013	 @ Texas	REG	W	1-0	153	U	8	 -	Recap
+Sep 15, 2013	 @ Texas	REG	W	5-1	117	U	9.5	 -	Recap
+Sep 16, 2013	 vs LA Angels	REG	L	12-1	-136	O	7	 -	Recap
+Sep 17, 2013	 vs LA Angels	REG	W	2-1	-160	U	7.5	 -	Recap
+Sep 18, 2013	 vs LA Angels	REG	L	5-4	-179	O	8	 -	Recap
+Sep 19, 2013	 vs Minnesota	REG	W	8-6	-205	O	7.5	 -	Recap
+Sep 20, 2013	 vs Minnesota	REG	W	11-0	-208	O	7.5	 -	Recap
+Sep 21, 2013	 vs Minnesota	REG	W	9-1	-245	O	8	 -	Recap
+Sep 22, 2013	 vs Minnesota	REG	W	11-7	-257	O	8	 -	Recap
+Sep 23, 2013	 @ LA Angels	REG	W	10-5	126	O	8	 -	Recap
+Sep 24, 2013	 @ LA Angels	REG	L	3-0	-130	U	8	 -	Recap
+Sep 25, 2013	 @ LA Angels	REG	L	3-1	108	U	7.5	 -	Recap
+Sep 27, 2013	 @ Seattle	REG	W	8-2	110	O	6.5	 -	Recap
+Sep 28, 2013	 @ Seattle	REG	L	7-5	-147	O	7.5	 -	Recap
+Sep 29, 2013	 @ Seattle	REG	W	9-0	-133	O	7.5	 -	Recap
+Oct 4, 2013	 vs Detroit	PST	L	3-2	108	U	6.5	 -	Recap
+Oct 5, 2013	 vs Detroit	PST	W	1-0	101	U	7	 -	Recap
+Oct 7, 2013	 @ Detroit	PST	W	6-3	141	O	7	 -	Recap
+Oct 8, 2013	 @ Detroit	PST	L	8-6	135	O	7.5	 -	Recap
+Oct 10, 2013	 vs Detroit	PST	L	3-0	-107	U	6.5	 -	Recap
+Mar 31, 2013	 @ Houston	REG	L	8-2	-163	O	8.5	 -	Recap
+Apr 2, 2013	 @ Houston	REG	W	7-0	-168	U	8	 -	Recap
+Apr 3, 2013	 @ Houston	REG	W	4-0	-165	U	8.5	 -	Recap
+Apr 5, 2013	 vs LA Angels	REG	W	3-2	-117	U	9.5	 -	Recap
+Apr 6, 2013	 vs LA Angels	REG	L	8-4	-120	O	10	 -	Recap
+Apr 7, 2013	 vs LA Angels	REG	W	7-3	-134	O	8	 -	Recap
+Apr 8, 2013	 vs Tampa Bay	REG	W	5-4	-152	P	9	 -	Recap
+Apr 9, 2013	 vs Tampa Bay	REG	W	6-1	-128	U	10.5	 -	Recap
+Apr 10, 2013	 vs Tampa Bay	REG	L	2-0	-123	U	8.5	 -	Recap
+Apr 11, 2013	 @ Seattle	REG	W	4-3	135	P	7	 -	Recap
+Apr 12, 2013	 @ Seattle	REG	L	3-1	-142	U	6.5	 -	Recap
+Apr 13, 2013	 @ Seattle	REG	W	3-1	-136	U	7	 -	Recap
+Apr 14, 2013	 @ Seattle	REG	L	4-3	-130	U	8	 -	Recap
+Apr 16, 2013	 @ Chi Cubs	REG	W	4-2	-127	U	7	 -	Recap
+Apr 18, 2013	 @ Chi Cubs	REG	L	6-2	-140	U	10.5	 -	Recap
+Apr 19, 2013	 vs Seattle	REG	W	7-0	-225	U	8	 -	Recap
+Apr 20, 2013	 vs Seattle	REG	W	5-0	-162	U	9.5	 -	Recap
+Apr 21, 2013	 vs Seattle	REG	W	11-3	-157	O	9.5	 -	Recap
+Apr 22, 2013	 @ LA Angels	REG	W	7-6	105	O	8	 -	Recap
+Apr 23, 2013	 @ LA Angels	REG	L	5-4	100	O	8	 -	Recap
+Apr 24, 2013	 @ LA Angels	REG	W	11-3	-146	O	7.5	 -	Recap
+Apr 25, 2013	 @ Minnesota	REG	W	2-1	-106	U	8.5	 -	Recap
+Apr 26, 2013	 @ Minnesota	REG	W	4-3	-114	U	8.5	 -	Recap
+Apr 27, 2013	 @ Minnesota	REG	L	7-2	-135	O	8.5	 -	Recap
+Apr 28, 2013	 @ Minnesota	REG	L	5-0	-118	U	9	 -	Recap
+Apr 30, 2013	 vs Chi White Sox	REG	W	10-6	-195	O	8	 -	Recap
+May 1, 2013	 vs Chi White Sox	REG	L	5-2	-117	U	8.5	 -	Recap
+May 2, 2013	 vs Chi White Sox	REG	L	3-1	-155	U	8.5	 -	Recap
+May 3, 2013	 vs Boston	REG	W	7-0	-128	U	9	 -	Recap
+May 4, 2013	 vs Boston	REG	W	5-1	-133	U	9	 -	Recap
+May 5, 2013	 vs Boston	REG	W	4-3	-162	U	7.5	 -	Recap
+May 6, 2013	 @ Chi Cubs	REG	L	9-2	-120	O	7.5	 -	Recap
+May 7, 2013	 @ Milwaukee	REG	L	6-3	-112	O	8.5	 -	Recap
+May 8, 2013	 @ Milwaukee	REG	W	4-1	104	U	8	 -	Recap
+May 10, 2013	 @ Houston	REG	W	4-2	-200	U	9	 -	Recap
+May 11, 2013	 @ Houston	REG	W	8-7	-245	O	8	 -	Recap
+May 12, 2013	 @ Houston	REG	W	12-7	-140	O	9	 -	Recap
+May 13, 2013	 @ Oakland	REG	L	5-1	110	U	8	 -	Recap
+May 14, 2013	 @ Oakland	REG	W	6-5	-112	O	7.5	 -	Recap
+May 15, 2013	 @ Oakland	REG	W	6-2	105	U	8.5	 -	Recap
+May 16, 2013	 vs Detroit	REG	W	10-4	-111	O	7.5	 -	Recap
+May 17, 2013	 vs Detroit	REG	L	2-1	-120	U	10.5	 -	Recap
+May 18, 2013	 vs Detroit	REG	W	7-2	118	U	9.5	 -	Recap
+May 19, 2013	 vs Detroit	REG	W	11-8	-128	O	9	 -	Recap
+May 20, 2013	 vs Oakland	REG	L	9-2	-130	O	10.5	 -	Recap
+May 21, 2013	 vs Oakland	REG	L	1-0	-205	U	8.5	 -	Recap
+May 22, 2013	 vs Oakland	REG	W	3-1	-114	U	10	 -	Recap
+May 24, 2013	 @ Seattle	REG	W	9-5	-111	O	8	 -	Recap
+May 25, 2013	 @ Seattle	REG	W	5-2	128	O	6.5	 -	Recap
+May 26, 2013	 @ Seattle	REG	L	4-3	115	P	7	 -	Recap
+May 27, 2013	 @ Arizona	REG	L	5-3	101	U	9.5	 -	Recap
+May 27, 2013	 @ Arizona	REG	L	5-4	-141	O	8.5	 -	Recap
+May 30, 2013	 vs Arizona	REG	W	9-5	-141	O	9.5	 -	Recap
+May 31, 2013	 vs Kansas City	REG	W	7-2	-220	U	9.5	 -	Recap
+Jun 1, 2013	 vs Kansas City	REG	L	4-1	-119	U	9	 -	Recap
+Jun 2, 2013	 vs Kansas City	REG	W	3-1	-208	U	8	 -	Recap
+Jun 4, 2013	 @ Boston	REG	L	17-5	132	O	9	 -	Recap
+Jun 5, 2013	 @ Boston	REG	W	3-2	117	U	9	 -	Recap
+Jun 6, 2013	 @ Boston	REG	L	6-3	127	O	8.5	 -	Recap
+Jun 7, 2013	 @ Toronto	REG	L	6-1	-103	U	9.5	 -	Recap
+Jun 8, 2013	 @ Toronto	REG	L	4-3	-151	U	8.5	 -	Recap
+Jun 9, 2013	 @ Toronto	REG	W	6-4	128	O	9	 -	Recap
+Jun 10, 2013	 vs Cleveland	REG	W	6-3	-136	U	10.5	 -	Recap
+Jun 11, 2013	 vs Cleveland	REG	L	5-2	-168	U	9.5	 -	Recap
+Jun 12, 2013	 vs Cleveland	REG	L	5-2	-144	U	10	 -	Recap
+Jun 13, 2013	 vs Toronto	REG	L	3-1	-230	U	9	 -	Recap
+Jun 14, 2013	 vs Toronto	REG	L	8-0	-127	U	9.5	 -	Recap
+Jun 15, 2013	 vs Toronto	REG	L	6-1	-121	U	9.5	 -	Recap
+Jun 16, 2013	 vs Toronto	REG	L	7-2	-200	U	10	 -	Recap
+Jun 17, 2013	 vs Oakland	REG	W	8-7	-115	O	9.5	 -	Recap
+Jun 18, 2013	 vs Oakland	REG	L	6-2	-175	P	8	 -	Recap
+Jun 19, 2013	 vs Oakland	REG	W	9-4	108	O	9.5	 -	Recap
+Jun 20, 2013	 vs Oakland	REG	W	4-3	-103	U	9.5	 -	Recap
+Jun 21, 2013	 @ St. Louis	REG	W	6-4	-107	O	8	 -	Recap
+Jun 22, 2013	 @ St. Louis	REG	W	4-2	160	U	8	 -	Recap
+Jun 23, 2013	 @ St. Louis	REG	W	2-1	175	U	7.5	 -	Recap
+Jun 25, 2013	 @ NY Yankees	REG	L	4-3	-121	U	7.5	 -	Recap
+Jun 26, 2013	 @ NY Yankees	REG	W	8-5	119	O	9	 -	Recap
+Jun 27, 2013	 @ NY Yankees	REG	W	2-0	-123	U	8.5	 -	Recap
+Jun 28, 2013	 vs Cincinnati	REG	W	4-0	-114	U	9.5	 -	Recap
+Jun 29, 2013	 vs Cincinnati	REG	L	6-4	-108	O	9.5	 -	Recap
+Jun 30, 2013	 vs Cincinnati	REG	W	3-2	-144	U	8	 -	Recap
+Jul 2, 2013	 vs Seattle	REG	L	9-2	-152	O	9.5	 -	Recap
+Jul 3, 2013	 vs Seattle	REG	L	4-2	-140	U	8	 -	Recap
+Jul 4, 2013	 vs Seattle	REG	W	5-4	-135	O	8.5	 -	Recap
+Jul 5, 2013	 vs Houston	REG	W	10-5	-225	O	9.5	 -	Recap
+Jul 6, 2013	 vs Houston	REG	L	9-5	-320	O	9	 -	Recap
+Jul 7, 2013	 vs Houston	REG	W	5-4	-192	U	10	 -	Recap
+Jul 8, 2013	 @ Baltimore	REG	W	8-5	-112	O	8.5	 -	Recap
+Jul 9, 2013	 @ Baltimore	REG	W	8-4	108	O	9.5	 -	Recap
+Jul 10, 2013	 @ Baltimore	REG	L	6-1	135	U	9.5	 -	Recap
+Jul 11, 2013	 @ Baltimore	REG	L	3-1	134	U	9.5	 -	Recap
+Jul 12, 2013	 @ Detroit	REG	L	7-2	169	U	9.5	 -	Recap
+Jul 13, 2013	 @ Detroit	REG	W	7-1	141	P	8	 -	Recap
+Jul 14, 2013	 @ Detroit	REG	L	5-0	156	U	9	 -	Recap
+Jul 19, 2013	 vs Baltimore	REG	L	3-1	-141	U	9	 -	Recap
+Jul 20, 2013	 vs Baltimore	REG	L	7-4	-104	O	9.5	 -	Recap
+Jul 21, 2013	 vs Baltimore	REG	L	4-2	-135	U	9.5	 -	Recap
+Jul 22, 2013	 vs NY Yankees	REG	W	3-0	-190	U	8.5	 -	Recap
+Jul 23, 2013	 vs NY Yankees	REG	L	5-4	-163	P	9	 -	Recap
+Jul 24, 2013	 vs NY Yankees	REG	W	3-1	-167	U	8.5	 -	Recap
+Jul 25, 2013	 vs NY Yankees	REG	L	2-0	-153	U	7.5	 -	Recap
+Jul 26, 2013	 @ Cleveland	REG	L	11-8	112	O	8	 -	Recap
+Jul 27, 2013	 @ Cleveland	REG	L	1-0	-115	U	7.5	 -	Recap
+Jul 28, 2013	 @ Cleveland	REG	L	6-0	-112	U	8	 -	Recap
+Jul 29, 2013	 vs LA Angels	REG	W	4-3	-138	U	8	 -	Recap
+Jul 30, 2013	 vs LA Angels	REG	W	14-11	-135	O	8.5	 -	Recap
+Jul 31, 2013	 vs LA Angels	REG	W	2-1	-143	U	10.5	 -	Recap
+Aug 1, 2013	 vs Arizona	REG	W	7-1	-250	U	8.5	 -	Recap
+Aug 2, 2013	 @ Oakland	REG	W	8-3	112	O	7.5	 -	Recap
+Aug 3, 2013	 @ Oakland	REG	L	4-2	109	U	7.5	 -	Recap
+Aug 4, 2013	 @ Oakland	REG	W	4-0	103	U	7	 -	Recap
+Aug 5, 2013	 @ LA Angels	REG	W	5-2	-105	U	8.5	 -	Recap
+Aug 6, 2013	 @ LA Angels	REG	W	8-3	-165	O	7	 -	Recap
+Aug 7, 2013	 @ LA Angels	REG	W	10-3	-117	O	8	 -	Recap
+Aug 9, 2013	 @ Houston	REG	W	9-5	-184	O	8	 -	Recap
+Aug 10, 2013	 @ Houston	REG	W	5-4	-215	O	8.5	 -	Recap
+Aug 11, 2013	 @ Houston	REG	W	6-1	-165	U	9	 -	Recap
+Aug 12, 2013	 @ Houston	REG	W	2-1	-235	U	7	 -	Recap
+Aug 13, 2013	 vs Milwaukee	REG	L	5-1	-190	U	9	 -	Recap
+Aug 14, 2013	 vs Milwaukee	REG	W	5-4	-220	O	8.5	 -	Recap
+Aug 16, 2013	 vs Seattle	REG	L	3-1	-177	U	8	 -	Recap
+Aug 17, 2013	 vs Seattle	REG	W	15-3	-113	O	8	 -	Recap
+Aug 18, 2013	 vs Seattle	REG	L	4-3	-250	U	8	 -	Recap
+Aug 19, 2013	 vs Houston	REG	W	16-5	-290	O	9	 -	Recap
+Aug 20, 2013	 vs Houston	REG	W	4-2	-230	U	9	 -	Recap
+Aug 21, 2013	 vs Houston	REG	W	5-4	-325	O	8.5	 -	Recap
+Aug 23, 2013	 @ Chi White Sox	REG	W	11-5	112	O	7.5	 -	Recap
+Aug 24, 2013	 @ Chi White Sox	REG	L	3-2	-185	U	7	 -	Recap
+Aug 25, 2013	 @ Chi White Sox	REG	L	5-2	-138	U	8.5	 -	Recap
+Aug 26, 2013	 @ Seattle	REG	W	8-3	-127	O	8.5	 -	Recap
+Aug 27, 2013	 @ Seattle	REG	W	4-3	-132	P	7	 -	Recap
+Aug 28, 2013	 @ Seattle	REG	W	12-4	105	O	7	 -	Recap
+Aug 30, 2013	 vs Minnesota	REG	L	3-2	-335	U	8.5	 -	Recap
+Aug 31, 2013	 vs Minnesota	REG	W	2-1	-230	U	9	 -	Recap
+Sep 1, 2013	 vs Minnesota	REG	L	4-2	-205	U	9.5	 -	Recap
+Sep 2, 2013	 @ Oakland	REG	L	4-2	-110	U	7.5	 -	Recap
+Sep 3, 2013	 @ Oakland	REG	W	5-1	116	U	7.5	 -	Recap
+Sep 4, 2013	 @ Oakland	REG	L	11-4	-123	O	6.5	 -	Recap
+Sep 6, 2013	 @ LA Angels	REG	L	6-5	-107	O	7.5	 -	Recap
+Sep 7, 2013	 @ LA Angels	REG	L	8-3	-138	O	8	 -	Recap
+Sep 8, 2013	 @ LA Angels	REG	W	4-3	-104	U	8.5	 -	Recap
+Sep 9, 2013	 vs Pittsburgh	REG	L	1-0	-165	U	7.5	 -	Recap
+Sep 10, 2013	 vs Pittsburgh	REG	L	5-4	-127	O	8	 -	Recap
+Sep 11, 2013	 vs Pittsburgh	REG	L	7-5	-132	O	8	 -	Recap
+Sep 13, 2013	 vs Oakland	REG	L	9-8	-125	O	9	 -	Recap
+Sep 14, 2013	 vs Oakland	REG	L	1-0	-163	U	8	 -	Recap
+Sep 15, 2013	 vs Oakland	REG	L	5-1	-127	U	9.5	 -	Recap
+Sep 16, 2013	 @ Tampa Bay	REG	L	6-2	120	O	7	 -	Recap
+Sep 17, 2013	 @ Tampa Bay	REG	W	7-1	113	O	7.5	 -	Recap
+Sep 18, 2013	 @ Tampa Bay	REG	L	4-3	113	P	7	 -	Recap
+Sep 19, 2013	 @ Tampa Bay	REG	W	8-2	-116	O	6.5	 -	Recap
+Sep 20, 2013	 @ Kansas City	REG	L	2-1	119	U	7	 -	Recap
+Sep 21, 2013	 @ Kansas City	REG	W	3-1	-104	U	7.5	 -	Recap
+Sep 22, 2013	 @ Kansas City	REG	L	4-0	117	U	7	 -	Recap
+Sep 23, 2013	 vs Houston	REG	W	12-0	-285	O	8.5	 -	Recap
+Sep 24, 2013	 vs Houston	REG	W	3-2	-370	U	8	 -	Recap
+Sep 25, 2013	 vs Houston	REG	W	7-3	-245	O	9	 -	Recap
+Sep 26, 2013	 vs LA Angels	REG	W	6-5	-175	O	9	 -	Recap
+Sep 27, 2013	 vs LA Angels	REG	W	5-3	-138	P	8	 -	Recap
+Sep 28, 2013	 vs LA Angels	REG	W	7-4	-162	O	9	 -	Recap
+Sep 29, 2013	 vs LA Angels	REG	W	6-2	-226	O	7.5	 -	Recap
+Sep 30, 2013	 vs Tampa Bay	PST	L	5-2	109	U	7.5	 -	Recap
+Mar 31, 2013	 vs Texas	REG	W	8-2	157	O	8.5	 -	Recap
+Apr 2, 2013	 vs Texas	REG	L	7-0	158	U	8	 -	Recap
+Apr 3, 2013	 vs Texas	REG	L	4-0	155	U	8.5	 -	Recap
+Apr 5, 2013	 vs Oakland	REG	L	8-3	125	O	8.5	 -	Recap
+Apr 6, 2013	 vs Oakland	REG	L	6-3	123	O	8	 -	Recap
+Apr 7, 2013	 vs Oakland	REG	L	9-3	147	O	8	 -	Recap
+Apr 8, 2013	 @ Seattle	REG	L	3-0	153	U	7.5	 -	Recap
+Apr 9, 2013	 @ Seattle	REG	W	16-9	142	O	7	 -	Recap
+Apr 10, 2013	 @ Seattle	REG	W	8-3	155	O	7.5	 -	Recap
+Apr 12, 2013	 @ LA Angels	REG	W	5-0	185	U	8	 -	Recap
+Apr 13, 2013	 @ LA Angels	REG	L	5-4	171	O	8.5	 -	Recap
+Apr 14, 2013	 @ LA Angels	REG	L	4-1	195	U	8	 -	Recap
+Apr 15, 2013	 @ Oakland	REG	L	11-2	182	O	7	 -	Recap
+Apr 16, 2013	 @ Oakland	REG	L	4-3	215	U	7.5	 -	Recap
+Apr 17, 2013	 @ Oakland	REG	L	7-5	177	O	8	 -	Recap
+Apr 19, 2013	 vs Cleveland	REG	W	3-2	114	U	8.5	 -	Recap
+Apr 20, 2013	 vs Cleveland	REG	L	19-6	102	O	9	 -	Recap
+Apr 21, 2013	 vs Cleveland	REG	L	5-4	-105	P	9	 -	Recap
+Apr 22, 2013	 vs Seattle	REG	L	7-1	155	P	8	 -	Recap
+Apr 23, 2013	 vs Seattle	REG	W	3-2	119	U	8	 -	Recap
+Apr 24, 2013	 vs Seattle	REG	W	10-3	-110	O	8	 -	Recap
+Apr 25, 2013	 @ Boston	REG	L	7-2	260	P	9	 -	Recap
+Apr 26, 2013	 @ Boston	REG	L	7-3	240	O	8.5	 -	Recap
+Apr 27, 2013	 @ Boston	REG	L	8-4	240	O	9.5	 -	Recap
+Apr 28, 2013	 @ Boston	REG	L	6-1	190	U	9.5	 -	Recap
+Apr 29, 2013	 @ NY Yankees	REG	W	9-1	210	O	7.5	 -	Recap
+Apr 30, 2013	 @ NY Yankees	REG	L	7-4	235	O	8	 -	Recap
+May 1, 2013	 @ NY Yankees	REG	L	5-4	170	O	8.5	 -	Recap
+May 2, 2013	 vs Detroit	REG	L	7-3	153	O	9.5	 -	Recap
+May 3, 2013	 vs Detroit	REG	L	4-3	182	U	8	 -	Recap
+May 4, 2013	 vs Detroit	REG	L	17-2	183	O	8	 -	Recap
+May 5, 2013	 vs Detroit	REG	L	9-0	248	O	8	 -	Recap
+May 7, 2013	 vs LA Angels	REG	W	7-6	159	O	9	 -	Recap
+May 8, 2013	 vs LA Angels	REG	W	3-1	130	U	9.5	 -	Recap
+May 9, 2013	 vs LA Angels	REG	L	6-5	140	O	9	 -	Recap
+May 10, 2013	 vs Texas	REG	L	4-2	185	U	9	 -	Recap
+May 11, 2013	 vs Texas	REG	L	8-7	225	O	8	 -	Recap
+May 12, 2013	 vs Texas	REG	L	12-7	130	O	9	 -	Recap
+May 13, 2013	 @ Detroit	REG	L	7-2	280	O	8	 -	Recap
+May 14, 2013	 @ Detroit	REG	L	6-2	260	U	8.5	 -	Recap
+May 15, 2013	 @ Detroit	REG	W	7-5	325	O	9	 -	Recap
+May 17, 2013	 @ Pittsburgh	REG	L	5-4	176	O	8.5	 -	Recap
+May 18, 2013	 @ Pittsburgh	REG	W	4-2	240	U	7.5	 -	Recap
+May 19, 2013	 @ Pittsburgh	REG	L	1-0	163	U	8.5	 -	Recap
+May 20, 2013	 vs Kansas City	REG	W	6-5	141	O	9	 -	Recap
+May 21, 2013	 vs Kansas City	REG	L	7-3	120	O	9	 -	Recap
+May 22, 2013	 vs Kansas City	REG	W	3-1	190	U	7.5	 -	Recap
+May 24, 2013	 vs Oakland	REG	L	6-5	145	O	8.5	 -	Recap
+May 25, 2013	 vs Oakland	REG	L	11-5	147	O	8	 -	Recap
+May 26, 2013	 vs Oakland	REG	L	6-2	162	U	9	 -	Recap
+May 27, 2013	 vs Colorado	REG	W	3-2	130	U	8.5	 -	Recap
+May 28, 2013	 vs Colorado	REG	L	2-1	155	U	9	 -	Recap
+May 29, 2013	 @ Colorado	REG	W	6-3	205	U	10	 -	Recap
+May 30, 2013	 @ Colorado	REG	W	7-5	205	O	9.5	 -	Recap
+May 31, 2013	 @ LA Angels	REG	W	6-3	210	O	8.5	 -	Recap
+Jun 1, 2013	 @ LA Angels	REG	W	2-0	215	U	8.5	 -	Recap
+Jun 2, 2013	 @ LA Angels	REG	W	5-4	220	O	8.5	 -	Recap
+Jun 3, 2013	 @ LA Angels	REG	W	2-1	175	U	8.5	 -	Recap
+Jun 4, 2013	 vs Baltimore	REG	L	4-1	160	U	9	 -	Recap
+Jun 5, 2013	 vs Baltimore	REG	W	11-7	139	O	9	 -	Recap
+Jun 6, 2013	 vs Baltimore	REG	L	3-1	145	U	8.5	 -	Recap
+Jun 7, 2013	 @ Kansas City	REG	L	4-2	215	U	7.5	 -	Recap
+Jun 8, 2013	 @ Kansas City	REG	L	7-2	163	O	8.5	 -	Recap
+Jun 9, 2013	 @ Kansas City	REG	L	2-0	154	U	8.5	 -	Recap
+Jun 10, 2013	 @ Seattle	REG	L	3-2	220	U	6.5	 -	Recap
+Jun 11, 2013	 @ Seattle	REG	L	4-0	148	U	7	 -	Recap
+Jun 12, 2013	 @ Seattle	REG	W	6-1	124	U	7.5	 -	Recap
+Jun 14, 2013	 vs Chi White Sox	REG	W	2-1	180	U	7.5	 -	Recap
+Jun 15, 2013	 vs Chi White Sox	REG	W	4-3	110	U	8	 -	Recap
+Jun 16, 2013	 vs Chi White Sox	REG	W	5-4	117	O	8.5	 -	Recap
+Jun 17, 2013	 vs Chi White Sox	REG	L	4-2	-109	U	8	 -	Recap
+Jun 18, 2013	 vs Milwaukee	REG	W	10-1	102	O	8	 -	Recap
+Jun 19, 2013	 vs Milwaukee	REG	L	3-1	111	U	8.5	 -	Recap
+Jun 20, 2013	 vs Milwaukee	REG	W	7-4	120	O	7.5	 -	Recap
+Jun 21, 2013	 @ Chi Cubs	REG	L	3-1	165	U	10	 -	Recap
+Jun 22, 2013	 @ Chi Cubs	REG	W	4-3	122	U	9.5	 -	Recap
+Jun 23, 2013	 @ Chi Cubs	REG	L	14-6	162	O	9	 -	Recap
+Jun 25, 2013	 vs St. Louis	REG	L	13-5	135	O	9	 -	Recap
+Jun 26, 2013	 vs St. Louis	REG	W	4-3	164	U	8.5	 -	Recap
+Jun 28, 2013	 vs LA Angels	REG	L	4-2	123	U	9	 -	Recap
+Jun 29, 2013	 vs LA Angels	REG	L	7-2	139	P	9	 -	Recap
+Jun 30, 2013	 vs LA Angels	REG	L	3-1	143	U	9	 -	Recap
+Jul 1, 2013	 vs Tampa Bay	REG	L	12-0	152	O	8	 -	Recap
+Jul 2, 2013	 vs Tampa Bay	REG	L	8-0	179	P	8	 -	Recap
+Jul 3, 2013	 vs Tampa Bay	REG	W	4-1	148	U	8.5	 -	Recap
+Jul 4, 2013	 vs Tampa Bay	REG	L	7-5	145	O	8.5	 -	Recap
+Jul 5, 2013	 @ Texas	REG	L	10-5	205	O	9.5	 -	Recap
+Jul 6, 2013	 @ Texas	REG	W	9-5	290	O	9	 -	Recap
+Jul 7, 2013	 @ Texas	REG	L	5-4	181	U	10	 -	Recap
+Jul 9, 2013	 @ St. Louis	REG	L	9-5	248	O	7.5	 -	Recap
+Jul 10, 2013	 @ St. Louis	REG	L	5-4	226	O	8	 -	Recap
+Jul 12, 2013	 @ Tampa Bay	REG	W	2-1	295	U	7.5	 -	Recap
+Jul 13, 2013	 @ Tampa Bay	REG	L	4-3	240	U	8	 -	Recap
+Jul 14, 2013	 @ Tampa Bay	REG	L	5-0	212	U	8.5	 -	Recap
+Jul 19, 2013	 vs Seattle	REG	L	10-7	105	O	8.5	 -	Recap
+Jul 20, 2013	 vs Seattle	REG	L	4-2	127	U	8	 -	Recap
+Jul 21, 2013	 vs Seattle	REG	L	12-5	190	O	7.5	 -	Recap
+Jul 22, 2013	 vs Oakland	REG	L	4-3	155	U	9	 -	Recap
+Jul 23, 2013	 vs Oakland	REG	W	5-4	165	O	8.5	 -	Recap
+Jul 24, 2013	 vs Oakland	REG	L	4-3	160	U	8.5	 -	Recap
+Jul 25, 2013	 @ Toronto	REG	L	4-0	190	U	9	 -	Recap
+Jul 26, 2013	 @ Toronto	REG	L	12-6	220	O	9	 -	Recap
+Jul 27, 2013	 @ Toronto	REG	W	8-6	220	O	9.5	 -	Recap
+Jul 28, 2013	 @ Toronto	REG	L	2-1	180	U	9.5	 -	Recap
+Jul 30, 2013	 @ Baltimore	REG	L	4-3	220	U	8.5	 -	Recap
+Jul 31, 2013	 @ Baltimore	REG	W	11-0	230	O	8.5	 -	Recap
+Aug 1, 2013	 @ Baltimore	REG	L	6-3	210	P	9	 -	Recap
+Aug 2, 2013	 @ Minnesota	REG	L	4-3	158	U	8.5	 -	Recap
+Aug 3, 2013	 @ Minnesota	REG	L	6-4	146	O	8.5	 -	Recap
+Aug 4, 2013	 @ Minnesota	REG	L	3-2	159	U	8.5	 -	Recap
+Aug 5, 2013	 vs Boston	REG	W	2-0	181	U	8.5	 -	Recap
+Aug 6, 2013	 vs Boston	REG	L	15-10	161	O	9	 -	Recap
+Aug 7, 2013	 vs Boston	REG	L	7-5	160	O	8.5	 -	Recap
+Aug 9, 2013	 vs Texas	REG	L	9-5	174	O	8	 -	Recap
+Aug 10, 2013	 vs Texas	REG	L	5-4	195	O	8.5	 -	Recap
+Aug 11, 2013	 vs Texas	REG	L	6-1	155	U	9	 -	Recap
+Aug 12, 2013	 vs Texas	REG	L	2-1	215	U	7	 -	Recap
+Aug 13, 2013	 @ Oakland	REG	W	5-4	240	O	8	 -	Recap
+Aug 14, 2013	 @ Oakland	REG	W	2-1	235	U	7.5	 -	Recap
+Aug 15, 2013	 @ Oakland	REG	L	5-0	225	U	7.5	 -	Recap
+Aug 16, 2013	 @ LA Angels	REG	W	8-2	167	O	9	 -	Recap
+Aug 17, 2013	 @ LA Angels	REG	L	6-5	180	O	8.5	 -	Recap
+Aug 18, 2013	 @ LA Angels	REG	W	7-5	174	O	9	 -	Recap
+Aug 19, 2013	 @ Texas	REG	L	16-5	260	O	9	 -	Recap
+Aug 20, 2013	 @ Texas	REG	L	4-2	210	U	9	 -	Recap
+Aug 21, 2013	 @ Texas	REG	L	5-4	295	O	8.5	 -	Recap
+Aug 23, 2013	 vs Toronto	REG	W	12-4	134	O	9	 -	Recap
+Aug 24, 2013	 vs Toronto	REG	W	8-5	100	O	9	 -	Recap
+Aug 25, 2013	 vs Toronto	REG	L	2-1	133	U	8.5	 -	Recap
+Aug 26, 2013	 @ Chi White Sox	REG	W	10-8	138	O	9	 -	Recap
+Aug 27, 2013	 @ Chi White Sox	REG	L	4-3	215	U	9	 -	Recap
+Aug 28, 2013	 @ Chi White Sox	REG	L	6-1	220	U	7.5	 -	Recap
+Aug 29, 2013	 vs Seattle	REG	L	3-2	128	U	9	 -	Recap
+Aug 30, 2013	 vs Seattle	REG	L	7-1	122	U	9	 -	Recap
+Aug 31, 2013	 vs Seattle	REG	L	3-1	-121	U	9	 -	Recap
+Sep 1, 2013	 vs Seattle	REG	W	2-0	141	U	8	 -	Recap
+Sep 2, 2013	 vs Minnesota	REG	L	10-6	115	O	8.5	 -	Recap
+Sep 3, 2013	 vs Minnesota	REG	L	9-6	-115	O	8.5	 -	Recap
+Sep 4, 2013	 vs Minnesota	REG	W	6-5	-109	O	8.5	 -	Recap
+Sep 5, 2013	 @ Oakland	REG	W	3-2	248	U	8	 -	Recap
+Sep 6, 2013	 @ Oakland	REG	L	7-5	245	O	7.5	 -	Recap
+Sep 7, 2013	 @ Oakland	REG	L	2-1	190	U	8.5	 -	Recap
+Sep 8, 2013	 @ Oakland	REG	L	7-2	252	O	8	 -	Recap
+Sep 9, 2013	 @ Seattle	REG	W	6-4	158	O	7.5	 -	Recap
+Sep 10, 2013	 @ Seattle	REG	W	13-2	140	O	8	 -	Recap
+Sep 11, 2013	 @ Seattle	REG	W	6-1	138	U	9.5	 -	Recap
+Sep 13, 2013	 vs LA Angels	REG	W	9-7	120	O	9	 -	Recap
+Sep 14, 2013	 vs LA Angels	REG	L	6-2	143	P	8	 -	Recap
+Sep 15, 2013	 vs LA Angels	REG	L	2-1	151	U	9	 -	Recap
+Sep 16, 2013	 vs Cincinnati	REG	L	6-1	168	U	8	 -	Recap
+Sep 17, 2013	 vs Cincinnati	REG	L	10-0	170	O	8.5	 -	Recap
+Sep 18, 2013	 vs Cincinnati	REG	L	6-5	137	O	9	 -	Recap
+Sep 19, 2013	 @ Cleveland	REG	L	2-1	240	U	8	 -	Recap
+Sep 20, 2013	 @ Cleveland	REG	L	2-1	188	U	8	 -	Recap
+Sep 21, 2013	 @ Cleveland	REG	L	4-1	248	U	8.5	 -	Recap
+Sep 22, 2013	 @ Cleveland	REG	L	9-2	236	O	8	 -	Recap
+Sep 23, 2013	 @ Texas	REG	L	12-0	258	O	8.5	 -	Recap
+Sep 24, 2013	 @ Texas	REG	L	3-2	330	U	8	 -	Recap
+Sep 25, 2013	 @ Texas	REG	L	7-3	225	O	9	 -	Recap
+Sep 27, 2013	 vs NY Yankees	REG	L	3-2	100	U	8.5	 -	Recap
+Sep 28, 2013	 vs NY Yankees	REG	L	2-1	157	U	8.5	 -	Recap
+Sep 29, 2013	 vs NY Yankees	REG	L	5-1	107	U	8.5	 -	Recap
+Apr 1, 2013	 @ Cincinnati	REG	W	3-1	104	U	7.5	 -	Recap
+Apr 3, 2013	 @ Cincinnati	REG	L	5-4	110	O	7.5	 -	Recap
+Apr 4, 2013	 @ Cincinnati	REG	L	5-4	100	O	8	 -	Recap
+Apr 5, 2013	 @ Texas	REG	L	3-2	107	U	9.5	 -	Recap
+Apr 6, 2013	 @ Texas	REG	W	8-4	110	O	10	 -	Recap
+Apr 7, 2013	 @ Texas	REG	L	7-3	129	O	8	 -	Recap
+Apr 9, 2013	 vs Oakland	REG	L	9-5	-145	O	7.5	 -	Recap
+Apr 10, 2013	 vs Oakland	REG	L	11-5	-131	O	8.5	 -	Recap
+Apr 11, 2013	 vs Oakland	REG	L	8-1	-142	O	8	 -	Recap
+Apr 12, 2013	 vs Houston	REG	L	5-0	-200	U	8	 -	Recap
+Apr 13, 2013	 vs Houston	REG	W	5-4	-181	O	8.5	 -	Recap
+Apr 14, 2013	 vs Houston	REG	W	4-1	-215	U	8	 -	Recap
+Apr 15, 2013	 @ Minnesota	REG	L	8-2	-130	O	8.5	 -	Recap
+Apr 16, 2013	 @ Minnesota	REG	L	8-6	-134	O	8.5	 -	Recap
+Apr 19, 2013	 vs Detroit	REG	W	8-1	115	O	8.5	 -	Recap
+Apr 20, 2013	 vs Detroit	REG	W	10-0	-108	O	9	 -	Recap
+Apr 21, 2013	 vs Detroit	REG	W	4-3	-109	U	8	 -	Recap
+Apr 22, 2013	 vs Texas	REG	L	7-6	-115	O	8	 -	Recap
+Apr 23, 2013	 vs Texas	REG	W	5-4	-110	O	8	 -	Recap
+Apr 24, 2013	 vs Texas	REG	L	11-3	136	O	7.5	 -	Recap
+Apr 25, 2013	 @ Seattle	REG	L	6-0	-127	U	7.5	 -	Recap
+Apr 26, 2013	 @ Seattle	REG	W	6-3	-139	O	7.5	 -	Recap
+Apr 27, 2013	 @ Seattle	REG	L	3-2	144	U	7	 -	Recap
+Apr 28, 2013	 @ Seattle	REG	L	2-1	-102	U	7	 -	Recap
+Apr 29, 2013	 @ Oakland	REG	L	10-8	120	O	8.5	 -	Recap
+Apr 30, 2013	 @ Oakland	REG	L	10-6	-103	O	8.5	 -	Recap
+May 1, 2013	 @ Oakland	REG	W	5-4	108	O	8.5	 -	Recap
+May 2, 2013	 vs Baltimore	REG	L	5-1	-119	U	9	 -	Recap
+May 3, 2013	 vs Baltimore	REG	W	4-0	-136	U	8.5	 -	Recap
+May 4, 2013	 vs Baltimore	REG	L	5-4	-147	O	8.5	 -	Recap
+May 5, 2013	 vs Baltimore	REG	L	8-4	-128	O	8	 -	Recap
+May 7, 2013	 @ Houston	REG	L	7-6	-169	O	9	 -	Recap
+May 8, 2013	 @ Houston	REG	L	3-1	-140	U	9.5	 -	Recap
+May 9, 2013	 @ Houston	REG	W	6-5	-150	O	9	 -	Recap
+May 10, 2013	 @ Chi White Sox	REG	W	7-5	107	O	8.5	 -	Recap
+May 11, 2013	 @ Chi White Sox	REG	W	3-2	-109	U	8.5	 -	Recap
+May 12, 2013	 @ Chi White Sox	REG	L	3-0	118	U	7.5	 -	Recap
+May 13, 2013	 vs Kansas City	REG	L	11-4	-142	O	9	 -	Recap
+May 14, 2013	 vs Kansas City	REG	W	6-2	-127	U	8.5	 -	Recap
+May 15, 2013	 vs Kansas City	REG	L	9-5	-105	O	9	 -	Recap
+May 16, 2013	 vs Chi White Sox	REG	L	5-4	-144	O	8	 -	Recap
+May 17, 2013	 vs Chi White Sox	REG	L	3-0	-118	U	7	 -	Recap
+May 18, 2013	 vs Chi White Sox	REG	W	12-9	-134	O	8.5	 -	Recap
+May 19, 2013	 vs Chi White Sox	REG	W	6-2	-121	O	7.5	 -	Recap
+May 21, 2013	 vs Seattle	REG	W	12-0	-157	O	9	 -	Recap
+May 22, 2013	 vs Seattle	REG	W	7-1	-184	U	8.5	 -	Recap
+May 23, 2013	 @ Kansas City	REG	W	5-4	105	O	8.5	 -	Recap
+May 24, 2013	 @ Kansas City	REG	W	5-2	-115	U	8.5	 -	Recap
+May 25, 2013	 @ Kansas City	REG	W	7-0	113	U	9.5	 -	Recap
+May 26, 2013	 @ Kansas City	REG	W	5-2	-111	U	9	 -	Recap
+May 27, 2013	 @ LA Dodgers	REG	L	8-7	-110	O	7	 -	Recap
+May 28, 2013	 @ LA Dodgers	REG	L	3-0	116	U	8.5	 -	Recap
+May 29, 2013	 vs LA Dodgers	REG	W	4-3	-180	U	8.5	 -	Recap
+May 30, 2013	 vs LA Dodgers	REG	W	3-2	-187	U	8	 -	Recap
+May 31, 2013	 vs Houston	REG	L	6-3	-230	O	8.5	 -	Recap
+Jun 1, 2013	 vs Houston	REG	L	2-0	-235	U	8.5	 -	Recap
+Jun 2, 2013	 vs Houston	REG	L	5-4	-240	O	8.5	 -	Recap
+Jun 3, 2013	 vs Houston	REG	L	2-1	-185	U	8.5	 -	Recap
+Jun 4, 2013	 vs Chi Cubs	REG	W	4-3	-181	U	7.5	 -	Recap
+Jun 5, 2013	 vs Chi Cubs	REG	L	8-6	-156	O	7.5	 -	Recap
+Jun 8, 2013	 @ Boston	REG	W	9-5	150	O	10.5	 -	Recap
+Jun 8, 2013	 @ Boston	REG	L	7-2	154	O	8.5	 -	Recap
+Jun 9, 2013	 @ Boston	REG	L	10-5	152	O	10.5	 -	Recap
+Jun 10, 2013	 @ Baltimore	REG	L	4-3	-119	U	9	 -	Recap
+Jun 11, 2013	 @ Baltimore	REG	L	3-2	111	U	9.5	 -	Recap
+Jun 12, 2013	 @ Baltimore	REG	W	9-5	106	O	9.5	 -	Recap
+Jun 14, 2013	 vs NY Yankees	REG	W	5-2	-158	U	8	 -	Recap
+Jun 15, 2013	 vs NY Yankees	REG	W	6-2	-120	P	8	 -	Recap
+Jun 16, 2013	 vs NY Yankees	REG	L	6-5	-136	O	7	 -	Recap
+Jun 17, 2013	 vs Seattle	REG	W	11-3	-190	O	8	 -	Recap
+Jun 18, 2013	 vs Seattle	REG	L	3-2	-200	U	9	 -	Recap
+Jun 19, 2013	 vs Seattle	REG	W	1-0	-225	U	8	 -	Recap
+Jun 20, 2013	 vs Seattle	REG	W	10-9	-105	O	7	 -	Recap
+Jun 21, 2013	 vs Pittsburgh	REG	L	5-2	-160	U	7.5	 -	Recap
+Jun 22, 2013	 vs Pittsburgh	REG	L	6-1	-125	U	7.5	 -	Recap
+Jun 23, 2013	 vs Pittsburgh	REG	L	10-9	-150	O	9	 -	Recap
+Jun 25, 2013	 @ Detroit	REG	W	14-8	124	O	9.5	 -	Recap
+Jun 26, 2013	 @ Detroit	REG	W	7-4	136	O	10	 -	Recap
+Jun 27, 2013	 @ Detroit	REG	W	3-1	142	U	8.5	 -	Recap
+Jun 28, 2013	 @ Houston	REG	W	4-2	-133	U	9	 -	Recap
+Jun 29, 2013	 @ Houston	REG	W	7-2	-149	P	9	 -	Recap
+Jun 30, 2013	 @ Houston	REG	W	3-1	-153	U	9	 -	Recap
+Jul 2, 2013	 vs St. Louis	REG	W	5-1	-122	U	8	 -	Recap
+Jul 3, 2013	 vs St. Louis	REG	L	12-2	-111	O	8.5	 -	Recap
+Jul 4, 2013	 vs St. Louis	REG	W	6-5	125	O	8	 -	Recap
+Jul 5, 2013	 vs Boston	REG	L	6-2	-141	U	8.5	 -	Recap
+Jul 6, 2013	 vs Boston	REG	W	9-7	-105	O	8.5	 -	Recap
+Jul 7, 2013	 vs Boston	REG	W	3-0	-130	U	8	 -	Recap
+Jul 9, 2013	 @ Chi Cubs	REG	L	7-2	-135	P	9	 -	Recap
+Jul 10, 2013	 @ Chi Cubs	REG	W	13-2	-127	O	8	 -	Recap
+Jul 12, 2013	 @ Seattle	REG	L	8-3	-128	O	8	 -	Recap
+Jul 13, 2013	 @ Seattle	REG	L	6-0	108	U	7	 -	Recap
+Jul 14, 2013	 @ Seattle	REG	L	4-3	100	U	8	 -	Recap
+Jul 19, 2013	 vs Oakland	REG	W	4-1	-131	U	7.5	 -	Recap
+Jul 20, 2013	 vs Oakland	REG	W	2-0	-138	U	8	 -	Recap
+Jul 21, 2013	 vs Oakland	REG	L	6-0	113	U	8	 -	Recap
+Jul 22, 2013	 vs Minnesota	REG	L	4-3	-160	U	8.5	 -	Recap
+Jul 23, 2013	 vs Minnesota	REG	L	10-3	-158	O	8.5	 -	Recap
+Jul 24, 2013	 vs Minnesota	REG	W	1-0	-230	U	7.5	 -	Recap
+Jul 25, 2013	 @ Oakland	REG	W	8-3	-102	O	7.5	 -	Recap
+Jul 26, 2013	 @ Oakland	REG	L	6-4	155	O	7.5	 -	Recap
+Jul 27, 2013	 @ Oakland	REG	L	3-1	137	U	8	 -	Recap
+Jul 28, 2013	 @ Oakland	REG	L	10-6	140	O	8	 -	Recap
+Jul 29, 2013	 @ Texas	REG	L	4-3	128	U	8	 -	Recap
+Jul 30, 2013	 @ Texas	REG	L	14-11	125	O	8.5	 -	Recap
+Jul 31, 2013	 @ Texas	REG	L	2-1	133	U	10.5	 -	Recap
+Aug 1, 2013	 vs Toronto	REG	W	8-2	-105	O	8.5	 -	Recap
+Aug 2, 2013	 vs Toronto	REG	W	7-5	-123	O	8.5	 -	Recap
+Aug 3, 2013	 vs Toronto	REG	W	7-3	-160	O	8	 -	Recap
+Aug 4, 2013	 vs Toronto	REG	L	6-5	-125	O	8.5	 -	Recap
+Aug 5, 2013	 vs Texas	REG	L	5-2	-105	U	8.5	 -	Recap
+Aug 6, 2013	 vs Texas	REG	L	8-3	155	O	7	 -	Recap
+Aug 7, 2013	 vs Texas	REG	L	10-3	107	O	8	 -	Recap
+Aug 9, 2013	 @ Cleveland	REG	W	5-2	107	U	7.5	 -	Recap
+Aug 10, 2013	 @ Cleveland	REG	W	7-2	101	O	8.5	 -	Recap
+Aug 11, 2013	 @ Cleveland	REG	L	6-5	173	O	8.5	 -	Recap
+Aug 12, 2013	 @ NY Yankees	REG	L	2-1	160	U	8	 -	Recap
+Aug 13, 2013	 @ NY Yankees	REG	L	14-7	139	O	8.5	 -	Recap
+Aug 14, 2013	 @ NY Yankees	REG	L	11-3	123	O	7.5	 -	Recap
+Aug 15, 2013	 @ NY Yankees	REG	W	8-4	101	O	8.5	 -	Recap
+Aug 16, 2013	 vs Houston	REG	L	8-2	-177	O	9	 -	Recap
+Aug 17, 2013	 vs Houston	REG	W	6-5	-190	O	8.5	 -	Recap
+Aug 18, 2013	 vs Houston	REG	L	7-5	-184	O	9	 -	Recap
+Aug 19, 2013	 vs Cleveland	REG	L	5-2	-123	U	7.5	 -	Recap
+Aug 20, 2013	 vs Cleveland	REG	L	4-1	-106	U	7.5	 -	Recap
+Aug 21, 2013	 vs Cleveland	REG	L	3-1	140	U	8.5	 -	Recap
+Aug 23, 2013	 @ Seattle	REG	W	2-0	158	U	7.5	 -	Recap
+Aug 24, 2013	 @ Seattle	REG	W	5-1	112	U	8	 -	Recap
+Aug 25, 2013	 @ Seattle	REG	W	7-1	-130	O	7.5	 -	Recap
+Aug 27, 2013	 @ Tampa Bay	REG	W	6-5	125	O	7.5	 -	Recap
+Aug 28, 2013	 @ Tampa Bay	REG	L	4-1	156	U	7.5	 -	Recap
+Aug 29, 2013	 @ Tampa Bay	REG	W	2-0	156	U	8.5	 -	Recap
+Aug 30, 2013	 @ Milwaukee	REG	W	5-0	-118	U	8	 -	Recap
+Aug 31, 2013	 @ Milwaukee	REG	W	6-5	117	O	8.5	 -	Recap
+Sep 1, 2013	 @ Milwaukee	REG	W	5-3	102	P	8	 -	Recap
+Sep 2, 2013	 vs Tampa Bay	REG	W	11-2	121	O	8	 -	Recap
+Sep 3, 2013	 vs Tampa Bay	REG	L	7-1	121	O	7.5	 -	Recap
+Sep 4, 2013	 vs Tampa Bay	REG	L	3-1	-126	U	7.5	 -	Recap
+Sep 5, 2013	 vs Tampa Bay	REG	W	6-2	176	O	7.5	 -	Recap
+Sep 6, 2013	 vs Texas	REG	W	6-5	-103	O	7.5	 -	Recap
+Sep 7, 2013	 vs Texas	REG	W	8-3	128	O	8	 -	Recap
+Sep 8, 2013	 vs Texas	REG	L	4-3	-106	U	8.5	 -	Recap
+Sep 9, 2013	 @ Minnesota	REG	L	6-3	-164	O	8.5	 -	Recap
+Sep 10, 2013	 @ Toronto	REG	W	12-6	119	O	9	 -	Recap
+Sep 11, 2013	 @ Toronto	REG	W	5-4	-105	O	8.5	 -	Recap
+Sep 12, 2013	 @ Toronto	REG	W	4-3	-119	U	9	 -	Recap
+Sep 13, 2013	 @ Houston	REG	L	9-7	-130	O	9	 -	Recap
+Sep 14, 2013	 @ Houston	REG	W	6-2	-153	P	8	 -	Recap
+Sep 15, 2013	 @ Houston	REG	W	2-1	-161	U	9	 -	Recap
+Sep 16, 2013	 @ Oakland	REG	W	12-1	126	O	7	 -	Recap
+Sep 17, 2013	 @ Oakland	REG	L	2-1	150	U	7.5	 -	Recap
+Sep 18, 2013	 @ Oakland	REG	W	5-4	169	O	8	 -	Recap
+Sep 20, 2013	 vs Seattle	REG	W	3-2	-129	U	8.5	 -	Recap
+Sep 21, 2013	 vs Seattle	REG	W	6-5	-170	O	9	 -	Recap
+Sep 22, 2013	 vs Seattle	REG	L	3-2	-108	U	7	 -	Recap
+Sep 23, 2013	 vs Oakland	REG	L	10-5	-136	O	8	 -	Recap
+Sep 24, 2013	 vs Oakland	REG	W	3-0	120	U	8	 -	Recap
+Sep 25, 2013	 vs Oakland	REG	W	3-1	-118	U	7.5	 -	Recap
+Sep 26, 2013	 @ Texas	REG	L	6-5	165	O	9	 -	Recap
+Sep 27, 2013	 @ Texas	REG	L	5-3	128	P	8	 -	Recap
+Sep 28, 2013	 @ Texas	REG	L	7-4	152	O	9	 -	Recap
+Sep 29, 2013	 @ Texas	REG	L	6-2	206	O	7.5	 -	Recap

@@ -1,3 +1,14 @@
+/* This is my elo system for predicting basketball. Essentially I use Naive Bayesian updating to assign a rating for each candidate.
+ * I then use this data to predict who is going to win.
+ * Parameters to be adjusted include the K value (how much the ranks change) as well as the logistic regression model for win % based on different ratings
+ * Initial tests show around 65% accuracy
+*/
+
+
+
+
+
+
 #include <cstdio>
 #include <vector>
 #include <cmath>

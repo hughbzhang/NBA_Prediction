@@ -1,3 +1,4 @@
+#This is my parser for the basketball data gathered from landofbasketball.com
 cp $1'314.txt' cur.txt
 
 gsed -i 's/,//g' cur.txt 
