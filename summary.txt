@@ -1,0 +1,31 @@
+A sport with a lot of games is probably better for these purposes.
+
+Total number of games in season (including playoffs)
+
+Baseball:
+Basketball:
+Football:
+Golf:
+Hockey:
+
+
+
+
+
+
+Initial algorithm: Elo ranking or topological sort like my SPARC application.
+If your prediction of who is going to win differs from odds by a significant margin, go for it.
+
+
+Add: web scraper for trades/injuries
+Reset how much for each season
+Home and away statistics
+Head to Head statistics
+Hot streaks
+
+
+
+
+Saturday June 14
+
+I did the initial coding and stuff. Pretty much found a website with all basketball data. Learned sed and vim search and replace to manipulate it and then ran an elo system on it. Achieved around 65% accuracy (not bad at all). Moneyline bets for NBA are difficult have data on, so maybe either switch to MLB (hard to find game data) or keep searching for NBA moneyline data.
