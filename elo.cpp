@@ -22,8 +22,11 @@ map<string,ld> rating;
 map<string,bool> vis;
 
 bool win;
-int trainGames = 1000;
-int testGames = 314;
+int totalGames = 1314;
+int regularSeason = 1229;
+int firstRound = 1274;
+int confFinals = 1296;
+int finals = 1307;
 string one,two;
 int P1,P2;
 ld EA,EB,QA,QB;
@@ -49,7 +52,6 @@ bool update(){
         names.push_back(two);
     }
     if(rating[one]>rating[two]==P1>P2) answer = true;
-    cout << (P1<P2) << endl;
     QA = pow(10,rating[one]/400); 
     QB = pow(10,rating[two]/400); 
     EA = QA/(QA+QB);
@@ -65,15 +67,10 @@ bool update(){
 
 int main(){
     freopen("DATA.txt","r",stdin);
-    freopen("gap.txt","w",stdout);
-    for(int x = 0;x<trainGames;x++){
+    for(int x = 0;x<finals;x++){
         if(update()) original++; 
     }
-    for(int x = 0;x<testGames;x++){
-        if(update()) correct++;
-    }
     sort(names.begin(),names.end(),comp);
-//    for(int x = 0;x<names.size();x++) cout << names[x] << " " << rating[names[x]] << endl;
-//    cout << correct/(ld)testGames << endl;
-    //cout << original/(ld)1000 << endl;
+    for(int x = 0;x<names.size();x++) cout << names[x] << " " << rating[names[x]] << endl;
+    cout << endl;
 }
