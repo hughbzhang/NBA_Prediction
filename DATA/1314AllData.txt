@@ -1,0 +1,1526 @@
+Indiana Pacers 97, Orlando Magic 87 at Indiana
+Miami Heat 107, Chicago Bulls 95 at Miami
+Los Angeles Lakers 116, Los Angeles Clippers 103 at Los Angeles
+Oct 30, 2013
+Cleveland Cavaliers 98, Brooklyn Nets 94 at Cleveland
+Philadelphia 76ers 114, Miami Heat 110 at Philadelphia
+Toronto Raptors 93, Boston Celtics 87 at Toronto
+Detroit Pistons 113, Washington Wizards 102 at Detroit
+New York Knicks 90, Milwaukee Bucks 83 at New York
+Houston Rockets 96, Charlotte Bobcats 83 at Houston
+Minnesota Timberwolves 120, Orlando Magic 115 OT at Minnesota
+Indiana Pacers 95, New Orleans Pelicans 90 at New Orleans
+Dallas Mavericks 118, Atlanta Hawks 109 at Dallas
+San Antonio Spurs 101, Memphis Grizzlies 94 at San Antonio
+Oklahoma City Thunder 101, Utah Jazz 98 at Utah
+Phoenix Suns 104, Portland Trail Blazers 91 at Phoenix
+Sacramento Kings 90, Denver Nuggets 88 at Sacramento
+Golden State Warriors 125, Los Angeles Lakers 94 at Golden State
+Oct 31, 2013
+Chicago Bulls 82, New York Knicks 81 at Chicago
+Los Angeles Clippers 126, Golden State Warriors 115 at Los Angeles
+Nov 1, 2013
+Charlotte Bobcats 90, Cleveland Cavaliers 84 at Charlotte
+Orlando Magic 110, New Orleans Pelicans 90 at Orlando
+Philadelphia 76ers 109, Washington Wizards 102 at Washington
+Atlanta Hawks 102, Toronto Raptors 95 at Atlanta
+Milwaukee Bucks 105, Boston Celtics 98 at Boston
+Houston Rockets 113, Dallas Mavericks 105 at Houston
+Memphis Grizzlies 111, Detroit Pistons 108 OT at Memphis
+Minnesota Timberwolves 100, Oklahoma City Thunder 81 at Minnesota
+Brooklyn Nets 101, Miami Heat 100 at Brooklyn
+Portland Trail Blazers 113, Denver Nuggets 98 at Denver
+Phoenix Suns 87, Utah Jazz 84 at Phoenix
+Los Angeles Clippers 110, Sacramento Kings 101 at Sacramento
+San Antonio Spurs 91, Los Angeles Lakers 85 at Los Angeles
+Nov 2, 2013
+Indiana Pacers 89, Cleveland Cavaliers 74 at Indiana
+Philadelphia 76ers 107, Chicago Bulls 104 at Philadelphia
+New Orleans Pelicans 105, Charlotte Bobcats 84 at New Orleans
+Dallas Mavericks 111, Memphis Grizzlies 99 at Dallas
+Toronto Raptors 97, Milwaukee Bucks 90 at Milwaukee
+Houston Rockets 104, Utah Jazz 93 at Utah
+Portland Trail Blazers 115, San Antonio Spurs 105 at Portland
+Golden State Warriors 98, Sacramento Kings 87 at Golden State
+Nov 3, 2013
+Detroit Pistons 87, Boston Celtics 77 at Detroit
+Miami Heat 103, Washington Wizards 93 at Miami
+Orlando Magic 107, Brooklyn Nets 86 at Orlando
+Oklahoma City Thunder 103, Phoenix Suns 96 at Oklahoma City
+Minnesota Timberwolves 109, New York Knicks 100 at New York
+Los Angeles Lakers 105, Atlanta Hawks 103 at Los Angeles
+Nov 4, 2013
+Cleveland Cavaliers 93, Minnesota Timberwolves 92 at Cleveland
+Golden State Warriors 110, Philadelphia 76ers 90 at Philadelphia
+Memphis Grizzlies 95, Boston Celtics 88 at Memphis
+Los Angeles Clippers 137, Houston Rockets 118 at Los Angeles
+Nov 5, 2013
+Miami Heat 104, Toronto Raptors 95 at Toronto
+Brooklyn Nets 104, Utah Jazz 88 at Brooklyn
+Indiana Pacers 99, Detroit Pistons 91 at Detroit
+Charlotte Bobcats 102, New York Knicks 97 at New York
+Phoenix Suns 104, New Orleans Pelicans 98 at New Orleans
+Dallas Mavericks 123, Los Angeles Lakers 104 at Dallas
+San Antonio Spurs 102, Denver Nuggets 94 at Denver
+Houston Rockets 116, Portland Trail Blazers 101 at Portland
+Atlanta Hawks 105, Sacramento Kings 100 at Sacramento
+Nov 6, 2013
+Charlotte Bobcats 92, Toronto Raptors 90 at Charlotte
+Indiana Pacers 97, Chicago Bulls 80 at Indiana
+Orlando Magic 98, Los Angeles Clippers 90 at Orlando
+Washington Wizards 116, Philadelphia 76ers 102 at Philadelphia
+Boston Celtics 97, Utah Jazz 87 at Boston
+New Orleans Pelicans 99, Memphis Grizzlies 84 at Memphis
+Milwaukee Bucks 109, Cleveland Cavaliers 104 at Milwaukee
+Golden State Warriors 106, Minnesota Timberwolves 93 at Minnesota
+San Antonio Spurs 99, Phoenix Suns 96 at San Antonio
+Oklahoma City Thunder 107, Dallas Mavericks 93 at Oklahoma City
+Nov 7, 2013
+Miami Heat 102, Los Angeles Clippers 97 at Miami
+Denver Nuggets 109, Atlanta Hawks 107 at Denver
+Los Angeles Lakers 99, Houston Rockets 98 at Houston
+Nov 8, 2013
+New York Knicks 101, Charlotte Bobcats 91 at Charlotte
+Indiana Pacers 91, Toronto Raptors 84 at Indiana
+Boston Celtics 91, Orlando Magic 89 at Orlando
+Philadelphia 76ers 94, Cleveland Cavaliers 79 at Philadelphia
+Washington Wizards 112, Brooklyn Nets 108 OT at Washington
+Oklahoma City Thunder 119, Detroit Pistons 110 at Detroit
+Chicago Bulls 97, Utah Jazz 73 at Chicago
+Minnesota Timberwolves 116, Dallas Mavericks 108 at Minnesota
+New Orleans Pelicans 96, Los Angeles Lakers 85 at New Orleans
+San Antonio Spurs 76, Golden State Warriors 74 at San Antonio
+Phoenix Suns 114, Denver Nuggets 103 at Phoenix
+Portland Trail Blazers 104, Sacramento Kings 91 at Portland
+Nov 9, 2013
+Toronto Raptors 115, Utah Jazz 91 at Toronto
+Atlanta Hawks 104, Orlando Magic 94 at Atlanta
+Indiana Pacers 96, Brooklyn Nets 91 at Brooklyn
+Cleveland Cavaliers 127, Philadelphia 76ers 125 2OT at Cleveland
+Boston Celtics 111, Miami Heat 110 at Miami
+Los Angeles Clippers 107, Houston Rockets 94 at Houston
+Memphis Grizzlies 108, Golden State Warriors 90 at Memphis
+Dallas Mavericks 91, Milwaukee Bucks 83 at Milwaukee
+Portland Trail Blazers 96, Sacramento Kings 85 at Sacramento
+Nov 10, 2013
+San Antonio Spurs 120, New York Knicks 89 at New York
+Oklahoma City Thunder 106, Washington Wizards 105 OT at Oklahoma City
+Phoenix Suns 101, New Orleans Pelicans 94 at Phoenix
+Minnesota Timberwolves 113, Los Angeles Lakers 90 at Los Angeles
+Nov 11, 2013
+Atlanta Hawks 103, Charlotte Bobcats 94 at Charlotte
+Indiana Pacers 95, Memphis Grizzlies 79 at Indiana
+San Antonio Spurs 109, Philadelphia 76ers 85 at Philadelphia
+Boston Celtics 120, Orlando Magic 105 at Boston
+Chicago Bulls 96, Cleveland Cavaliers 81 at Chicago
+Houston Rockets 110, Toronto Raptors 104 2OT at Houston
+Denver Nuggets 100, Utah Jazz 81 at Utah
+Portland Trail Blazers 109, Detroit Pistons 103 at Portland
+Los Angeles Clippers 109, Minnesota Timberwolves 107 at Los Angeles
+Nov 12, 2013
+Miami Heat 118, Milwaukee Bucks 95 at Miami
+Dallas Mavericks 105, Washington Wizards 95 at Dallas
+Golden State Warriors 113, Detroit Pistons 95 at Golden State
+Los Angeles Lakers 116, New Orleans Pelicans 95 at Los Angeles
+Nov 13, 2013
+Orlando Magic 94, Milwaukee Bucks 91 at Orlando
+Philadelphia 76ers 123, Houston Rockets 117 OT at Philadelphia
+Charlotte Bobcats 89, Boston Celtics 83 at Boston
+Toronto Raptors 103, Memphis Grizzlies 87 at Memphis
+Minnesota Timberwolves 124, Cleveland Cavaliers 95 at Minnesota
+New York Knicks 95, Atlanta Hawks 91 at Atlanta
+San Antonio Spurs 92, Washington Wizards 79 at San Antonio
+Denver Nuggets 111, Los Angeles Lakers 99 at Denver
+Utah Jazz 111, New Orleans Pelicans 105 at Utah
+Portland Trail Blazers 90, Phoenix Suns 89 at Portland
+Sacramento Kings 107, Brooklyn Nets 86 at Sacramento
+Los Angeles Clippers 111, Oklahoma City Thunder 103 at Los Angeles
+Nov 14, 2013
+Houston Rockets 109, New York Knicks 106 at New York
+Golden State Warriors 116, Oklahoma City Thunder 115 at Golden State
+Nov 15, 2013
+Indiana Pacers 104, Milwaukee Bucks 77 at Indiana
+Chicago Bulls 96, Toronto Raptors 80 at Toronto
+Atlanta Hawks 113, Philadelphia 76ers 103 at Atlanta
+Portland Trail Blazers 109, Boston Celtics 96 at Boston
+Charlotte Bobcats 86, Cleveland Cavaliers 80 at Cleveland
+Miami Heat 110, Dallas Mavericks 104 at Miami
+Denver Nuggets 117, Minnesota Timberwolves 113 at Denver
+Brooklyn Nets 100, Phoenix Suns 98 OT at Phoenix
+San Antonio Spurs 91, Utah Jazz 82 at Utah
+Memphis Grizzlies 89, Los Angeles Lakers 86 at Los Angeles
+Detroit Pistons 97, Sacramento Kings 90 at Sacramento
+Nov 16, 2013
+Miami Heat 97, Charlotte Bobcats 81 at Charlotte
+Dallas Mavericks 108, Orlando Magic 100 at Orlando
+Cleveland Cavaliers 103, Washington Wizards 96 OT at Washington
+Atlanta Hawks 110, New York Knicks 90 at New York
+Chicago Bulls 110, Indiana Pacers 94 at Chicago
+Houston Rockets 122, Denver Nuggets 111 at Houston
+Minnesota Timberwolves 106, Boston Celtics 88 at Minnesota
+New Orleans Pelicans 135, Philadelphia 76ers 98 at New Orleans
+Oklahoma City Thunder 92, Milwaukee Bucks 79 at Milwaukee
+Golden State Warriors 102, Utah Jazz 88 at Golden State
+Los Angeles Clippers 110, Brooklyn Nets 103 at Los Angeles
+Nov 17, 2013
+Portland Trail Blazers 118, Toronto Raptors 110 OT at Toronto
+Memphis Grizzlies 97, Sacramento Kings 86 at Sacramento
+Los Angeles Lakers 114, Detroit Pistons 99 at Los Angeles
+Nov 18, 2013
+Portland Trail Blazers 108, Brooklyn Nets 98 at Brooklyn
+Chicago Bulls 86, Charlotte Bobcats 81 at Chicago
+Oklahoma City Thunder 115, Denver Nuggets 113 at Oklahoma City
+Dallas Mavericks 97, Philadelphia 76ers 94 at Dallas
+Golden State Warriors 98, Utah Jazz 87 at Utah
+Memphis Grizzlies 106, Los Angeles Clippers 102 at Los Angeles
+Nov 19, 2013
+Washington Wizards 104, Minnesota Timberwolves 100 at Washington
+Detroit Pistons 92, New York Knicks 86 at Detroit
+Miami Heat 104, Atlanta Hawks 88 at Miami
+Houston Rockets 109, Boston Celtics 85 at Houston
+Sacramento Kings 107, Phoenix Suns 104 at Sacramento
+Nov 20, 2013
+Charlotte Bobcats 95, Brooklyn Nets 91 at Charlotte
+Washington Wizards 98, Cleveland Cavaliers 91 at Cleveland
+Indiana Pacers 103, New York Knicks 96 OT at New York
+Miami Heat 120, Orlando Magic 92 at Orlando
+Toronto Raptors 108, Philadelphia 76ers 98 at Philadelphia
+Atlanta Hawks 93, Detroit Pistons 85 at Atlanta
+Portland Trail Blazers 91, Milwaukee Bucks 82 at Milwaukee
+Los Angeles Clippers 102, Minnesota Timberwolves 98 at Minnesota
+New Orleans Pelicans 105, Utah Jazz 98 at New Orleans
+San Antonio Spurs 104, Boston Celtics 93 at San Antonio
+Sacramento Kings 113, Phoenix Suns 106 at Phoenix
+Dallas Mavericks 123, Houston Rockets 120 at Dallas
+Memphis Grizzlies 88, Golden State Warriors 81 OT at Golden State
+Nov 21, 2013
+Oklahoma City Thunder 105, Los Angeles Clippers 91 at Oklahoma City
+Denver Nuggets 97, Chicago Bulls 87 at Denver
+Nov 22, 2013
+Phoenix Suns 98, Charlotte Bobcats 91 at Charlotte
+Philadelphia 76ers 115, Milwaukee Bucks 107 OT at Philadelphia
+Toronto Raptors 96, Washington Wizards 88 at Toronto
+Indiana Pacers 97, Boston Celtics 82 at Boston
+Atlanta Hawks 96, Detroit Pistons 89 at Detroit
+San Antonio Spurs 102, Memphis Grizzlies 86 at Memphis
+Minnesota Timberwolves 111, Brooklyn Nets 81 at Minnesota
+New Orleans Pelicans 104, Cleveland Cavaliers 100 at New Orleans
+Dallas Mavericks 103, Utah Jazz 93 at Dallas
+Portland Trail Blazers 98, Chicago Bulls 95 at Portland
+Los Angeles Lakers 102, Golden State Warriors 95 at Los Angeles
+Nov 23, 2013
+Los Angeles Clippers 103, Sacramento Kings 102 at Los Angeles
+Indiana Pacers 106, Philadelphia 76ers 98 at Indiana
+Washington Wizards 98, New York Knicks 89 at Washington
+Boston Celtics 94, Atlanta Hawks 87 at Atlanta
+Miami Heat 101, Orlando Magic 99 at Miami
+Houston Rockets 112, Minnesota Timberwolves 101 at Houston
+Charlotte Bobcats 96, Milwaukee Bucks 72 at Milwaukee
+San Antonio Spurs 126, Cleveland Cavaliers 96 at San Antonio
+Denver Nuggets 102, Dallas Mavericks 100 at Denver
+Portland Trail Blazers 113, Golden State Warriors 101 at Golden State
+Nov 24, 2013
+Detroit Pistons 109, Brooklyn Nets 97 at Brooklyn
+Los Angeles Clippers 121, Chicago Bulls 82 at Los Angeles
+Phoenix Suns 104, Orlando Magic 96 at Orlando
+Oklahoma City Thunder 95, Utah Jazz 73 at Oklahoma City
+Los Angeles Lakers 100, Sacramento Kings 86 at Los Angeles
+Nov 25, 2013
+Boston Celtics 96, Charlotte Bobcats 86 at Charlotte
+Indiana Pacers 98, Minnesota Timberwolves 84 at Indiana
+Detroit Pistons 113, Milwaukee Bucks 94 at Detroit
+Miami Heat 107, Phoenix Suns 92 at Miami
+Houston Rockets 93, Memphis Grizzlies 86 at Memphis
+Denver Nuggets 110, Dallas Mavericks 96 at Dallas
+San Antonio Spurs 112, New Orleans Pelicans 93 at San Antonio
+Utah Jazz 89, Chicago Bulls 83 OT at Utah
+Portland Trail Blazers 102, New York Knicks 91 at Portland
+Nov 26, 2013
+Brooklyn Nets 102, Toronto Raptors 100 at Toronto
+Washington Wizards 116, Los Angeles Lakers 111 at Washington
+Orlando Magic 109, Atlanta Hawks 92 at Atlanta
+Golden State Warriors 102, New Orleans Pelicans 101 at New Orleans
+Nov 27, 2013
+Indiana Pacers 99, Charlotte Bobcats 74 at Charlotte
+Orlando Magic 105, Philadelphia 76ers 94 at Orlando
+Memphis Grizzlies 100, Boston Celtics 93 at Boston
+Los Angeles Lakers 99, Brooklyn Nets 94 at Brooklyn
+Miami Heat 95, Cleveland Cavaliers 84 at Cleveland
+Chicago Bulls 99, Detroit Pistons 79 at Detroit
+Houston Rockets 113, Atlanta Hawks 84 at Houston
+Washington Wizards 100, Milwaukee Bucks 92 OT at Milwaukee
+Denver Nuggets 117, Minnesota Timberwolves 110 at Minnesota
+Oklahoma City Thunder 94, San Antonio Spurs 88 at Oklahoma City
+Dallas Mavericks 103, Golden State Warriors 99 at Dallas
+Phoenix Suns 120, Portland Trail Blazers 106 at Phoenix
+Los Angeles Clippers 93, New York Knicks 80 at Los Angeles
+Nov 29, 2013
+Charlotte Bobcats 92, Milwaukee Bucks 76 at Charlotte
+San Antonio Spurs 109, Orlando Magic 91 at Orlando
+Miami Heat 90, Toronto Raptors 83 at Toronto
+Atlanta Hawks 88, Dallas Mavericks 87 at Atlanta
+Boston Celtics 103, Cleveland Cavaliers 86 at Boston
+Los Angeles Lakers 106, Detroit Pistons 102 at Detroit
+Houston Rockets 114, Brooklyn Nets 95 at Houston
+Oklahoma City Thunder 113, Golden State Warriors 112 OT at Oklahoma City
+Indiana Pacers 93, Washington Wizards 73 at Indiana
+New Orleans Pelicans 121, Philadelphia 76ers 105 at Philadelphia
+Denver Nuggets 97, New York Knicks 95 at Denver
+Phoenix Suns 112, Utah Jazz 101 at Utah
+Los Angeles Clippers 104, Sacramento Kings 98 OT at Sacramento
+Nov 30, 2013
+Washington Wizards 108, Atlanta Hawks 101 at Washington
+Cleveland Cavaliers 97, Chicago Bulls 93 at Cleveland
+Brooklyn Nets 97, Memphis Grizzlies 88 at Memphis
+Minnesota Timberwolves 112, Dallas Mavericks 106 at Dallas
+Houston Rockets 112, San Antonio Spurs 106 at San Antonio
+Utah Jazz 112, Phoenix Suns 104 at Phoenix
+Milwaukee Bucks 92, Boston Celtics 85 at Milwaukee
+Dec 1, 2013
+Denver Nuggets 112, Toronto Raptors 98 at Toronto
+Indiana Pacers 105, Los Angeles Clippers 100 at Los Angeles
+Detroit Pistons 115, Philadelphia 76ers 100 at Detroit
+Golden State Warriors 115, Sacramento Kings 113 at Sacramento
+Miami Heat 99, Charlotte Bobcats 98 at Miami
+Oklahoma City Thunder 113, Minnesota Timberwolves 103 at Oklahoma City
+New Orleans Pelicans 103, New York Knicks 99 at New York
+Portland Trail Blazers 114, Los Angeles Lakers 108 at Los Angeles
+Dec 2, 2013
+Washington Wizards 98, Orlando Magic 80 at Washington
+New Orleans Pelicans 131, Chicago Bulls 128 3OT at Chicago
+San Antonio Spurs 102, Atlanta Hawks 100 at San Antonio
+Utah Jazz 109, Houston Rockets 103 at Utah
+Portland Trail Blazers 106, Indiana Pacers 102 at Portland
+Dec 3, 2013
+Philadelphia 76ers 126, Orlando Magic 125 2OT at Philadelphia
+Boston Celtics 108, Milwaukee Bucks 100 at Boston
+Denver Nuggets 111, Brooklyn Nets 87 at Brooklyn
+Detroit Pistons 107, Miami Heat 97 at Miami
+Memphis Grizzlies 110, Phoenix Suns 91 at Memphis
+Dallas Mavericks 89, Charlotte Bobcats 82 at Dallas
+Oklahoma City Thunder 97, Sacramento Kings 95 at Sacramento
+Golden State Warriors 112, Toronto Raptors 103 at Golden State
+Dec 4, 2013
+Cleveland Cavaliers 98, Denver Nuggets 88 at Cleveland
+Atlanta Hawks 107, Los Angeles Clippers 97 at Atlanta
+Phoenix Suns 97, Houston Rockets 88 at Houston
+Detroit Pistons 105, Milwaukee Bucks 98 at Milwaukee
+Dallas Mavericks 100, New Orleans Pelicans 97 at New Orleans
+Indiana Pacers 95, Utah Jazz 86 at Utah
+Portland Trail Blazers 111, Oklahoma City Thunder 104 at Portland
+Dec 5, 2013
+New York Knicks 113, Brooklyn Nets 83 at Brooklyn
+Los Angeles Clippers 101, Memphis Grizzlies 81 at Memphis
+Chicago Bulls 107, Miami Heat 87 at Chicago
+Dec 6, 2013
+Charlotte Bobcats 105, Philadelphia 76ers 88 at Charlotte
+Milwaukee Bucks 109, Washington Wizards 105 OT at Washington
+Atlanta Hawks 108, Cleveland Cavaliers 89 at Atlanta
+Boston Celtics 106, Denver Nuggets 98 at Boston
+New York Knicks 121, Orlando Magic 83 at New York
+Houston Rockets 105, Golden State Warriors 83 at Houston
+Oklahoma City Thunder 109, New Orleans Pelicans 95 at New Orleans
+Phoenix Suns 106, Toronto Raptors 97 at Phoenix
+Portland Trail Blazers 130, Utah Jazz 98 at Portland
+Los Angeles Lakers 106, Sacramento Kings 100 at Sacramento
+Dec 7, 2013
+Denver Nuggets 103, Philadelphia 76ers 92 at Philadelphia
+Cleveland Cavaliers 88, Los Angeles Clippers 82 at Cleveland
+Detroit Pistons 92, Chicago Bulls 75 at Chicago
+Golden State Warriors 108, Memphis Grizzlies 82 at Memphis
+Miami Heat 103, Minnesota Timberwolves 82 at Minnesota
+Brooklyn Nets 90, Milwaukee Bucks 82 at Milwaukee
+Indiana Pacers 111, San Antonio Spurs 100 at San Antonio
+Sacramento Kings 112, Utah Jazz 102 OT at Utah
+Dallas Mavericks 108, Portland Trail Blazers 106 at Portland
+Dec 8, 2013
+Boston Celtics 114, New York Knicks 73 at New York
+Miami Heat 110, Detroit Pistons 95 at Detroit
+Houston Rockets 98, Orlando Magic 88 at Houston
+Oklahoma City Thunder 118, Indiana Pacers 94 at Oklahoma City
+Toronto Raptors 106, Los Angeles Lakers 94 at Los Angeles
+Dec 9, 2013
+Charlotte Bobcats 115, Golden State Warriors 111 at Charlotte
+Los Angeles Clippers 94, Philadelphia 76ers 83 at Philadelphia
+Denver Nuggets 75, Washington Wizards 74 at Washington
+Memphis Grizzlies 94, Orlando Magic 85 at Memphis
+Portland Trail Blazers 105, Utah Jazz 94 at Utah
+Sacramento Kings 112, Dallas Mavericks 97 at Sacramento
+Dec 10, 2013
+Cleveland Cavaliers 109, New York Knicks 94 at Cleveland
+Indiana Pacers 90, Miami Heat 84 at Indiana
+San Antonio Spurs 116, Toronto Raptors 103 at Toronto
+Oklahoma City Thunder 101, Atlanta Hawks 92 at Atlanta
+Brooklyn Nets 104, Boston Celtics 96 at Brooklyn
+Minnesota Timberwolves 121, Detroit Pistons 94 at Detroit
+Milwaukee Bucks 78, Chicago Bulls 74 at Chicago
+Phoenix Suns 114, Los Angeles Lakers 108 at Los Angeles
+Dec 11, 2013
+Orlando Magic 92, Charlotte Bobcats 83 at Charlotte
+Los Angeles Clippers 96, Boston Celtics 88 at Boston
+Oklahoma City Thunder 116, Memphis Grizzlies 100 at Memphis
+San Antonio Spurs 109, Milwaukee Bucks 77 at Milwaukee
+Minnesota Timberwolves 106, Philadelphia 76ers 99 at Minnesota
+New Orleans Pelicans 111, Detroit Pistons 106 OT at New Orleans
+New York Knicks 83, Chicago Bulls 78 at New York
+Utah Jazz 122, Sacramento Kings 101 at Sacramento
+Golden State Warriors 95, Dallas Mavericks 93 at Golden State
+Dec 12, 2013
+Brooklyn Nets 102, Los Angeles Clippers 93 at Brooklyn
+Portland Trail Blazers 111, Houston Rockets 104 at Portland
+Dec 13, 2013
+Indiana Pacers 99, Charlotte Bobcats 94 at Indiana
+Cleveland Cavaliers 109, Orlando Magic 100 at Orlando
+Toronto Raptors 108, Philadelphia 76ers 100 at Toronto
+Atlanta Hawks 101, Washington Wizards 99 OT at Atlanta
+Boston Celtics 90, New York Knicks 86 at Boston
+Detroit Pistons 103, Brooklyn Nets 99 at Detroit
+New Orleans Pelicans 104, Memphis Grizzlies 98 at New Orleans
+Oklahoma City Thunder 122, Los Angeles Lakers 97 at Oklahoma City
+Chicago Bulls 91, Milwaukee Bucks 90 at Milwaukee
+San Antonio Spurs 117, Minnesota Timberwolves 110 at San Antonio
+Utah Jazz 103, Denver Nuggets 93 at Denver
+Phoenix Suns 116, Sacramento Kings 107 at Phoenix
+Houston Rockets 116, Golden State Warriors 112 at Golden State
+Dec 14, 2013
+Los Angeles Lakers 88, Charlotte Bobcats 85 at Charlotte
+Los Angeles Clippers 113, Washington Wizards 97 at Washington
+Miami Heat 114, Cleveland Cavaliers 107 at Miami
+New York Knicks 111, Atlanta Hawks 106 at New York
+Toronto Raptors 99, Chicago Bulls 77 at Chicago
+Portland Trail Blazers 139, Philadelphia 76ers 105 at Philadelphia
+Dallas Mavericks 106, Milwaukee Bucks 93 at Dallas
+San Antonio Spurs 100, Utah Jazz 84 at Utah
+Dec 15, 2013
+Sacramento Kings 106, Houston Rockets 91 at Sacramento
+Minnesota Timberwolves 101, Memphis Grizzlies 93 at Memphis
+Portland Trail Blazers 111, Detroit Pistons 109 OT at Detroit
+Oklahoma City Thunder 101, Orlando Magic 98 at Oklahoma City
+Denver Nuggets 102, New Orleans Pelicans 93 at Denver
+Phoenix Suns 106, Golden State Warriors 102 at Phoenix
+Dec 16, 2013
+Detroit Pistons 101, Indiana Pacers 96 at Indiana
+Atlanta Hawks 114, Los Angeles Lakers 100 at Atlanta
+Boston Celtics 101, Minnesota Timberwolves 97 at Boston
+Brooklyn Nets 130, Philadelphia 76ers 94 at Brooklyn
+Miami Heat 117, Utah Jazz 94 at Miami
+Washington Wizards 102, New York Knicks 101 at New York
+Orlando Magic 83, Chicago Bulls 82 at Chicago
+Los Angeles Clippers 115, San Antonio Spurs 92 at Los Angeles
+Dec 17, 2013
+Charlotte Bobcats 95, Sacramento Kings 87 at Charlotte
+Portland Trail Blazers 119, Cleveland Cavaliers 116 at Cleveland
+Los Angeles Lakers 96, Memphis Grizzlies 92 at Memphis
+Oklahoma City Thunder 105, Denver Nuggets 93 at Denver
+Golden State Warriors 104, New Orleans Pelicans 93 at Golden State
+Dec 18, 2013
+Miami Heat 97, Indiana Pacers 94 at Miami
+Utah Jazz 86, Orlando Magic 82 at Orlando
+Charlotte Bobcats 104, Toronto Raptors 102 OT at Toronto
+Atlanta Hawks 124, Sacramento Kings 107 at Atlanta
+Detroit Pistons 107, Boston Celtics 106 at Boston
+Washington Wizards 113, Brooklyn Nets 107 at Brooklyn
+New York Knicks 107, Milwaukee Bucks 101 2OT at Milwaukee
+Minnesota Timberwolves 120, Portland Trail Blazers 109 at Minnesota
+Dallas Mavericks 105, Memphis Grizzlies 91 at Dallas
+San Antonio Spurs 108, Phoenix Suns 101 at Phoenix
+Houston Rockets 109, Chicago Bulls 94 at Houston
+Los Angeles Clippers 108, New Orleans Pelicans 95 at Los Angeles
+Dec 19, 2013
+Oklahoma City Thunder 107, Chicago Bulls 95 at Oklahoma City
+San Antonio Spurs 104, Golden State Warriors 102 at Golden State
+Dec 20, 2013
+Philadelphia 76ers 121, Brooklyn Nets 120 OT at Philadelphia
+Atlanta Hawks 118, Utah Jazz 85 at Atlanta
+Cleveland Cavaliers 114, Milwaukee Bucks 111 OT at Cleveland
+Charlotte Bobcats 116, Detroit Pistons 106 at Detroit
+Miami Heat 122, Sacramento Kings 103 at Miami
+Indiana Pacers 114, Houston Rockets 81 at Indiana
+Toronto Raptors 109, Dallas Mavericks 108 OT at Dallas
+Phoenix Suns 103, Denver Nuggets 99 at Denver
+Los Angeles Lakers 104, Minnesota Timberwolves 91 at Los Angeles
+Dec 21, 2013
+Memphis Grizzlies 95, New York Knicks 87 at New York
+Washington Wizards 106, Boston Celtics 99 at Boston
+Utah Jazz 88, Charlotte Bobcats 85 at Charlotte
+Sacramento Kings 105, Orlando Magic 100 at Orlando
+Houston Rockets 114, Detroit Pistons 97 at Detroit
+Chicago Bulls 100, Cleveland Cavaliers 84 at Chicago
+Milwaukee Bucks 116, Philadelphia 76ers 106 at Milwaukee
+Oklahoma City Thunder 113, San Antonio Spurs 100 at San Antonio
+Phoenix Suns 123, Dallas Mavericks 108 at Phoenix
+Portland Trail Blazers 110, New Orleans Pelicans 107 at Portland
+Golden State Warriors 102, Los Angeles Lakers 83 at Golden State
+Los Angeles Clippers 112, Denver Nuggets 91 at Los Angeles
+Dec 22, 2013
+Indiana Pacers 106, Boston Celtics 79 at Indiana
+Toronto Raptors 104, Oklahoma City Thunder 98 at Oklahoma City
+Los Angeles Clippers 120, Minnesota Timberwolves 116 OT at Los Angeles
+Dec 23, 2013
+Charlotte Bobcats 111, Milwaukee Bucks 110 OT at Charlotte
+Detroit Pistons 115, Cleveland Cavaliers 92 at Cleveland
+New York Knicks 103, Orlando Magic 98 at Orlando
+Indiana Pacers 103, Brooklyn Nets 86 at Brooklyn
+Miami Heat 121, Atlanta Hawks 119 OT at Miami
+Dallas Mavericks 111, Houston Rockets 104 at Houston
+Memphis Grizzlies 104, Utah Jazz 94 at Memphis
+San Antonio Spurs 112, Toronto Raptors 99 at San Antonio
+Golden State Warriors 89, Denver Nuggets 81 at Denver
+Phoenix Suns 117, Los Angeles Lakers 90 at Phoenix
+New Orleans Pelicans 113, Sacramento Kings 100 at Sacramento
+Dec 25, 2013
+Chicago Bulls 95, Brooklyn Nets 78 at Brooklyn
+Oklahoma City Thunder 123, New York Knicks 94 at New York
+Miami Heat 101, Los Angeles Lakers 95 at Los Angeles
+Houston Rockets 111, San Antonio Spurs 98 at San Antonio
+Golden State Warriors 105, Los Angeles Clippers 103 at Golden State
+Dec 26, 2013
+Atlanta Hawks 127, Cleveland Cavaliers 125 2OT at Cleveland
+Houston Rockets 100, Memphis Grizzlies 92 at Houston
+San Antonio Spurs 116, Dallas Mavericks 107 at Dallas
+Portland Trail Blazers 116, Los Angeles Clippers 112 OT at Portland
+Dec 27, 2013
+Oklahoma City Thunder 89, Charlotte Bobcats 85 at Charlotte
+Orlando Magic 109, Detroit Pistons 92 at Orlando
+Brooklyn Nets 104, Milwaukee Bucks 93 at Brooklyn
+Toronto Raptors 95, New York Knicks 83 at New York
+Minnesota Timberwolves 120, Washington Wizards 98 at Minnesota
+New Orleans Pelicans 105, Denver Nuggets 89 at New Orleans
+Utah Jazz 105, Los Angeles Lakers 103 at Utah
+Sacramento Kings 108, Miami Heat 103 OT at Sacramento
+Golden State Warriors 115, Phoenix Suns 86 at Golden State
+Dec 28, 2013
+Boston Celtics 103, Cleveland Cavaliers 100 at Boston
+Indiana Pacers 105, Brooklyn Nets 91 at Indiana
+Toronto Raptors 115, New York Knicks 100 at Toronto
+Washington Wizards 106, Detroit Pistons 82 at Washington
+Atlanta Hawks 118, Charlotte Bobcats 116 OT at Atlanta
+Dallas Mavericks 105, Chicago Bulls 83 at Chicago
+Houston Rockets 107, New Orleans Pelicans 98 at Houston
+Memphis Grizzlies 120, Denver Nuggets 99 at Memphis
+Minnesota Timberwolves 117, Milwaukee Bucks 95 at Milwaukee
+Phoenix Suns 115, Philadelphia 76ers 101 at Phoenix
+Miami Heat 108, Portland Trail Blazers 107 at Portland
+Los Angeles Clippers 98, Utah Jazz 90 at Los Angeles
+Dec 29, 2013
+Golden State Warriors 108, Cleveland Cavaliers 104 OT at Cleveland
+Orlando Magic 109, Atlanta Hawks 102 at Orlando
+Oklahoma City Thunder 117, Houston Rockets 86 at Oklahoma City
+San Antonio Spurs 112, Sacramento Kings 104 at San Antonio
+Philadelphia 76ers 111, Los Angeles Lakers 104 at Los Angeles
+Dec 30, 2013
+Washington Wizards 106, Detroit Pistons 99 at Detroit
+Chicago Bulls 95, Memphis Grizzlies 91 at Memphis
+Dallas Mavericks 100, Minnesota Timberwolves 98 at Minnesota
+New Orleans Pelicans 110, Portland Trail Blazers 108 at New Orleans
+Miami Heat 97, Denver Nuggets 94 at Denver
+Utah Jazz 83, Charlotte Bobcats 80 at Utah
+Phoenix Suns 107, Los Angeles Clippers 88 at Los Angeles
+Dec 31, 2013
+Atlanta Hawks 92, Boston Celtics 91 at Boston
+Indiana Pacers 91, Cleveland Cavaliers 76 at Indiana
+Golden State Warriors 94, Orlando Magic 81 at Orlando
+Toronto Raptors 85, Chicago Bulls 79 at Chicago
+Sacramento Kings 110, Houston Rockets 106 at Houston
+San Antonio Spurs 113, Brooklyn Nets 92 at San Antonio
+Portland Trail Blazers 98, Oklahoma City Thunder 94 at Oklahoma City
+Milwaukee Bucks 94, Los Angeles Lakers 79 at Los Angeles
+Jan 1, 2014
+Dallas Mavericks 87, Washington Wizards 78 at Washington
+Toronto Raptors 95, Indiana Pacers 82 at Toronto
+Minnesota Timberwolves 124, New Orleans Pelicans 112 at Minnesota
+Philadelphia 76ers 114, Denver Nuggets 102 at Denver
+Los Angeles Clippers 112, Charlotte Bobcats 85 at Los Angeles
+Jan 2, 2014
+Cleveland Cavaliers 87, Orlando Magic 81 OT at Cleveland
+Golden State Warriors 123, Miami Heat 114 at Miami
+Chicago Bulls 94, Boston Celtics 82 at Chicago
+Brooklyn Nets 95, Oklahoma City Thunder 93 at Oklahoma City
+New York Knicks 105, San Antonio Spurs 101 at San Antonio
+Memphis Grizzlies 99, Phoenix Suns 91 at Phoenix
+Utah Jazz 96, Milwaukee Bucks 87 at Utah
+Portland Trail Blazers 134, Charlotte Bobcats 104 at Portland
+Philadelphia 76ers 113, Sacramento Kings 104 at Sacramento
+Jan 3, 2014
+Toronto Raptors 101, Washington Wizards 88 at Washington
+Golden State Warriors 101, Atlanta Hawks 100 at Atlanta
+New Orleans Pelicans 95, Boston Celtics 92 at Boston
+Houston Rockets 102, New York Knicks 100 at Houston
+Los Angeles Clippers 119, Dallas Mavericks 112 at Dallas
+Denver Nuggets 111, Memphis Grizzlies 108 at Denver
+Los Angeles Lakers 110, Utah Jazz 99 at Los Angeles
+Jan 4, 2014
+Indiana Pacers 99, New Orleans Pelicans 82 at Indiana
+Miami Heat 110, Orlando Magic 94 at Orlando
+Brooklyn Nets 89, Cleveland Cavaliers 82 at Brooklyn
+Chicago Bulls 91, Atlanta Hawks 84 at Chicago
+Oklahoma City Thunder 115, Minnesota Timberwolves 111 at Minnesota
+San Antonio Spurs 116, Los Angeles Clippers 92 at San Antonio
+Phoenix Suns 116, Milwaukee Bucks 100 at Phoenix
+Philadelphia 76ers 101, Portland Trail Blazers 99 at Portland
+Charlotte Bobcats 113, Sacramento Kings 103 at Sacramento
+Jan 5, 2014
+Memphis Grizzlies 112, Detroit Pistons 84 at Detroit
+Indiana Pacers 82, Cleveland Cavaliers 78 at Cleveland
+Miami Heat 102, Toronto Raptors 97 at Miami
+Golden State Warriors 112, Washington Wizards 96 at Washington
+Oklahoma City Thunder 119, Boston Celtics 96 at Oklahoma City
+New York Knicks 92, Dallas Mavericks 80 at Dallas
+Denver Nuggets 137, Los Angeles Lakers 115 at Los Angeles
+Jan 6, 2014
+Minnesota Timberwolves 126, Philadelphia 76ers 95 at Philadelphia
+Brooklyn Nets 91, Atlanta Hawks 86 at Brooklyn
+Los Angeles Clippers 101, Orlando Magic 81 at Los Angeles
+Jan 7, 2014
+Washington Wizards 97, Charlotte Bobcats 83 at Charlotte
+Cleveland Cavaliers 111, Philadelphia 76ers 93 at Cleveland
+Indiana Pacers 86, Toronto Raptors 79 at Indiana
+Miami Heat 107, New Orleans Pelicans 88 at Miami
+New York Knicks 89, Detroit Pistons 85 at New York
+Chicago Bulls 92, Phoenix Suns 87 at Chicago
+San Antonio Spurs 110, Memphis Grizzlies 108 OT at Memphis
+Golden State Warriors 101, Milwaukee Bucks 80 at Milwaukee
+Dallas Mavericks 110, Los Angeles Lakers 97 at Dallas
+Denver Nuggets 129, Boston Celtics 98 at Denver
+Utah Jazz 112, Oklahoma City Thunder 101 at Utah
+Sacramento Kings 123, Portland Trail Blazers 119 at Sacramento
+Jan 8, 2014
+San Antonio Spurs 112, Dallas Mavericks 90 at San Antonio
+Toronto Raptors 112, Detroit Pistons 91 at Toronto
+Atlanta Hawks 97, Indiana Pacers 87 at Atlanta
+Brooklyn Nets 102, Golden State Warriors 98 at Brooklyn
+Phoenix Suns 104, Minnesota Timberwolves 103 at Minnesota
+Washington Wizards 102, New Orleans Pelicans 96 at New Orleans
+Houston Rockets 113, Los Angeles Lakers 99 at Houston
+Portland Trail Blazers 110, Orlando Magic 94 at Portland
+Los Angeles Clippers 111, Boston Celtics 105 at Los Angeles
+Jan 9, 2014
+New York Knicks 102, Miami Heat 92 at New York
+Denver Nuggets 101, Oklahoma City Thunder 88 at Denver
+Jan 10, 2014
+Indiana Pacers 93, Washington Wizards 66 at Indiana
+Detroit Pistons 114, Philadelphia 76ers 104 at Philadelphia
+Atlanta Hawks 83, Houston Rockets 80 at Atlanta
+Memphis Grizzlies 104, Phoenix Suns 99 at Memphis
+Minnesota Timberwolves 119, Charlotte Bobcats 92 at Minnesota
+Dallas Mavericks 107, New Orleans Pelicans 90 at New Orleans
+Brooklyn Nets 104, Miami Heat 95 2OT at Brooklyn
+Chicago Bulls 81, Milwaukee Bucks 72 at Milwaukee
+Cleveland Cavaliers 113, Utah Jazz 102 at Utah
+Sacramento Kings 103, Orlando Magic 83 at Sacramento
+Golden State Warriors 99, Boston Celtics 97 at Golden State
+Los Angeles Clippers 123, Los Angeles Lakers 87 at Los Angeles
+Jan 11, 2014
+Toronto Raptors 96, Brooklyn Nets 80 at Toronto
+Houston Rockets 114, Washington Wizards 107 at Washington
+Detroit Pistons 110, Phoenix Suns 108 at Detroit
+New York Knicks 102, Philadelphia 76ers 92 at Philadelphia
+Chicago Bulls 103, Charlotte Bobcats 97 at Chicago
+Oklahoma City Thunder 101, Milwaukee Bucks 85 at Oklahoma City
+Dallas Mavericks 110, New Orleans Pelicans 107 at Dallas
+Denver Nuggets 120, Orlando Magic 94 at Denver
+Portland Trail Blazers 112, Boston Celtics 104 at Portland
+Jan 12, 2014
+Sacramento Kings 124, Cleveland Cavaliers 80 at Sacramento
+Memphis Grizzlies 108, Atlanta Hawks 101 at Memphis
+San Antonio Spurs 104, Minnesota Timberwolves 86 at San Antonio
+Jan 13, 2014
+Toronto Raptors 116, Milwaukee Bucks 94 at Toronto
+Houston Rockets 104, Boston Celtics 92 at Boston
+New York Knicks 98, Phoenix Suns 96 OT at New York
+Washington Wizards 102, Chicago Bulls 88 at Chicago
+San Antonio Spurs 101, New Orleans Pelicans 95 at New Orleans
+Dallas Mavericks 107, Orlando Magic 88 at Dallas
+Utah Jazz 118, Denver Nuggets 103 at Utah
+Jan 14, 2014
+Charlotte Bobcats 108, New York Knicks 98 at Charlotte
+Indiana Pacers 116, Sacramento Kings 92 at Indiana
+Memphis Grizzlies 90, Oklahoma City Thunder 87 at Memphis
+Cleveland Cavaliers 120, Los Angeles Lakers 118 at Los Angeles
+Jan 15, 2014
+Chicago Bulls 128, Orlando Magic 125 3OT at Orlando
+Philadelphia 76ers 95, Charlotte Bobcats 92 at Philadelphia
+Washington Wizards 114, Miami Heat 97 at Washington
+Boston Celtics 88, Toronto Raptors 83 at Boston
+Memphis Grizzlies 82, Milwaukee Bucks 77 at Milwaukee
+Sacramento Kings 111, Minnesota Timberwolves 108 at Minnesota
+Houston Rockets 103, New Orleans Pelicans 100 at New Orleans
+San Antonio Spurs 109, Utah Jazz 105 at San Antonio
+Phoenix Suns 121, Los Angeles Lakers 114 at Phoenix
+Portland Trail Blazers 108, Cleveland Cavaliers 96 at Portland
+Denver Nuggets 123, Golden State Warriors 116 at Golden State
+Los Angeles Clippers 129, Dallas Mavericks 127 at Los Angeles
+Jan 16, 2014
+Indiana Pacers 117, New York Knicks 89 at Indiana
+Brooklyn Nets 127, Atlanta Hawks 110 at Atlanta
+Oklahoma City Thunder 104, Houston Rockets 92 at Houston
+Jan 17, 2014
+Los Angeles Clippers 109, New York Knicks 95 at New York
+Charlotte Bobcats 111, Orlando Magic 101 at Orlando
+Miami Heat 101, Philadelphia 76ers 86 at Philadelphia
+Toronto Raptors 94, Minnesota Timberwolves 89 at Toronto
+Washington Wizards 96, Chicago Bulls 93 at Washington
+Los Angeles Lakers 107, Boston Celtics 104 at Boston
+Utah Jazz 110, Detroit Pistons 89 at Detroit
+Memphis Grizzlies 91, Sacramento Kings 90 at Memphis
+Portland Trail Blazers 109, San Antonio Spurs 100 at San Antonio
+Cleveland Cavaliers 117, Denver Nuggets 109 at Denver
+Dallas Mavericks 110, Phoenix Suns 107 at Phoenix
+Oklahoma City Thunder 127, Golden State Warriors 121 at Oklahoma City
+Jan 18, 2014
+Miami Heat 104, Charlotte Bobcats 96 OT at Charlotte
+Indiana Pacers 106, Los Angeles Clippers 92 at Indiana
+Detroit Pistons 104, Washington Wizards 98 at Washington
+Chicago Bulls 103, Philadelphia 76ers 78 at Chicago
+Houston Rockets 114, Milwaukee Bucks 104 at Houston
+Minnesota Timberwolves 98, Utah Jazz 72 at Minnesota
+Golden State Warriors 97, New Orleans Pelicans 87 at New Orleans
+Portland Trail Blazers 127, Dallas Mavericks 111 at Dallas
+Jan 19, 2014
+Los Angeles Lakers 112, Toronto Raptors 106 at Toronto
+Orlando Magic 93, Boston Celtics 91 at Orlando
+Oklahoma City Thunder 108, Sacramento Kings 93 at Oklahoma City
+San Antonio Spurs 110, Milwaukee Bucks 82 at San Antonio
+Phoenix Suns 117, Denver Nuggets 103 at Phoenix
+Jan 20, 2014
+Dallas Mavericks 102, Cleveland Cavaliers 97 at Cleveland
+Los Angeles Clippers 112, Detroit Pistons 103 at Detroit
+Charlotte Bobcats 100, Toronto Raptors 95 at Charlotte
+Washington Wizards 107, Philadelphia 76ers 99 at Washington
+Brooklyn Nets 103, New York Knicks 80 at New York
+New Orleans Pelicans 95, Memphis Grizzlies 92 at Memphis
+Atlanta Hawks 121, Miami Heat 114 at Atlanta
+Chicago Bulls 102, Los Angeles Lakers 100 OT at Chicago
+Houston Rockets 126, Portland Trail Blazers 113 at Houston
+Indiana Pacers 102, Golden State Warriors 94 at Golden State
+Jan 21, 2014
+Brooklyn Nets 101, Orlando Magic 90 at Brooklyn
+Miami Heat 93, Boston Celtics 86 at Miami
+Sacramento Kings 114, New Orleans Pelicans 97 at New Orleans
+Oklahoma City Thunder 105, Portland Trail Blazers 97 at Oklahoma City
+Minnesota Timberwolves 112, Utah Jazz 97 at Utah
+Jan 22, 2014
+Charlotte Bobcats 95, Los Angeles Clippers 91 at Charlotte
+Chicago Bulls 98, Cleveland Cavaliers 87 at Cleveland
+Atlanta Hawks 112, Orlando Magic 109 at Orlando
+Toronto Raptors 93, Dallas Mavericks 85 at Toronto
+Boston Celtics 113, Washington Wizards 111 OT at Washington
+Philadelphia 76ers 110, New York Knicks 106 at New York
+Houston Rockets 119, Sacramento Kings 98 at Houston
+Milwaukee Bucks 104, Detroit Pistons 101 at Milwaukee
+Phoenix Suns 124, Indiana Pacers 100 at Phoenix
+Oklahoma City Thunder 111, San Antonio Spurs 105 at San Antonio
+Jan 23, 2014
+Miami Heat 109, Los Angeles Lakers 102 at Miami
+Portland Trail Blazers 110, Denver Nuggets 105 at Portland
+Jan 24, 2014
+Brooklyn Nets 107, Dallas Mavericks 106 at Brooklyn
+Cleveland Cavaliers 93, Milwaukee Bucks 78 at Cleveland
+New Orleans Pelicans 103, Detroit Pistons 101 at Detroit
+New York Knicks 125, Charlotte Bobcats 96 at New York
+Los Angeles Clippers 112, Chicago Bulls 95 at Chicago
+Memphis Grizzlies 88, Houston Rockets 87 at Houston
+Washington Wizards 101, Phoenix Suns 95 at Phoenix
+Indiana Pacers 116, Sacramento Kings 111 OT at Sacramento
+Minnesota Timberwolves 121, Golden State Warriors 120 at Golden State
+Orlando Magic 114, Los Angeles Lakers 105 at Orlando
+Toronto Raptors 104, Philadelphia 76ers 95 at Philadelphia
+San Antonio Spurs 105, Atlanta Hawks 79 at Atlanta
+Oklahoma City Thunder 101, Boston Celtics 83 at Boston
+Jan 25, 2014
+Chicago Bulls 89, Charlotte Bobcats 87 at Charlotte
+Los Angeles Clippers 126, Toronto Raptors 118 at Toronto
+Oklahoma City Thunder 103, Philadelphia 76ers 91 at Philadelphia
+Memphis Grizzlies 99, Houston Rockets 81 at Memphis
+Atlanta Hawks 112, Milwaukee Bucks 87 at Milwaukee
+Denver Nuggets 109, Indiana Pacers 96 at Denver
+Utah Jazz 104, Washington Wizards 101 at Utah
+Portland Trail Blazers 115, Minnesota Timberwolves 104 at Portland
+Jan 26, 2014
+Miami Heat 113, San Antonio Spurs 101 at Miami
+New York Knicks 110, Los Angeles Lakers 103 at New York
+New Orleans Pelicans 100, Orlando Magic 92 at New Orleans
+Phoenix Suns 99, Cleveland Cavaliers 90 at Cleveland
+Brooklyn Nets 85, Boston Celtics 79 at Boston
+Dallas Mavericks 116, Detroit Pistons 106 at Dallas
+Golden State Warriors 103, Portland Trail Blazers 88 at Golden State
+Denver Nuggets 125, Sacramento Kings 117 at Sacramento
+Jan 27, 2014
+Phoenix Suns 124, Philadelphia 76ers 113 at Philadelphia
+Toronto Raptors 104, Brooklyn Nets 103 at Brooklyn
+Minnesota Timberwolves 95, Chicago Bulls 86 at Chicago
+Los Angeles Clippers 114, Milwaukee Bucks 86 at Milwaukee
+Oklahoma City Thunder 111, Atlanta Hawks 109 at Oklahoma City
+Utah Jazz 106, Sacramento Kings 99 at Utah
+Jan 28, 2014
+New Orleans Pelicans 100, Cleveland Cavaliers 89 at Cleveland
+Detroit Pistons 103, Orlando Magic 87 at Detroit
+New York Knicks 114, Boston Celtics 88 at New York
+Houston Rockets 97, San Antonio Spurs 90 at Houston
+Memphis Grizzlies 98, Portland Trail Blazers 81 at Portland
+Washington Wizards 88, Golden State Warriors 85 at Golden State
+Indiana Pacers 104, Los Angeles Lakers 92 at Los Angeles
+Jan 29, 2014
+Oklahoma City Thunder 112, Miami Heat 95 at Miami
+Toronto Raptors 98, Orlando Magic 83 at Toronto
+Philadelphia 76ers 95, Boston Celtics 94 at Boston
+Phoenix Suns 126, Milwaukee Bucks 117 at Milwaukee
+Minnesota Timberwolves 88, New Orleans Pelicans 77 at Minnesota
+Houston Rockets 117, Dallas Mavericks 115 at Dallas
+Charlotte Bobcats 101, Denver Nuggets 98 at Denver
+Chicago Bulls 96, San Antonio Spurs 86 at San Antonio
+Memphis Grizzlies 99, Sacramento Kings 89 at Sacramento
+Los Angeles Clippers 110, Washington Wizards 103 at Los Angeles
+Jan 30, 2014
+Phoenix Suns 102, Indiana Pacers 94 at Indiana
+New York Knicks 117, Cleveland Cavaliers 86 at New York
+Golden State Warriors 111, Los Angeles Clippers 92 at Golden State
+Jan 31, 2014
+Orlando Magic 113, Milwaukee Bucks 102 at Orlando
+Atlanta Hawks 125, Philadelphia 76ers 99 at Philadelphia
+Memphis Grizzlies 94, Minnesota Timberwolves 90 at Minnesota
+Oklahoma City Thunder 120, Brooklyn Nets 95 at Brooklyn
+Dallas Mavericks 107, Sacramento Kings 103 at Dallas
+Toronto Raptors 100, Denver Nuggets 90 at Denver
+Charlotte Bobcats 110, Los Angeles Lakers 100 at Los Angeles
+Golden State Warriors 95, Utah Jazz 90 at Utah
+Feb 1, 2014
+Indiana Pacers 97, Brooklyn Nets 96 at Indiana
+Washington Wizards 96, Oklahoma City Thunder 81 at Washington
+Atlanta Hawks 120, Minnesota Timberwolves 113 at Atlanta
+Detroit Pistons 113, Philadelphia 76ers 96 at Detroit
+Houston Rockets 106, Cleveland Cavaliers 92 at Houston
+Memphis Grizzlies 99, Milwaukee Bucks 90 at Memphis
+New Orleans Pelicans 88, Chicago Bulls 79 at New Orleans
+San Antonio Spurs 95, Sacramento Kings 93 at San Antonio
+Miami Heat 106, New York Knicks 91 at New York
+Phoenix Suns 105, Charlotte Bobcats 95 at Phoenix
+Portland Trail Blazers 106, Toronto Raptors 103 at Portland
+Los Angeles Clippers 102, Utah Jazz 87 at Los Angeles
+Feb 2, 2014
+Boston Celtics 96, Orlando Magic 89 at Boston
+Feb 3, 2014
+Indiana Pacers 98, Orlando Magic 79 at Indiana
+Washington Wizards 100, Portland Trail Blazers 90 at Washington
+Brooklyn Nets 108, Philadelphia 76ers 102 at Brooklyn
+Miami Heat 102, Detroit Pistons 96 at Miami
+Milwaukee Bucks 101, New York Knicks 98 at Milwaukee
+San Antonio Spurs 102, New Orleans Pelicans 95 at New Orleans
+Oklahoma City Thunder 86, Memphis Grizzlies 77 at Oklahoma City
+Dallas Mavericks 124, Cleveland Cavaliers 107 at Dallas
+Denver Nuggets 116, Los Angeles Clippers 115 at Denver
+Toronto Raptors 94, Utah Jazz 79 at Utah
+Sacramento Kings 99, Chicago Bulls 70 at Sacramento
+Feb 4, 2014
+Indiana Pacers 89, Atlanta Hawks 85 at Atlanta
+Minnesota Timberwolves 109, Los Angeles Lakers 99 at Minnesota
+Chicago Bulls 101, Phoenix Suns 92 at Phoenix
+Charlotte Bobcats 91, Golden State Warriors 75 at Golden State
+Feb 5, 2014
+Los Angeles Lakers 119, Cleveland Cavaliers 108 at Cleveland
+Boston Celtics 114, Philadelphia 76ers 108 at Philadelphia
+San Antonio Spurs 125, Washington Wizards 118 2OT at Washington
+Portland Trail Blazers 94, New York Knicks 90 at New York
+Houston Rockets 122, Phoenix Suns 108 at Houston
+Dallas Mavericks 110, Memphis Grizzlies 96 at Memphis
+New Orleans Pelicans 105, Atlanta Hawks 100 at New Orleans
+Oklahoma City Thunder 106, Minnesota Timberwolves 97 at Oklahoma City
+Orlando Magic 112, Detroit Pistons 98 at Orlando
+Denver Nuggets 110, Milwaukee Bucks 100 at Denver
+Sacramento Kings 109, Toronto Raptors 101 at Sacramento
+Miami Heat 116, Los Angeles Clippers 112 at Los Angeles
+Feb 6, 2014
+Brooklyn Nets 103, San Antonio Spurs 89 at Brooklyn
+Golden State Warriors 102, Chicago Bulls 87 at Golden State
+Feb 7, 2014
+Indiana Pacers 118, Portland Trail Blazers 113 OT at Indiana
+Orlando Magic 103, Oklahoma City Thunder 102 at Orlando
+Los Angeles Lakers 112, Philadelphia 76ers 98 at Philadelphia
+Cleveland Cavaliers 115, Washington Wizards 113 at Washington
+Boston Celtics 99, Sacramento Kings 89 at Boston
+Detroit Pistons 111, Brooklyn Nets 95 at Detroit
+New York Knicks 117, Denver Nuggets 90 at New York
+Dallas Mavericks 103, Utah Jazz 81 at Dallas
+New Orleans Pelicans 98, Minnesota Timberwolves 91 at New Orleans
+Los Angeles Clippers 118, Toronto Raptors 105 at Los Angeles
+Feb 8, 2014
+San Antonio Spurs 104, Charlotte Bobcats 100 at Charlotte
+Memphis Grizzlies 79, Atlanta Hawks 76 at Atlanta
+Detroit Pistons 126, Denver Nuggets 109 at Detroit
+Portland Trail Blazers 117, Minnesota Timberwolves 110 at Minnesota
+Houston Rockets 101, Milwaukee Bucks 95 at Milwaukee
+Phoenix Suns 122, Golden State Warriors 109 at Phoenix
+Utah Jazz 94, Miami Heat 89 at Utah
+Feb 9, 2014
+Oklahoma City Thunder 112, New York Knicks 100 at Oklahoma City
+Chicago Bulls 92, Los Angeles Lakers 86 at Los Angeles
+Dallas Mavericks 102, Boston Celtics 91 at Boston
+Brooklyn Nets 93, New Orleans Pelicans 81 at Brooklyn
+Cleveland Cavaliers 91, Memphis Grizzlies 83 OT at Cleveland
+Orlando Magic 93, Indiana Pacers 92 at Orlando
+Washington Wizards 93, Sacramento Kings 84 at Washington
+Los Angeles Clippers 123, Philadelphia 76ers 78 at Los Angeles
+Feb 10, 2014
+Indiana Pacers 119, Denver Nuggets 80 at Indiana
+Toronto Raptors 108, New Orleans Pelicans 101 at Toronto
+Detroit Pistons 109, San Antonio Spurs 100 at Detroit
+Boston Celtics 102, Milwaukee Bucks 86 at Milwaukee
+Houston Rockets 107, Minnesota Timberwolves 89 at Minnesota
+Golden State Warriors 123, Philadelphia 76ers 80 at Golden State
+Feb 11, 2014
+Charlotte Bobcats 114, Dallas Mavericks 89 at Charlotte
+Cleveland Cavaliers 109, Sacramento Kings 99 at Cleveland
+Chicago Bulls 100, Atlanta Hawks 85 at Chicago
+Memphis Grizzlies 92, Washington Wizards 89 at Memphis
+Miami Heat 103, Phoenix Suns 97 at Phoenix
+Oklahoma City Thunder 98, Portland Trail Blazers 95 at Portland
+Utah Jazz 96, Los Angeles Lakers 79 at Los Angeles
+Feb 12, 2014
+Dallas Mavericks 81, Indiana Pacers 73 at Indiana
+Memphis Grizzlies 86, Orlando Magic 81 at Orlando
+Toronto Raptors 104, Atlanta Hawks 83 at Toronto
+San Antonio Spurs 104, Boston Celtics 92 at Boston
+Brooklyn Nets 105, Charlotte Bobcats 89 at Brooklyn
+Cleveland Cavaliers 93, Detroit Pistons 89 at Detroit
+Sacramento Kings 106, New York Knicks 101 OT at New York
+Houston Rockets 113, Washington Wizards 112 at Houston
+New Orleans Pelicans 102, Milwaukee Bucks 98 at Milwaukee
+Minnesota Timberwolves 117, Denver Nuggets 90 at Minnesota
+Utah Jazz 105, Philadelphia 76ers 100 at Utah
+Miami Heat 111, Golden State Warriors 110 at Golden State
+Los Angeles Clippers 122, Portland Trail Blazers 117 at Los Angeles
+Feb 13, 2014
+Chicago Bulls 92, Brooklyn Nets 76 at Chicago
+Oklahoma City Thunder 107, Los Angeles Lakers 103 at Los Angeles
+Feb 18, 2014
+Indiana Pacers 108, Atlanta Hawks 98 at Indiana
+Cleveland Cavaliers 114, Philadelphia 76ers 85 at Philadelphia
+Toronto Raptors 103, Washington Wizards 93 at Washington
+Charlotte Bobcats 108, Detroit Pistons 96 at Detroit
+Memphis Grizzlies 98, New York Knicks 93 at Memphis
+Milwaukee Bucks 104, Orlando Magic 100 at Milwaukee
+Miami Heat 117, Dallas Mavericks 106 at Dallas
+Phoenix Suns 112, Denver Nuggets 107 OT at Denver
+San Antonio Spurs 113, Los Angeles Clippers 103 at Los Angeles
+Feb 19, 2014
+Charlotte Bobcats 116, Detroit Pistons 98 at Charlotte
+Cleveland Cavaliers 101, Orlando Magic 93 at Cleveland
+Chicago Bulls 94, Toronto Raptors 92 at Toronto
+Washington Wizards 114, Atlanta Hawks 97 at Atlanta
+Minnesota Timberwolves 104, Indiana Pacers 91 at Minnesota
+New York Knicks 98, New Orleans Pelicans 91 at New Orleans
+Phoenix Suns 100, Boston Celtics 94 at Phoenix
+Brooklyn Nets 105, Utah Jazz 99 at Utah
+San Antonio Spurs 111, Portland Trail Blazers 109 at Portland
+Golden State Warriors 101, Sacramento Kings 92 at Sacramento
+Houston Rockets 134, Los Angeles Lakers 108 at Los Angeles
+Feb 20, 2014
+Denver Nuggets 101, Milwaukee Bucks 90 at Milwaukee
+Miami Heat 103, Oklahoma City Thunder 81 at Oklahoma City
+Golden State Warriors 102, Houston Rockets 99 OT at Golden State
+Feb 21, 2014
+Charlotte Bobcats 90, New Orleans Pelicans 87 at Charlotte
+Orlando Magic 129, New York Knicks 121 2OT at Orlando
+Dallas Mavericks 124, Philadelphia 76ers 112 at Philadelphia
+Toronto Raptors 98, Cleveland Cavaliers 91 at Toronto
+Detroit Pistons 115, Atlanta Hawks 107 at Detroit
+Chicago Bulls 117, Denver Nuggets 89 at Chicago
+Memphis Grizzlies 102, Los Angeles Clippers 96 at Memphis
+Phoenix Suns 106, San Antonio Spurs 85 at Phoenix
+Portland Trail Blazers 102, Utah Jazz 94 at Portland
+Los Angeles Lakers 101, Boston Celtics 92 at Los Angeles
+Feb 22, 2014
+Charlotte Bobcats 92, Memphis Grizzlies 89 at Charlotte
+Washington Wizards 94, New Orleans Pelicans 93 at Washington
+Atlanta Hawks 107, New York Knicks 98 at Atlanta
+Dallas Mavericks 113, Detroit Pistons 102 at Detroit
+Indiana Pacers 110, Milwaukee Bucks 100 at Milwaukee
+Minnesota Timberwolves 121, Utah Jazz 104 at Utah
+Sacramento Kings 105, Boston Celtics 98 at Sacramento
+Golden State Warriors 93, Brooklyn Nets 86 at Golden State
+Feb 23, 2014
+Los Angeles Clippers 125, Oklahoma City Thunder 117 at Oklahoma City
+Miami Heat 93, Chicago Bulls 79 at Miami
+Washington Wizards 96, Cleveland Cavaliers 83 at Cleveland
+Toronto Raptors 105, Orlando Magic 90 at Toronto
+Sacramento Kings 109, Denver Nuggets 95 at Denver
+Houston Rockets 115, Phoenix Suns 112 at Phoenix
+Brooklyn Nets 108, Los Angeles Lakers 102 at Los Angeles
+Portland Trail Blazers 108, Minnesota Timberwolves 97 at Portland
+Feb 24, 2014
+Milwaukee Bucks 130, Philadelphia 76ers 110 at Philadelphia
+Golden State Warriors 104, Detroit Pistons 96 at Detroit
+Dallas Mavericks 110, New York Knicks 108 at New York
+Los Angeles Clippers 123, New Orleans Pelicans 110 at New Orleans
+Utah Jazz 110, Boston Celtics 98 at Utah
+Feb 25, 2014
+Toronto Raptors 99, Cleveland Cavaliers 93 at Cleveland
+Indiana Pacers 118, Los Angeles Lakers 98 at Indiana
+Washington Wizards 115, Orlando Magic 106 at Washington
+Chicago Bulls 107, Atlanta Hawks 103 at Atlanta
+Portland Trail Blazers 100, Denver Nuggets 95 at Denver
+Minnesota Timberwolves 110, Phoenix Suns 101 at Phoenix
+Houston Rockets 129, Sacramento Kings 103 at Sacramento
+Feb 26, 2014
+Orlando Magic 101, Philadelphia 76ers 90 at Philadelphia
+Boston Celtics 115, Atlanta Hawks 104 at Boston
+Chicago Bulls 103, Golden State Warriors 83 at Chicago
+Dallas Mavericks 108, New Orleans Pelicans 89 at Dallas
+Memphis Grizzlies 108, Los Angeles Lakers 103 at Memphis
+Cleveland Cavaliers 114, Oklahoma City Thunder 104 at Oklahoma City
+San Antonio Spurs 120, Detroit Pistons 110 at San Antonio
+Utah Jazz 109, Phoenix Suns 86 at Utah
+Portland Trail Blazers 124, Brooklyn Nets 80 at Portland
+Los Angeles Clippers 101, Houston Rockets 93 at Los Angeles
+Feb 27, 2014
+Indiana Pacers 101, Milwaukee Bucks 96 at Indiana
+Washington Wizards 134, Toronto Raptors 129 3OT at Toronto
+Miami Heat 108, New York Knicks 82 at Miami
+Brooklyn Nets 112, Denver Nuggets 89 at Denver
+Feb 28, 2014
+Cleveland Cavaliers 99, Utah Jazz 79 at Cleveland
+Oklahoma City Thunder 113, Memphis Grizzlies 107 at Oklahoma City
+Golden State Warriors 126, New York Knicks 103 at New York
+Chicago Bulls 100, Dallas Mavericks 91 at Dallas
+San Antonio Spurs 92, Charlotte Bobcats 82 at San Antonio
+Los Angeles Lakers 126, Sacramento Kings 122 at Los Angeles
+Phoenix Suns 116, New Orleans Pelicans 104 at Phoenix
+Mar 1, 2014
+Miami Heat 112, Orlando Magic 98 at Miami
+Washington Wizards 122, Philadelphia 76ers 103 at Philadelphia
+Houston Rockets 118, Detroit Pistons 110 at Houston
+Indiana Pacers 102, Boston Celtics 97 at Boston
+Brooklyn Nets 107, Milwaukee Bucks 98 at Milwaukee
+Memphis Grizzlies 110, Cleveland Cavaliers 96 at Memphis
+Portland Trail Blazers 102, Denver Nuggets 96 at Portland
+Minnesota Timberwolves 108, Sacramento Kings 97 at Sacramento
+Los Angeles Clippers 108, New Orleans Pelicans 76 at Los Angeles
+Mar 2, 2014
+Chicago Bulls 109, New York Knicks 90 at Chicago
+Toronto Raptors 104, Golden State Warriors 98 at Toronto
+Indiana Pacers 94, Utah Jazz 91 at Indiana
+Orlando Magic 92, Philadelphia 76ers 81 at Orlando
+Oklahoma City Thunder 116, Charlotte Bobcats 99 at Oklahoma City
+San Antonio Spurs 112, Dallas Mavericks 106 at San Antonio
+Phoenix Suns 129, Atlanta Hawks 120 at Phoenix
+Mar 3, 2014
+Miami Heat 124, Charlotte Bobcats 107 at Miami
+Milwaukee Bucks 114, Utah Jazz 88 at Milwaukee
+Minnesota Timberwolves 132, Denver Nuggets 128 at Denver
+Los Angeles Lakers 107, Portland Trail Blazers 106 at Portland
+Sacramento Kings 96, New Orleans Pelicans 89 at Sacramento
+Memphis Grizzlies 110, Washington Wizards 104 at Washington
+Brooklyn Nets 96, Chicago Bulls 80 at Brooklyn
+Detroit Pistons 96, New York Knicks 85 at Detroit
+Mar 4, 2014
+San Antonio Spurs 122, Cleveland Cavaliers 101 at Cleveland
+Golden State Warriors 98, Indiana Pacers 96 at Indiana
+Houston Rockets 106, Miami Heat 103 at Houston
+Oklahoma City Thunder 125, Philadelphia 76ers 92 at Oklahoma City
+Los Angeles Clippers 104, Phoenix Suns 96 at Phoenix
+New Orleans Pelicans 132, Los Angeles Lakers 125 at Los Angeles
+Mar 5, 2014
+Charlotte Bobcats 109, Indiana Pacers 87 at Charlotte
+Houston Rockets 101, Orlando Magic 89 at Orlando
+Washington Wizards 104, Utah Jazz 91 at Washington
+Golden State Warriors 108, Boston Celtics 88 at Boston
+Brooklyn Nets 103, Memphis Grizzlies 94 at Brooklyn
+Chicago Bulls 105, Detroit Pistons 94 at Detroit
+Sacramento Kings 116, Milwaukee Bucks 102 at Milwaukee
+New York Knicks 118, Minnesota Timberwolves 106 at Minnesota
+Denver Nuggets 115, Dallas Mavericks 110 at Denver
+Portland Trail Blazers 102, Atlanta Hawks 78 at Portland
+Mar 6, 2014
+San Antonio Spurs 111, Miami Heat 87 at San Antonio
+Phoenix Suns 128, Oklahoma City Thunder 122 at Phoenix
+Los Angeles Clippers 142, Los Angeles Lakers 94 at Los Angeles
+Mar 7, 2014
+Memphis Grizzlies 85, Chicago Bulls 77 at Chicago
+Charlotte Bobcats 101, Cleveland Cavaliers 92 at Charlotte
+Toronto Raptors 99, Sacramento Kings 87 at Toronto
+Boston Celtics 91, Brooklyn Nets 84 at Boston
+New York Knicks 108, Utah Jazz 81 at New York
+Minnesota Timberwolves 114, Detroit Pistons 101 at Minnesota
+New Orleans Pelicans 112, Milwaukee Bucks 104 at New Orleans
+Dallas Mavericks 103, Portland Trail Blazers 98 at Dallas
+Denver Nuggets 134, Los Angeles Lakers 126 at Denver
+Houston Rockets 112, Indiana Pacers 86 at Houston
+Golden State Warriors 111, Atlanta Hawks 97 at Golden State
+Mar 8, 2014
+New York Knicks 107, Cleveland Cavaliers 97 at Cleveland
+Utah Jazz 104, Philadelphia 76ers 92 at Philadelphia
+Memphis Grizzlies 111, Charlotte Bobcats 89 at Memphis
+Washington Wizards 114, Milwaukee Bucks 107 at Milwaukee
+San Antonio Spurs 121, Orlando Magic 112 at San Antonio
+Los Angeles Clippers 109, Atlanta Hawks 108 at Los Angeles
+Mar 9, 2014
+Chicago Bulls 95, Miami Heat 88 OT at Chicago
+Los Angeles Lakers 114, Oklahoma City Thunder 110 at Los Angeles
+New Orleans Pelicans 111, Denver Nuggets 107 OT at New Orleans
+Boston Celtics 118, Detroit Pistons 111 at Boston
+Brooklyn Nets 104, Sacramento Kings 89 at Brooklyn
+Houston Rockets 118, Portland Trail Blazers 113 OT at Houston
+Toronto Raptors 111, Minnesota Timberwolves 104 at Minnesota
+Dallas Mavericks 105, Indiana Pacers 94 at Dallas
+Golden State Warriors 113, Phoenix Suns 107 at Golden State
+Mar 10, 2014
+Charlotte Bobcats 105, Denver Nuggets 98 at Charlotte
+Brooklyn Nets 101, Toronto Raptors 97 at Brooklyn
+Miami Heat 99, Washington Wizards 90 at Miami
+New York Knicks 123, Philadelphia 76ers 110 at New York
+Milwaukee Bucks 105, Orlando Magic 98 at Milwaukee
+Atlanta Hawks 112, Utah Jazz 110 at Utah
+Los Angeles Clippers 112, Phoenix Suns 105 at Los Angeles
+Mar 11, 2014
+Indiana Pacers 94, Boston Celtics 83 at Indiana
+Detroit Pistons 99, Sacramento Kings 89 at Detroit
+San Antonio Spurs 104, Chicago Bulls 96 at Chicago
+Memphis Grizzlies 109, Portland Trail Blazers 99 at Memphis
+Minnesota Timberwolves 112, Milwaukee Bucks 101 at Minnesota
+Oklahoma City Thunder 106, Houston Rockets 98 at Oklahoma City
+Golden State Warriors 108, Dallas Mavericks 85 at Golden State
+Mar 12, 2014
+Brooklyn Nets 96, Miami Heat 95 at Miami
+Denver Nuggets 120, Orlando Magic 112 at Orlando
+Sacramento Kings 115, Philadelphia 76ers 98 at Philadelphia
+Toronto Raptors 101, Detroit Pistons 87 at Toronto
+Charlotte Bobcats 98, Washington Wizards 85 at Washington
+New York Knicks 116, Boston Celtics 92 at Boston
+Memphis Grizzlies 90, New Orleans Pelicans 88 at New Orleans
+Dallas Mavericks 108, Utah Jazz 101 at Utah
+San Antonio Spurs 103, Portland Trail Blazers 90 at San Antonio
+Cleveland Cavaliers 110, Phoenix Suns 101 at Phoenix
+Los Angeles Clippers 111, Golden State Warriors 98 at Los Angeles
+Mar 13, 2014
+Chicago Bulls 111, Houston Rockets 87 at Chicago
+Atlanta Hawks 102, Milwaukee Bucks 97 at Atlanta
+Oklahoma City Thunder 131, Los Angeles Lakers 102 at Oklahoma City
+Mar 14, 2014
+Charlotte Bobcats 105, Minnesota Timberwolves 93 at Charlotte
+Washington Wizards 105, Orlando Magic 101 OT at Orlando
+Indiana Pacers 101, Philadelphia 76ers 94 at Philadelphia
+Toronto Raptors 99, Memphis Grizzlies 86 at Toronto
+Phoenix Suns 87, Boston Celtics 80 at Boston
+Denver Nuggets 111, Miami Heat 107 at Miami
+Portland Trail Blazers 111, New Orleans Pelicans 103 at New Orleans
+San Antonio Spurs 119, Los Angeles Lakers 85 at San Antonio
+Los Angeles Clippers 96, Utah Jazz 87 at Utah
+Cleveland Cavaliers 103, Golden State Warriors 94 at Golden State
+Mar 15, 2014
+New York Knicks 115, Milwaukee Bucks 94 at New York
+Washington Wizards 101, Brooklyn Nets 94 at Washington
+Atlanta Hawks 97, Denver Nuggets 92 at Atlanta
+Indiana Pacers 112, Detroit Pistons 104 OT at Detroit
+Memphis Grizzlies 103, Philadelphia 76ers 77 at Philadelphia
+Chicago Bulls 94, Sacramento Kings 87 at Chicago
+Mar 16, 2014
+Charlotte Bobcats 101, Milwaukee Bucks 92 at Milwaukee
+Phoenix Suns 121, Toronto Raptors 113 at Toronto
+Miami Heat 113, Houston Rockets 104 at Miami
+New Orleans Pelicans 121, Boston Celtics 120 OT at New Orleans
+Minnesota Timberwolves 104, Sacramento Kings 102 at Minnesota
+Dallas Mavericks 109, Oklahoma City Thunder 86 at Oklahoma City
+San Antonio Spurs 122, Utah Jazz 104 at San Antonio
+Golden State Warriors 113, Portland Trail Blazers 112 at Portland
+Los Angeles Clippers 102, Cleveland Cavaliers 80 at Los Angeles
+Mar 17, 2014
+Atlanta Hawks 97, Charlotte Bobcats 83 at Charlotte
+Indiana Pacers 99, Philadelphia 76ers 90 at Indiana
+Brooklyn Nets 108, Phoenix Suns 95 at Brooklyn
+Oklahoma City Thunder 97, Chicago Bulls 85 at Chicago
+Houston Rockets 124, Utah Jazz 86 at Houston
+Dallas Mavericks 94, Boston Celtics 89 at Dallas
+Denver Nuggets 110, Los Angeles Clippers 100 at Denver
+Mar 18, 2014
+Miami Heat 100, Cleveland Cavaliers 96 at Cleveland
+Atlanta Hawks 118, Toronto Raptors 113 OT at Atlanta
+Portland Trail Blazers 120, Milwaukee Bucks 115 OT at Portland
+Sacramento Kings 117, Washington Wizards 111 OT at Sacramento
+Golden State Warriors 103, Orlando Magic 89 at Golden State
+Mar 19, 2014
+Chicago Bulls 102, Philadelphia 76ers 94 at Philadelphia
+Boston Celtics 101, Miami Heat 96 at Boston
+Brooklyn Nets 104, Charlotte Bobcats 99 at Brooklyn
+Memphis Grizzlies 96, Utah Jazz 86 at Memphis
+Toronto Raptors 107, New Orleans Pelicans 100 at New Orleans
+New York Knicks 92, Indiana Pacers 86 at New York
+Minnesota Timberwolves 123, Dallas Mavericks 122 OT at Dallas
+Denver Nuggets 118, Detroit Pistons 109 at Denver
+Phoenix Suns 109, Orlando Magic 93 at Phoenix
+San Antonio Spurs 125, Los Angeles Lakers 109 at Los Angeles
+Mar 20, 2014
+Oklahoma City Thunder 102, Cleveland Cavaliers 95 at Cleveland
+Houston Rockets 129, Minnesota Timberwolves 106 at Houston
+Portland Trail Blazers 116, Washington Wizards 103 at Portland
+Golden State Warriors 115, Milwaukee Bucks 110 at Golden State
+Mar 21, 2014
+Indiana Pacers 91, Chicago Bulls 79 at Indiana
+New York Knicks 93, Philadelphia 76ers 92 at Philadelphia
+Oklahoma City Thunder 119, Toronto Raptors 118 2OT at Toronto
+New Orleans Pelicans 111, Atlanta Hawks 105 at Atlanta
+Brooklyn Nets 114, Boston Celtics 98 at Brooklyn
+Miami Heat 91, Memphis Grizzlies 86 at Miami
+Dallas Mavericks 122, Denver Nuggets 106 at Dallas
+Phoenix Suns 98, Detroit Pistons 92 at Phoenix
+San Antonio Spurs 99, Sacramento Kings 79 at Sacramento
+Washington Wizards 117, Los Angeles Lakers 107 at Los Angeles
+Mar 22, 2014
+Charlotte Bobcats 124, Portland Trail Blazers 94 at Charlotte
+Houston Rockets 118, Cleveland Cavaliers 111 at Cleveland
+Chicago Bulls 91, Philadelphia 76ers 81 at Chicago
+Memphis Grizzlies 82, Indiana Pacers 71 at Memphis
+New Orleans Pelicans 105, Miami Heat 95 at New Orleans
+Utah Jazz 89, Orlando Magic 88 at Utah
+San Antonio Spurs 99, Golden State Warriors 90 at Golden State
+Los Angeles Clippers 112, Detroit Pistons 103 at Los Angeles
+Mar 23, 2014
+Toronto Raptors 96, Atlanta Hawks 86 at Toronto
+Phoenix Suns 127, Minnesota Timberwolves 120 at Minnesota
+Denver Nuggets 105, Washington Wizards 102 at Denver
+Sacramento Kings 124, Milwaukee Bucks 107 at Sacramento
+Brooklyn Nets 107, Dallas Mavericks 104 OT at Dallas
+Cleveland Cavaliers 106, New York Knicks 100 at New York
+Los Angeles Lakers 103, Orlando Magic 94 at Los Angeles
+Mar 24, 2014
+Houston Rockets 100, Charlotte Bobcats 89 at Charlotte
+Phoenix Suns 102, Atlanta Hawks 95 at Atlanta
+Miami Heat 93, Portland Trail Blazers 91 at Miami
+Chicago Bulls 89, Indiana Pacers 77 at Chicago
+Memphis Grizzlies 109, Minnesota Timberwolves 92 at Memphis
+New Orleans Pelicans 109, Brooklyn Nets 104 OT at New Orleans
+Oklahoma City Thunder 117, Denver Nuggets 96 at Oklahoma City
+San Antonio Spurs 113, Philadelphia 76ers 91 at San Antonio
+Detroit Pistons 114, Utah Jazz 94 at Utah
+Los Angeles Clippers 106, Milwaukee Bucks 98 at Los Angeles
+Mar 25, 2014
+Cleveland Cavaliers 102, Toronto Raptors 100 at Cleveland
+Orlando Magic 95, Portland Trail Blazers 85 at Orlando
+Dallas Mavericks 128, Oklahoma City Thunder 119 OT at Dallas
+Los Angeles Lakers 127, New York Knicks 96 at Los Angeles
+Mar 26, 2014
+Charlotte Bobcats 116, Brooklyn Nets 111 OT at Charlotte
+Phoenix Suns 99, Washington Wizards 93 at Washington
+Toronto Raptors 99, Boston Celtics 90 at Boston
+Cleveland Cavaliers 97, Detroit Pistons 96 at Detroit
+Minnesota Timberwolves 107, Atlanta Hawks 83 at Minnesota
+New Orleans Pelicans 98, Los Angeles Clippers 96 at New Orleans
+Indiana Pacers 84, Miami Heat 83 at Indiana
+San Antonio Spurs 108, Denver Nuggets 103 at San Antonio
+New York Knicks 107, Sacramento Kings 99 at Sacramento
+Memphis Grizzlies 91, Utah Jazz 87 at Utah
+Mar 27, 2014
+Portland Trail Blazers 100, Atlanta Hawks 85 at Atlanta
+Houston Rockets 120, Philadelphia 76ers 98 at Houston
+Milwaukee Bucks 108, Los Angeles Lakers 105 at Milwaukee
+Los Angeles Clippers 109, Dallas Mavericks 103 at Dallas
+Mar 28, 2014
+Orlando Magic 110, Charlotte Bobcats 105 OT at Orlando
+Toronto Raptors 105, Boston Celtics 103 at Toronto
+Washington Wizards 91, Indiana Pacers 78 at Washington
+Brooklyn Nets 108, Cleveland Cavaliers 97 at Brooklyn
+Miami Heat 110, Detroit Pistons 78 at Detroit
+Portland Trail Blazers 91, Chicago Bulls 74 at Chicago
+Minnesota Timberwolves 143, Los Angeles Lakers 107 at Minnesota
+New Orleans Pelicans 102, Utah Jazz 95 at New Orleans
+Oklahoma City Thunder 94, Sacramento Kings 81 at Oklahoma City
+San Antonio Spurs 133, Denver Nuggets 102 at Denver
+Phoenix Suns 112, New York Knicks 88 at Phoenix
+Golden State Warriors 100, Memphis Grizzlies 93 at Golden State
+Mar 29, 2014
+Philadelphia 76ers 123, Detroit Pistons 98 at Philadelphia
+Los Angeles Clippers 118, Houston Rockets 107 at Houston
+Washington Wizards 101, Atlanta Hawks 97 at Washington
+Dallas Mavericks 103, Sacramento Kings 100 at Dallas
+Miami Heat 88, Milwaukee Bucks 67 at Milwaukee
+San Antonio Spurs 96, New Orleans Pelicans 80 at San Antonio
+Mar 30, 2014
+Oklahoma City Thunder 116, Utah Jazz 96 at Oklahoma City
+Cleveland Cavaliers 90, Indiana Pacers 76 at Cleveland
+Brooklyn Nets 114, Minnesota Timberwolves 99 at Brooklyn
+Toronto Raptors 98, Orlando Magic 93 at Orlando
+Chicago Bulls 107, Boston Celtics 102 at Boston
+New York Knicks 89, Golden State Warriors 84 at Golden State
+Portland Trail Blazers 105, Memphis Grizzlies 98 at Portland
+Los Angeles Lakers 115, Phoenix Suns 99 at Los Angeles
+Mar 31, 2014
+Charlotte Bobcats 100, Washington Wizards 94 at Charlotte
+San Antonio Spurs 103, Indiana Pacers 77 at Indiana
+Atlanta Hawks 103, Philadelphia 76ers 95 at Atlanta
+Detroit Pistons 116, Milwaukee Bucks 111 at Detroit
+Miami Heat 93, Toronto Raptors 83 at Miami
+Chicago Bulls 94, Boston Celtics 80 at Chicago
+Los Angeles Clippers 114, Minnesota Timberwolves 104 at Minnesota
+Sacramento Kings 102, New Orleans Pelicans 97 at New Orleans
+Memphis Grizzlies 94, Denver Nuggets 92 at Denver
+New York Knicks 92, Utah Jazz 83 at Utah
+Apr 1, 2014
+Brooklyn Nets 105, Houston Rockets 96 at Brooklyn
+Golden State Warriors 122, Dallas Mavericks 120 OT at Dallas
+Portland Trail Blazers 124, Los Angeles Lakers 112 at Los Angeles
+Apr 2, 2014
+Indiana Pacers 101, Detroit Pistons 94 at Indiana
+New York Knicks 110, Brooklyn Nets 81 at New York
+Cleveland Cavaliers 119, Orlando Magic 98 at Orlando
+Charlotte Bobcats 123, Philadelphia 76ers 93 at Philadelphia
+Toronto Raptors 107, Houston Rockets 103 at Toronto
+Washington Wizards 118, Boston Celtics 92 at Washington
+Chicago Bulls 105, Atlanta Hawks 92 at Atlanta
+Miami Heat 96, Milwaukee Bucks 77 at Miami
+Minnesota Timberwolves 102, Memphis Grizzlies 88 at Minnesota
+San Antonio Spurs 111, Golden State Warriors 90 at San Antonio
+Denver Nuggets 137, New Orleans Pelicans 107 at Denver
+Los Angeles Clippers 112, Phoenix Suns 108 at Phoenix
+Sacramento Kings 107, Los Angeles Lakers 102 at Sacramento
+Apr 3, 2014
+Oklahoma City Thunder 106, San Antonio Spurs 94 at Oklahoma City
+Dallas Mavericks 113, Los Angeles Clippers 107 at Los Angeles
+Apr 4, 2014
+Memphis Grizzlies 100, Denver Nuggets 92 at Memphis
+Charlotte Bobcats 91, Orlando Magic 80 at Charlotte
+Toronto Raptors 102, Indiana Pacers 94 at Toronto
+Atlanta Hawks 117, Cleveland Cavaliers 98 at Atlanta
+Philadelphia 76ers 111, Boston Celtics 102 at Boston
+Brooklyn Nets 116, Detroit Pistons 104 at Brooklyn
+Minnesota Timberwolves 122, Miami Heat 121 2OT at Miami
+Washington Wizards 90, New York Knicks 89 at New York
+Chicago Bulls 102, Milwaukee Bucks 90 at Chicago
+Utah Jazz 100, New Orleans Pelicans 96 at Utah
+Houston Rockets 111, Oklahoma City Thunder 107 at Houston
+Phoenix Suns 109, Portland Trail Blazers 93 at Portland
+Golden State Warriors 102, Sacramento Kings 69 at Golden State
+Dallas Mavericks 107, Los Angeles Lakers 95 at Los Angeles
+Apr 5, 2014
+Orlando Magic 100, Minnesota Timberwolves 92 at Orlando
+Chicago Bulls 96, Washington Wizards 78 at Washington
+Charlotte Bobcats 96, Cleveland Cavaliers 94 OT at Cleveland
+Detroit Pistons 115, Boston Celtics 111 at Detroit
+Brooklyn Nets 105, Philadelphia 76ers 101 at Philadelphia
+Toronto Raptors 102, Milwaukee Bucks 98 at Milwaukee
+Apr 6, 2014
+Miami Heat 102, New York Knicks 91 at Miami
+Los Angeles Clippers 120, Los Angeles Lakers 97 at Los Angeles
+Dallas Mavericks 93, Sacramento Kings 91 at Sacramento
+Atlanta Hawks 107, Indiana Pacers 88 at Indiana
+Houston Rockets 130, Denver Nuggets 125 OT at Houston
+San Antonio Spurs 112, Memphis Grizzlies 92 at San Antonio
+Golden State Warriors 130, Utah Jazz 102 at Golden State
+Phoenix Suns 122, Oklahoma City Thunder 115 at Phoenix
+Portland Trail Blazers 100, New Orleans Pelicans 94 at Portland
+Apr 8, 2014
+Brooklyn Nets 88, Miami Heat 87 at Miami
+Dallas Mavericks 95, Utah Jazz 83 at Utah
+Oklahoma City Thunder 107, Sacramento Kings 92 at Sacramento
+Houston Rockets 145, Los Angeles Lakers 130 at Los Angeles
+Detroit Pistons 102, Atlanta Hawks 95 at Atlanta Originally scheduled for Jan 29. Postponed due to weather conditions.
+Minnesota Timberwolves 110, San Antonio Spurs 91 at Minnesota Originally scheduled for Dec. 4, 2013, in Mexico City. Postponed due to smoke in the stadium.
+Apr 9, 2014
+Cleveland Cavaliers 122, Detroit Pistons 100 at Cleveland
+Orlando Magic 115, Brooklyn Nets 111 at Orlando
+Toronto Raptors 125, Philadelphia 76ers 114 at Toronto
+Charlotte Bobcats 94, Washington Wizards 88 OT at Washington
+Atlanta Hawks 105, Boston Celtics 97 at Atlanta
+Memphis Grizzlies 107, Miami Heat 102 at Memphis
+Indiana Pacers 104, Milwaukee Bucks 102 at Milwaukee
+Chicago Bulls 102, Minnesota Timberwolves 87 at Minnesota
+Phoenix Suns 94, New Orleans Pelicans 88 at New Orleans
+Denver Nuggets 123, Houston Rockets 116 at Denver
+Portland Trail Blazers 100, Sacramento Kings 99 at Portland
+Oklahoma City Thunder 107, Los Angeles Clippers 101 at Los Angeles
+Apr 10, 2014
+San Antonio Spurs 109, Dallas Mavericks 100 at Dallas
+Denver Nuggets 100, Golden State Warriors 99 at Golden State
+Apr 11, 2014
+Washington Wizards 96, Orlando Magic 86 at Orlando
+New York Knicks 108, Toronto Raptors 100 at Toronto
+Boston Celtics 106, Charlotte Bobcats 103 at Boston
+Atlanta Hawks 93, Brooklyn Nets 88 at Brooklyn
+Miami Heat 98, Indiana Pacers 86 at Miami
+Chicago Bulls 106, Detroit Pistons 98 at Chicago
+Memphis Grizzlies 117, Philadelphia 76ers 95 at Memphis
+Minnesota Timberwolves 112, Houston Rockets 110 at Minnesota
+Oklahoma City Thunder 116, New Orleans Pelicans 94 at Oklahoma City
+Milwaukee Bucks 119, Cleveland Cavaliers 116 at Milwaukee
+San Antonio Spurs 112, Phoenix Suns 104 at San Antonio
+Portland Trail Blazers 111, Utah Jazz 99 at Utah
+Golden State Warriors 112, Los Angeles Lakers 95 at Los Angeles
+Apr 12, 2014
+Los Angeles Clippers 117, Sacramento Kings 101 at Los Angeles
+Charlotte Bobcats 111, Philadelphia 76ers 105 at Charlotte
+Washington Wizards 104, Milwaukee Bucks 91 at Washington
+Atlanta Hawks 98, Miami Heat 85 at Atlanta
+Boston Celtics 111, Cleveland Cavaliers 99 at Cleveland
+Houston Rockets 111, New Orleans Pelicans 104 at Houston
+Dallas Mavericks 101, Phoenix Suns 98 at Dallas
+Denver Nuggets 101, Utah Jazz 94 at Denver
+Apr 13, 2014
+New York Knicks 100, Chicago Bulls 89 at New York
+Toronto Raptors 116, Detroit Pistons 107 at Detroit
+Brooklyn Nets 97, Orlando Magic 88 at Brooklyn
+Indiana Pacers 102, Oklahoma City Thunder 97 at Indiana
+Portland Trail Blazers 119, Golden State Warriors 117 OT at Portland
+Sacramento Kings 106, Minnesota Timberwolves 103 at Sacramento
+Memphis Grizzlies 102, Los Angeles Lakers 90 at Los Angeles
+Apr 14, 2014
+Philadelphia 76ers 113, Boston Celtics 108 at Philadelphia
+Toronto Raptors 110, Milwaukee Bucks 100 at Toronto
+Washington Wizards 114, Miami Heat 93 at Washington
+Charlotte Bobcats 95, Atlanta Hawks 93 at Atlanta
+Chicago Bulls 108, Orlando Magic 95 at Chicago
+Houston Rockets 104, San Antonio Spurs 98 at Houston
+New Orleans Pelicans 101, Oklahoma City Thunder 89 at New Orleans
+Los Angeles Lakers 119, Utah Jazz 104 at Utah
+Memphis Grizzlies 97, Phoenix Suns 91 at Phoenix
+Golden State Warriors 130, Minnesota Timberwolves 120 at Golden State
+Apr 15, 2014
+New York Knicks 109, Brooklyn Nets 98 at Brooklyn
+Los Angeles Clippers 117, Denver Nuggets 105 at Los Angeles
+Apr 16, 2014
+Memphis Grizzlies 106, Dallas Mavericks 105 OT at Memphis
+Atlanta Hawks 111, Milwaukee Bucks 103 at Milwaukee
+Utah Jazz 136, Minnesota Timberwolves 130 2OT at Minnesota
+New Orleans Pelicans 105, Houston Rockets 100 at New Orleans
+Oklahoma City Thunder 112, Detroit Pistons 111 at Oklahoma City
+Los Angeles Lakers 113, San Antonio Spurs 100 at San Antonio
+Washington Wizards 118, Boston Celtics 102 at Boston
+Charlotte Bobcats 91, Chicago Bulls 86 OT at Charlotte
+Cleveland Cavaliers 114, Brooklyn Nets 85 at Cleveland
+Philadelphia 76ers 100, Miami Heat 87 at Miami
+New York Knicks 95, Toronto Raptors 92 at New York
+Indiana Pacers 101, Orlando Magic 86 at Orlando
+Portland Trail Blazers 110, Los Angeles Clippers 104 at Portland
+Phoenix Suns 104, Sacramento Kings 99 at Sacramento
+Golden State Warriors 116, Denver Nuggets 112 at Denver
+Full List - NBA Playoffs
+Apr 19, 2014
+Golden State Warriors 109, Los Angeles Clippers 105 at Los Angeles
+Oklahoma City Thunder 100, Memphis Grizzlies 86 at Oklahoma City
+Atlanta Hawks 101, Indiana Pacers 93 at Indiana
+Brooklyn Nets 94, Toronto Raptors 87 at Toronto
+Apr 20, 2014
+San Antonio Spurs 90, Dallas Mavericks 85 at San Antonio
+Portland Trail Blazers 122, Houston Rockets 120 OT at Houston
+Washington Wizards 102, Chicago Bulls 93 at Chicago
+Miami Heat 99, Charlotte Bobcats 88 at Miami
+Apr 21, 2014
+Los Angeles Clippers 138, Golden State Warriors 98 at Los Angeles
+Memphis Grizzlies 111, Oklahoma City Thunder 105 OT at Oklahoma City
+Apr 22, 2014
+Indiana Pacers 101, Atlanta Hawks 85 at Indiana
+Washington Wizards 101, Chicago Bulls 99 OT at Chicago
+Toronto Raptors 100, Brooklyn Nets 95 at Toronto
+Apr 23, 2014
+Dallas Mavericks 113, San Antonio Spurs 92 at San Antonio
+Portland Trail Blazers 112, Houston Rockets 105 at Houston
+Miami Heat 101, Charlotte Bobcats 97 at Miami
+Apr 24, 2014
+Los Angeles Clippers 98, Golden State Warriors 96 at Golden State
+Memphis Grizzlies 98, Oklahoma City Thunder 95 OT at Memphis
+Atlanta Hawks 98, Indiana Pacers 85 at Atlanta
+Apr 25, 2014
+Houston Rockets 121, Portland Trail Blazers 116 OT at Portland
+Chicago Bulls 100, Washington Wizards 97 at Washington
+Brooklyn Nets 102, Toronto Raptors 98 at Brooklyn
+Apr 26, 2014
+Dallas Mavericks 109, San Antonio Spurs 108 at Dallas
+Oklahoma City Thunder 92, Memphis Grizzlies 89 OT at Memphis
+Indiana Pacers 91, Atlanta Hawks 88 at Atlanta
+Miami Heat 98, Charlotte Bobcats 85 at Charlotte
+Apr 27, 2014
+Portland Trail Blazers 123, Houston Rockets 120 OT at Portland
+Golden State Warriors 118, Los Angeles Clippers 97 at Golden State
+Washington Wizards 98, Chicago Bulls 89 at Washington
+Toronto Raptors 87, Brooklyn Nets 79 at Brooklyn
+Apr 28, 2014
+San Antonio Spurs 93, Dallas Mavericks 89 at Dallas
+Atlanta Hawks 107, Indiana Pacers 97 at Indiana
+Miami Heat 109, Charlotte Bobcats 98 at Charlotte
+Apr 29, 2014
+Los Angeles Clippers 113, Golden State Warriors 103 at Los Angeles
+Memphis Grizzlies 100, Oklahoma City Thunder 99 OT at Oklahoma City
+Washington Wizards 75, Chicago Bulls 69 at Chicago
+Apr 30, 2014
+San Antonio Spurs 109, Dallas Mavericks 103 at San Antonio
+Houston Rockets 108, Portland Trail Blazers 98 at Houston
+Toronto Raptors 115, Brooklyn Nets 113 at Toronto
+May 01, 2014
+Golden State Warriors 100, Los Angeles Clippers 99 at Golden State
+Oklahoma City Thunder 104, Memphis Grizzlies 84 at Memphis
+Indiana Pacers 95, Atlanta Hawks 88 at Atlanta
+May 02, 2014
+Dallas Mavericks 113, San Antonio Spurs 111 at Dallas
+Portland Trail Blazers 99, Houston Rockets 98 at Portland
+Brooklyn Nets 97, Toronto Raptors 83 at Brooklyn
+May 03, 2014
+Los Angeles Clippers 126, Golden State Warriors 121 at Los Angeles
+Oklahoma City Thunder 120, Memphis Grizzlies 109 at Oklahoma City
+Indiana Pacers 92, Atlanta Hawks 80 at Indiana
+May 04, 2014
+San Antonio Spurs 119, Dallas Mavericks 96 at San Antonio
+Brooklyn Nets 104, Toronto Raptors 103 at Toronto
+May 05, 2014
+Los Angeles Clippers 122, Oklahoma City Thunder 105 at Oklahoma City
+Washington Wizards 102, Indiana Pacers 96 at Indiana
+May 06, 2014
+San Antonio Spurs 116, Portland Trail Blazers 92 at San Antonio
+Miami Heat 107, Brooklyn Nets 86 at Miami
+May 07, 2014
+Oklahoma City Thunder 112, Los Angeles Clippers 101 at Oklahoma City
+Indiana Pacers 86, Washington Wizards 82 at Indiana
+May 08, 2014
+San Antonio Spurs 114, Portland Trail Blazers 97 at San Antonio
+Miami Heat 94, Brooklyn Nets 82 at Miami
+May 09, 2014
+Oklahoma City Thunder 118, Los Angeles Clippers 112 at Los Angeles
+Indiana Pacers 85, Washington Wizards 63 at Washington
+May 10, 2014
+San Antonio Spurs 118, Portland Trail Blazers 103 at Portland
+Brooklyn Nets 104, Miami Heat 90 at Brooklyn
+May 11, 2014
+Los Angeles Clippers 101, Oklahoma City Thunder 99 at Los Angeles
+Indiana Pacers 95, Washington Wizards 92 at Washington
+May 12, 2014
+Portland Trail Blazers 103, San Antonio Spurs 92 at Portland
+Miami Heat 102, Brooklyn Nets 96 at Brooklyn
+May 13, 2014
+Oklahoma City Thunder 105, Los Angeles Clippers 104 at Oklahoma City
+Washington Wizards 102, Indiana Pacers 79 at Indiana
+May 14, 2014
+San Antonio Spurs 104, Portland Trail Blazers 82 at San Antonio
+Miami Heat 96, Brooklyn Nets 94 at Miami
+May 15, 2014
+Oklahoma City Thunder 104, Los Angeles Clippers 98 at Los Angeles
+Indiana Pacers 93, Washington Wizards 80 at Washington
+May 18, 2014
+Indiana Pacers 107, Miami Heat 96 at Indiana
+May 19, 2014
+San Antonio Spurs 122, Oklahoma City Thunder 105 at San Antonio
+May 20, 2014
+Miami Heat 87, Indiana Pacers 83 at Indiana
+May 21, 2014
+San Antonio Spurs 112, Oklahoma City Thunder 77 at San Antonio
+May 24, 2014
+Miami Heat 99, Indiana Pacers 87 at Miami
+May 25, 2014
+Oklahoma City Thunder 106, San Antonio Spurs 97 at Oklahoma City
+May 26, 2014
+Miami Heat 102, Indiana Pacers 90 at Miami
+May 27, 2014
+Oklahoma City Thunder 105, San Antonio Spurs 92 at Oklahoma City
+May 28, 2014
+Indiana Pacers 93, Miami Heat 90 at Indiana
+May 29, 2014
+San Antonio Spurs 117, Oklahoma City Thunder 89 at San Antonio
+May 30, 2014
+Miami Heat 117, Indiana Pacers 92 at Miami
+May 31, 2014
+San Antonio Spurs 112, Oklahoma City Thunder 107 OT at Oklahoma City
+Jun 05, 2014
+San Antonio Spurs 110, Miami Heat 95 at San Antonio
+Jun 08, 2014
+Miami Heat 98, San Antonio Spurs 96 at San Antonio
+Jun 10, 2014
+San Antonio Spurs 111, Miami Heat 92 at Miami
+Jun 12, 2014
+San Antonio Spurs 107, Miami Heat 86 at Miami
+Jun 15, 2014
+San Antonio Spurs 104, Miami Heat 87 at San Antonio

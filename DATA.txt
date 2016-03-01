@@ -1,1314 +1,1315 @@
-clevelandcavaliers 94 washingtonwizards 84
-miamiheat 120 bostonceltics 107
-dallasmavericks 99 losangeleslakers 91
-indianapacers 90 torontoraptors 88
-philadelphia76ers 84 denvernuggets 75
-houstonrockets 105 detroitpistons 96
-chicagobulls 93 sacramentokings 87
-sanantoniospurs 99 neworleanshornets 95
-utahjazz 113 dallasmavericks 94
-goldenstatewarriors 87 phoenixsuns 85
-losangelesclippers 101 memphisgrizzlies 92
-portlandtrailblazers 116 losangeleslakers 106
-sanantoniospurs 86 oklahomacitythunder 84
-charlottebobcats 90 indianapacers 89
-orlandomagic 102 denvernuggets 89
-milwaukeebucks 99 bostonceltics 88
-houstonrockets 109 atlantahawks 102
-chicagobulls 115 clevelandcavaliers 86
-newyorkknicks 104 miamiheat 84
-neworleanshornets 88 utahjazz 86
-oklahomacitythunder 106 portlandtrailblazers 92
-minnesotatimberwolves 92 sacramentokings 80
-phoenixsuns 92 detroitpistons 89
-losangelesclippers 105 losangeleslakers 95
-memphisgrizzlies 104 goldenstatewarriors 94
-bostonceltics 89 washingtonwizards 86
-indianapacers 106 sacramentokings 982
-brooklynnets 107 torontoraptors 100
-miamiheat 119 denvernuggets 116
-neworleanshornets 89 chicagobulls 82
-portlandtrailblazers 95 houstonrockets 85
-milwaukeebucks 105 clevelandcavaliers 102
-dallasmavericks 126 charlottebobcats 99
-sanantoniospurs 110 utahjazz 100
-goldenstatewarriors 114 losangelesclippers 110
-newyorkknicks 100 philadelphia76ers 84
-torontoraptors 105 minnesotatimberwolves 86
-orlandomagic 115 phoenixsuns 94
-atlantahawks 104 oklahomacitythunder 95
-losangeleslakers 108 detroitpistons 79
-newyorkknicks 110 philadelphia76ers 88
-minnesotatimberwolves 107 brooklynnets 96
-miamiheat 124 phoenixsuns 99
-memphisgrizzlies 103 utahjazz 94
-dallasmavericks 114 portlandtrailblazers 91
-sanantoniospurs 101 indianapacers 79
-sacramentokings 94 goldenstatewarriors 92
-clevelandcavaliers 108 losangelesclippers 101
-chicagobulls 99 orlandomagic 93
-oklahomacitythunder 108 torontoraptors 88
-denvernuggets 109 detroitpistons 97
-phoenixsuns 117 charlottebobcats 110
-bostonceltics 100 washingtonwizards 94
-atlantahawks 89 indianapacers 86
-miamiheat 103 brooklynnets 73
-memphisgrizzlies 108 milwaukeebucks 90
-philadelphia76ers 77 neworleanshornets 62
-denvernuggets 93 houstonrockets 87
-minnesotatimberwolves 90 orlandomagic 75
-dallasmavericks 109 torontoraptors 104
-utahjazz 95 losangeleslakers 86
-sacramentokings 105 detroitpistons 103
-losangelesclippers 106 sanantoniospurs 84
-goldenstatewarriors 106 clevelandcavaliers 96
-oklahomacitythunder 97 chicagobulls 91
-losangelesclippers 103 portlandtrailblazers 90
-milwaukeebucks 101 washingtonwizards 91
-brooklynnets 107 orlandomagic 68
-philadelphia76ers 106 bostonceltics 100
-newyorkknicks 104 dallasmavericks 94
-miamiheat 95 atlantahawks 89
-memphisgrizzlies 93 houstonrockets 85
-neworleanshornets 107 charlottebobcats 99
-oklahomacitythunder 105 detroitpistons 94
-minnesotatimberwolves 96 indianapacers 94
-phoenixsuns 107 clevelandcavaliers 105
-sanantoniospurs 97 sacramentokings 86
-denvernuggets 104 utahjazz 84
-losangeleslakers 101 goldenstatewarriors 77
-philadelphia76ers 93 torontoraptors 83
-indianapacers 89 washingtonwizards 85
-charlottebobcats 101 dallasmavericks 97
-chicagobulls 87 minnesotatimberwolves 80
-houstonrockets 96 detroitpistons 82
-bostonceltics 96 milwaukeebucks 92
-utahjazz 94 phoenixsuns 81
-sanantoniospurs 112 portlandtrailblazers 109
-denvernuggets 107 goldenstatewarriors 101
-brooklynnets 82 orlandomagic 74
-losangelesclippers 89 atlantahawks 76
-memphisgrizzlies 104 miamiheat 86
-oklahomacitythunder 106 clevelandcavaliers 91
-losangeleslakers 103 sacramentokings 90
-utahjazz 140 torontoraptors 133
-milwaukeebucks 105 philadelphia76ers 96
-oklahomacitythunder 92 detroitpistons 90
-bostonceltics 101 chicagobulls 95
-miamiheat 113 houstonrockets 110
-minnesotatimberwolves 90 dallasmavericks 82
-phoenixsuns 110 denvernuggets 100
-atlantahawks 95 portlandtrailblazers 87
-charlottebobcats 92 washingtonwizards 76
-newyorkknicks 99 orlandomagic 89
-torontoraptors 74 indianapacers 72
-brooklynnets 114 clevelandcavaliers 101
-portlandtrailblazers 103 sacramentokings 86
-sanantoniospurs 84 losangeleslakers 82
-detroitpistons 94 philadelphia76ers 76
-bostonceltics 98 utahjazz 93
-milwaukeebucks 99 indianapacers 85
-houstonrockets 100 neworleanshornets 96
-memphisgrizzlies 107 oklahomacitythunder 97
-charlottebobcats 89 minnesotatimberwolves 87
-dallasmavericks 107 washingtonwizards 101
-chicagobulls 112 phoenixsuns 106
-losangelesclippers 107 miamiheat 100
-goldenstatewarriors 92 atlantahawks 88
-brooklynnets 102 bostonceltics 97
-newyorkknicks 104 sanantoniospurs 100
-miamiheat 98 denvernuggets 93
-philadelphia76ers 99 utahjazz 93
-orlandomagic 110 detroitpistons 106
-indianapacers 103 dallasmavericks 83
-oklahomacitythunder 110 neworleanshornets 95
-goldenstatewarriors 106 minnesotatimberwolves 98
-memphisgrizzlies 105 newyorkknicks 95
-atlantahawks 112 sacramentokings 96
-portlandtrailblazers 119 houstonrockets 117
-losangeleslakers 114 phoenixsuns 102
-bostonceltics 107 torontoraptors 89
-losangelesclippers 101 chicagobulls 80
-utahjazz 83 washingtonwizards 76
-memphisgrizzlies 94 charlottebobcats 87
-dallasmavericks 103 clevelandcavaliers 95
-milwaukeebucks 117 neworleanshornets 113
-sanantoniospurs 126 denvernuggets 100
-miamiheat 97 phoenixsuns 88
-newyorkknicks 88 indianapacers 76
-torontoraptors 97 orlandomagic 86
-philadelphia76ers 86 clevelandcavaliers 79
-brooklynnets 99 sacramentokings 90
-oklahomacitythunder 119 goldenstatewarriors 109
-detroitpistons 103 bostonceltics 83
-portlandtrailblazers 102 chicagobulls 94
-losangeleslakers 119 houstonrockets 108
-indianapacers 96 washingtonwizards 89
-charlottebobcats 102 milwaukeebucks 98
-atlantahawks 81 orlandomagic 72
-denvernuggets 97 memphisgrizzlies 92
-goldenstatewarriors 105 dallasmavericks 101
-losangelesclippers 92 sanantoniospurs 87
-utahjazz 102 houstonrockets 91
-philadelphia76ers 106 torontoraptors 98
-newyorkknicks 102 neworleanshornets 80
-losangeleslakers 95 brooklynnets 90
-charlottebobcats 98 torontoraptors 97
-orlandomagic 90 detroitpistons 74
-clevelandcavaliers 92 philadelphia76ers 83
-indianapacers 115 neworleanshornets 107
-sanantoniospurs 112 bostonceltics 100
-atlantahawks 101 washingtonwizards 100
-miamiheat 113 milwaukeebucks 106
-oklahomacitythunder 117 losangelesclippers 111
-houstonrockets 93 chicagobulls 89
-denvernuggets 101 minnesotatimberwolves 94
-dallasmavericks 114 newyorkknicks 111
-phoenixsuns 114 portlandtrailblazers 87
-sacramentokings 113 losangeleslakers 97
-goldenstatewarriors 102 brooklynnets 93
-atlantahawks 101 charlottebobcats 91
-orlandomagic 108 clevelandcavaliers 104
-bostonceltics 108 oklahomacitythunder 100
-brooklynnets 86 losangelesclippers 76
-detroitpistons 91 torontoraptors 90
-sanantoniospurs 104 indianapacers 97
-memphisgrizzlies 106 losangeleslakers 98
-houstonrockets 131 newyorkknicks 103
-denvernuggets 102 goldenstatewarriors 91
-utahjazz 104 sacramentokings 102
-phoenixsuns 111 neworleanshornets 108
-portlandtrailblazers 103 minnesotatimberwolves 95
-oklahomacitythunder 116 philadelphia76ers 109
-charlottebobcats 108 washingtonwizards 106
-atlantahawks 104 losangelesclippers 93
-miamiheat 110 clevelandcavaliers 108
-losangeleslakers 115 dallasmavericks 89
-chicagobulls 93 milwaukeebucks 86
-sacramentokings 108 utahjazz 97
-goldenstatewarriors 96 minnesotatimberwolves 85
-sanantoniospurs 111 torontoraptors 106
-newyorkknicks 121 detroitpistons 100
-brooklynnets 98 portlandtrailblazers 85
-philadelphia76ers 104 phoenixsuns 101
-bostonceltics 116 orlandomagic 110
-denvernuggets 102 neworleanshornets 84
-brooklynnets 96 newyorkknicks 89
-sanantoniospurs 118 washingtonwizards 92
-detroitpistons 108 portlandtrailblazers 101
-milwaukeebucks 93 chicagobulls 92
-memphisgrizzlies 84 clevelandcavaliers 78
-oklahomacitythunder 114 charlottebobcats 69
-utahjazz 105 denvernuggets 103
-neworleanshornets 105 losangelesclippers 98
-philadelphia76ers 100 dallasmavericks 98
-phoenixsuns 91 clevelandcavaliers 78
-houstonrockets 117 torontoraptors 101
-minnesotatimberwolves 97 sacramentokings 89
-indianapacers 79 losangeleslakers 77
-washingtonwizards 84 portlandtrailblazers 82
-sanantoniospurs 110 orlandomagic 89
-brooklynnets 95 bostonceltics 83
-atlantahawks 94 charlottebobcats 91
-detroitpistons 117 phoenixsuns 77
-chicagobulls 101 dallasmavericks 78
-newyorkknicks 102 milwaukeebucks 88
-memphisgrizzlies 103 torontoraptors 82
-utahjazz 96 neworleanshornets 84
-oklahomacitythunder 120 houstonrockets 98
-losangelesclippers 101 minnesotatimberwolves 95
-miamiheat 105 sanantoniospurs 100
-goldenstatewarriors 106 denvernuggets 105
-torontoraptors 101 phoenixsuns 97
-philadelphia76ers 104 charlottebobcats 98
-brooklynnets 98 orlandomagic 86
-bostonceltics 96 portlandtrailblazers 78
-newyorkknicks 108 washingtonwizards 87
-clevelandcavaliers 113 atlantahawks 111
-memphisgrizzlies 90 detroitpistons 78
-oklahomacitythunder 106 utahjazz 94
-minnesotatimberwolves 95 milwaukeebucks 85
-indianapacers 97 sacramentokings 92
-losangeleslakers 122 denvernuggets 103
-miamiheat 102 brooklynnets 89
-portlandtrailblazers 118 clevelandcavaliers 117
-chicagobulls 93 philadelphia76ers 88
-oklahomacitythunder 100 neworleanshornets 79
-houstonrockets 124 utahjazz 116
-milwaukeebucks 91 bostonceltics 88
-sanantoniospurs 99 memphisgrizzlies 95
-dallasmavericks 92 detroitpistons 77
-losangelesclippers 116 sacramentokings 81
-goldenstatewarriors 103 indianapacers 92
-newyorkknicks 106 phoenixsuns 99
-orlandomagic 113 losangeleslakers 103
-portlandtrailblazers 118 charlottebobcats 112
-detroitpistons 89 clevelandcavaliers 79
-neworleanshornets 102 milwaukeebucks 81
-denvernuggets 113 torontoraptors 110
-losangelesclippers 105 utahjazz 104
-orlandomagic 102 goldenstatewarriors 94
-minnesotatimberwolves 105 philadelphia76ers 88
-washingtonwizards 105 miamiheat 101
-oklahomacitythunder 117 brooklynnets 111
-indianapacers 80 chicagobulls 76
-memphisgrizzlies 108 phoenixsuns 98
-houstonrockets 107 losangeleslakers 105
-newyorkknicks 100 charlottebobcats 98
-indianapacers 99 portlandtrailblazers 92
-bostonceltics 104 minnesotatimberwolves 94
-atlantahawks 108 denvernuggets 104
-goldenstatewarriors 104 detroitpistons 97
-chicagobulls 95 clevelandcavaliers 85
-losangeleslakers 103 neworleanshornets 87
-sanantoniospurs 110 milwaukeebucks 99
-utahjazz 87 orlandomagic 81
-sacramentokings 107 torontoraptors 100
-losangelesclippers 112 dallasmavericks 90
-newyorkknicks 112 miamiheat 92
-dallasmavericks 97 phoenixsuns 94
-philadelphia76ers 95 bostonceltics 94
-denvernuggets 92 indianapacers 89
-goldenstatewarriors 109 brooklynnets 102
-atlantahawks 104 washingtonwizards 95
-chicagobulls 108 detroitpistons 104
-memphisgrizzlies 96 neworleanshornets 89
-minnesotatimberwolves 91 clevelandcavaliers 73
-milwaukeebucks 108 charlottebobcats 93
-sanantoniospurs 114 houstonrockets 92
-utahjazz 131 torontoraptors 99
-oklahomacitythunder 114 losangeleslakers 108
-sacramentokings 91 orlandomagic 82
-losangelesclippers 117 phoenixsuns 99
-goldenstatewarriors 101 washingtonwizards 97
-sanantoniospurs 132 charlottebobcats 102
-bostonceltics 92 philadelphia76ers 79
-miamiheat 106 neworleanshornets 90
-detroitpistons 104 clevelandcavaliers 97
-chicagobulls 93 newyorkknicks 85
-atlantahawks 93 memphisgrizzlies 83
-dallasmavericks 116 houstonrockets 109
-sacramentokings 99 portlandtrailblazers 80
-losangelesclippers 102 torontoraptors 83
-milwaukeebucks 97 brooklynnets 88
-oklahomacitythunder 104 indianapacers 93
-newyorkknicks 112 denvernuggets 106
-orlandomagic 98 phoenixsuns 90
-utahjazz 117 losangeleslakers 110
-philadelphia76ers 104 detroitpistons 97
-goldenstatewarriors 104 charlottebobcats 96
-miamiheat 101 atlantahawks 92
-sanantoniospurs 134 houstonrockets 126
-dallasmavericks 119 sacramentokings 96
-portlandtrailblazers 92 torontoraptors 74
-newyorkknicks 100 brooklynnets 97
-clevelandcavaliers 100 losangeleslakers 94
-denvernuggets 101 detroitpistons 94
-washingtonwizards 77 neworleanshornets 70
-losangelesclippers 94 chicagobulls 89
-brooklynnets 94 torontoraptors 88
-atlantahawks 86 orlandomagic 80
-indianapacers 96 clevelandcavaliers 81
-chicagobulls 96 philadelphia76ers 89
-losangelesclippers 100 charlottebobcats 94
-goldenstatewarriors 97 miamiheat 95
-bostonceltics 117 dallasmavericks 115
-milwaukeebucks 98 sacramentokings 85
-houstonrockets 99 washingtonwizards 93
-oklahomacitythunder 92 neworleanshornets 88
-minnesotatimberwolves 108 denvernuggets 105
-phoenixsuns 82 memphisgrizzlies 80
-utahjazz 99 sanantoniospurs 96
-atlantahawks 113 charlottebobcats 90
-newyorkknicks 116 losangeleslakers 107
-portlandtrailblazers 98 sanantoniospurs 90
-torontoraptors 95 dallasmavericks 74
-losangeleslakers 102 washingtonwizards 96
-indianapacers 95 philadelphia76ers 85
-brooklynnets 107 detroitpistons 105
-milwaukeebucks 90 clevelandcavaliers 86
-orlandomagic 99 goldenstatewarriors 85
-minnesotatimberwolves 113 neworleanshornets 102
-houstonrockets 101 bostonceltics 89
-oklahomacitythunder 113 sacramentokings 103
-phoenixsuns 99 utahjazz 84
-denvernuggets 99 memphisgrizzlies 94
-orlandomagic 107 charlottebobcats 98
-goldenstatewarriors 115 atlantahawks 93
-newyorkknicks 103 clevelandcavaliers 102
-miamiheat 102 washingtonwizards 72
-indianapacers 88 detroitpistons 77
-chicagobulls 83 brooklynnets 82
-minnesotatimberwolves 114 dallasmavericks 106
-losangelesclippers 111 milwaukeebucks 85
-sanantoniospurs 103 bostonceltics 88
-memphisgrizzlies 99 utahjazz 86
-torontoraptors 103 houstonrockets 96
-losangeleslakers 111 philadelphia76ers 98
-denvernuggets 122 sacramentokings 97
-portlandtrailblazers 95 neworleanshornets 94
-orlandomagic 102 minnesotatimberwolves 93
-houstonrockets 109 newyorkknicks 96
-losangelesclippers 88 detroitpistons 76
-memphisgrizzlies 80 chicagobulls 71
-oklahomacitythunder 107 sanantoniospurs 93
-phoenixsuns 101 sacramentokings 90
-atlantahawks 100 washingtonwizards 95
-torontoraptors 113 clevelandcavaliers 99
-utahjazz 92 brooklynnets 90
-miamiheat 103 minnesotatimberwolves 92
-chicagobulls 100 bostonceltics 89
-milwaukeebucks 98 indianapacers 93
-dallasmavericks 107 philadelphia76ers 100
-denvernuggets 112 sanantoniospurs 106
-losangeleslakers 101 charlottebobcats 100
-goldenstatewarriors 103 neworleanshornets 96
-torontoraptors 97 detroitpistons 91
-newyorkknicks 100 brooklynnets 86
-orlandomagic 90 washingtonwizards 83
-indianapacers 104 utahjazz 84
-bostonceltics 103 clevelandcavaliers 91
-oklahomacitythunder 100 atlantahawks 92
-houstonrockets 125 philadelphia76ers 103
-phoenixsuns 121 charlottebobcats 104
-memphisgrizzlies 90 milwaukeebucks 80
-sacramentokings 131 goldenstatewarriors 127
-losangelesclippers 93 neworleanshornets 77
-minnesotatimberwolves 99 oklahomacitythunder 93
-miamiheat 110 dallasmavericks 95
-portlandtrailblazers 101 denvernuggets 93
-torontoraptors 93 orlandomagic 90
-philadelphia76ers 99 atlantahawks 80
-milwaukeebucks 99 bostonceltics 94
-chicagobulls 110 newyorkknicks 106
-detroitpistons 100 washingtonwizards 68
-indianapacers 99 clevelandcavaliers 89
-memphisgrizzlies 92 dallasmavericks 82
-sanantoniospurs 99 neworleanshornets 94
-losangelesclippers 97 sacramentokings 85
-goldenstatewarriors 115 charlottebobcats 100
-detroitpistons 96 washingtonwizards 87
-atlantahawks 92 chicagobulls 75
-miamiheat 105 utahjazz 89
-indianapacers 81 neworleanshornets 75
-houstonrockets 121 memphisgrizzlies 96
-clevelandcavaliers 94 milwaukeebucks 82
-denvernuggets 110 charlottebobcats 88
-portlandtrailblazers 96 phoenixsuns 93
-losangeleslakers 118 goldenstatewarriors 115
-brooklynnets 95 philadelphia76ers 92
-newyorkknicks 94 minnesotatimberwolves 91
-utahjazz 97 orlandomagic 93
-sanantoniospurs 129 dallasmavericks 91
-losangelesclippers 103 phoenixsuns 77
-sacramentokings 108 portlandtrailblazers 96
-bostonceltics 93 brooklynnets 76
-losangeleslakers 100 newyorkknicks 94
-miamiheat 103 oklahomacitythunder 97
-houstonrockets 120 chicagobulls 97
-losangelesclippers 112 denvernuggets 100
-clevelandcavaliers 87 washingtonwizards 84
-miamiheat 105 charlottebobcats 92
-neworleanshornets 97 orlandomagic 94
-atlantahawks 126 detroitpistons 119
-milwaukeebucks 108 brooklynnets 93
-philadelphia76ers 99 memphisgrizzlies 89
-houstonrockets 87 minnesotatimberwolves 84
-sanantoniospurs 100 torontoraptors 80
-denvernuggets 126 losangeleslakers 114
-goldenstatewarriors 94 utahjazz 83
-newyorkknicks 99 phoenixsuns 97
-portlandtrailblazers 109 sacramentokings 91
-oklahomacitythunder 111 dallasmavericks 105
-losangelesclippers 106 bostonceltics 77
-washingtonwizards 105 orlandomagic 97
-indianapacers 97 phoenixsuns 91
-brooklynnets 97 charlottebobcats 81
-detroitpistons 109 miamiheat 99
-atlantahawks 102 clevelandcavaliers 94
-torontoraptors 104 neworleanshornets 97
-denvernuggets 106 dallasmavericks 85
-sanantoniospurs 122 houstonrockets 116
-losangelesclippers 116 utahjazz 114
-sacramentokings 106 newyorkknicks 105
-losangeleslakers 104 portlandtrailblazers 87
-goldenstatewarriors 96 philadelphia76ers 89
-neworleanshornets 98 charlottebobcats 95
-atlantahawks 109 indianapacers 100
-torontoraptors 123 orlandomagic 88
-brooklynnets 103 clevelandcavaliers 100
-chicagobulls 87 washingtonwizards 77
-memphisgrizzlies 81 denvernuggets 72
-oklahomacitythunder 124 houstonrockets 94
-minnesotatimberwolves 111 phoenixsuns 107
-milwaukeebucks 104 miamiheat 85
-portlandtrailblazers 89 philadelphia76ers 85
-goldenstatewarriors 101 bostonceltics 83
-detroitpistons 96 milwaukeebucks 94
-sanantoniospurs 111 dallasmavericks 86
-sacramentokings 118 bostonceltics 96
-losangelesclippers 107 utahjazz 96
-indianapacers 88 memphisgrizzlies 83
-charlottebobcats 91 chicagobulls 81
-miamiheat 112 orlandomagic 110
-houstonrockets 123 atlantahawks 104
-oklahomacitythunder 114 phoenixsuns 96
-sanantoniospurs 104 brooklynnets 73
-dallasmavericks 103 washingtonwizards 94
-portlandtrailblazers 105 newyorkknicks 100
-detroitpistons 103 sacramentokings 97
-atlantahawks 95 neworleanshornets 86
-denvernuggets 92 losangelesclippers 78
-philadelphia76ers 103 losangeleslakers 99
-torontoraptors 102 portlandtrailblazers 79
-chicagobulls 96 orlandomagic 94
-sacramentokings 97 clevelandcavaliers 94
-indianapacers 89 washingtonwizards 81
-memphisgrizzlies 93 bostonceltics 83
-miamiheat 119 dallasmavericks 109
-sanantoniospurs 117 milwaukeebucks 110
-houstonrockets 104 neworleanshornets 92
-brooklynnets 110 oklahomacitythunder 93
-utahjazz 106 minnesotatimberwolves 84
-phoenixsuns 95 philadelphia76ers 89
-goldenstatewarriors 115 losangelesclippers 94
-newyorkknicks 100 sanantoniospurs 83
-minnesotatimberwolves 101 denvernuggets 97
-sacramentokings 105 torontoraptors 96
-brooklynnets 115 washingtonwizards 113
-clevelandcavaliers 106 charlottebobcats 104
-chicagobulls 96 miamiheat 89
-detroitpistons 85 atlantahawks 84
-bostonceltics 94 indianapacers 75
-portlandtrailblazers 86 memphisgrizzlies 84
-oklahomacitythunder 109 philadelphia76ers 85
-houstonrockets 115 milwaukeebucks 101
-utahjazz 87 phoenixsuns 80
-losangelesclippers 107 losangeleslakers 102
-bostonceltics 89 atlantahawks 81
-newyorkknicks 114 orlandomagic 106
-indianapacers 95 milwaukeebucks 80
-brooklynnets 113 sacramentokings 93
-houstonrockets 112 clevelandcavaliers 104
-portlandtrailblazers 102 minnesotatimberwolves 97
-neworleanshornets 99 dallasmavericks 96
-sanantoniospurs 109 philadelphia76ers 86
-denvernuggets 110 utahjazz 91
-losangelesclippers 115 goldenstatewarriors 89
-oklahomacitythunder 104 torontoraptors 92
-miamiheat 99 washingtonwizards 71
-charlottebobcats 108 detroitpistons 101
-memphisgrizzlies 92 phoenixsuns 81
-denvernuggets 112 losangeleslakers 105
-washingtonwizards 101 oklahomacitythunder 99
-bostonceltics 102 newyorkknicks 96
-chicagobulls 118 clevelandcavaliers 92
-neworleanshornets 95 sanantoniospurs 88
-utahjazz 100 dallasmavericks 94
-memphisgrizzlies 113 sacramentokings 81
-portlandtrailblazers 125 orlandomagic 119
-brooklynnets 109 philadelphia76ers 89
-indianapacers 87 miamiheat 77
-milwaukeebucks 108 phoenixsuns 99
-houstonrockets 125 losangeleslakers 112
-minnesotatimberwolves 108 atlantahawks 103
-torontoraptors 90 philadelphia76ers 72
-utahjazz 112 charlottebobcats 102
-clevelandcavaliers 99 atlantahawks 83
-bostonceltics 87 phoenixsuns 79
-milwaukeebucks 104 chicagobulls 96
-neworleanshornets 88 houstonrockets 79
-sanantoniospurs 108 losangeleslakers 105
-oklahomacitythunder 106 minnesotatimberwolves 84
-denvernuggets 108 orlandomagic 105
-losangelesclippers 99 dallasmavericks 93
-memphisgrizzlies 94 goldenstatewarriors 87
-indianapacers 81 newyorkknicks 76
-dallasmavericks 117 sacramentokings 112
-portlandtrailblazers 92 miamiheat 90
-torontoraptors 99 charlottebobcats 78
-bostonceltics 103 houstonrockets 91
-brooklynnets 99 phoenixsuns 79
-atlantahawks 103 utahjazz 95
-chicagobulls 108 newyorkknicks 101
-memphisgrizzlies 101 sanantoniospurs 98
-neworleanshornets 104 minnesotatimberwolves 92
-detroitpistons 103 milwaukeebucks 87
-denvernuggets 98 clevelandcavaliers 91
-oklahomacitythunder 116 losangeleslakers 101
-goldenstatewarriors 103 portlandtrailblazers 97
-orlandomagic 104 losangelesclippers 101
-washingtonwizards 93 atlantahawks 83
-indianapacers 96 charlottebobcats 88
-philadelphia76ers 107 houstonrockets 100
-utahjazz 90 detroitpistons 87
-phoenixsuns 97 chicagobulls 81
-dallasmavericks 104 memphisgrizzlies 83
-miamiheat 128 sacramentokings 99
-newyorkknicks 100 neworleanshornets 87
-milwaukeebucks 107 torontoraptors 96
-brooklynnets 97 indianapacers 86
-sanantoniospurs 106 minnesotatimberwolves 88
-denvernuggets 116 goldenstatewarriors 105
-oklahomacitythunder 87 portlandtrailblazers 83
-losangeleslakers 113 clevelandcavaliers 93
-washingtonwizards 120 orlandomagic 91
-bostonceltics 100 charlottebobcats 89
-chicagobulls 97 atlantahawks 58
-losangelesclippers 99 memphisgrizzlies 73
-dallasmavericks 113 minnesotatimberwolves 98
-utahjazz 104 miamiheat 97
-oklahomacitythunder 102 phoenixsuns 90
-sacramentokings 124 clevelandcavaliers 118
-neworleanshornets 111 philadelphia76ers 99
-indianapacers 103 charlottebobcats 76
-brooklynnets 113 torontoraptors 106
-losangelesclippers 117 houstonrockets 109
-denvernuggets 115 portlandtrailblazers 111
-losangeleslakers 104 milwaukeebucks 88
-chicagobulls 107 torontoraptors 105
-orlandomagic 97 indianapacers 86
-atlantahawks 109 brooklynnets 95
-neworleanshornets 90 bostonceltics 78
-oklahomacitythunder 117 denvernuggets 97
-dallasmavericks 105 houstonrockets 100
-sanantoniospurs 103 memphisgrizzlies 82
-sacramentokings 95 washingtonwizards 94
-clevelandcavaliers 93 portlandtrailblazers 88
-miamiheat 92 goldenstatewarriors 75
-newyorkknicks 102 detroitpistons 87
-losangelesclippers 90 minnesotatimberwolves 77
-milwaukeebucks 98 phoenixsuns 94
-miamiheat 99 losangeleslakers 90
-chicagobulls 100 bostonceltics 99
-philadelphia76ers 108 torontoraptors 101
-charlottebobcats 106 orlandomagic 100
-indianapacers 105 houstonrockets 95
-brooklynnets 94 atlantahawks 89
-memphisgrizzlies 85 sacramentokings 69
-sanantoniospurs 95 goldenstatewarriors 88
-washingtonwizards 112 denvernuggets 108
-oklahomacitythunder 117 dallasmavericks 114
-sacramentokings 97 charlottebobcats 93
-sanantoniospurs 98 atlantahawks 93
-memphisgrizzlies 85 chicagobulls 82
-goldenstatewarriors 116 neworleanshornets 112
-minnesotatimberwolves 92 houstonrockets 79
-utahjazz 109 clevelandcavaliers 98
-milwaukeebucks 110 portlandtrailblazers 104
-losangelesclippers 94 washingtonwizards 87
-torontoraptors 108 losangeleslakers 103
-dallasmavericks 111 orlandomagic 105
-detroitpistons 103 bostonceltics 88
-denvernuggets 121 oklahomacitythunder 118
-indianapacers 82 memphisgrizzlies 81
-neworleanshornets 114 sacramentokings 105
-houstonrockets 100 charlottebobcats 94
-atlantahawks 104 minnesotatimberwolves 96
-brooklynnets 88 newyorkknicks 85
-goldenstatewarriors 106 losangelesclippers 99
-sanantoniospurs 90 philadelphia76ers 85
-chicagobulls 95 losangeleslakers 83
-washingtonwizards 98 portlandtrailblazers 95
-clevelandcavaliers 95 bostonceltics 90
-detroitpistons 105 orlandomagic 90
-milwaukeebucks 110 philadelphia76ers 102
-oklahomacitythunder 109 losangelesclippers 97
-atlantahawks 104 charlottebobcats 92
-miamiheat 123 torontoraptors 116
-chicagobulls 85 detroitpistons 82
-memphisgrizzlies 106 losangeleslakers 93
-denvernuggets 105 houstonrockets 95
-brooklynnets 91 minnesotatimberwolves 83
-sanantoniospurs 106 neworleanshornets 102
-utahjazz 92 washingtonwizards 88
-phoenixsuns 106 sacramentokings 96
-portlandtrailblazers 100 indianapacers 80
-goldenstatewarriors 104 oklahomacitythunder 99
-torontoraptors 97 orlandomagic 95
-newyorkknicks 89 bostonceltics 86
-phoenixsuns 93 losangelesclippers 88
-washingtonwizards 114 minnesotatimberwolves 101
-atlantahawks 123 bostonceltics 111
-miamiheat 110 detroitpistons 88
-clevelandcavaliers 113 milwaukeebucks 108
-chicagobulls 103 goldenstatewarriors 87
-memphisgrizzlies 101 brooklynnets 77
-houstonrockets 100 neworleanshornets 82
-sanantoniospurs 113 dallasmavericks 107
-oklahomacitythunder 105 sacramentokings 95
-losangeleslakers 102 utahjazz 84
-clevelandcavaliers 99 torontoraptors 98
-philadelphia76ers 97 newyorkknicks 80
-washingtonwizards 86 chicagobulls 73
-charlottebobcats 102 minnesotatimberwolves 101
-houstonrockets 119 brooklynnets 106
-milwaukeebucks 109 goldenstatewarriors 102
-sanantoniospurs 108 phoenixsuns 99
-denvernuggets 121 sacramentokings 93
-utahjazz 114 indianapacers 110
-portlandtrailblazers 101 losangelesclippers 100
-bostonceltics 100 miamiheat 982
-losangeleslakers 105 oklahomacitythunder 96
-detroitpistons 104 orlandomagic 102
-neworleanshornets 91 memphisgrizzlies 83
-newyorkknicks 106 atlantahawks 104
-dallasmavericks 110 phoenixsuns 95
-losangelesclippers 96 portlandtrailblazers 83
-goldenstatewarriors 114 torontoraptors 102
-memphisgrizzlies 103 philadelphia76ers 100
-sacramentokings 96 washingtonwizards 94
-brooklynnets 97 orlandomagic 77
-chicagobulls 93 charlottebobcats 85
-denvernuggets 102 indianapacers 101
-houstonrockets 125 utahjazz 80
-goldenstatewarriors 108 clevelandcavaliers 95
-milwaukeebucks 117 detroitpistons 90
-portlandtrailblazers 106 dallasmavericks 104
-losangeleslakers 111 neworleanshornets 106
-philadelphia76ers 92 washingtonwizards 84
-indianapacers 98 detroitpistons 79
-bostonceltics 99 sacramentokings 81
-newyorkknicks 113 orlandomagic 97
-atlantahawks 93 torontoraptors 92
-miamiheat 105 brooklynnets 85
-chicagobulls 104 milwaukeebucks 88
-losangelesclippers 96 minnesotatimberwolves 90
-sanantoniospurs 102 charlottebobcats 78
-denvernuggets 118 houstonrockets 110
-utahjazz 104 neworleanshornets 99
-phoenixsuns 92 losangeleslakers 86
-oklahomacitythunder 106 memphisgrizzlies 89
-goldenstatewarriors 100 dallasmavericks 97
-torontoraptors 98 losangelesclippers 73
-indianapacers 102 miamiheat 89
-bostonceltics 97 orlandomagic 84
-brooklynnets 93 chicagobulls 89
-newyorkknicks 96 milwaukeebucks 86
-philadelphia76ers 89 sacramentokings 80
-detroitpistons 117 clevelandcavaliers 99
-memphisgrizzlies 85 washingtonwizards 76
-denvernuggets 113 neworleanshornets 98
-utahjazz 86 portlandtrailblazers 77
-dallasmavericks 109 phoenixsuns 99
-losangeleslakers 111 minnesotatimberwolves 100
-chicagobulls 93 atlantahawks 76
-newyorkknicks 120 sacramentokings 81
-clevelandcavaliers 115 oklahomacitythunder 110
-houstonrockets 109 charlottebobcats 95
-minnesotatimberwolves 115 neworleanshornets 86
-milwaukeebucks 107 orlandomagic 98
-sanantoniospurs 96 washingtonwizards 86
-portlandtrailblazers 105 utahjazz 99
-goldenstatewarriors 113 phoenixsuns 93
-bostonceltics 106 losangelesclippers 104
-losangeleslakers 98 detroitpistons 97
-miamiheat 100 torontoraptors 85
-indianapacers 111 chicagobulls 101
-philadelphia76ers 78 orlandomagic 61
-washingtonwizards 98 losangelesclippers 90
-newyorkknicks 99 detroitpistons 85
-miamiheat 99 charlottebobcats 94
-oklahomacitythunder 112 dallasmavericks 91
-portlandtrailblazers 100 minnesotatimberwolves 98
-utahjazz 98 sacramentokings 91
-indianapacers 114 atlantahawks 103
-losangeleslakers 92 brooklynnets 83
-phoenixsuns 96 memphisgrizzlies 90
-houstonrockets 140 goldenstatewarriors 109
-denvernuggets 112 milwaukeebucks 104
-bostonceltics 99 torontoraptors 95
-indianapacers 88 philadelphia76ers 69
-washingtonwizards 106 newyorkknicks 96
-losangelesclippers 86 orlandomagic 76
-clevelandcavaliers 122 charlottebobcats 95
-atlantahawks 103 memphisgrizzlies 92
-miamiheat 114 houstonrockets 108
-brooklynnets 93 detroitpistons 90
-neworleanshornets 93 phoenixsuns 84
-oklahomacitythunder 119 goldenstatewarriors 98
-dallasmavericks 105 portlandtrailblazers 99
-sanantoniospurs 104 minnesotatimberwolves 94
-utahjazz 100 milwaukeebucks 86
-bostonceltics 116 losangeleslakers 95
-denvernuggets 128 chicagobulls 96
-washingtonwizards 89 brooklynnets 74
-losangeleslakers 100 charlottebobcats 93
-torontoraptors 100 indianapacers 98
-neworleanshornets 111 atlantahawks 100
-detroitpistons 119 sanantoniospurs 109
-clevelandcavaliers 119 orlandomagic 108
-miamiheat 111 losangelesclippers 89
-memphisgrizzlies 99 goldenstatewarriors 93
-houstonrockets 118 portlandtrailblazers 103
-oklahomacitythunder 127 phoenixsuns 96
-newyorkknicks 100 minnesotatimberwolves 94
-chicagobulls 93 utahjazz 89
-denvernuggets 111 clevelandcavaliers 103
-philadelphia76ers 87 charlottebobcats 76
-detroitpistons 105 milwaukeebucks 100
-dallasmavericks 116 goldenstatewarriors 91
-sacramentokings 120 utahjazz 109
-losangelesclippers 102 newyorkknicks 88
-miamiheat 107 losangeleslakers 97
-bostonceltics 118 denvernuggets 114
-torontoraptors 102 neworleanshornets 89
-orlandomagic 110 portlandtrailblazers 104
-memphisgrizzlies 105 minnesotatimberwolves 88
-sanantoniospurs 111 brooklynnets 86
-oklahomacitythunder 97 phoenixsuns 69
-sacramentokings 117 houstonrockets 111
-losangelesclippers 107 philadelphia76ers 90
-charlottebobcats 94 bostonceltics 91
-minnesotatimberwolves 100 clevelandcavaliers 92
-brooklynnets 89 indianapacers 84
-neworleanshornets 105 detroitpistons 86
-sanantoniospurs 103 chicagobulls 89
-washingtonwizards 102 milwaukeebucks 90
-atlantahawks 105 dallasmavericks 101
-torontoraptors 109 denvernuggets 108
-miamiheat 117 portlandtrailblazers 104
-memphisgrizzlies 108 sacramentokings 101
-utahjazz 109 oklahomacitythunder 94
-losangeleslakers 91 phoenixsuns 85
-houstonrockets 116 goldenstatewarriors 107
-atlantahawks 108 orlandomagic 76
-sanantoniospurs 96 clevelandcavaliers 95
-indianapacers 101 charlottebobcats 77
-bostonceltics 71 chicagobulls 69
-brooklynnets 119 denvernuggets 108
-torontoraptors 92 newyorkknicks 88
-detroitpistons 96 washingtonwizards 85
-milwaukeebucks 94 philadelphia76ers 92
-neworleanshornets 99 portlandtrailblazers 63
-utahjazz 97 minnesotatimberwolves 93
-dallasmavericks 123 sacramentokings 100
-losangelesclippers 106 houstonrockets 96
-miamiheat 110 oklahomacitythunder 100
-losangelesclippers 125 losangeleslakers 101
-torontoraptors 96 washingtonwizards 88
-charlottebobcats 105 orlandomagic 92
-brooklynnets 113 milwaukeebucks 111
-memphisgrizzlies 105 detroitpistons 91
-chicagobulls 96 neworleanshornets 87
-denvernuggets 97 bostonceltics 90
-utahjazz 115 goldenstatewarriors 101
-sanantoniospurs 108 sacramentokings 102
-phoenixsuns 102 portlandtrailblazers 98
-memphisgrizzlies 88 torontoraptors 82
-detroitpistons 105 charlottebobcats 99
-clevelandcavaliers 105 neworleanshornets 100
-indianapacers 125 newyorkknicks 91
-miamiheat 103 atlantahawks 90
-brooklynnets 97 milwaukeebucks 94
-houstonrockets 122 oklahomacitythunder 119
-minnesotatimberwolves 94 philadelphia76ers 87
-dallasmavericks 111 orlandomagic 96
-losangeleslakers 113 bostonceltics 99
-goldenstatewarriors 108 phoenixsuns 98
-miamiheat 86 chicagobulls 67
-sanantoniospurs 116 losangelesclippers 90
-torontoraptors 100 newyorkknicks 98
-washingtonwizards 119 denvernuggets 113
-chicagobulls 105 charlottebobcats 75
-indianapacers 114 detroitpistons 82
-houstonrockets 106 brooklynnets 96
-atlantahawks 122 sacramentokings 108
-memphisgrizzlies 88 orlandomagic 82
-dallasmavericks 104 neworleanshornets 100
-oklahomacitythunder 127 minnesotatimberwolves 111
-bostonceltics 113 phoenixsuns 88
-losangeleslakers 111 portlandtrailblazers 107
-goldenstatewarriors 107 sanantoniospurs 101
-washingtonwizards 105 houstonrockets 103
-denvernuggets 113 charlottebobcats 99
-clevelandcavaliers 118 orlandomagic 94
-miamiheat 114 philadelphia76ers 90
-indianapacers 90 detroitpistons 72
-atlantahawks 103 milwaukeebucks 102
-losangelesclippers 107 utahjazz 94
-losangeleslakers 103 dallasmavericks 99
-memphisgrizzlies 76 brooklynnets 72
-goldenstatewarriors 100 minnesotatimberwolves 99
-miamiheat 109 clevelandcavaliers 105
-neworleanshornets 110 sacramentokings 95
-newyorkknicks 99 philadelphia76ers 93
-sanantoniospurs 97 phoenixsuns 87
-portlandtrailblazers 92 bostonceltics 86
-oklahomacitythunder 102 chicagobulls 72
-washingtonwizards 90 torontoraptors 84
-atlantahawks 114 detroitpistons 103
-denvernuggets 119 losangeleslakers 108
-bostonceltics 110 utahjazz 107
-orlandomagic 98 philadelphia76ers 84
-indianapacers 108 goldenstatewarriors 97
-miamiheat 141 sacramentokings 129
-clevelandcavaliers 101 chicagobulls 98
-brooklynnets 101 neworleanshornets 97
-milwaukeebucks 95 dallasmavericks 90
-phoenixsuns 84 minnesotatimberwolves 83
-losangelesclippers 106 charlottebobcats 84
-sacramentokings 125 orlandomagic 101
-clevelandcavaliers 103 torontoraptors 92
-newyorkknicks 109 goldenstatewarriors 105
-detroitpistons 96 washingtonwizards 95
-memphisgrizzlies 90 dallasmavericks 84
-milwaukeebucks 110 houstonrockets 107
-oklahomacitythunder 119 neworleanshornets 74
-phoenixsuns 105 sanantoniospurs 101
-atlantahawks 102 utahjazz 91
-denvernuggets 111 portlandtrailblazers 109
-losangelesclippers 99 indianapacers 91
-chicagobulls 93 philadelphia76ers 82
-losangeleslakers 116 minnesotatimberwolves 94
-indianapacers 93 torontoraptors 81
-newyorkknicks 96 washingtonwizards 88
-houstonrockets 118 orlandomagic 110
-bostonceltics 94 goldenstatewarriors 86
-miamiheat 98 memphisgrizzlies 91
-losangelesclippers 105 clevelandcavaliers 89
-dallasmavericks 98 brooklynnets 90
-neworleanshornets 100 detroitpistons 95
-sanantoniospurs 130 sacramentokings 102
-utahjazz 98 charlottebobcats 68
-phoenixsuns 92 atlantahawks 87
-denvernuggets 105 oklahomacitythunder 103
-philadelphia76ers 104 goldenstatewarriors 97
-chicagobulls 96 brooklynnets 85
-milwaukeebucks 122 torontoraptors 114
-portlandtrailblazers 109 minnesotatimberwolves 94
-miamiheat 99 newyorkknicks 93
-oklahomacitythunder 108 losangelesclippers 104
-washingtonwizards 90 philadelphia76ers 87
-memphisgrizzlies 108 orlandomagic 82
-sacramentokings 119 charlottebobcats 83
-houstonrockets 136 dallasmavericks 103
-sanantoniospurs 114 detroitpistons 75
-indianapacers 97 chicagobulls 92
-losangeleslakers 99 atlantahawks 98
-newyorkknicks 102 clevelandcavaliers 97
-milwaukeebucks 109 utahjazz 108
-orlandomagic 105 neworleanshornets 102
-miamiheat 97 minnesotatimberwolves 81
-denvernuggets 104 atlantahawks 88
-portlandtrailblazers 122 charlottebobcats 105
-goldenstatewarriors 125 torontoraptors 118
-bostonceltics 109 philadelphia76ers 101
-oklahomacitythunder 122 losangeleslakers 105
-denvernuggets 120 sacramentokings 113
-brooklynnets 99 charlottebobcats 78
-clevelandcavaliers 104 utahjazz 101
-bostonceltics 83 indianapacers 81
-atlantahawks 107 philadelphia76ers 96
-miamiheat 97 orlandomagic 96
-newyorkknicks 87 detroitpistons 77
-memphisgrizzlies 91 portlandtrailblazers 85
-losangeleslakers 108 neworleanshornets 102
-minnesotatimberwolves 87 washingtonwizards 82
-dallasmavericks 112 houstonrockets 108
-sanantoniospurs 101 chicagobulls 83
-torontoraptors 98 phoenixsuns 71
-losangelesclippers 117 milwaukeebucks 101
-goldenstatewarriors 87 sacramentokings 83
-oklahomacitythunder 95 newyorkknicks 94
-denvernuggets 107 losangelesclippers 92
-oklahomacitythunder 116 charlottebobcats 94
-indianapacers 115 orlandomagic 86
-bostonceltics 107 atlantahawks 102
-brooklynnets 95 washingtonwizards 78
-dallasmavericks 102 detroitpistons 99
-memphisgrizzlies 103 clevelandcavaliers 92
-miamiheat 102 philadelphia76ers 93
-chicagobulls 89 utahjazz 88
-portlandtrailblazers 136 sanantoniospurs 106
-sacramentokings 121 phoenixsuns 112
-losangeleslakers 118 torontoraptors 116
-houstonrockets 94 goldenstatewarriors 88
-brooklynnets 93 atlantahawks 80
-newyorkknicks 113 utahjazz 84
-washingtonwizards 104 charlottebobcats 87
-memphisgrizzlies 96 neworleanshornets 85
-denvernuggets 111 minnesotatimberwolves 88
-phoenixsuns 107 houstonrockets 105
-milwaukeebucks 103 goldenstatewarriors 93
-oklahomacitythunder 91 bostonceltics 79
-losangeleslakers 90 chicagobulls 81
-torontoraptors 100 clevelandcavaliers 96
-orlandomagic 99 philadelphia76ers 91
-miamiheat 105 indianapacers 91
-neworleanshornets 98 portlandtrailblazers 96
-dallasmavericks 100 minnesotatimberwolves 77
-milwaukeebucks 115 sacramentokings 113
-losangelesclippers 129 detroitpistons 97
-philadelphia76ers 106 brooklynnets 97
-sanantoniospurs 105 oklahomacitythunder 93
-utahjazz 103 detroitpistons 90
-denvernuggets 108 phoenixsuns 93
-goldenstatewarriors 92 newyorkknicks 63
-charlottebobcats 100 bostonceltics 74
-losangeleslakers 106 orlandomagic 97
-clevelandcavaliers 95 washingtonwizards 90
-brooklynnets 108 neworleanshornets 98
-miamiheat 98 atlantahawks 81
-dallasmavericks 115 milwaukeebucks 108
-minnesotatimberwolves 107 sanantoniospurs 83
-memphisgrizzlies 102 portlandtrailblazers 97
-miamiheat 98 philadelphia76ers 94
-washingtonwizards 106 milwaukeebucks 93
-indianapacers 107 minnesotatimberwolves 91
-bostonceltics 112 torontoraptors 88
-atlantahawks 96 losangeleslakers 92
-houstonrockets 111 phoenixsuns 81
-oklahomacitythunder 110 utahjazz 87
-sacramentokings 121 chicagobulls 79
-denvernuggets 117 newyorkknicks 94
-memphisgrizzlies 96 losangelesclippers 85
-goldenstatewarriors 105 detroitpistons 97
-sanantoniospurs 92 dallasmavericks 91
-portlandtrailblazers 105 newyorkknicks 90
-torontoraptors 92 charlottebobcats 78
-washingtonwizards 96 neworleanshornets 87
-losangeleslakers 99 indianapacers 93
-atlantahawks 107 phoenixsuns 94
-houstonrockets 108 minnesotatimberwolves 100
-oklahomacitythunder 117 orlandomagic 104
-miamiheat 107 milwaukeebucks 94
-dallasmavericks 96 clevelandcavaliers 86
-denvernuggets 87 memphisgrizzlies 80
-chicagobulls 113 goldenstatewarriors 95
-washingtonwizards 127 phoenixsuns 105
-bostonceltics 105 charlottebobcats 88
-philadelphia76ers 98 indianapacers 91
-sanantoniospurs 119 clevelandcavaliers 113
-utahjazz 90 memphisgrizzlies 84
-portlandtrailblazers 112 detroitpistons 101
-miamiheat 108 torontoraptors 91
-milwaukeebucks 115 orlandomagic 109
-losangelesclippers 93 newyorkknicks 80
-goldenstatewarriors 108 houstonrockets 78
-minnesotatimberwolves 97 neworleanshornets 95
-oklahomacitythunder 107 dallasmavericks 101
-atlantahawks 105 brooklynnets 93
-losangeleslakers 113 sacramentokings 102
-philadelphia76ers 101 portlandtrailblazers 100
-charlottebobcats 119 washingtonwizards 114
-indianapacers 111 clevelandcavaliers 90
-dallasmavericks 127 atlantahawks 113
-brooklynnets 119 detroitpistons 82
-miamiheat 105 bostonceltics 103
-denvernuggets 119 chicagobulls 118
-memphisgrizzlies 92 minnesotatimberwolves 77
-goldenstatewarriors 93 neworleanshornets 72
-phoenixsuns 99 losangeleslakers 76
-newyorkknicks 90 utahjazz 83
-indianapacers 95 orlandomagic 73
-milwaukeebucks 102 portlandtrailblazers 95
-denvernuggets 114 oklahomacitythunder 104
-sacramentokings 116 losangelesclippers 101
-charlottebobcats 107 torontoraptors 101
-miamiheat 98 clevelandcavaliers 95
-newyorkknicks 106 orlandomagic 94
-atlantahawks 98 milwaukeebucks 90
-memphisgrizzlies 90 oklahomacitythunder 89
-neworleanshornets 87 bostonceltics 86
-houstonrockets 100 utahjazz 93
-brooklynnets 113 dallasmavericks 96
-sanantoniospurs 104 goldenstatewarriors 93
-washingtonwizards 88 phoenixsuns 79
-losangelesclippers 101 philadelphia76ers 72
-portlandtrailblazers 99 chicagobulls 89
-denvernuggets 101 philadelphia76ers 100
-sacramentokings 101 minnesotatimberwolves 98
-newyorkknicks 99 torontoraptors 94
-oklahomacitythunder 97 orlandomagic 89
-indianapacers 102 milwaukeebucks 78
-portlandtrailblazers 104 atlantahawks 93
-miamiheat 103 detroitpistons 89
-neworleanshornets 90 memphisgrizzlies 83
-houstonrockets 116 clevelandcavaliers 78
-dallasmavericks 104 bostonceltics 94
-sanantoniospurs 104 utahjazz 97
-minnesotatimberwolves 117 phoenixsuns 86
-washingtonwizards 103 losangeleslakers 100
-detroitpistons 92 charlottebobcats 91
-newyorkknicks 110 torontoraptors 84
-chicagobulls 87 indianapacers 84
-memphisgrizzlies 110 bostonceltics 106
-denvernuggets 101 sacramentokings 95
-losangelesclippers 101 brooklynnets 95
-goldenstatewarriors 101 washingtonwizards 92
-atlantahawks 104 milwaukeebucks 99
-miamiheat 109 charlottebobcats 77
-houstonrockets 96 sanantoniospurs 95
-oklahomacitythunder 103 portlandtrailblazers 83
-chicagobulls 104 minnesotatimberwolves 97
-dallasmavericks 113 utahjazz 108
-brooklynnets 102 phoenixsuns 100
-philadelphia76ers 117 sacramentokings 103
-washingtonwizards 107 memphisgrizzlies 94
-miamiheat 108 orlandomagic 94
-indianapacers 100 atlantahawks 94
-neworleanshornets 110 denvernuggets 86
-utahjazz 107 philadelphia76ers 91
-goldenstatewarriors 109 losangeleslakers 103
-newyorkknicks 100 bostonceltics 85
-minnesotatimberwolves 105 detroitpistons 82
-dallasmavericks 109 losangelesclippers 102
-atlantahawks 107 torontoraptors 88
-philadelphia76ers 100 milwaukeebucks 92
-charlottebobcats 114 orlandomagic 108
-bostonceltics 93 clevelandcavaliers 92
-newyorkknicks 108 memphisgrizzlies 101
-chicagobulls 101 miamiheat 97
-losangelesclippers 105 neworleanshornets 91
-indianapacers 100 houstonrockets 91
-oklahomacitythunder 103 washingtonwizards 80
-losangeleslakers 120 minnesotatimberwolves 117
-sanantoniospurs 100 denvernuggets 99
-utahjazz 103 phoenixsuns 88
-sacramentokings 105 goldenstatewarriors 98
-brooklynnets 111 portlandtrailblazers 93
-milwaukeebucks 113 losangeleslakers 103
-indianapacers 103 dallasmavericks 78
-sacramentokings 117 phoenixsuns 103
-orlandomagic 97 washingtonwizards 92
-bostonceltics 118 atlantahawks 107
-newyorkknicks 111 charlottebobcats 102
-torontoraptors 99 detroitpistons 82
-philadelphia76ers 97 clevelandcavaliers 87
-memphisgrizzlies 103 houstonrockets 94
-miamiheat 108 neworleanshornets 89
-minnesotatimberwolves 101 oklahomacitythunder 93
-sanantoniospurs 104 losangelesclippers 102
-denvernuggets 109 brooklynnets 87
-utahjazz 105 portlandtrailblazers 95
-dallasmavericks 100 chicagobulls 98
-atlantahawks 97 orlandomagic 88
-philadelphia76ers 100 charlottebobcats 92
-houstonrockets 98 losangelesclippers 81
-memphisgrizzlies 99 minnesotatimberwolves 86
-oklahomacitythunder 109 milwaukeebucks 99
-utahjazz 116 brooklynnets 107
-indianapacers 112 phoenixsuns 104
-losangeleslakers 103 sacramentokings 98
-goldenstatewarriors 125 portlandtrailblazers 98
-washingtonwizards 109 torontoraptors 92
-neworleanshornets 112 clevelandcavaliers 92
-chicagobulls 95 detroitpistons 94
-miamiheat 88 sanantoniospurs 86
-newyorkknicks 108 bostonceltics 89
-detroitpistons 108 torontoraptors 98
-atlantahawks 102 clevelandcavaliers 94
-milwaukeebucks 131 charlottebobcats 102
-memphisgrizzlies 92 sanantoniospurs 90
-houstonrockets 111 orlandomagic 103
-minnesotatimberwolves 110 bostonceltics 100
-utahjazz 112 portlandtrailblazers 102
-indianapacers 109 losangelesclippers 106
-washingtonwizards 90 chicagobulls 86
-newyorkknicks 102 miamiheat 90
-losangeleslakers 101 dallasmavericks 81
-torontoraptors 88 washingtonwizards 78
-charlottebobcats 88 philadelphia76ers 83
-newyorkknicks 95 atlantahawks 82
-brooklynnets 113 clevelandcavaliers 95
-bostonceltics 98 detroitpistons 93
-minnesotatimberwolves 107 milwaukeebucks 98
-sanantoniospurs 98 orlandomagic 84
-denvernuggets 113 utahjazz 96
-houstonrockets 112 sacramentokings 102
-memphisgrizzlies 94 portlandtrailblazers 76
-losangelesclippers 126 phoenixsuns 101
-goldenstatewarriors 98 neworleanshornets 88
-chicagobulls 92 brooklynnets 90
-denvernuggets 95 dallasmavericks 94
-oklahomacitythunder 100 sanantoniospurs 88
-miamiheat 89 charlottebobcats 79
-clevelandcavaliers 97 bostonceltics 91
-newyorkknicks 101 milwaukeebucks 83
-philadelphia76ers 101 atlantahawks 90
-oklahomacitythunder 97 indianapacers 75
-chicagobulls 87 orlandomagic 86
-torontoraptors 95 minnesotatimberwolves 93
-utahjazz 95 neworleanshornets 83
-goldenstatewarriors 111 phoenixsuns 107
-dallasmavericks 117 sacramentokings 108
-houstonrockets 116 portlandtrailblazers 98
-losangeleslakers 86 memphisgrizzlies 84
-washingtonwizards 104 indianapacers 85
-brooklynnets 105 charlottebobcats 96
-miamiheat 106 philadelphia76ers 87
-minnesotatimberwolves 107 detroitpistons 101
-milwaukeebucks 100 torontoraptors 83
-sanantoniospurs 99 atlantahawks 97
-denvernuggets 132 houstonrockets 114
-newyorkknicks 125 oklahomacitythunder 120
-losangelesclippers 109 losangeleslakers 95
-bostonceltics 107 washingtonwizards 96
-clevelandcavaliers 91 orlandomagic 85
-memphisgrizzlies 89 sacramentokings 87
-detroitpistons 99 chicagobulls 85
-utahjazz 97 goldenstatewarriors 90
-neworleanshornets 95 phoenixsuns 92
-dallasmavericks 96 portlandtrailblazers 91
-indianapacers 99 clevelandcavaliers 94
-brooklynnets 104 philadelphia76ers 83
-newyorkknicks 120 washingtonwizards 99
-miamiheat 94 milwaukeebucks 83
-torontoraptors 101 chicagobulls 98
-memphisgrizzlies 94 charlottebobcats 75
-houstonrockets 101 phoenixsuns 98
-oklahomacitythunder 90 utahjazz 80
-losangeleslakers 104 neworleanshornets 96
-goldenstatewarriors 105 minnesotatimberwolves 89
-atlantahawks 124 philadelphia76ers 101
-miamiheat 103 washingtonwizards 98
-orlandomagic 113 milwaukeebucks 103
-detroitpistons 111 clevelandcavaliers 104
-brooklynnets 101 bostonceltics 93
-phoenixsuns 102 dallasmavericks 91
-sacramentokings 121 neworleanshornets 110
-losangeleslakers 113 portlandtrailblazers 106
-denvernuggets 96 sanantoniospurs 86
-losangelesclippers 111 minnesotatimberwolves 95
-chicagobulls 118 newyorkknicks 111
-oklahomacitythunder 116 goldenstatewarriors 97
-torontoraptors 97 chicagobulls 88
-philadelphia76ers 97 washingtonwizards 86
-brooklynnets 117 indianapacers 109
-atlantahawks 109 milwaukeebucks 104
-miamiheat 109 bostonceltics 101
-detroitpistons 113 charlottebobcats 93
-newyorkknicks 101 clevelandcavaliers 91
-losangelesclippers 96 neworleanshornets 93
-memphisgrizzlies 82 houstonrockets 78
-dallasmavericks 108 denvernuggets 105
-sanantoniospurs 108 sacramentokings 101
-utahjazz 107 minnesotatimberwolves 100
-oklahomacitythunder 106 portlandtrailblazers 90
-losangeleslakers 118 goldenstatewarriors 116
-charlottebobcats 95 milwaukeebucks 85
-bostonceltics 120 orlandomagic 88
-losangelesclippers 91 memphisgrizzlies 87
-minnesotatimberwolves 105 phoenixsuns 93
-miamiheat 105 chicagobulls 93
-torontoraptors 93 brooklynnets 87
-newyorkknicks 90 indianapacers 80
-philadelphia76ers 91 clevelandcavaliers 77
-denvernuggets 118 portlandtrailblazers 109
-dallasmavericks 107 neworleanshornets 89
-houstonrockets 121 sacramentokings 100
-losangeleslakers 91 sanantoniospurs 86
-charlottebobcats 106 newyorkknicks 95
-chicagobulls 102 orlandomagic 84
-miamiheat 96 clevelandcavaliers 95
-brooklynnets 106 washingtonwizards 101
-detroitpistons 109 philadelphia76ers 101
-denvernuggets 112 milwaukeebucks 111
-memphisgrizzlies 103 dallasmavericks 97
-oklahomacitythunder 104 sacramentokings 95
-utahjazz 96 minnesotatimberwolves 80
-phoenixsuns 119 houstonrockets 112
-goldenstatewarriors 116 sanantoniospurs 106
-torontoraptors 113 atlantahawks 96
-losangelesclippers 93 portlandtrailblazers 77
-torontoraptors 114 bostonceltics 90
-brooklynnets 103 detroitpistons 99
-newyorkknicks 98 atlantahawks 92
-charlottebobcats 105 clevelandcavaliers 98
-miamiheat 105 orlandomagic 93
-philadelphia76ers 105 indianapacers 95
-chicagobulls 95 washingtonwizards 92
-memphisgrizzlies 86 utahjazz 70
-dallasmavericks 99 neworleanshornets 87
-minnesotatimberwolves 108 sanantoniospurs 95
-milwaukeebucks 95 oklahomacitythunder 89
-denvernuggets 118 phoenixsuns 98
-losangeleslakers 99 houstonrockets 95
-losangelesclippers 112 sacramentokings 108
-goldenstatewarriors 99 portlandtrailblazers 88
-newyorkknicks 85 bostonceltics 78
-brooklynnets 106 chicagobulls 89
-losangelesclippers 112 memphisgrizzlies 91
-denvernuggets 97 goldenstatewarriors 95
-miamiheat 110 milwaukeebucks 87
-indianapacers 107 atlantahawks 90
-sanantoniospurs 91 losangeleslakers 79
-oklahomacitythunder 120 houstonrockets 91
-chicagobulls 90 brooklynnets 82
-losangelesclippers 93 memphisgrizzlies 91
-miamiheat 98 milwaukeebucks 86
-newyorkknicks 87 bostonceltics 71
-goldenstatewarriors 131 denvernuggets 117
-indianapacers 113 atlantahawks 98
-sanantoniospurs 102 losangeleslakers 91
-oklahomacitythunder 105 houstonrockets 102
-miamiheat 104 milwaukeebucks 91
-chicagobulls 79 brooklynnets 76
-memphisgrizzlies 94 losangelesclippers 82
-newyorkknicks 90 bostonceltics 76
-sanantoniospurs 120 losangeleslakers 89
-goldenstatewarriors 110 denvernuggets 108
-atlantahawks 90 indianapacers 69
-chicagobulls 142 brooklynnets 134
-oklahomacitythunder 104 houstonrockets 101
-memphisgrizzlies 104 losangelesclippers 83
-miamiheat 88 milwaukeebucks 77
-bostonceltics 97 newyorkknicks 90
-sanantoniospurs 103 losangeleslakers 82
-goldenstatewarriors 115 denvernuggets 101
-atlantahawks 102 indianapacers 91
-brooklynnets 110 chicagobulls 91
-houstonrockets 105 oklahomacitythunder 103
-memphisgrizzlies 103 losangelesclippers 93
-denvernuggets 107 goldenstatewarriors 100
-bostonceltics 92 newyorkknicks 86
-indianapacers 106 atlantahawks 83
-houstonrockets 107 oklahomacitythunder 100
-brooklynnets 95 chicagobulls 92
-goldenstatewarriors 92 denvernuggets 88
-newyorkknicks 88 bostonceltics 80
-indianapacers 81 atlantahawks 73
-oklahomacitythunder 103 houstonrockets 94
-memphisgrizzlies 118 losangelesclippers 105
-chicagobulls 99 brooklynnets 93
-oklahomacitythunder 93 memphisgrizzlies 91
-indianapacers 102 newyorkknicks 95
-chicagobulls 93 miamiheat 86
-sanantoniospurs 129 goldenstatewarriors 127
-memphisgrizzlies 99 oklahomacitythunder 93
-newyorkknicks 105 indianapacers 79
-miamiheat 115 chicagobulls 78
-goldenstatewarriors 100 sanantoniospurs 91
-sanantoniospurs 102 goldenstatewarriors 92
-miamiheat 104 chicagobulls 94
-memphisgrizzlies 87 oklahomacitythunder 81
-indianapacers 82 newyorkknicks 71
-goldenstatewarriors 97 sanantoniospurs 87
-memphisgrizzlies 103 oklahomacitythunder 97
-miamiheat 88 chicagobulls 65
-sanantoniospurs 109 goldenstatewarriors 91
-indianapacers 93 newyorkknicks 82
-memphisgrizzlies 88 oklahomacitythunder 84
-miamiheat 94 chicagobulls 91
-sanantoniospurs 94 goldenstatewarriors 82
-newyorkknicks 85 indianapacers 75
-indianapacers 106 newyorkknicks 99
-sanantoniospurs 105 memphisgrizzlies 83
-sanantoniospurs 93 memphisgrizzlies 89
-miamiheat 103 indianapacers 102
-indianapacers 97 miamiheat 93
-sanantoniospurs 104 memphisgrizzlies 93
-miamiheat 114 indianapacers 96
-sanantoniospurs 93 memphisgrizzlies 86
-indianapacers 99 miamiheat 92
-miamiheat 90 indianapacers 79
-indianapacers 91 miamiheat 77
-miamiheat 99 indianapacers 76
-sanantoniospurs 92 miamiheat 88
-miamiheat 103 sanantoniospurs 84
-sanantoniospurs 113 miamiheat 77
-miamiheat 109 sanantoniospurs 93
-sanantoniospurs 114 miamiheat 104
-miamiheat 103 sanantoniospurs 100
-miamiheat 95 sanantoniospurs 88
+neworleanspelicans 101 orlandomagic 84 atneworleans
+sanantoniospurs 101 dallasmavericks 100 atsanantonio
+houstonrockets 108 losangeleslakers 90 atlosangeles
+charlottehornets 108 milwaukeebucks 106 atcharlotte
+indianapacers 103 philadelphiaSSers 91 atindiana
+bostonceltics 121 brooklynnets 105 atboston
+miamiheat 107 washingtonwizards 95 atmiami
+torontoraptors 109 atlantahawks 102 attoronto
+memphisgrizzlies 105 minnesotatimberwolves 101 atmemphis
+chicagobulls 104 newyorkknicks 80 atnewyork
+denvernuggets 89 detroitpistons 79 atdenver
+houstonrockets 104 utahjazz 93 atutah
+phoenixsuns 119 losangeleslakers 99 atphoenix
+goldenstatewarriors 95 sacramentokings 77 atsacramento
+portlandtrailblazers 106 oklahomacitythunder 89 atportland
+washingtonwizards 105 orlandomagic 98 atorlando
+minnesotatimberwolves 97 detroitpistons 91 atminnesota
+newyorkknicks 95 clevelandcavaliers 90 atcleveland
+dallasmavericks 120 utahjazz 102 atdallas
+losangelesclippers 93 oklahomacitythunder 90 atlosangeles
+memphisgrizzlies 97 indianapacers 89 atindiana
+clevelandcavaliers 114 chicagobulls 108 atchicago
+milwaukeebucks 93 philadelphiaSSers 81 atmilwaukee
+phoenixsuns 94 sanantoniospurs 89 atphoenix
+sacramentokings 103 portlandtrailblazers 94 atsacramento
+losangelesclippers 118 losangeleslakers 111 atlosangeles
+dallasmavericks 109 neworleanspelicans 104 atneworleans
+memphisgrizzlies 71 charlottehornets 69 atcharlotte
+torontoraptors 108 orlandomagic 95 atorlando
+miamiheat 114 philadelphiaSSers 96 atphiladelphia
+washingtonwizards 108 milwaukeebucks 97 atwashington
+atlantahawks 102 indianapacers 92 atatlanta
+brooklynnets 102 detroitpistons 90 atdetroit
+houstonrockets 104 bostonceltics 90 athouston
+chicagobulls 106 minnesotatimberwolves 105 atminnesota
+oklahomacitythunder 102 denvernuggets 91 atoklahomacity
+utahjazz 118 phoenixsuns 91 atutah
+goldenstatewarriors 127 losangeleslakers 104 atgoldenstate
+sacramentokings 98 losangelesclippers 92 atlosangeles
+miamiheat 107 torontoraptors 102 atmiami
+newyorkknicks 96 charlottehornets 93 atnewyork
+goldenstatewarriors 95 portlandtrailblazers 90 atportland
+houstonrockets 104 philadelphiaSSers 93 atphiladelphia
+brooklynnets 116 oklahomacitythunder 85 atbrooklyn
+memphisgrizzlies 93 neworleanspelicans 81 atmemphis
+dallasmavericks 118 bostonceltics 113 atdallas
+sacramentokings 110 denvernuggets 105 atdenver
+losangelesclippers 107 utahjazz 101 atlosangeles
+milwaukeebucks 87 indianapacers 81 atindiana
+houstonrockets 108 miamiheat 91 atmiami
+washingtonwizards 98 newyorkknicks 83 atnewyork
+torontoraptors 100 oklahomacitythunder 88 attoronto
+chicagobulls 98 orlandomagic 90 atchicago
+neworleanspelicans 100 charlottehornets 91 atneworleans
+portlandtrailblazers 101 clevelandcavaliers 82 atportland
+phoenixsuns 112 losangeleslakers 106 atlosangeles
+charlottehornets 96 miamiheat 89 atcharlotte
+orlandomagic 91 philadelphiaSSers 89 atphiladelphia
+torontoraptors 110 bostonceltics 107 atboston
+minnesotatimberwolves 98 brooklynnets 91 atbrooklyn
+detroitpistons 98 newyorkknicks 95 atdetroit
+chicagobulls 95 milwaukeebucks 86 atmilwaukee
+washingtonwizards 96 indianapacers 94 atwashington
+sanantoniospurs 94 atlantahawks 92 atsanantonio
+memphisgrizzlies 102 phoenixsuns 91 atphoenix
+utahjazz 102 clevelandcavaliers 100 atutah
+sacramentokings 131 denvernuggets 109 atsacramento
+goldenstatewarriors 121 losangelesclippers 104 atgoldenstate
+houstonrockets 98 sanantoniospurs 81 athouston
+portlandtrailblazers 108 dallasmavericks 87 atportland
+memphisgrizzlies 91 oklahomacitythunder 89 atoklahomacity
+sacramentokings 114 phoenixsuns 112 atphoenix
+dallasmavericks 105 utahjazz 82 atutah
+clevelandcavaliers 110 denvernuggets 101 atdenver
+charlottehornets 122 atlantahawks 119 atcharlotte
+orlandomagic 112 minnesotatimberwolves 103 atorlando
+chicagobulls 118 philadelphiaSSers 115 atphiladelphia
+bostonceltics 101 indianapacers 98 atboston
+brooklynnets 110 newyorkknicks 99 atbrooklyn
+detroitpistons 98 milwaukeebucks 95 atdetroit
+torontoraptors 103 washingtonwizards 84 attoronto
+losangelesclippers 106 portlandtrailblazers 102 atlosangeles
+washingtonwizards 97 indianapacers 90 atindiana
+atlantahawks 103 newyorkknicks 96 atatlanta
+miamiheat 102 minnesotatimberwolves 92 atmiami
+bostonceltics 106 chicagobulls 101 atchicago
+goldenstatewarriors 98 houstonrockets 87 athouston
+milwaukeebucks 93 memphisgrizzlies 92 atmilwaukee
+neworleanspelicans 100 sanantoniospurs 99 atsanantonio
+brooklynnets 104 orlandomagic 96 atbrooklyn
+utahjazz 97 detroitpistons 96 atdetroit
+oklahomacitythunder 101 sacramentokings 93 atoklahomacity
+torontoraptors 120 philadelphiaSSers 88 attoronto
+miamiheat 105 dallasmavericks 96 atdallas
+phoenixsuns 107 goldenstatewarriors 95 atphoenix
+portlandtrailblazers 116 denvernuggets 100 atportland
+losangeleslakers 107 charlottehornets 92 atlosangeles
+clevelandcavaliers 118 neworleanspelicans 111 atcleveland
+indianapacers 97 utahjazz 86 atindiana
+atlantahawks 91 newyorkknicks 85 atnewyork
+chicagobulls 102 detroitpistons 91 atchicago
+sanantoniospurs 89 losangelesclippers 85 atlosangeles
+torontoraptors 104 orlandomagic 100 attoronto
+memphisgrizzlies 107 losangeleslakers 102 atmemphis
+milwaukeebucks 85 oklahomacitythunder 78 atmilwaukee
+dallasmavericks 106 sacramentokings 98 atdallas
+portlandtrailblazers 102 charlottehornets 100 atportland
+sanantoniospurs 113 goldenstatewarriors 100 atgoldenstate
+washingtonwizards 107 detroitpistons 103 atwashington
+atlantahawks 100 utahjazz 97 atatlanta
+oklahomacitythunder 109 bostonceltics 94 atboston
+indianapacers 81 miamiheat 75 atmiami
+orlandomagic 97 newyorkknicks 95 atnewyork
+neworleanspelicans 109 losangeleslakers 102 atneworleans
+portlandtrailblazers 130 denvernuggets 113 atdenver
+phoenixsuns 112 brooklynnets 104 atphoenix
+houstonrockets 113 minnesotatimberwolves 101 atminnesota
+memphisgrizzlies 111 sacramentokings 110 atmemphis
+chicagobulls 100 torontoraptors 93 attoronto
+dallasmavericks 123 philadelphiaSSers 70 atdallas
+goldenstatewarriors 107 brooklynnets 99 atgoldenstate
+denvernuggets 108 indianapacers 87 atindiana
+orlandomagic 101 milwaukeebucks 85 atorlando
+atlantahawks 114 miamiheat 103 atatlanta
+clevelandcavaliers 122 bostonceltics 121 atboston
+utahjazz 102 newyorkknicks 100 atnewyork
+houstonrockets 88 philadelphiaSSers 87 athouston
+neworleanspelicans 139 minnesotatimberwolves 91 atneworleans
+detroitpistons 96 oklahomacitythunder 89 atoklahomacity
+charlottehornets 103 phoenixsuns 95 atphoenix
+sanantoniospurs 93 losangeleslakers 80 atlosangeles
+washingtonwizards 98 orlandomagic 93 atwashington
+clevelandcavaliers 127 atlantahawks 94 atcleveland
+torontoraptors 111 utahjazz 93 attoronto
+indianapacers 99 chicagobulls 90 atchicago
+memphisgrizzlies 95 detroitpistons 88 atmemphis
+dallasmavericks 131 minnesotatimberwolves 117 atdallas
+portlandtrailblazers 97 brooklynnets 87 atportland
+sacramentokings 94 sanantoniospurs 91 atsacramento
+goldenstatewarriors 112 charlottehornets 87 atgoldenstate
+losangelesclippers 120 phoenixsuns 107 atlosangeles
+newyorkknicks 109 denvernuggets 93 atnewyork
+milwaukeebucks 91 miamiheat 84 atmiami
+houstonrockets 69 oklahomacitythunder 65 atoklahomacity
+goldenstatewarriors 136 losangeleslakers 115 atlosangeles
+dallasmavericks 107 charlottehornets 80 atcharlotte
+denvernuggets 106 clevelandcavaliers 97 atcleveland
+phoenixsuns 118 bostonceltics 114 atboston
+miamiheat 95 brooklynnets 83 atbrooklyn
+orlandomagic 107 detroitpistons 93 atdetroit
+memphisgrizzlies 119 houstonrockets 93 atmemphis
+sanantoniospurs 100 philadelphiaSSers 75 atsanantonio
+portlandtrailblazers 102 neworleanspelicans 93 atportland
+chicagobulls 105 losangelesclippers 89 atlosangeles
+losangeleslakers 114 atlantahawks 109 atatlanta
+milwaukeebucks 117 newyorkknicks 113 atmilwaukee
+utahjazz 98 oklahomacitythunder 81 atutah
+neworleanspelicans 106 sacramentokings 100 atsacramento
+sanantoniospurs 92 clevelandcavaliers 90 atcleveland
+indianapacers 88 charlottehornets 86 atindiana
+losangelesclippers 114 orlandomagic 90 atorlando
+bostonceltics 101 philadelphiaSSers 90 atphiladelphia
+dallasmavericks 105 washingtonwizards 102 atwashington
+milwaukeebucks 122 brooklynnets 118 atbrooklyn
+phoenixsuns 88 detroitpistons 86 atdetroit
+torontoraptors 96 memphisgrizzlies 92 attoronto
+minnesotatimberwolves 115 newyorkknicks 99 atminnesota
+denvernuggets 107 oklahomacitythunder 100 atdenver
+losangeleslakers 98 houstonrockets 92 athouston
+losangelesclippers 110 miamiheat 93 atmiami
+sacramentokings 103 chicagobulls 88 atsacramento
+orlandomagic 105 charlottehornets 100 atcharlotte
+phoenixsuns 122 philadelphiaSSers 96 atphiladelphia
+atlantahawks 99 detroitpistons 89 atatlanta
+torontoraptors 124 milwaukeebucks 82 attoronto
+memphisgrizzlies 117 bostonceltics 100 atmemphis
+sanantoniospurs 121 minnesotatimberwolves 92 atminnesota
+brooklynnets 94 oklahomacitythunder 92 atoklahomacity
+washingtonwizards 91 clevelandcavaliers 78 atwashington
+dallasmavericks 140 losangeleslakers 106 atdallas
+denvernuggets 117 neworleanspelicans 97 atdenver
+goldenstatewarriors 101 utahjazz 88 atgoldenstate
+portlandtrailblazers 105 chicagobulls 87 atportland
+phoenixsuns 106 indianapacers 83 atindiana
+miamiheat 99 orlandomagic 92 atorlando
+torontoraptors 110 clevelandcavaliers 93 atcleveland
+newyorkknicks 91 philadelphiaSSers 83 atnewyork
+houstonrockets 95 dallasmavericks 92 athouston
+sacramentokings 113 minnesotatimberwolves 101 atminnesota
+washingtonwizards 111 milwaukeebucks 100 atmilwaukee
+sanantoniospurs 99 brooklynnets 87 atsanantonio
+neworleanspelicans 106 utahjazz 94 atutah
+memphisgrizzlies 107 losangelesclippers 91 atmemphis
+portlandtrailblazers 94 bostonceltics 88 atboston
+miamiheat 94 charlottehornets 93 atmiami
+goldenstatewarriors 91 oklahomacitythunder 86 atoklahomacity
+denvernuggets 101 losangeleslakers 94 atlosangeles
+losangelesclippers 113 charlottehornets 92 atcharlotte
+clevelandcavaliers 106 orlandomagic 74 atcleveland
+portlandtrailblazers 114 philadelphiaSSers 104 atphiladelphia
+torontoraptors 104 phoenixsuns 100 attoronto
+houstonrockets 91 newyorkknicks 86 athouston
+indianapacers 111 dallasmavericks 100 atdallas
+chicagobulls 97 utahjazz 95 atutah
+atlantahawks 106 washingtonwizards 102 atwashington
+goldenstatewarriors 114 miamiheat 97 atmiami
+milwaukeebucks 98 detroitpistons 86 atmilwaukee
+sacramentokings 99 neworleanspelicans 89 atneworleans
+denvernuggets 114 chicagobulls 109 atdenver
+portlandtrailblazers 105 charlottehornets 97 atcharlotte
+clevelandcavaliers 113 washingtonwizards 87 atcleveland
+goldenstatewarriors 111 orlandomagic 96 atorlando
+brooklynnets 99 philadelphiaSSers 91 atphiladelphia
+dallasmavericks 109 newyorkknicks 102 atdallas
+torontoraptors 126 atlantahawks 115 atatlanta
+losangelesclippers 104 detroitpistons 98 atdetroit
+houstonrockets 102 sacramentokings 89 athouston
+milwaukeebucks 103 minnesotatimberwolves 86 atminnesota
+oklahomacitythunder 97 utahjazz 82 atoklahomacity
+sanantoniospurs 106 indianapacers 100 atsanantonio
+phoenixsuns 120 denvernuggets 112 atphoenix
+memphisgrizzlies 99 losangeleslakers 93 atlosangeles
+chicagobulls 109 bostonceltics 102 atboston
+goldenstatewarriors 106 charlottehornets 101 atcharlotte
+atlantahawks 100 neworleanspelicans 91 atatlanta
+milwaukeebucks 104 detroitpistons 88 atdetroit
+dallasmavericks 106 torontoraptors 102 attoronto
+losangelesclippers 102 houstonrockets 85 athouston
+oklahomacitythunder 105 newyorkknicks 78 atoklahomacity
+indianapacers 98 orlandomagic 83 atindiana
+sanantoniospurs 112 sacramentokings 104 atsanantonio
+denvernuggets 122 phoenixsuns 97 atdenver
+memphisgrizzlies 112 portlandtrailblazers 99 atportland
+minnesotatimberwolves 120 losangeleslakers 119 atlosangeles
+dallasmavericks 110 philadelphiaSSers 103 atphiladelphia
+washingtonwizards 83 neworleanspelicans 80 atwashington
+atlantahawks 105 charlottehornets 75 atatlanta
+clevelandcavaliers 109 indianapacers 97 atcleveland
+losangelesclippers 112 utahjazz 96 atutah
+houstonrockets 117 milwaukeebucks 103 atmilwaukee
+sanantoniospurs 111 bostonceltics 89 atboston
+chicagobulls 102 brooklynnets 84 atbrooklyn
+goldenstatewarriors 104 detroitpistons 93 atdetroit
+memphisgrizzlies 97 sacramentokings 85 atsacramento
+miamiheat 86 newyorkknicks 79 atnewyork
+orlandomagic 93 phoenixsuns 90 atphoenix
+portlandtrailblazers 107 minnesotatimberwolves 93 atportland
+losangeleslakers 129 torontoraptors 122 atlosangeles
+sanantoniospurs 109 philadelphiaSSers 103 atphiladelphia
+washingtonwizards 107 miamiheat 86 atwashington
+denvernuggets 103 utahjazz 101 atutah
+losangelesclippers 127 minnesotatimberwolves 101 atlosangeles
+clevelandcavaliers 111 milwaukeebucks 108 atcleveland
+atlantahawks 109 bostonceltics 105 atatlanta
+losangeleslakers 106 detroitpistons 96 atdetroit
+brooklynnets 98 newyorkknicks 93 atnewyork
+dallasmavericks 132 chicagobulls 129 atchicago
+neworleanspelicans 112 oklahomacitythunder 104 atneworleans
+portlandtrailblazers 105 denvernuggets 103 atdenver
+phoenixsuns 116 indianapacers 99 atphoenix
+torontoraptors 117 sacramentokings 109 atsacramento
+goldenstatewarriors 98 orlandomagic 97 atgoldenstate
+chicagobulls 102 charlottehornets 95 atcharlotte
+washingtonwizards 111 losangeleslakers 95 atwashington
+bostonceltics 109 detroitpistons 102 atboston
+brooklynnets 95 sanantoniospurs 93 atbrooklyn
+atlantahawks 112 miamiheat 102 atmiami
+houstonrockets 105 memphisgrizzlies 96 athouston
+dallasmavericks 107 milwaukeebucks 105 atmilwaukee
+philadelphiaSSers 85 minnesotatimberwolves 77 atminnesota
+torontoraptors 123 utahjazz 104 atutah
+losangelesclippers 114 orlandomagic 86 atlosangeles
+clevelandcavaliers 90 newyorkknicks 87 atnewyork
+portlandtrailblazers 88 indianapacers 82 atportland
+goldenstatewarriors 112 neworleanspelicans 85 atgoldenstate
+charlottehornets 103 newyorkknicks 102 atcharlotte
+oklahomacitythunder 103 philadelphiaSSers 91 atphiladelphia
+washingtonwizards 119 denvernuggets 89 atwashington
+bostonceltics 113 losangeleslakers 96 atboston
+atlantahawks 98 brooklynnets 75 atbrooklyn
+clevelandcavaliers 105 torontoraptors 91 attoronto
+sanantoniospurs 107 memphisgrizzlies 101 atmemphis
+houstonrockets 114 minnesotatimberwolves 112 atminnesota
+phoenixsuns 118 dallasmavericks 106 atdallas
+milwaukeebucks 109 miamiheat 85 atmilwaukee
+orlandomagic 98 utahjazz 93 atutah
+sacramentokings 102 indianapacers 101 atsacramento
+philadelphiaSSers 108 detroitpistons 101 atdetroit
+goldenstatewarriors 112 chicagobulls 102 atchicago
+houstonrockets 100 phoenixsuns 95 athouston
+sanantoniospurs 123 minnesotatimberwolves 101 atsanantonio
+orlandomagic 105 sacramentokings 96 atsacramento
+losangelesclippers 120 neworleanspelicans 100 atlosangeles
+bostonceltics 101 washingtonwizards 93 atboston
+atlantahawks 96 denvernuggets 84 atatlanta
+memphisgrizzlies 103 miamiheat 87 atmemphis
+oklahomacitythunder 96 detroitpistons 94 atdetroit
+dallasmavericks 125 milwaukeebucks 102 atdallas
+portlandtrailblazers 103 newyorkknicks 99 atnewyork
+neworleanspelicans 104 losangeleslakers 87 atlosangeles
+atlantahawks 108 indianapacers 92 atindiana
+washingtonwizards 133 bostonceltics 132 atwashington
+clevelandcavaliers 110 brooklynnets 88 atbrooklyn
+torontoraptors 112 denvernuggets 107 attoronto
+goldenstatewarriors 102 minnesotatimberwolves 86 atminnesota
+sacramentokings 101 utahjazz 92 atsacramento
+losangelesclippers 121 phoenixsuns 120 atlosangeles
+clevelandcavaliers 105 torontoraptors 101 atcleveland
+portlandtrailblazers 98 detroitpistons 86 atdetroit
+memphisgrizzlies 114 dallasmavericks 105 atmemphis
+neworleanspelicans 104 newyorkknicks 93 atneworleans
+oklahomacitythunder 114 milwaukeebucks 101 atoklahomacity
+miamiheat 103 phoenixsuns 97 atphoenix
+utahjazz 100 sanantoniospurs 96 atutah
+losangeleslakers 98 sacramentokings 95 atlosangeles
+charlottehornets 96 bostonceltics 87 atcharlotte
+losangelesclippers 103 indianapacers 96 atindiana
+washingtonwizards 91 orlandomagic 89 atorlando
+atlantahawks 95 philadelphiaSSers 79 atatlanta
+chicagobulls 105 brooklynnets 80 atchicago
+minnesotatimberwolves 90 portlandtrailblazers 82 atminnesota
+sanantoniospurs 109 newyorkknicks 95 atsanantonio
+dallasmavericks 112 neworleanspelicans 107 atdallas
+goldenstatewarriors 105 houstonrockets 93 atgoldenstate
+denvernuggets 102 miamiheat 82 atdenver
+oklahomacitythunder 103 clevelandcavaliers 94 atoklahomacity
+houstonrockets 113 sacramentokings 109 atsacramento
+memphisgrizzlies 113 charlottehornets 107 atmemphis
+oklahomacitythunder 111 minnesotatimberwolves 92 atminnesota
+neworleanspelicans 119 clevelandcavaliers 114 atneworleans
+detroitpistons 105 phoenixsuns 103 atphoenix
+miamiheat 100 utahjazz 95 atutah
+losangeleslakers 112 sanantoniospurs 110 atsanantonio
+chicagobulls 115 portlandtrailblazers 106 atchicago
+washingtonwizards 104 losangelesclippers 96 atwashington
+atlantahawks 87 orlandomagic 81 atatlanta
+newyorkknicks 101 bostonceltics 95 atboston
+brooklynnets 88 philadelphiaSSers 70 atbrooklyn
+torontoraptors 106 indianapacers 94 attoronto
+goldenstatewarriors 105 dallasmavericks 98 atdallas
+brooklynnets 114 charlottehornets 87 atcharlotte
+portlandtrailblazers 95 indianapacers 85 atindiana
+orlandomagic 100 atlantahawks 99 atorlando
+milwaukeebucks 111 losangelesclippers 106 atmilwaukee
+memphisgrizzlies 120 philadelphiaSSers 115 atphiladelphia
+houstonrockets 108 denvernuggets 96 athouston
+detroitpistons 95 sacramentokings 90 atsacramento
+goldenstatewarriors 128 neworleanspelicans 122 atneworleans
+chicagobulls 93 miamiheat 75 atmiami
+washingtonwizards 93 utahjazz 84 atwashington
+losangeleslakers 100 minnesotatimberwolves 94 atminnesota
+oklahomacitythunder 112 phoenixsuns 88 atoklahomacity
+torontoraptors 95 newyorkknicks 90 atnewyork
+sanantoniospurs 99 denvernuggets 91 atdenver
+clevelandcavaliers 97 charlottehornets 88 atcleveland
+indianapacers 110 losangeleslakers 91 atindiana
+bostonceltics 105 philadelphiaSSers 87 atphiladelphia
+atlantahawks 93 chicagobulls 86 atatlanta
+torontoraptors 95 orlandomagic 82 attoronto
+milwaukeebucks 96 phoenixsuns 94 atphoenix
+portlandtrailblazers 108 sanantoniospurs 95 atportland
+losangelesclippers 113 detroitpistons 91 atlosangeles
+washingtonwizards 109 minnesotatimberwolves 95 atwashington
+miamiheat 95 brooklynnets 91 atbrooklyn
+memphisgrizzlies 105 goldenstatewarriors 98 atmemphis
+neworleanspelicans 119 utahjazz 111 atneworleans
+dallasmavericks 107 newyorkknicks 87 atnewyork
+oklahomacitythunder 104 sacramentokings 92 atsacramento
+phoenixsuns 111 charlottehornets 106 atcharlotte
+atlantahawks 127 clevelandcavaliers 98 atcleveland
+bostonceltics 109 orlandomagic 92 atboston
+dallasmavericks 117 detroitpistons 106 atdetroit
+utahjazz 105 miamiheat 87 atmiami
+torontoraptors 105 brooklynnets 89 attoronto
+memphisgrizzlies 117 sanantoniospurs 116 atsanantonio
+portlandtrailblazers 104 milwaukeebucks 97 atportland
+losangelesclippers 102 indianapacers 100 atlosangeles
+houstonrockets 115 denvernuggets 111 atdenver
+chicagobulls 103 newyorkknicks 97 atchicago
+neworleanspelicans 99 houstonrockets 90 athouston
+milwaukeebucks 108 sacramentokings 107 atsacramento
+goldenstatewarriors 114 oklahomacitythunder 109 atgoldenstate
+utahjazz 101 orlandomagic 94 atorlando
+charlottehornets 109 philadelphiaSSers 91 atphiladelphia
+bostonceltics 114 minnesotatimberwolves 98 atboston
+clevelandcavaliers 95 brooklynnets 91 atcleveland
+torontoraptors 110 detroitpistons 100 atdetroit
+washingtonwizards 105 miamiheat 103 atmiami
+chicagobulls 103 memphisgrizzlies 97 atmemphis
+portlandtrailblazers 129 sanantoniospurs 119 atsanantonio
+denvernuggets 109 losangelesclippers 106 atdenver
+oklahomacitythunder 104 losangeleslakers 103 atlosangeles
+phoenixsuns 99 newyorkknicks 90 atnewyork
+portlandtrailblazers 114 neworleanspelicans 88 atneworleans
+charlottehornets 104 utahjazz 86 atcharlotte
+atlantahawks 104 houstonrockets 97 athouston
+dallasmavericks 99 sanantoniospurs 93 atdallas
+denvernuggets 76 indianapacers 73 atdenver
+losangelesclippers 106 milwaukeebucks 102 atlosangeles
+torontoraptors 118 newyorkknicks 108 attoronto
+clevelandcavaliers 105 memphisgrizzlies 91 atcleveland
+sacramentokings 108 losangeleslakers 101 atsacramento
+brooklynnets 110 detroitpistons 105 atbrooklyn
+miamiheat 100 bostonceltics 84 atmiami
+philadelphiaSSers 96 orlandomagic 88 atorlando
+phoenixsuns 104 washingtonwizards 92 atwashington
+indianapacers 100 minnesotatimberwolves 96 atminnesota
+neworleanspelicans 101 oklahomacitythunder 99 atoklahomacity
+charlottehornets 110 denvernuggets 82 atcharlotte
+chicagobulls 129 torontoraptors 120 atchicago
+houstonrockets 110 portlandtrailblazers 95 athouston
+utahjazz 97 memphisgrizzlies 91 atmemphis
+atlantahawks 105 dallasmavericks 102 atdallas
+sanantoniospurs 125 losangelesclippers 118 atsanantonio
+goldenstatewarriors 128 sacramentokings 108 atgoldenstate
+clevelandcavaliers 125 minnesotatimberwolves 104 atcleveland
+indianapacers 96 neworleanspelicans 84 atindiana
+orlandomagic 100 bostonceltics 95 atorlando
+chicagobulls 99 washingtonwizards 91 atwashington
+atlantahawks 107 losangelesclippers 104 atatlanta
+brooklynnets 102 denvernuggets 96 atbrooklyn
+philadelphiaSSers 91 miamiheat 87 atmiami
+charlottehornets 108 milwaukeebucks 101 atmilwaukee
+portlandtrailblazers 115 oklahomacitythunder 111 atoklahomacity
+phoenixsuns 124 dallasmavericks 115 atphoenix
+losangeleslakers 115 goldenstatewarriors 105 atlosangeles
+washingtonwizards 102 newyorkknicks 91 atnewyork
+oklahomacitythunder 114 sanantoniospurs 106 atsanantonio
+miamiheat 101 clevelandcavaliers 91 atmiami
+chicagobulls 113 losangeleslakers 93 atchicago
+losangelesclippers 100 goldenstatewarriors 86 atlosangeles
+brooklynnets 109 bostonceltics 107 atboston
+clevelandcavaliers 98 orlandomagic 89 atorlando
+milwaukeebucks 107 atlantahawks 77 atatlanta
+detroitpistons 119 indianapacers 109 atdetroit
+houstonrockets 117 memphisgrizzlies 111 atmemphis
+neworleanspelicans 97 sanantoniospurs 90 atneworleans
+oklahomacitythunder 98 charlottehornets 75 atoklahomacity
+dallasmavericks 102 losangeleslakers 98 atdallas
+denvernuggets 106 minnesotatimberwolves 102 atdenver
+portlandtrailblazers 114 philadelphiaSSers 93 atportland
+phoenixsuns 115 sacramentokings 106 atsacramento
+torontoraptors 110 losangelesclippers 98 atlosangeles
+orlandomagic 102 charlottehornets 94 atcharlotte
+washingtonwizards 101 bostonceltics 88 atwashington
+memphisgrizzlies 103 miamiheat 95 atmiami
+chicagobulls 107 neworleanspelicans 100 atchicago
+indianapacers 110 brooklynnets 85 atbrooklyn
+atlantahawks 90 milwaukeebucks 85 atmilwaukee
+utahjazz 88 philadelphiaSSers 71 atutah
+sacramentokings 135 newyorkknicks 129 atsacramento
+goldenstatewarriors 110 minnesotatimberwolves 97 atgoldenstate
+detroitpistons 103 clevelandcavaliers 80 atcleveland
+sanantoniospurs 110 houstonrockets 106 atsanantonio
+dallasmavericks 112 oklahomacitythunder 107 atdallas
+portlandtrailblazers 101 newyorkknicks 79 atportland
+torontoraptors 116 denvernuggets 102 atdenver
+phoenixsuns 116 losangeleslakers 107 atlosangeles
+milwaukeebucks 104 charlottehornets 94 atcharlotte
+chicagobulls 92 indianapacers 90 atindiana
+brooklynnets 107 sacramentokings 99 atbrooklyn
+orlandomagic 102 miamiheat 101 atmiami
+washingtonwizards 104 houstonrockets 103 athouston
+losangelesclippers 101 utahjazz 97 atlosangeles
+detroitpistons 109 orlandomagic 86 atorlando
+atlantahawks 109 clevelandcavaliers 101 atatlanta
+brooklynnets 96 chicagobulls 82 atchicago
+memphisgrizzlies 95 sanantoniospurs 87 atmemphis
+neworleanspelicans 110 phoenixsuns 106 atneworleans
+dallasmavericks 114 washingtonwizards 87 atdallas
+losangeleslakers 111 denvernuggets 103 atdenver
+utahjazz 100 minnesotatimberwolves 94 atutah
+portlandtrailblazers 102 torontoraptors 97 atportland
+goldenstatewarriors 126 philadelphiaSSers 86 atgoldenstate
+bostonceltics 106 sacramentokings 84 atboston
+indianapacers 106 miamiheat 95 atindiana
+losangelesclippers 99 newyorkknicks 78 atlosangeles
+houstonrockets 102 charlottehornets 83 athouston
+milwaukeebucks 96 clevelandcavaliers 80 atcleveland
+oklahomacitythunder 137 phoenixsuns 134 atoklahomacity
+sanantoniospurs 95 neworleanspelicans 93 atsanantonio
+chicagobulls 106 denvernuggets 101 atchicago
+sacramentokings 110 minnesotatimberwolves 107 atminnesota
+clevelandcavaliers 91 charlottehornets 87 atcharlotte
+brooklynnets 100 orlandomagic 98 atorlando
+dallasmavericks 119 bostonceltics 101 atboston
+detroitpistons 97 newyorkknicks 81 atnewyork
+neworleanspelicans 111 houstonrockets 83 atneworleans
+oklahomacitythunder 109 washingtonwizards 102 atoklahomacity
+indianapacers 94 milwaukeebucks 91 atmilwaukee
+phoenixsuns 112 philadelphiaSSers 96 atphoenix
+atlantahawks 98 utahjazz 92 atutah
+goldenstatewarriors 126 torontoraptors 105 atgoldenstate
+memphisgrizzlies 109 losangeleslakers 106 atlosangeles
+charlottehornets 98 orlandomagic 90 atorlando
+chicagobulls 109 bostonceltics 104 atchicago
+houstonrockets 115 miamiheat 79 athouston
+utahjazz 101 minnesotatimberwolves 89 atminnesota
+sanantoniospurs 101 washingtonwizards 92 atsanantonio
+denvernuggets 114 memphisgrizzlies 85 atdenver
+atlantahawks 115 portlandtrailblazers 107 atportland
+losangelesclippers 127 philadelphiaSSers 91 atlosangeles
+dallasmavericks 109 clevelandcavaliers 90 atcleveland
+detroitpistons 114 sacramentokings 95 atdetroit
+miamiheat 88 brooklynnets 84 atmiami
+milwaukeebucks 95 newyorkknicks 82 atnewyork
+phoenixsuns 125 torontoraptors 109 atphoenix
+losangeleslakers 88 indianapacers 87 atlosangeles
+philadelphiaSSers 95 clevelandcavaliers 92 atphiladelphia
+charlottehornets 104 bostonceltics 95 atboston
+dallasmavericks 96 brooklynnets 88 atbrooklyn
+chicagobulls 114 houstonrockets 105 atchicago
+memphisgrizzlies 105 newyorkknicks 83 atmemphis
+denvernuggets 110 minnesotatimberwolves 101 atminnesota
+washingtonwizards 92 neworleanspelicans 85 atneworleans
+indianapacers 105 utahjazz 101 atutah
+portlandtrailblazers 98 losangeleslakers 94 atportland
+goldenstatewarriors 117 oklahomacitythunder 91 atgoldenstate
+atlantahawks 107 losangelesclippers 98 atlosangeles
+phoenixsuns 102 milwaukeebucks 96 atmilwaukee
+detroitpistons 105 sanantoniospurs 104 atsanantonio
+charlottehornets 98 neworleanspelicans 94 atcharlotte
+houstonrockets 105 clevelandcavaliers 93 atcleveland
+milwaukeebucks 97 philadelphiaSSers 77 atphiladelphia
+washingtonwizards 101 newyorkknicks 91 atwashington
+atlantahawks 96 memphisgrizzlies 86 atatlanta
+bostonceltics 89 brooklynnets 81 atbrooklyn
+utahjazz 97 chicagobulls 77 atchicago
+detroitpistons 108 dallasmavericks 95 atdallas
+denvernuggets 93 orlandomagic 90 atdenver
+phoenixsuns 113 minnesotatimberwolves 111 atminnesota
+sacramentokings 104 oklahomacitythunder 83 atsacramento
+goldenstatewarriors 117 indianapacers 102 atgoldenstate
+losangelesclippers 114 losangeleslakers 89 atlosangeles
+charlottehornets 103 torontoraptors 95 attoronto
+houstonrockets 120 newyorkknicks 96 atnewyork
+portlandtrailblazers 99 miamiheat 83 atportland
+indianapacers 107 bostonceltics 103 atindiana
+philadelphiaSSers 90 brooklynnets 88 atbrooklyn
+atlantahawks 106 detroitpistons 103 atdetroit
+neworleanspelicans 106 memphisgrizzlies 95 atneworleans
+oklahomacitythunder 99 utahjazz 94 atoklahomacity
+washingtonwizards 102 chicagobulls 86 atwashington
+milwaukeebucks 98 minnesotatimberwolves 84 atmilwaukee
+sanantoniospurs 100 phoenixsuns 95 atsanantonio
+denvernuggets 118 sacramentokings 108 atsacramento
+goldenstatewarriors 112 clevelandcavaliers 94 atgoldenstate
+losangeleslakers 101 orlandomagic 84 atlosangeles
+charlottehornets 110 newyorkknicks 82 atnewyork
+losangelesclippers 120 dallasmavericks 100 atlosangeles
+detroitpistons 98 brooklynnets 93 atdetroit
+philadelphiaSSers 93 indianapacers 92 atphiladelphia
+torontoraptors 109 bostonceltics 96 attoronto
+chicagobulls 95 milwaukeebucks 87 atchicago
+houstonrockets 97 utahjazz 82 athouston
+sanantoniospurs 108 minnesotatimberwolves 93 atminnesota
+portlandtrailblazers 103 orlandomagic 92 atportland
+atlantahawks 120 washingtonwizards 89 atatlanta
+miamiheat 104 losangelesclippers 90 atlosangeles
+memphisgrizzlies 122 phoenixsuns 110 atmemphis
+sacramentokings 103 clevelandcavaliers 84 atsacramento
+portlandtrailblazers 106 losangeleslakers 94 atlosangeles
+bostonceltics 108 neworleanspelicans 100 atboston
+houstonrockets 113 brooklynnets 99 atbrooklyn
+detroitpistons 114 torontoraptors 111 attoronto
+orlandomagic 121 chicagobulls 114 atchicago
+minnesotatimberwolves 110 indianapacers 101 atindiana
+atlantahawks 105 philadelphiaSSers 87 atphiladelphia
+washingtonwizards 101 sanantoniospurs 93 atwashington
+phoenixsuns 107 clevelandcavaliers 100 atphoenix
+goldenstatewarriors 116 utahjazz 105 atutah
+dallasmavericks 108 sacramentokings 104 atsacramento
+miamiheat 78 losangeleslakers 75 atlosangeles
+sanantoniospurs 98 charlottehornets 93 atcharlotte
+orlandomagic 120 houstonrockets 113 atorlando
+memphisgrizzlies 103 brooklynnets 92 atbrooklyn
+neworleanspelicans 105 detroitpistons 94 atdetroit
+torontoraptors 100 philadelphiaSSers 84 attoronto
+washingtonwizards 105 chicagobulls 99 atchicago
+atlantahawks 105 bostonceltics 91 atboston
+denvernuggets 114 dallasmavericks 107 atdenver
+goldenstatewarriors 104 miamiheat 89 atgoldenstate
+losangelesclippers 100 portlandtrailblazers 94 atportland
+houstonrockets 112 oklahomacitythunder 101 athouston
+milwaukeebucks 95 newyorkknicks 79 atmilwaukee
+clevelandcavaliers 109 losangeleslakers 102 atlosangeles
+brooklynnets 102 washingtonwizards 80 atwashington
+chicagobulls 119 bostonceltics 103 atboston
+atlantahawks 110 torontoraptors 89 attoronto
+oklahomacitythunder 127 goldenstatewarriors 115 atoklahomacity
+dallasmavericks 97 denvernuggets 89 atdallas
+sanantoniospurs 110 portlandtrailblazers 96 atsanantonio
+phoenixsuns 110 minnesotatimberwolves 99 atphoenix
+utahjazz 94 losangeleslakers 85 atutah
+miamiheat 95 sacramentokings 83 atsacramento
+clevelandcavaliers 126 losangelesclippers 121 atlosangeles
+detroitpistons 98 indianapacers 96 atindiana
+memphisgrizzlies 106 orlandomagic 96 atorlando
+philadelphiaSSers 96 neworleanspelicans 81 atphiladelphia
+charlottehornets 80 indianapacers 71 atcharlotte
+detroitpistons 107 philadelphiaSSers 89 atdetroit
+atlantahawks 107 chicagobulls 99 atchicago
+goldenstatewarriors 131 houstonrockets 106 athouston
+memphisgrizzlies 102 portlandtrailblazers 98 atmemphis
+washingtonwizards 99 brooklynnets 90 atbrooklyn
+minnesotatimberwolves 113 denvernuggets 105 atdenver
+losangelesclippers 117 sacramentokings 108 atsacramento
+neworleanspelicans 95 torontoraptors 93 attoronto
+oklahomacitythunder 127 orlandomagic 99 atorlando
+sanantoniospurs 89 utahjazz 69 atsanantonio
+charlottehornets 105 minnesotatimberwolves 80 atcharlotte
+washingtonwizards 111 philadelphiaSSers 76 atwashington
+atlantahawks 93 detroitpistons 82 atatlanta
+losangelesclippers 102 bostonceltics 93 atlosangeles
+goldenstatewarriors 122 denvernuggets 79 atgoldenstate
+dallasmavericks 103 memphisgrizzlies 95 atmemphis
+houstonrockets 110 indianapacers 98 athouston
+newyorkknicks 99 neworleanspelicans 92 atnewyork
+torontoraptors 92 milwaukeebucks 89 atmilwaukee
+clevelandcavaliers 108 chicagobulls 94 atcleveland
+portlandtrailblazers 98 sacramentokings 94 atportland
+phoenixsuns 115 losangeleslakers 100 atphoenix
+oklahomacitythunder 94 miamiheat 86 atmiami
+sanantoniospurs 109 denvernuggets 99 atdenver
+charlottehornets 78 miamiheat 76 atcharlotte
+clevelandcavaliers 106 utahjazz 92 atcleveland
+newyorkknicks 98 philadelphiaSSers 91 atphiladelphia
+atlantahawks 110 indianapacers 91 atatlanta
+detroitpistons 128 orlandomagic 118 atdetroit
+memphisgrizzlies 92 torontoraptors 86 atmemphis
+dallasmavericks 98 minnesotatimberwolves 75 atminnesota
+neworleanspelicans 96 losangeleslakers 80 atneworleans
+oklahomacitythunder 105 washingtonwizards 103 atwashington
+phoenixsuns 118 portlandtrailblazers 113 atphoenix
+brooklynnets 103 sacramentokings 100 atsacramento
+goldenstatewarriors 126 houstonrockets 113 atgoldenstate
+chicagobulls 104 sanantoniospurs 81 atchicago
+utahjazz 101 milwaukeebucks 99 atmilwaukee
+bostonceltics 90 portlandtrailblazers 89 atportland
+losangelesclippers 123 brooklynnets 84 atlosangeles
+torontoraptors 91 philadelphiaSSers 86 atphiladelphia
+atlantahawks 103 oklahomacitythunder 93 atatlanta
+clevelandcavaliers 129 charlottehornets 90 atcleveland
+miamiheat 89 indianapacers 87 atmiami
+newyorkknicks 113 orlandomagic 106 atnewyork
+chicagobulls 102 dallasmavericks 98 atdallas
+neworleanspelicans 92 minnesotatimberwolves 84 atminnesota
+sanantoniospurs 99 losangeleslakers 85 atsanantonio
+bostonceltics 100 denvernuggets 99 atdenver
+houstonrockets 113 phoenixsuns 111 atphoenix
+goldenstatewarriors 126 sacramentokings 101 atgoldenstate
+charlottehornets 76 newyorkknicks 71 atcharlotte
+milwaukeebucks 101 detroitpistons 86 atmilwaukee
+memphisgrizzlies 101 philadelphiaSSers 83 atmemphis
+utahjazz 108 brooklynnets 73 atutah
+portlandtrailblazers 103 washingtonwizards 96 atportland
+miamiheat 96 chicagobulls 84 atchicago
+clevelandcavaliers 108 oklahomacitythunder 98 atcleveland
+losangelesclippers 120 phoenixsuns 100 atphoenix
+neworleanspelicans 109 dallasmavericks 106 atneworleans
+atlantahawks 112 minnesotatimberwolves 100 atatlanta
+indianapacers 106 orlandomagic 99 atorlando
+sanantoniospurs 101 milwaukeebucks 95 atsanantonio
+torontoraptors 114 detroitpistons 110 attoronto
+goldenstatewarriors 114 bostonceltics 111 atgoldenstate
+washingtonwizards 117 denvernuggets 115 atdenver
+houstonrockets 99 losangeleslakers 87 atlosangeles
+memphisgrizzlies 103 orlandomagic 94 atmemphis
+neworleanspelicans 99 philadelphiaSSers 74 atneworleans
+oklahomacitythunder 92 minnesotatimberwolves 84 atoklahomacity
+bostonceltics 99 utahjazz 90 atutah
+losangelesclippers 102 denvernuggets 98 atlosangeles
+torontoraptors 104 indianapacers 91 atindiana
+clevelandcavaliers 103 detroitpistons 95 atdetroit
+milwaukeebucks 109 miamiheat 102 atmiami
+memphisgrizzlies 109 dallasmavericks 90 atdallas
+chicagobulls 113 goldenstatewarriors 111 atgoldenstate
+washingtonwizards 98 losangeleslakers 92 atlosangeles
+clevelandcavaliers 99 portlandtrailblazers 94 atcleveland
+philadelphiaSSers 89 detroitpistons 69 atphiladelphia
+atlantahawks 113 brooklynnets 102 atatlanta
+torontoraptors 119 sacramentokings 102 attoronto
+houstonrockets 99 dallasmavericks 94 athouston
+minnesotatimberwolves 110 bostonceltics 98 atminnesota
+denvernuggets 93 neworleanspelicans 85 atneworleans
+newyorkknicks 100 oklahomacitythunder 92 atnewyork
+sanantoniospurs 95 charlottehornets 86 atsanantonio
+losangelesclippers 94 utahjazz 89 atutah
+phoenixsuns 106 washingtonwizards 98 atphoenix
+milwaukeebucks 115 orlandomagic 100 atorlando
+memphisgrizzlies 99 denvernuggets 69 atmemphis
+indianapacers 103 newyorkknicks 82 atindiana
+losangeleslakers 123 chicagobulls 118 atlosangeles
+philadelphiaSSers 103 minnesotatimberwolves 94 atphiladelphia
+atlantahawks 105 portlandtrailblazers 99 atatlanta
+houstonrockets 93 bostonceltics 87 atboston
+torontoraptors 127 brooklynnets 122 atbrooklyn
+clevelandcavaliers 101 sacramentokings 90 atcleveland
+neworleanspelicans 108 losangelesclippers 103 atneworleans
+dallasmavericks 93 miamiheat 72 atmiami
+utahjazz 110 goldenstatewarriors 100 atutah
+phoenixsuns 99 chicagobulls 93 atphoenix
+sacramentokings 99 indianapacers 94 atindiana
+dallasmavericks 108 orlandomagic 93 atorlando
+torontoraptors 120 washingtonwizards 116 atwashington
+atlantahawks 91 philadelphiaSSers 85 atatlanta
+detroitpistons 114 houstonrockets 101 atdetroit
+memphisgrizzlies 85 oklahomacitythunder 74 atmemphis
+clevelandcavaliers 106 minnesotatimberwolves 90 atminnesota
+milwaukeebucks 95 portlandtrailblazers 88 atmilwaukee
+charlottehornets 104 denvernuggets 86 atdenver
+losangelesclippers 105 sanantoniospurs 85 atsanantonio
+goldenstatewarriors 106 phoenixsuns 87 atgoldenstate
+miamiheat 83 bostonceltics 75 atboston
+newyorkknicks 92 losangeleslakers 80 atnewyork
+clevelandcavaliers 97 philadelphiaSSers 84 atcleveland
+charlottehornets 92 washingtonwizards 88 atwashington
+brooklynnets 102 losangelesclippers 100 atbrooklyn
+milwaukeebucks 82 torontoraptors 75 attoronto
+neworleanspelicans 115 atlantahawks 100 atneworleans
+oklahomacitythunder 104 orlandomagic 97 atoklahomacity
+dallasmavericks 100 minnesotatimberwolves 94 atdallas
+memphisgrizzlies 102 phoenixsuns 101 atphoenix
+philadelphiaSSers 105 denvernuggets 98 atphiladelphia
+detroitpistons 108 miamiheat 91 atdetroit
+bostonceltics 108 newyorkknicks 97 atnewyork
+portlandtrailblazers 103 utahjazz 102 atportland
+goldenstatewarriors 121 sacramentokings 96 atsacramento
+indianapacers 114 detroitpistons 109 atindiana
+atlantahawks 105 washingtonwizards 96 atatlanta
+bostonceltics 104 denvernuggets 100 atboston
+brooklynnets 109 torontoraptors 93 attoronto
+houstonrockets 101 chicagobulls 90 athouston
+milwaukeebucks 113 losangeleslakers 105 atmilwaukee
+minnesotatimberwolves 102 miamiheat 101 atminnesota
+oklahomacitythunder 102 neworleanspelicans 91 atneworleans
+sanantoniospurs 110 orlandomagic 103 atsanantonio
+memphisgrizzlies 100 utahjazz 90 atutah
+goldenstatewarriors 128 dallasmavericks 114 atgoldenstate
+charlottehornets 94 washingtonwizards 87 atcharlotte
+clevelandcavaliers 105 losangelesclippers 94 atcleveland
+dallasmavericks 101 sacramentokings 78 atsacramento
+portlandtrailblazers 108 phoenixsuns 87 atportland
+brooklynnets 92 newyorkknicks 88 atbrooklyn
+indianapacers 103 clevelandcavaliers 99 atindiana
+orlandomagic 103 losangeleslakers 97 atorlando
+atlantahawks 124 goldenstatewarriors 116 atatlanta
+bostonceltics 107 philadelphiaSSers 96 atboston
+detroitpistons 98 denvernuggets 88 atdetroit
+torontoraptors 123 losangelesclippers 107 attoronto
+houstonrockets 117 milwaukeebucks 111 athouston
+minnesotatimberwolves 90 memphisgrizzlies 89 atminnesota
+neworleanspelicans 116 oklahomacitythunder 113 atoklahomacity
+phoenixsuns 100 utahjazz 93 atphoenix
+sanantoniospurs 98 miamiheat 85 atsanantonio
+chicagobulls 107 neworleanspelicans 72 atneworleans
+washingtonwizards 114 brooklynnets 77 atwashington
+goldenstatewarriors 106 newyorkknicks 92 atnewyork
+philadelphiaSSers 89 charlottehornets 81 atphiladelphia
+dallasmavericks 111 portlandtrailblazers 101 atdallas
+milwaukeebucks 96 bostonceltics 93 atmilwaukee
+utahjazz 102 sacramentokings 90 atutah
+oklahomacitythunder 131 losangelesclippers 108 atoklahomacity
+clevelandcavaliers 120 losangeleslakers 105 atcleveland
+memphisgrizzlies 94 atlantahawks 88 atmemphis
+indianapacers 103 charlottehornets 102 atcharlotte
+minnesotatimberwolves 112 detroitpistons 101 atdetroit
+chicagobulls 98 orlandomagic 97 atorlando
+portlandtrailblazers 109 houstonrockets 98 athouston
+torontoraptors 87 sanantoniospurs 82 attoronto
+sacramentokings 85 phoenixsuns 83 atsacramento
+sanantoniospurs 95 indianapacers 93 atindiana
+goldenstatewarriors 89 philadelphiaSSers 84 atphiladelphia
+washingtonwizards 96 orlandomagic 80 atwashington
+miamiheat 109 newyorkknicks 95 atmiami
+milwaukeebucks 103 brooklynnets 97 atmilwaukee
+atlantahawks 117 minnesotatimberwolves 105 atminnesota
+utahjazz 100 neworleanspelicans 96 atneworleans
+losangelesclippers 115 dallasmavericks 98 atdallas
+oklahomacitythunder 124 denvernuggets 114 atdenver
+detroitpistons 106 charlottehornets 78 atcharlotte
+houstonrockets 127 phoenixsuns 118 atphoenix
+chicagobulls 104 sacramentokings 86 atchicago
+memphisgrizzlies 95 brooklynnets 86 atmemphis
+denvernuggets 106 losangeleslakers 96 atlosangeles
+orlandomagic 89 newyorkknicks 83 atorlando
+bostonceltics 89 atlantahawks 88 atboston
+sanantoniospurs 104 detroitpistons 87 atdetroit
+torontoraptors 95 washingtonwizards 93 attoronto
+milwaukeebucks 111 sacramentokings 103 atmilwaukee
+goldenstatewarriors 94 minnesotatimberwolves 91 atminnesota
+indianapacers 106 neworleanspelicans 93 atneworleans
+oklahomacitythunder 105 memphisgrizzlies 89 atoklahomacity
+clevelandcavaliers 113 miamiheat 93 atcleveland
+dallasmavericks 87 utahjazz 82 atdallas
+portlandtrailblazers 102 losangeleslakers 86 atportland
+losangelesclippers 110 houstonrockets 95 atlosangeles
+chicagobulls 113 clevelandcavaliers 98 atchicago
+oklahomacitythunder 104 dallasmavericks 89 atoklahomacity
+losangelesclippers 119 sanantoniospurs 115 atlosangeles
+orlandomagic 95 neworleanspelicans 84 atorlando
+indianapacers 106 philadelphiaSSers 95 atphiladelphia
+torontoraptors 105 atlantahawks 80 atatlanta
+detroitpistons 100 chicagobulls 91 atdetroit
+miamiheat 111 newyorkknicks 87 atnewyork
+minnesotatimberwolves 111 phoenixsuns 109 atminnesota
+clevelandcavaliers 127 washingtonwizards 89 atwashington
+dallasmavericks 111 houstonrockets 100 atdallas
+milwaukeebucks 89 denvernuggets 81 atmilwaukee
+utahjazz 92 portlandtrailblazers 76 atutah
+sacramentokings 109 bostonceltics 101 atsacramento
+goldenstatewarriors 110 sanantoniospurs 99 atgoldenstate
+brooklynnets 114 losangeleslakers 105 atlosangeles
+oklahomacitythunder 110 charlottehornets 103 atcharlotte
+neworleanspelicans 105 miamiheat 91 atmiami
+chicagobulls 112 phoenixsuns 107 atchicago
+houstonrockets 98 torontoraptors 76 athouston
+losangelesclippers 126 sacramentokings 99 atlosangeles
+clevelandcavaliers 101 newyorkknicks 83 atnewyork
+atlantahawks 97 milwaukeebucks 86 atmilwaukee
+detroitpistons 106 washingtonwizards 89 atdetroit
+indianapacers 104 goldenstatewarriors 98 atindiana
+orlandomagic 103 philadelphiaSSers 98 atorlando
+oklahomacitythunder 119 denvernuggets 94 atoklahomacity
+dallasmavericks 92 charlottehornets 81 atdallas
+memphisgrizzlies 98 portlandtrailblazers 92 atportland
+losangeleslakers 118 bostonceltics 111 atlosangeles
+miamiheat 119 philadelphiaSSers 108 atmiami
+chicagobulls 87 milwaukeebucks 71 atchicago
+houstonrockets 113 minnesotatimberwolves 102 athouston
+neworleanspelicans 100 torontoraptors 97 atneworleans
+brooklynnets 110 denvernuggets 82 atdenver
+bostonceltics 115 phoenixsuns 110 atphoenix
+utahjazz 90 sanantoniospurs 81 atutah
+memphisgrizzlies 90 losangelesclippers 87 atlosangeles
+goldenstatewarriors 114 washingtonwizards 107 atwashington
+clevelandcavaliers 102 detroitpistons 93 atdetroit
+oklahomacitythunder 105 indianapacers 92 atoklahomacity
+dallasmavericks 99 torontoraptors 92 atdallas
+houstonrockets 110 losangelesclippers 105 athouston
+milwaukeebucks 104 philadelphiaSSers 88 atmilwaukee
+minnesotatimberwolves 97 washingtonwizards 77 atminnesota
+neworleanspelicans 102 brooklynnets 96 atneworleans
+phoenixsuns 110 denvernuggets 96 atdenver
+losangeleslakers 100 utahjazz 97 atutah
+sacramentokings 102 memphisgrizzlies 90 atsacramento
+portlandtrailblazers 111 sanantoniospurs 95 atportland
+miamiheat 93 orlandomagic 90 atorlando
+atlantahawks 104 dallasmavericks 87 atatlanta
+bostonceltics 115 newyorkknicks 94 atboston
+charlottehornets 98 chicagobulls 86 atchicago
+clevelandcavaliers 110 goldenstatewarriors 99 atcleveland
+phoenixsuns 117 oklahomacitythunder 113 atphoenix
+indianapacers 93 clevelandcavaliers 86 atindiana
+philadelphiaSSers 89 washingtonwizards 81 atphiladelphia
+atlantahawks 95 orlandomagic 88 atatlanta
+bostonceltics 106 charlottehornets 98 atboston
+newyorkknicks 121 detroitpistons 115 atdetroit
+goldenstatewarriors 113 torontoraptors 89 attoronto
+chicagobulls 96 minnesotatimberwolves 89 atchicago
+houstonrockets 102 brooklynnets 98 athouston
+losangelesclippers 97 memphisgrizzlies 79 atmemphis
+neworleanspelicans 104 miamiheat 102 atneworleans
+utahjazz 104 denvernuggets 82 atdenver
+sanantoniospurs 107 sacramentokings 96 atsacramento
+losangeleslakers 101 milwaukeebucks 93 atlosangeles
+portlandtrailblazers 115 oklahomacitythunder 112 atportland
+washingtonwizards 99 detroitpistons 95 atwashington
+atlantahawks 93 miamiheat 91 atmiami
+newyorkknicks 103 torontoraptors 98 atnewyork
+memphisgrizzlies 101 minnesotatimberwolves 97 atminnesota
+brooklynnets 104 dallasmavericks 94 atdallas
+sanantoniospurs 101 phoenixsuns 74 atphoenix
+utahjazz 82 milwaukeebucks 75 atutah
+losangelesclippers 96 chicagobulls 86 atchicago
+oklahomacitythunder 108 losangeleslakers 101 atlosangeles
+portlandtrailblazers 110 sacramentokings 99 atsacramento
+goldenstatewarriors 106 bostonceltics 101 atboston
+indianapacers 94 philadelphiaSSers 74 atindiana
+charlottehornets 98 orlandomagic 83 atorlando
+houstonrockets 105 clevelandcavaliers 103 athouston
+neworleanspelicans 99 denvernuggets 92 atdenver
+torontoraptors 114 philadelphiaSSers 103 atphiladelphia
+brooklynnets 110 goldenstatewarriors 108 atbrooklyn
+miamiheat 115 phoenixsuns 98 atmiami
+losangelesclippers 110 minnesotatimberwolves 105 atminnesota
+dallasmavericks 102 neworleanspelicans 93 atdallas
+charlottehornets 104 losangeleslakers 103 atcharlotte
+clevelandcavaliers 110 bostonceltics 79 atcleveland
+atlantahawks 104 houstonrockets 96 atatlanta
+chicagobulls 97 washingtonwizards 92 atchicago
+utahjazz 93 memphisgrizzlies 82 atmemphis
+denvernuggets 106 milwaukeebucks 95 atdenver
+sacramentokings 124 newyorkknicks 86 atnewyork
+indianapacers 105 newyorkknicks 82 atindiana
+phoenixsuns 105 orlandomagic 100 atorlando
+bostonceltics 85 utahjazz 84 atboston
+charlottehornets 115 brooklynnets 91 atbrooklyn
+clevelandcavaliers 120 torontoraptors 112 attoronto
+memphisgrizzlies 102 houstonrockets 100 athouston
+denvernuggets 100 minnesotatimberwolves 85 atminnesota
+neworleanspelicans 88 detroitpistons 85 atneworleans
+oklahomacitythunder 123 philadelphiaSSers 118 atoklahomacity
+miamiheat 100 losangeleslakers 94 atmiami
+sanantoniospurs 112 sacramentokings 85 atsanantonio
+goldenstatewarriors 102 milwaukeebucks 93 atgoldenstate
+portlandtrailblazers 98 losangelesclippers 93 atlosangeles
+chicagobulls 108 oklahomacitythunder 105 atchicago
+portlandtrailblazers 94 dallasmavericks 75 atportland
+charlottehornets 103 torontoraptors 94 atcharlotte
+indianapacers 98 chicagobulls 84 atindiana
+orlandomagic 119 sacramentokings 114 atorlando
+utahjazz 89 philadelphiaSSers 83 atphiladelphia
+atlantahawks 106 clevelandcavaliers 97 atatlanta
+phoenixsuns 108 brooklynnets 100 atbrooklyn
+houstonrockets 103 detroitpistons 93 athouston
+memphisgrizzlies 97 losangeleslakers 90 atmemphis
+bostonceltics 104 neworleanspelicans 98 atneworleans
+washingtonwizards 99 miamiheat 97 atwashington
+sanantoniospurs 120 denvernuggets 111 atsanantonio
+goldenstatewarriors 104 dallasmavericks 89 atgoldenstate
+neworleanspelicans 95 memphisgrizzlies 89 atneworleans
+clevelandcavaliers 89 phoenixsuns 79 atcleveland
+miamiheat 114 sacramentokings 109 atmiami
+indianapacers 92 newyorkknicks 86 atnewyork
+philadelphiaSSers 92 atlantahawks 84 atphiladelphia
+minnesotatimberwolves 121 portlandtrailblazers 113 atminnesota
+milwaukeebucks 91 washingtonwizards 85 atmilwaukee
+houstonrockets 114 denvernuggets 100 atdenver
+sanantoniospurs 116 chicagobulls 105 atsanantonio
+goldenstatewarriors 106 losangelesclippers 98 atgoldenstate
+utahjazz 95 brooklynnets 88 atbrooklyn
+charlottehornets 108 detroitpistons 101 atdetroit
+orlandomagic 103 bostonceltics 98 atorlando
+oklahomacitythunder 108 torontoraptors 104 atoklahomacity
+dallasmavericks 100 losangeleslakers 93 atlosangeles
+washingtonwizards 95 charlottehornets 69 atcharlotte
+atlantahawks 130 sacramentokings 105 atatlanta
+bostonceltics 100 miamiheat 90 atmiami
+memphisgrizzlies 101 chicagobulls 91 atchicago
+neworleanspelicans 114 milwaukeebucks 103 atmilwaukee
+denvernuggets 106 newyorkknicks 78 atdenver
+goldenstatewarriors 98 phoenixsuns 80 atphoenix
+losangelesclippers 89 minnesotatimberwolves 76 atlosangeles
+indianapacers 118 orlandomagic 86 atindiana
+neworleanspelicans 111 brooklynnets 91 atbrooklyn
+clevelandcavaliers 127 dallasmavericks 94 atdallas
+sanantoniospurs 117 torontoraptors 107 atsanantonio
+utahjazz 87 newyorkknicks 82 atutah
+losangeleslakers 93 detroitpistons 85 atlosangeles
+sacramentokings 113 charlottehornets 106 atcharlotte
+chicagobulls 104 philadelphiaSSers 95 atphiladelphia
+bostonceltics 95 memphisgrizzlies 92 atboston
+miamiheat 104 brooklynnets 98 atmiami
+milwaukeebucks 97 orlandomagic 91 atmilwaukee
+losangelesclippers 120 oklahomacitythunder 108 atoklahomacity
+denvernuggets 115 atlantahawks 102 atdenver
+phoenixsuns 106 minnesotatimberwolves 97 atphoenix
+goldenstatewarriors 105 detroitpistons 98 atgoldenstate
+portlandtrailblazers 105 houstonrockets 100 atportland
+indianapacers 109 milwaukeebucks 103 atindiana
+washingtonwizards 107 memphisgrizzlies 87 atwashington
+clevelandcavaliers 128 sanantoniospurs 125 atsanantonio
+utahjazz 109 houstonrockets 91 atutah
+newyorkknicks 101 losangeleslakers 94 atlosangeles
+charlottehornets 101 chicagobulls 91 atcharlotte
+philadelphiaSSers 114 sacramentokings 107 atphiladelphia
+bostonceltics 95 orlandomagic 88 atboston
+torontoraptors 102 miamiheat 92 attoronto
+oklahomacitythunder 113 minnesotatimberwolves 99 atoklahomacity
+dallasmavericks 129 losangelesclippers 99 atdallas
+denvernuggets 114 goldenstatewarriors 103 atdenver
+atlantahawks 96 phoenixsuns 87 atphoenix
+portlandtrailblazers 118 detroitpistons 99 atportland
+bostonceltics 93 indianapacers 89 atindiana
+washingtonwizards 113 sacramentokings 97 atwashington
+brooklynnets 94 philadelphiaSSers 87 atphiladelphia
+memphisgrizzlies 96 milwaukeebucks 83 atmemphis
+utahjazz 88 detroitpistons 85 atutah
+goldenstatewarriors 125 newyorkknicks 94 atgoldenstate
+oklahomacitythunder 109 chicagobulls 100 atoklahomacity
+houstonrockets 100 losangelesclippers 98 atlosangeles
+denvernuggets 118 neworleanspelicans 111 atneworleans
+clevelandcavaliers 123 orlandomagic 108 atorlando
+sanantoniospurs 123 minnesotatimberwolves 97 atsanantonio
+portlandtrailblazers 113 torontoraptors 97 attoronto
+phoenixsuns 102 newyorkknicks 89 atphoenix
+atlantahawks 91 losangeleslakers 86 atlosangeles
+torontoraptors 117 indianapacers 98 atindiana
+washingtonwizards 105 portlandtrailblazers 97 atwashington
+bostonceltics 108 philadelphiaSSers 89 atboston
+memphisgrizzlies 92 denvernuggets 81 atmemphis
+brooklynnets 122 minnesotatimberwolves 106 atminnesota
+miamiheat 106 clevelandcavaliers 92 atmiami
+dallasmavericks 119 oklahomacitythunder 115 atdallas
+utahjazz 94 charlottehornets 66 atutah
+atlantahawks 110 sacramentokings 103 atsacramento
+goldenstatewarriors 108 losangeleslakers 105 atgoldenstate
+detroitpistons 105 memphisgrizzlies 95 atdetroit
+newyorkknicks 104 sanantoniospurs 100 atnewyork
+houstonrockets 107 orlandomagic 94 athouston
+neworleanspelicans 85 milwaukeebucks 84 atneworleans
+losangelesclippers 99 charlottehornets 92 atlosangeles
+clevelandcavaliers 117 brooklynnets 92 atcleveland
+philadelphiaSSers 94 detroitpistons 83 atphiladelphia
+miamiheat 108 portlandtrailblazers 104 atmiami
+torontoraptors 105 minnesotatimberwolves 100 attoronto
+chicagobulls 103 indianapacers 86 atchicago
+sanantoniospurs 114 milwaukeebucks 103 atmilwaukee
+oklahomacitythunder 122 bostonceltics 118 atoklahomacity
+dallasmavericks 107 orlandomagic 102 atdallas
+losangelesclippers 116 sacramentokings 105 atsacramento
+goldenstatewarriors 114 atlantahawks 95 atgoldenstate
+washingtonwizards 88 utahjazz 84 atutah
+minnesotatimberwolves 95 newyorkknicks 92 atnewyork
+houstonrockets 118 denvernuggets 108 athouston
+phoenixsuns 74 neworleanspelicans 72 atphoenix
+utahjazz 80 losangeleslakers 73 atlosangeles
+orlandomagic 111 portlandtrailblazers 104 atorlando
+philadelphiaSSers 97 newyorkknicks 81 atphiladelphia
+brooklynnets 129 milwaukeebucks 127 atbrooklyn
+clevelandcavaliers 95 indianapacers 92 atcleveland
+miamiheat 108 denvernuggets 91 atmiami
+chicagobulls 108 torontoraptors 92 atchicago
+oklahomacitythunder 123 atlantahawks 115 atoklahomacity
+memphisgrizzlies 112 dallasmavericks 101 atdallas
+sanantoniospurs 101 bostonceltics 89 atsanantonio
+sacramentokings 101 charlottehornets 91 atsacramento
+goldenstatewarriors 112 neworleanspelicans 96 atgoldenstate
+losangelesclippers 113 washingtonwizards 99 atlosangeles
+brooklynnets 123 indianapacers 111 atindiana
+detroitpistons 107 chicagobulls 91 atdetroit
+phoenixsuns 117 houstonrockets 102 athouston
+memphisgrizzlies 97 portlandtrailblazers 86 atmemphis
+goldenstatewarriors 106 utahjazz 91 atgoldenstate
+clevelandcavaliers 108 milwaukeebucks 90 atmilwaukee
+oklahomacitythunder 93 miamiheat 75 atoklahomacity
+sanantoniospurs 114 atlantahawks 95 atatlanta
+losangelesclippers 107 neworleanspelicans 100 atlosangeles
+torontoraptors 106 newyorkknicks 89 attoronto
+sacramentokings 109 washingtonwizards 86 atsacramento
+detroitpistons 105 bostonceltics 97 atboston
+denvernuggets 119 orlandomagic 100 atorlando
+charlottehornets 109 minnesotatimberwolves 98 atminnesota
+phoenixsuns 98 dallasmavericks 92 atphoenix
+losangeleslakers 101 philadelphiaSSers 87 atlosangeles
+houstonrockets 110 indianapacers 100 atindiana
+bostonceltics 110 brooklynnets 91 atbrooklyn
+memphisgrizzlies 103 newyorkknicks 82 atnewyork
+chicagobulls 98 charlottehornets 86 atchicago
+minnesotatimberwolves 106 utahjazz 104 atutah
+goldenstatewarriors 107 washingtonwizards 76 atgoldenstate
+detroitpistons 108 torontoraptors 104 atdetroit
+milwaukeebucks 89 miamiheat 88 atmilwaukee
+oklahomacitythunder 127 losangeleslakers 117 atoklahomacity
+dallasmavericks 101 sanantoniospurs 94 atdallas
+sacramentokings 107 philadelphiaSSers 106 atsacramento
+goldenstatewarriors 122 portlandtrailblazers 108 atportland
+brooklynnets 91 charlottehornets 88 atcharlotte
+losangelesclippers 111 newyorkknicks 80 atnewyork
+atlantahawks 95 orlandomagic 83 atorlando
+indianapacers 103 washingtonwizards 101 atwashington
+miamiheat 93 bostonceltics 86 atboston
+chicagobulls 116 torontoraptors 103 attoronto
+clevelandcavaliers 111 memphisgrizzlies 89 atmemphis
+losangeleslakers 101 minnesotatimberwolves 99 atminnesota
+houstonrockets 95 neworleanspelicans 93 atneworleans
+philadelphiaSSers 99 denvernuggets 85 atdenver
+portlandtrailblazers 92 utahjazz 89 atutah
+sanantoniospurs 130 oklahomacitythunder 91 atsanantonio
+sacramentokings 108 phoenixsuns 99 atphoenix
+milwaukeebucks 111 indianapacers 107 atmilwaukee
+detroitpistons 111 orlandomagic 97 atorlando
+losangelesclippers 119 philadelphiaSSers 98 atphiladelphia
+washingtonwizards 110 charlottehornets 107 atwashington
+atlantahawks 99 miamiheat 86 atatlanta
+brooklynnets 106 clevelandcavaliers 98 atbrooklyn
+bostonceltics 96 newyorkknicks 92 atnewyork
+torontoraptors 94 losangeleslakers 83 attoronto
+houstonrockets 120 minnesotatimberwolves 110 athouston
+goldenstatewarriors 107 memphisgrizzlies 84 atmemphis
+neworleanspelicans 102 sacramentokings 88 atneworleans
+sanantoniospurs 94 dallasmavericks 76 atsanantonio
+denvernuggets 107 utahjazz 91 atdenver
+portlandtrailblazers 87 phoenixsuns 81 atphoenix
+charlottehornets 115 atlantahawks 100 atcharlotte
+chicagobulls 111 newyorkknicks 80 atchicago
+goldenstatewarriors 108 milwaukeebucks 95 atmilwaukee
+utahjazz 94 oklahomacitythunder 89 atutah
+portlandtrailblazers 120 denvernuggets 114 atportland
+clevelandcavaliers 87 philadelphiaSSers 86 atcleveland
+brooklynnets 107 losangeleslakers 99 atbrooklyn
+neworleanspelicans 110 minnesotatimberwolves 88 atneworleans
+losangelesclippers 119 bostonceltics 106 atboston
+miamiheat 109 detroitpistons 102 atmiami
+houstonrockets 99 washingtonwizards 91 atwashington
+sanantoniospurs 103 memphisgrizzlies 89 atsanantonio
+indianapacers 104 dallasmavericks 99 atindiana
+oklahomacitythunder 109 phoenixsuns 97 atphoenix
+losangeleslakers 113 philadelphiaSSers 111 atphiladelphia
+atlantahawks 101 milwaukeebucks 88 atatlanta
+torontoraptors 99 houstonrockets 96 attoronto
+memphisgrizzlies 97 sacramentokings 83 atmemphis
+utahjazz 104 minnesotatimberwolves 84 atminnesota
+portlandtrailblazers 109 phoenixsuns 86 atportland
+bostonceltics 116 charlottehornets 104 atcharlotte
+brooklynnets 111 indianapacers 106 atbrooklyn
+detroitpistons 105 atlantahawks 95 atdetroit
+sanantoniospurs 95 miamiheat 81 atmiami
+goldenstatewarriors 110 losangelesclippers 106 atlosangeles
+charlottehornets 102 detroitpistons 78 atcharlotte
+sanantoniospurs 103 orlandomagic 91 atorlando
+washingtonwizards 106 philadelphiaSSers 93 atwashington
+bostonceltics 100 indianapacers 87 atboston
+brooklynnets 100 newyorkknicks 98 atnewyork
+houstonrockets 115 sacramentokings 111 athouston
+milwaukeebucks 95 chicagobulls 91 atmilwaukee
+torontoraptors 113 minnesotatimberwolves 99 atminnesota
+dallasmavericks 135 oklahomacitythunder 131 atoklahomacity
+utahjazz 98 denvernuggets 84 atutah
+losangelesclippers 126 portlandtrailblazers 122 atportland
+neworleanspelicans 113 losangeleslakers 92 atlosangeles
+clevelandcavaliers 114 miamiheat 88 atcleveland
+houstonrockets 108 dallasmavericks 101 atdallas
+goldenstatewarriors 107 phoenixsuns 106 atgoldenstate
+indianapacers 93 charlottehornets 74 atindiana
+washingtonwizards 101 newyorkknicks 87 atwashington
+milwaukeebucks 110 bostonceltics 101 atboston
+brooklynnets 114 torontoraptors 109 atbrooklyn
+chicagobulls 88 detroitpistons 82 atchicago
+memphisgrizzlies 100 oklahomacitythunder 92 atmemphis
+orlandomagic 97 minnesotatimberwolves 84 atminnesota
+sanantoniospurs 123 denvernuggets 93 atsanantonio
+neworleanspelicans 101 sacramentokings 95 atsacramento
+portlandtrailblazers 107 losangeleslakers 77 atlosangeles
+charlottehornets 92 philadelphiaSSers 91 atcharlotte
+atlantahawks 131 brooklynnets 99 atatlanta
+detroitpistons 99 miamiheat 98 atdetroit
+bostonceltics 117 torontoraptors 116 attoronto
+washingtonwizards 92 memphisgrizzlies 83 atmemphis
+goldenstatewarriors 123 dallasmavericks 110 atdallas
+orlandomagic 97 milwaukeebucks 90 atmilwaukee
+losangelesclippers 107 denvernuggets 92 atdenver
+phoenixsuns 87 utahjazz 85 atphoenix
+portlandtrailblazers 99 neworleanspelicans 90 atportland
+houstonrockets 115 oklahomacitythunder 112 atoklahomacity
+clevelandcavaliers 99 chicagobulls 94 atcleveland
+indianapacers 112 miamiheat 89 atindiana
+sanantoniospurs 107 goldenstatewarriors 92 atsanantonio
+newyorkknicks 101 philadelphiaSSers 91 atnewyork
+utahjazz 101 sacramentokings 95 atsacramento
+losangelesclippers 106 losangeleslakers 78 atlosangeles
+brooklynnets 106 portlandtrailblazers 96 atbrooklyn
+atlantahawks 96 phoenixsuns 69 atatlanta
+miamiheat 105 charlottehornets 100 atmiami
+neworleanspelicans 103 goldenstatewarriors 100 atneworleans
+sanantoniospurs 113 oklahomacitythunder 88 atoklahomacity
+sacramentokings 116 minnesotatimberwolves 111 atsacramento
+losangelesclippers 105 losangeleslakers 100 atlosangeles
+torontoraptors 92 charlottehornets 74 atcharlotte
+orlandomagic 105 chicagobulls 103 atorlando
+washingtonwizards 119 philadelphiaSSers 90 atphiladelphia
+atlantahawks 114 brooklynnets 111 atbrooklyn
+bostonceltics 113 detroitpistons 103 atdetroit
+indianapacers 102 newyorkknicks 86 atnewyork
+memphisgrizzlies 110 neworleanspelicans 74 atmemphis
+clevelandcavaliers 104 milwaukeebucks 99 atmilwaukee
+sanantoniospurs 110 houstonrockets 98 atsanantonio
+denvernuggets 119 losangeleslakers 101 atdenver
+utahjazz 103 sacramentokings 91 atutah
+dallasmavericks 107 phoenixsuns 104 atdallas
+portlandtrailblazers 116 minnesotatimberwolves 91 atportland
+chicagobulls 89 miamiheat 78 atmiami
+goldenstatewarriors 116 portlandtrailblazers 105 atgoldenstate
+torontoraptors 101 orlandomagic 99 atorlando
+atlantahawks 104 charlottehornets 80 atatlanta
+brooklynnets 117 washingtonwizards 80 atbrooklyn
+bostonceltics 99 clevelandcavaliers 90 atcleveland
+indianapacers 107 detroitpistons 103 atdetroit
+milwaukeebucks 99 newyorkknicks 91 atnewyork
+sanantoniospurs 104 houstonrockets 103 athouston
+neworleanspelicans 90 phoenixsuns 75 atneworleans
+oklahomacitythunder 116 sacramentokings 103 atoklahomacity
+dallasmavericks 144 denvernuggets 143 atdenver
+memphisgrizzlies 89 utahjazz 88 atutah
+losangeleslakers 106 minnesotatimberwolves 98 atlosangeles
+newyorkknicks 80 orlandomagic 79 atorlando
+torontoraptors 107 miamiheat 104 atmiami
+chicagobulls 114 philadelphiaSSers 107 atchicago
+losangelesclippers 94 memphisgrizzlies 86 atlosangeles
+utahjazz 111 portlandtrailblazers 105 atportland
+goldenstatewarriors 110 minnesotatimberwolves 101 atgoldenstate
+milwaukeebucks 96 brooklynnets 73 atmilwaukee
+bostonceltics 117 clevelandcavaliers 78 atboston
+detroitpistons 116 charlottehornets 77 atdetroit
+denvernuggets 122 sacramentokings 111 atdenver
+indianapacers 116 oklahomacitythunder 104 atindiana
+washingtonwizards 108 atlantahawks 99 atwashington
+houstonrockets 121 neworleanspelicans 114 athouston
+sanantoniospurs 107 phoenixsuns 91 atsanantonio
+dallasmavericks 120 losangeleslakers 106 atlosangeles
+houstonrockets 100 charlottehornets 90 atcharlotte
+clevelandcavaliers 109 detroitpistons 97 atcleveland
+milwaukeebucks 107 philadelphiaSSers 97 atphiladelphia
+newyorkknicks 112 atlantahawks 108 atatlanta
+chicagobulls 113 brooklynnets 86 atbrooklyn
+miamiheat 100 orlandomagic 93 atmiami
+neworleanspelicans 100 minnesotatimberwolves 88 atminnesota
+oklahomacitythunder 101 portlandtrailblazers 90 atoklahomacity
+utahjazz 109 dallasmavericks 92 atutah
+sacramentokings 102 losangeleslakers 92 atsacramento
+goldenstatewarriors 111 memphisgrizzlies 107 atgoldenstate
+losangelesclippers 110 denvernuggets 103 atlosangeles
+bostonceltics 95 torontoraptors 93 atboston
+indianapacers 99 washingtonwizards 95 atindiana
+losangelesclippers 112 phoenixsuns 101 atphoenix
+chicagobulls 91 atlantahawks 85 atchicago
+dallasmavericks 114 portlandtrailblazers 98 atdallas
+houstonrockets 117 utahjazz 91 athouston
+memphisgrizzlies 95 indianapacers 83 atmemphis
+bostonceltics 105 milwaukeebucks 100 atmilwaukee
+oklahomacitythunder 138 minnesotatimberwolves 113 atminnesota
+neworleanspelicans 108 sanantoniospurs 103 atneworleans
+brooklynnets 101 orlandomagic 88 atbrooklyn
+clevelandcavaliers 113 washingtonwizards 108 atcleveland
+detroitpistons 112 newyorkknicks 90 atnewyork
+miamiheat 105 philadelphiaSSers 101 atphiladelphia
+torontoraptors 92 charlottehornets 87 attoronto
+goldenstatewarriors 133 denvernuggets 126 atgoldenstate
+sacramentokings 122 losangeleslakers 99 atlosangeles
+playoffs
+chicagobulls 103 milwaukeebucks 91 atchicago
+washingtonwizards 93 torontoraptors 86 attoronto
+goldenstatewarriors 106 neworleanspelicans 99 atgoldenstate
+houstonrockets 118 dallasmavericks 108 athouston
+atlantahawks 99 brooklynnets 92 atatlanta
+clevelandcavaliers 113 bostonceltics 100 atcleveland
+losangelesclippers 107 sanantoniospurs 92 atlosangeles
+memphisgrizzlies 100 portlandtrailblazers 86 atmemphis
+chicagobulls 91 milwaukeebucks 82 atchicago
+goldenstatewarriors 97 neworleanspelicans 87 atgoldenstate
+clevelandcavaliers 99 bostonceltics 91 atcleveland
+washingtonwizards 117 torontoraptors 106 attoronto
+houstonrockets 111 dallasmavericks 99 athouston
+atlantahawks 96 brooklynnets 91 atatlanta
+sanantoniospurs 111 losangelesclippers 107 atlosangeles
+memphisgrizzlies 97 portlandtrailblazers 82 atmemphis
+clevelandcavaliers 103 bostonceltics 95 atboston
+chicagobulls 113 milwaukeebucks 106 atmilwaukee
+goldenstatewarriors 123 neworleanspelicans 119 atneworleans
+washingtonwizards 106 torontoraptors 99 atwashington
+houstonrockets 130 dallasmavericks 128 atdallas
+sanantoniospurs 100 losangelesclippers 73 atsanantonio
+brooklynnets 91 atlantahawks 83 atbrooklyn
+milwaukeebucks 92 chicagobulls 90 atmilwaukee
+goldenstatewarriors 109 neworleanspelicans 98 atneworleans
+memphisgrizzlies 115 portlandtrailblazers 109 atportland
+clevelandcavaliers 101 bostonceltics 93 atboston
+washingtonwizards 125 torontoraptors 94 atwashington
+dallasmavericks 121 houstonrockets 109 atdallas
+losangelesclippers 114 sanantoniospurs 105 atsanantonio
+brooklynnets 120 atlantahawks 115 atbrooklyn
+milwaukeebucks 94 chicagobulls 88 atchicago
+portlandtrailblazers 99 memphisgrizzlies 92 atportland
+houstonrockets 103 dallasmavericks 94 athouston
+sanantoniospurs 111 losangelesclippers 107 atlosangeles
+atlantahawks 107 brooklynnets 97 atatlanta
+memphisgrizzlies 99 portlandtrailblazers 93 atmemphis
+chicagobulls 120 milwaukeebucks 66 atmilwaukee
+losangelesclippers 102 sanantoniospurs 96 atsanantonio
+atlantahawks 111 brooklynnets 87 atbrooklyn
+losangelesclippers 111 sanantoniospurs 109 atlosangeles
+playoffs
+goldenstatewarriors 101 memphisgrizzlies 86 atgoldenstate
+washingtonwizards 104 atlantahawks 98 atatlanta
+chicagobulls 99 clevelandcavaliers 92 atcleveland
+losangelesclippers 117 houstonrockets 101 athouston
+memphisgrizzlies 97 goldenstatewarriors 90 atgoldenstate
+atlantahawks 106 washingtonwizards 90 atatlanta
+clevelandcavaliers 106 chicagobulls 91 atcleveland
+houstonrockets 115 losangelesclippers 109 athouston
+chicagobulls 99 clevelandcavaliers 96 atchicago
+losangelesclippers 124 houstonrockets 99 atlosangeles
+memphisgrizzlies 99 goldenstatewarriors 89 atmemphis
+washingtonwizards 103 atlantahawks 101 atwashington
+clevelandcavaliers 86 chicagobulls 84 atchicago
+losangelesclippers 128 houstonrockets 95 atlosangeles
+goldenstatewarriors 101 memphisgrizzlies 84 atmemphis
+atlantahawks 106 washingtonwizards 101 atwashington
+clevelandcavaliers 106 chicagobulls 101 atcleveland
+houstonrockets 124 losangelesclippers 103 athouston
+goldenstatewarriors 98 memphisgrizzlies 78 atgoldenstate
+atlantahawks 82 washingtonwizards 81 atatlanta
+clevelandcavaliers 94 chicagobulls 73 atchicago
+houstonrockets 119 losangelesclippers 107 atlosangeles
+goldenstatewarriors 108 memphisgrizzlies 95 atmemphis
+atlantahawks 94 washingtonwizards 91 atwashington
+houstonrockets 113 losangelesclippers 100 athouston
+playoffs
+goldenstatewarriors 110 houstonrockets 106 atgoldenstate
+clevelandcavaliers 97 atlantahawks 89 atatlanta
+goldenstatewarriors 99 houstonrockets 98 atgoldenstate
+clevelandcavaliers 94 atlantahawks 82 atatlanta
+goldenstatewarriors 115 houstonrockets 80 athouston
+clevelandcavaliers 114 atlantahawks 111 atcleveland
+houstonrockets 128 goldenstatewarriors 115 athouston
+clevelandcavaliers 118 atlantahawks 88 atcleveland
+goldenstatewarriors 104 houstonrockets 90 atgoldenstate
+playoffs
+goldenstatewarriors 108 clevelandcavaliers 100 atgoldenstate
+clevelandcavaliers 95 goldenstatewarriors 93 atgoldenstate
+clevelandcavaliers 96 goldenstatewarriors 91 atcleveland
+goldenstatewarriors 103 clevelandcavaliers 82 atcleveland
+goldenstatewarriors 104 clevelandcavaliers 91 atgoldenstate
+goldenstatewarriors 105 clevelandcavaliers 97 atcleveland

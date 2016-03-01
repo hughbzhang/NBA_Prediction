@@ -1,0 +1,1469 @@
+Charlotte Hornets 106, Atlanta Hawks 82 at Atlanta
+Sacramento Kings 100, Chicago Bulls 81 at Chicago
+Dallas Mavericks 97, Milwaukee Bucks 93 at Dallas
+Golden State Warriors 96, Phoenix Suns 94 at Golden State
+Minnesota Timberwolves 106, Houston Rockets 98 at Houston
+Cleveland Cavaliers 86, New Jersey Nets 82 at New Jersey
+Philadelphia 76ers 101, New York Knicks 72 at New York
+Orlando Magic 97, Washington Wizards 86 at Orlando
+Los Angeles Lakers 96, Portland Trail Blazers 86 at Portland
+San Antonio Spurs 98, Indiana Pacers 85 at San Antonio
+Detroit Pistons 104, Toronto Raptors 95 at Toronto
+Utah Jazz 107, Los Angeles Clippers 94 at Utah
+Vancouver Grizzlies 94, Seattle Supersonics 88 at Vancouver
+Nov 1, 2000
+Boston Celtics 103, Detroit Pistons 83 at Boston
+Washington Wizards 95, Charlotte Hornets 77 at Charlotte
+Cleveland Cavaliers 102, Sacramento Kings 100 2OT at Cleveland
+Utah Jazz 97, Los Angeles Lakers 92 at Los Angeles
+Miami Heat 105, Orlando Magic 79 at Miami
+Philadelphia 76ers 104, Toronto Raptors 98 at Philadelphia
+Seattle Supersonics 112, Denver Nuggets 99 at Seattle
+Nov 2, 2000
+Dallas Mavericks 94, Indiana Pacers 88 at Dallas
+Denver Nuggets 101, Golden State Warriors 97 at Denver
+Houston Rockets 115, Milwaukee Bucks 93 at Houston
+Vancouver Grizzlies 99, Los Angeles Clippers 91 at Los Angeles
+New York Knicks 94, Atlanta Hawks 69 at New York
+Phoenix Suns 108, Portland Trail Blazers 82 at Phoenix
+San Antonio Spurs 103, Minnesota Timberwolves 91 at San Antonio
+Nov 3, 2000
+Boston Celtics 93, Toronto Raptors 91 at Boston
+Charlotte Hornets 83, Miami Heat 79 at Charlotte
+New Jersey Nets 92, Chicago Bulls 82 at Chicago
+Sacramento Kings 100, Detroit Pistons 93 at Detroit
+Philadelphia 76ers 87, Orlando Magic 80 at Orlando
+New York Knicks 80, Washington Wizards 76 at Washington
+Nov 4, 2000
+Orlando Magic 107, Atlanta Hawks 104 at Atlanta
+Cleveland Cavaliers 91, Boston Celtics 89 at Cleveland
+Utah Jazz 112, Dallas Mavericks 106 at Dallas
+Phoenix Suns 102, Denver Nuggets 99 at Denver
+San Antonio Spurs 117, Golden State Warriors 105 at Golden State
+Indiana Pacers 94, Chicago Bulls 81 at Indiana
+Los Angeles Clippers 77, Houston Rockets 74 at Los Angeles
+Philadelphia 76ers 84, Miami Heat 82 at Miami
+Milwaukee Bucks 97, Detroit Pistons 88 at Milwaukee
+Minnesota Timberwolves 99, Sacramento Kings 91 at Minnesota
+Charlotte Hornets 98, New Jersey Nets 87 at New Jersey
+Portland Trail Blazers 97, Seattle Supersonics 90 at Seattle
+Toronto Raptors 103, Washington Wizards 96 at Toronto
+Los Angeles Lakers 98, Vancouver Grizzlies 89 at Vancouver
+Nov 5, 2000
+Los Angeles Lakers 108, Los Angeles Clippers 103 at Los Angeles
+Phoenix Suns 104, Houston Rockets 99 at Phoenix
+Nov 6, 2000
+Dallas Mavericks 108, Denver Nuggets 96 at Denver
+Orlando Magic 110, Seattle Supersonics 99 at Orlando
+Sacramento Kings 79, Portland Trail Blazers 75 at Sacramento
+Utah Jazz 98, Minnesota Timberwolves 92 at Utah
+Vancouver Grizzlies 97, Atlanta Hawks 87 at Vancouver
+Nov 7, 2000
+Washington Wizards 88, Chicago Bulls 83 at Chicago
+Houston Rockets 84, Los Angeles Lakers 74 at Houston
+New York Knicks 103, Milwaukee Bucks 89 at Milwaukee
+Phoenix Suns 100, San Antonio Spurs 81 at Phoenix
+Portland Trail Blazers 97, Atlanta Hawks 88 at Portland
+Toronto Raptors 105, Boston Celtics 75 at Toronto
+Nov 8, 2000
+Vancouver Grizzlies 101, Dallas Mavericks 74 at Dallas
+Denver Nuggets 109, Minnesota Timberwolves 107 OT at Denver
+Indiana Pacers 108, Milwaukee Bucks 97 at Indiana
+Utah Jazz 93, Los Angeles Clippers 87 OT at Los Angeles
+Miami Heat 87, Seattle Supersonics 81 at Miami
+Cleveland Cavaliers 99, New York Knicks 97 at New York
+Charlotte Hornets 96, Orlando Magic 90 at Orlando
+Philadelphia 76ers 103, Detroit Pistons 94 at Philadelphia
+Sacramento Kings 115, Golden State Warriors 84 at Sacramento
+San Antonio Spurs 91, Los Angeles Lakers 81 at San Antonio
+New Jersey Nets 102, Washington Wizards 86 at Washington
+Nov 9, 2000
+Seattle Supersonics 102, Charlotte Hornets 94 at Charlotte
+Chicago Bulls 95, Orlando Magic 90 at Chicago
+Houston Rockets 85, Vancouver Grizzlies 78 at Houston
+Philadelphia 76ers 84, Minnesota Timberwolves 82 at Minnesota
+Detroit Pistons 108, New Jersey Nets 94 at New Jersey
+Phoenix Suns 88, Atlanta Hawks 79 at Phoenix
+Portland Trail Blazers 107, Denver Nuggets 91 at Portland
+Nov 10, 2000
+New York Knicks 103, Boston Celtics 101 OT at Boston
+Dallas Mavericks 79, San Antonio Spurs 77 at Dallas
+Sacramento Kings 114, Golden State Warriors 107 OT at Golden State
+Los Angeles Clippers 115, Atlanta Hawks 106 at Los Angeles
+Toronto Raptors 115, Cleveland Cavaliers 88 at Toronto
+Miami Heat 87, Utah Jazz 80 at Utah
+Indiana Pacers 86, Washington Wizards 74 at Washington
+Nov 11, 2000
+Toronto Raptors 98, Chicago Bulls 75 at Chicago
+Cleveland Cavaliers 86, Washington Wizards 73 at Cleveland
+Indiana Pacers 94, Detroit Pistons 84 at Indiana
+Minnesota Timberwolves 103, Milwaukee Bucks 92 at Milwaukee
+New Jersey Nets 126, Seattle Supersonics 91 at New Jersey
+New York Knicks 81, Charlotte Hornets 67 at New York
+Philadelphia 76ers 85, Boston Celtics 83 at Philadelphia
+Phoenix Suns 84, Miami Heat 82 at Phoenix
+Portland Trail Blazers 111, Houston Rockets 88 at Portland
+San Antonio Spurs 91, Vancouver Grizzlies 78 at San Antonio
+Nov 12, 2000
+Denver Nuggets 95, Los Angeles Clippers 79 at Denver
+Detroit Pistons 101, Seattle Supersonics 92 at Detroit
+Orlando Magic 105, Golden State Warriors 99 OT at Golden State
+Los Angeles Lakers 105, Houston Rockets 99 at Los Angeles
+Sacramento Kings 109, Dallas Mavericks 84 at Sacramento
+Nov 13, 2000
+Dallas Mavericks 90, Los Angeles Clippers 76 at Los Angeles
+Portland Trail Blazers 94, New Jersey Nets 82 at New Jersey
+Nov 14, 2000
+Atlanta Hawks 99, Portland Trail Blazers 97 at Atlanta
+Cleveland Cavaliers 96, Golden State Warriors 86 at Cleveland
+Houston Rockets 110, Chicago Bulls 83 at Houston
+Los Angeles Lakers 119, Denver Nuggets 103 at Los Angeles
+Miami Heat 89, Charlotte Hornets 86 OT at Miami
+Sacramento Kings 96, Orlando Magic 82 at Sacramento
+San Antonio Spurs 86, Utah Jazz 79 at San Antonio
+Seattle Supersonics 96, New York Knicks 75 at Seattle
+Nov 15, 2000
+Boston Celtics 116, Washington Wizards 109 at Boston
+Indiana Pacers 92, Detroit Pistons 88 at Detroit
+Los Angeles Clippers 78, New York Knicks 74 at Los Angeles
+Milwaukee Bucks 84, Atlanta Hawks 74 at Milwaukee
+Minnesota Timberwolves 92, Golden State Warriors 90 at Minnesota
+New Jersey Nets 93, Miami Heat 91 at New Jersey
+Philadelphia 76ers 107, Cleveland Cavaliers 98 at Philadelphia
+Phoenix Suns 99, Dallas Mavericks 78 at Phoenix
+Nov 16, 2000
+Denver Nuggets 89, Chicago Bulls 85 at Denver
+Houston Rockets 84, Charlotte Hornets 80 at Houston
+Los Angeles Lakers 112, Sacramento Kings 110 OT at Sacramento
+Portland Trail Blazers 86, Toronto Raptors 80 at Toronto
+Utah Jazz 99, Orlando Magic 84 at Utah
+Los Angeles Clippers 76, Vancouver Grizzlies 72 at Vancouver
+San Antonio Spurs 99, Washington Wizards 95 at Washington
+Nov 17, 2000
+Boston Celtics 106, Atlanta Hawks 99 at Boston
+Detroit Pistons 96, Charlotte Hornets 89 at Charlotte
+Golden State Warriors 92, Indiana Pacers 90 at Indiana
+Milwaukee Bucks 89, Cleveland Cavaliers 76 at Milwaukee
+Minnesota Timberwolves 99, San Antonio Spurs 94 OT at Minnesota
+Philadelphia 76ers 94, Miami Heat 73 at Philadelphia
+New York Knicks 90, Phoenix Suns 85 at Phoenix
+Dallas Mavericks 99, Seattle Supersonics 95 at Seattle
+Nov 18, 2000
+Minnesota Timberwolves 94, Atlanta Hawks 84 at Atlanta
+Denver Nuggets 87, Los Angeles Lakers 86 at Denver
+Houston Rockets 94, Phoenix Suns 89 at Houston
+Seattle Supersonics 86, Los Angeles Clippers 83 at Los Angeles
+Miami Heat 86, Portland Trail Blazers 80 at Miami
+New Jersey Nets 97, Indiana Pacers 92 at New Jersey
+Toronto Raptors 111, Milwaukee Bucks 102 at Toronto
+Utah Jazz 109, Chicago Bulls 64 at Utah
+Dallas Mavericks 91, Vancouver Grizzlies 88 at Vancouver
+Washington Wizards 109, Boston Celtics 89 at Washington
+Nov 19, 2000
+Charlotte Hornets 105, Detroit Pistons 96 at Detroit
+Los Angeles Lakers 104, Chicago Bulls 96 at Los Angeles
+New York Knicks 88, Golden State Warriors 71 at New York
+Portland Trail Blazers 110, Orlando Magic 102 OT at Orlando
+Nov 20, 2000
+Philadelphia 76ers 114, Boston Celtics 90 at Boston
+New Jersey Nets 86, Los Angeles Clippers 85 at Los Angeles
+Charlotte Hornets 100, Toronto Raptors 64 at Toronto
+Dallas Mavericks 107, Utah Jazz 98 at Utah
+Denver Nuggets 95, Vancouver Grizzlies 92 at Vancouver
+Nov 21, 2000
+Cleveland Cavaliers 117, Detroit Pistons 98 at Cleveland
+Seattle Supersonics 116, Dallas Mavericks 110 at Dallas
+Golden State Warriors 89, Chicago Bulls 77 at Golden State
+Houston Rockets 101, Indiana Pacers 89 at Indiana
+New York Knicks 85, Orlando Magic 84 at Orlando
+Portland Trail Blazers 104, Washington Wizards 94 at Washington
+Nov 22, 2000
+Atlanta Hawks 78, New York Knicks 74 at Atlanta
+Boston Celtics 96, Houston Rockets 81 at Boston
+Charlotte Hornets 88, Philadelphia 76ers 73 at Charlotte
+Los Angeles Lakers 111, Golden State Warriors 91 at Los Angeles
+Cleveland Cavaliers 86, Miami Heat 67 at Miami
+Portland Trail Blazers 93, Milwaukee Bucks 84 at Milwaukee
+Minnesota Timberwolves 101, Vancouver Grizzlies 100 at Minnesota
+Phoenix Suns 97, New Jersey Nets 85 at Phoenix
+Sacramento Kings 100, Chicago Bulls 71 at Sacramento
+San Antonio Spurs 112, Seattle Supersonics 85 at San Antonio
+Utah Jazz 116, Denver Nuggets 78 at Utah
+Nov 23, 2000
+Toronto Raptors 111, Indiana Pacers 91 at Indiana
+Nov 24, 2000
+Philadelphia 76ers 76, Atlanta Hawks 67 at Atlanta
+Boston Celtics 103, Orlando Magic 98 OT at Boston
+Cleveland Cavaliers 85, Miami Heat 80 at Cleveland
+Denver Nuggets 102, San Antonio Spurs 92 at Denver
+Detroit Pistons 118, Vancouver Grizzlies 96 at Detroit
+Indiana Pacers 99, Washington Wizards 87 at Indiana
+Los Angeles Lakers 115, Minnesota Timberwolves 108 at Los Angeles
+Charlotte Hornets 106, Milwaukee Bucks 90 at Milwaukee
+Phoenix Suns 80, Golden State Warriors 74 at Phoenix
+Seattle Supersonics 98, Los Angeles Clippers 81 at Seattle
+Utah Jazz 97, New Jersey Nets 85 at Utah
+Nov 25, 2000
+Charlotte Hornets 109, Cleveland Cavaliers 98 at Charlotte
+Dallas Mavericks 108, Denver Nuggets 84 at Dallas
+Golden State Warriors 114, Minnesota Timberwolves 93 at Golden State
+Phoenix Suns 95, Los Angeles Clippers 89 OT at Los Angeles
+Houston Rockets 91, Miami Heat 80 at Miami
+Toronto Raptors 79, New York Knicks 75 at New York
+Orlando Magic 114, Atlanta Hawks 92 at Orlando
+Portland Trail Blazers 86, New Jersey Nets 84 at Portland
+Sacramento Kings 125, Seattle Supersonics 101 at Sacramento
+San Antonio Spurs 96, Philadelphia 76ers 76 at San Antonio
+Washington Wizards 107, Milwaukee Bucks 100 at Washington
+Nov 26, 2000
+Vancouver Grizzlies 98, Boston Celtics 87 at Boston
+Utah Jazz 94, Detroit Pistons 79 at Detroit
+Toronto Raptors 101, Chicago Bulls 89 at Toronto
+Nov 27, 2000
+Los Angeles Lakers 98, Los Angeles Clippers 83 at Los Angeles
+New York Knicks 97, Vancouver Grizzlies 72 at New York
+Milwaukee Bucks 104, Orlando Magic 95 at Orlando
+Nov 28, 2000
+Minnesota Timberwolves 96, Chicago Bulls 76 at Chicago
+Boston Celtics 87, Cleveland Cavaliers 72 at Cleveland
+Dallas Mavericks 107, Toronto Raptors 93 at Dallas
+Sacramento Kings 88, Houston Rockets 81 at Houston
+Los Angeles Lakers 124, Indiana Pacers 107 at Los Angeles
+Milwaukee Bucks 102, Miami Heat 101 at Miami
+Utah Jazz 98, New Jersey Nets 92 at New Jersey
+Seattle Supersonics 105, Portland Trail Blazers 93 at Portland
+Atlanta Hawks 102, Washington Wizards 75 at Washington
+Nov 29, 2000
+Los Angeles Clippers 106, Golden State Warriors 83 at Los Angeles
+Denver Nuggets 107, Minnesota Timberwolves 100 at Minnesota
+Miami Heat 84, New York Knicks 81 at New York
+Utah Jazz 88, Orlando Magic 86 at Orlando
+Philadelphia 76ers 93, Washington Wizards 87 at Philadelphia
+San Antonio Spurs 82, Sacramento Kings 79 at San Antonio
+Vancouver Grizzlies 109, Phoenix Suns 106 2OT at Vancouver
+Charlotte Hornets 103, Toronto Raptors 79 at Charlotte
+Detroit Pistons 97, New Jersey Nets 76 at Detroit
+Nov 30, 2000
+Chicago Bulls 91, Atlanta Hawks 82 at Atlanta
+Houston Rockets 109, Denver Nuggets 105 OT at Denver
+Golden State Warriors 99, Indiana Pacers 95 at Golden State
+Milwaukee Bucks 108, Boston Celtics 97 at Milwaukee
+Portland Trail Blazers 95, Dallas Mavericks 84 at Portland
+Seattle Supersonics 121, Los Angeles Lakers 88 at Seattle
+Dec 1, 2000
+Minnesota Timberwolves 102, Boston Celtics 98 at Boston
+New York Knicks 91, Chicago Bulls 86 at Chicago
+Detroit Pistons 103, Cleveland Cavaliers 93 at Detroit
+Los Angeles Lakers 109, San Antonio Spurs 100 at Los Angeles
+Utah Jazz 94, Miami Heat 92 at Miami
+Orlando Magic 83, New Jersey Nets 80 at Orlando
+Philadelphia 76ers 95, Charlotte Hornets 74 at Philadelphia
+Sacramento Kings 105, Phoenix Suns 98 at Sacramento
+Toronto Raptors 104, Los Angeles Clippers 95 OT at Toronto
+Indiana Pacers 86, Vancouver Grizzlies 76 OT at Vancouver
+Dec 2, 2000
+Atlanta Hawks 101, Milwaukee Bucks 94 at Atlanta
+Charlotte Hornets 94, Utah Jazz 89 at Charlotte
+Philadelphia 76ers 112, Cleveland Cavaliers 78 at Cleveland
+Denver Nuggets 103, Seattle Supersonics 92 at Denver
+Dallas Mavericks 97, Golden State Warriors 78 at Golden State
+Portland Trail Blazers 96, Houston Rockets 85 at Houston
+Orlando Magic 95, New Jersey Nets 74 at New Jersey
+New York Knicks 100, Minnesota Timberwolves 90 at New York
+Miami Heat 93, Washington Wizards 90 at Washington
+Dec 3, 2000
+Boston Celtics 96, Los Angeles Clippers 87 at Boston
+Detroit Pistons 93, Washington Wizards 87 at Detroit
+Los Angeles Lakers 99, Dallas Mavericks 97 at Los Angeles
+Milwaukee Bucks 92, Indiana Pacers 80 at Milwaukee
+Phoenix Suns 84, Portland Trail Blazers 79 at Phoenix
+Seattle Supersonics 118, Golden State Warriors 102 at Seattle
+San Antonio Spurs 97, Vancouver Grizzlies 79 at Vancouver
+Dec 4, 2000
+Denver Nuggets 105, Philadelphia 76ers 98 at Denver
+New York Knicks 106, Los Angeles Clippers 78 at New York
+Dec 5, 2000
+Miami Heat 100, Atlanta Hawks 92 at Atlanta
+Cleveland Cavaliers 71, Charlotte Hornets 66 at Cleveland
+Houston Rockets 109, Dallas Mavericks 102 at Houston
+Indiana Pacers 88, New Jersey Nets 64 at Indiana
+Los Angeles Lakers 96, Philadelphia 76ers 85 at Los Angeles
+Minnesota Timberwolves 100, Chicago Bulls 90 at Minnesota
+Orlando Magic 101, Boston Celtics 98 at Orlando
+Sacramento Kings 81, San Antonio Spurs 75 at Sacramento
+Utah Jazz 98, Toronto Raptors 84 at Utah
+Vancouver Grizzlies 91, Detroit Pistons 83 at Vancouver
+Dec 6, 2000
+Charlotte Hornets 91, Indiana Pacers 88 at Charlotte
+Cleveland Cavaliers 92, Chicago Bulls 88 at Chicago
+Dallas Mavericks 94, New York Knicks 85 at Dallas
+Golden State Warriors 125, Los Angeles Lakers 122 OT at Golden State
+Miami Heat 95, Denver Nuggets 78 at Miami
+Milwaukee Bucks 109, New Jersey Nets 87 at New Jersey
+Portland Trail Blazers 95, Toronto Raptors 88 at Portland
+Detroit Pistons 112, Seattle Supersonics 99 at Seattle
+Los Angeles Clippers 93, Washington Wizards 88 at Washington
+Dec 7, 2000
+Phoenix Suns 104, Milwaukee Bucks 96 at Milwaukee
+Minnesota Timberwolves 105, Washington Wizards 88 at Minnesota
+Orlando Magic 103, Denver Nuggets 93 at Orlando
+New York Knicks 86, San Antonio Spurs 83 at San Antonio
+Utah Jazz 98, Vancouver Grizzlies 87 at Utah
+Dec 8, 2000
+Indiana Pacers 104, Boston Celtics 91 at Boston
+Charlotte Hornets 92, Los Angeles Clippers 87 at Charlotte
+Dallas Mavericks 105, Chicago Bulls 86 at Dallas
+Toronto Raptors 108, Golden State Warriors 92 at Golden State
+Seattle Supersonics 103, Los Angeles Lakers 95 at Los Angeles
+Miami Heat 80, Atlanta Hawks 76 at Miami
+New Jersey Nets 86, Phoenix Suns 84 at New Jersey
+Philadelphia 76ers 107, Portland Trail Blazers 94 at Portland
+Sacramento Kings 111, Houston Rockets 98 at Sacramento
+Dec 9, 2000
+Cleveland Cavaliers 97, Atlanta Hawks 90 at Cleveland
+Indiana Pacers 99, Charlotte Hornets 96 OT at Indiana
+Milwaukee Bucks 99, Washington Wizards 91 at Milwaukee
+Minnesota Timberwolves 85, Los Angeles Clippers 73 at Minnesota
+New York Knicks 96, Denver Nuggets 88 at New York
+Portland Trail Blazers 114, Detroit Pistons 83 at Portland
+San Antonio Spurs 105, Chicago Bulls 81 at San Antonio
+Houston Rockets 111, Seattle Supersonics 104 at Seattle
+Utah Jazz 125, Golden State Warriors 114 at Utah
+Philadelphia 76ers 83, Vancouver Grizzlies 79 at Vancouver
+Dec 10, 2000
+Boston Celtics 104, Denver Nuggets 102 OT at Boston
+Los Angeles Lakers 112, Detroit Pistons 88 at Los Angeles
+Dallas Mavericks 99, New Jersey Nets 73 at New Jersey
+Sacramento Kings 101, Miami Heat 97 at Sacramento
+Phoenix Suns 95, Toronto Raptors 87 at Toronto
+Dec 11, 2000
+Phoenix Suns 86, Chicago Bulls 80 at Chicago
+Los Angeles Clippers 92, Orlando Magic 80 at Los Angeles
+Minnesota Timberwolves 96, Philadelphia 76ers 91 OT at Philadelphia
+San Antonio Spurs 91, Utah Jazz 83 at Utah
+Houston Rockets 82, Vancouver Grizzlies 75 at Vancouver
+Dec 12, 2000
+Atlanta Hawks 107, Sacramento Kings 99 at Atlanta
+Cleveland Cavaliers 92, Dallas Mavericks 87 at Cleveland
+Miami Heat 96, Denver Nuggets 85 at Denver
+Portland Trail Blazers 101, Golden State Warriors 93 at Golden State
+Milwaukee Bucks 109, Los Angeles Lakers 105 at Los Angeles
+New Jersey Nets 116, Minnesota Timberwolves 94 at New Jersey
+Seattle Supersonics 97, Orlando Magic 92 at Seattle
+Toronto Raptors 104, Indiana Pacers 90 at Toronto
+Dec 13, 2000
+Chicago Bulls 104, Boston Celtics 86 at Boston
+Charlotte Hornets 101, Sacramento Kings 90 at Charlotte
+Detroit Pistons 92, Atlanta Hawks 69 at Detroit
+Indiana Pacers 97, Dallas Mavericks 92 at Indiana
+Miami Heat 94, Los Angeles Clippers 88 OT at Los Angeles
+Phoenix Suns 103, San Antonio Spurs 93 at Phoenix
+Portland Trail Blazers 96, Los Angeles Lakers 86 at Portland
+Milwaukee Bucks 111, Utah Jazz 102 at Utah
+Seattle Supersonics 94, Vancouver Grizzlies 93 at Vancouver
+Philadelphia 76ers 102, Washington Wizards 82 at Washington
+Dec 14, 2000
+Houston Rockets 98, Golden State Warriors 95 at Golden State
+Denver Nuggets 102, San Antonio Spurs 96 at San Antonio
+Toronto Raptors 70, New York Knicks 68 at Toronto
+Dec 15, 2000
+Sacramento Kings 104, Boston Celtics 81 at Boston
+Atlanta Hawks 85, Chicago Bulls 74 at Chicago
+Minnesota Timberwolves 99, Detroit Pistons 90 at Detroit
+Cleveland Cavaliers 103, Indiana Pacers 95 at Indiana
+Los Angeles Lakers 98, Vancouver Grizzlies 76 at Los Angeles
+Milwaukee Bucks 104, Toronto Raptors 97 at Milwaukee
+Utah Jazz 89, New York Knicks 58 at New York
+Dallas Mavericks 112, Philadelphia 76ers 94 at Philadelphia
+Los Angeles Clippers 98, Phoenix Suns 88 at Phoenix
+Portland Trail Blazers 106, Orlando Magic 96 at Portland
+Seattle Supersonics 99, Miami Heat 81 at Seattle
+Charlotte Hornets 103, Washington Wizards 89 at Washington
+Dec 16, 2000
+New Jersey Nets 89, Atlanta Hawks 83 at Atlanta
+Charlotte Hornets 99, Boston Celtics 87 at Charlotte
+Philadelphia 76ers 99, Chicago Bulls 91 at Chicago
+Cleveland Cavaliers 99, Utah Jazz 92 at Cleveland
+Miami Heat 93, Golden State Warriors 85 at Golden State
+Denver Nuggets 102, Houston Rockets 100 at Houston
+Minnesota Timberwolves 113, Indiana Pacers 110 OT at Minnesota
+San Antonio Spurs 90, Phoenix Suns 82 at San Antonio
+Dec 17, 2000
+Dallas Mavericks 99, Detroit Pistons 90 at Detroit
+Washington Wizards 103, Los Angeles Clippers 94 at Los Angeles
+Sacramento Kings 95, New Jersey Nets 79 at New Jersey
+New York Knicks 100, Milwaukee Bucks 97 OT at New York
+Los Angeles Lakers 104, Toronto Raptors 101 OT at Toronto
+Orlando Magic 101, Vancouver Grizzlies 91 at Vancouver
+Dec 18, 2000
+Dallas Mavericks 106, Boston Celtics 98 at Boston
+Dec 19, 2000
+Atlanta Hawks 87, New York Knicks 77 at Atlanta
+Indiana Pacers 90, Chicago Bulls 85 at Chicago
+Golden State Warriors 120, Minnesota Timberwolves 99 at Golden State
+San Antonio Spurs 86, Houston Rockets 79 at Houston
+Los Angeles Lakers 81, Miami Heat 79 at Miami
+Detroit Pistons 89, Phoenix Suns 84 at Phoenix
+Sacramento Kings 106, Washington Wizards 72 at Sacramento
+Toronto Raptors 103, Utah Jazz 95 at Toronto
+Dec 20, 2000
+Boston Celtics 99, New Jersey Nets 86 at Boston
+Charlotte Hornets 65, Miami Heat 56 at Charlotte
+Dallas Mavericks 106, Portland Trail Blazers 101 at Dallas
+Denver Nuggets 108, Detroit Pistons 106 at Denver
+Toronto Raptors 99, Indiana Pacers 98 OT at Indiana
+Los Angeles Clippers 103, Minnesota Timberwolves 96 at Los Angeles
+Utah Jazz 91, Philadelphia 76ers 89 at Philadelphia
+San Antonio Spurs 94, Cleveland Cavaliers 77 at San Antonio
+Seattle Supersonics 89, Sacramento Kings 85 at Seattle
+Vancouver Grizzlies 118, Washington Wizards 104 at Vancouver
+Dec 21, 2000
+Los Angeles Lakers 99, Houston Rockets 94 at Houston
+Milwaukee Bucks 80, New Jersey Nets 78 at Milwaukee
+Boston Celtics 92, New York Knicks 86 at New York
+Orlando Magic 99, Chicago Bulls 88 at Orlando
+Dec 22, 2000
+Los Angeles Lakers 108, Dallas Mavericks 103 at Dallas
+Denver Nuggets 116, Portland Trail Blazers 96 at Denver
+Utah Jazz 109, Indiana Pacers 101 at Indiana
+Miami Heat 103, Cleveland Cavaliers 95 at Miami
+Charlotte Hornets 83, Minnesota Timberwolves 74 at Minnesota
+New York Knicks 91, Philadelphia 76ers 71 at Philadelphia
+San Antonio Spurs 105, Golden State Warriors 87 at San Antonio
+Seattle Supersonics 107, Washington Wizards 87 at Seattle
+Atlanta Hawks 78, Toronto Raptors 72 at Toronto
+Sacramento Kings 95, Vancouver Grizzlies 93 at Vancouver
+Dec 23, 2000
+Atlanta Hawks 91, Indiana Pacers 87 at Atlanta
+Charlotte Hornets 88, San Antonio Spurs 84 OT at Charlotte
+Detroit Pistons 106, Chicago Bulls 93 at Detroit
+Golden State Warriors 95, Houston Rockets 87 at Houston
+Los Angeles Clippers 92, Vancouver Grizzlies 90 at Los Angeles
+Milwaukee Bucks 104, Boston Celtics 99 at Milwaukee
+Utah Jazz 98, Minnesota Timberwolves 92 at Minnesota
+Miami Heat 86, New Jersey Nets 80 at New Jersey
+Orlando Magic 111, Cleveland Cavaliers 92 at Orlando
+Phoenix Suns 102, Denver Nuggets 93 at Phoenix
+Portland Trail Blazers 87, Washington Wizards 70 at Portland
+Sacramento Kings 97, Seattle Supersonics 92 at Sacramento
+Dec 25, 2000
+Indiana Pacers 103, Orlando Magic 93 at Indiana
+Portland Trail Blazers 109, Los Angeles Lakers 104 at Los Angeles
+Dec 26, 2000
+Charlotte Hornets 115, Cleveland Cavaliers 110 OT at Charlotte
+Dallas Mavericks 114, Seattle Supersonics 93 at Dallas
+Denver Nuggets 109, Los Angeles Clippers 108 at Denver
+Detroit Pistons 101, Boston Celtics 96 at Detroit
+Milwaukee Bucks 89, Orlando Magic 77 at Milwaukee
+Minnesota Timberwolves 100, Toronto Raptors 97 at Minnesota
+Atlanta Hawks 81, New Jersey Nets 76 at New Jersey
+San Antonio Spurs 103, Houston Rockets 95 at San Antonio
+Philadelphia 76ers 97, Utah Jazz 91 at Utah
+Phoenix Suns 97, Vancouver Grizzlies 95 at Vancouver
+Dec 27, 2000
+Philadelphia 76ers 118, Golden State Warriors 110 at Golden State
+Seattle Supersonics 107, Houston Rockets 92 at Houston
+Miami Heat 91, Indiana Pacers 79 at Miami
+New York Knicks 89, Washington Wizards 82 at Washington
+Dec 28, 2000
+Chicago Bulls 105, San Antonio Spurs 104 at Chicago
+Milwaukee Bucks 107, Cleveland Cavaliers 89 at Cleveland
+Dallas Mavericks 105, Los Angeles Clippers 96 at Dallas
+Toronto Raptors 94, Denver Nuggets 93 at Denver
+Minnesota Timberwolves 88, Atlanta Hawks 81 at Minnesota
+Boston Celtics 112, New Jersey Nets 111 at New Jersey
+Orlando Magic 102, Detroit Pistons 96 at Orlando
+Los Angeles Lakers 115, Phoenix Suns 78 at Phoenix
+Sacramento Kings 91, Charlotte Hornets 87 at Sacramento
+Portland Trail Blazers 103, Utah Jazz 102 OT at Utah
+Dec 29, 2000
+Cleveland Cavaliers 97, Atlanta Hawks 85 at Atlanta
+Golden State Warriors 100, Utah Jazz 89 at Golden State
+Miami Heat 98, Washington Wizards 91 at Miami
+New York Knicks 95, Chicago Bulls 68 at New York
+Portland Trail Blazers 104, Vancouver Grizzlies 81 at Portland
+Dec 30, 2000
+Orlando Magic 95, Boston Celtics 90 at Boston
+Houston Rockets 114, Dallas Mavericks 99 at Dallas
+Denver Nuggets 120, Milwaukee Bucks 113 at Denver
+Miami Heat 110, Detroit Pistons 102 OT at Detroit
+San Antonio Spurs 89, Indiana Pacers 77 at Indiana
+Los Angeles Lakers 116, Los Angeles Clippers 114 OT at Los Angeles
+New York Knicks 88, Minnesota Timberwolves 79 at Minnesota
+Phoenix Suns 109, Toronto Raptors 103 at Phoenix
+Philadelphia 76ers 107, Sacramento Kings 104 OT at Sacramento
+Seattle Supersonics 104, Charlotte Hornets 102 at Seattle
+Golden State Warriors 102, Vancouver Grizzlies 101 at Vancouver
+Dec 31, 2000
+Chicago Bulls 86, New Jersey Nets 77 at Chicago
+Washington Wizards 110, Detroit Pistons 96 at Washington
+Jan 1, 2001
+Minnesota Timberwolves 106, Houston Rockets 96 at Minnesota
+Portland Trail Blazers 89, Charlotte Hornets 67 at Portland
+Jan 2, 2001
+Atlanta Hawks 92, Boston Celtics 81 at Atlanta
+Milwaukee Bucks 104, Chicago Bulls 70 at Chicago
+Houston Rockets 100, Cleveland Cavaliers 95 at Cleveland
+Los Angeles Clippers 110, Toronto Raptors 97 at Los Angeles
+New Jersey Nets 120, Orlando Magic 110 at Orlando
+Sacramento Kings 121, Phoenix Suns 117 OT at Sacramento
+San Antonio Spurs 80, Miami Heat 72 at San Antonio
+Indiana Pacers 91, Seattle Supersonics 83 at Seattle
+Washington Wizards 115, Minnesota Timberwolves 108 at Washington
+Jan 3, 2001
+New York Knicks 100, Boston Celtics 91 at Boston
+Detroit Pistons 107, Dallas Mavericks 104 at Dallas
+Denver Nuggets 111, Golden State Warriors 100 at Golden State
+Los Angeles Lakers 82, Utah Jazz 71 at Los Angeles
+Milwaukee Bucks 88, Cleveland Cavaliers 83 at Milwaukee
+Philadelphia 76ers 98, Atlanta Hawks 80 at Philadelphia
+Phoenix Suns 90, Los Angeles Clippers 85 at Phoenix
+Portland Trail Blazers 102, Indiana Pacers 86 at Portland
+Vancouver Grizzlies 99, Charlotte Hornets 89 at Vancouver
+Jan 4, 2001
+Chicago Bulls 98, Washington Wizards 96 at Chicago
+Houston Rockets 107, Detroit Pistons 97 at Houston
+Miami Heat 81, New Jersey Nets 78 at Miami
+Minnesota Timberwolves 105, Seattle Supersonics 92 at Minnesota
+New York Knicks 95, Orlando Magic 92 OT at New York
+Jan 5, 2001
+Denver Nuggets 100, Utah Jazz 87 at Denver
+Charlotte Hornets 86, Los Angeles Clippers 73 at Los Angeles
+Philadelphia 76ers 121, Seattle Supersonics 89 at Philadelphia
+Phoenix Suns 108, Vancouver Grizzlies 76 at Phoenix
+Portland Trail Blazers 119, Milwaukee Bucks 115 at Portland
+Indiana Pacers 93, Sacramento Kings 91 OT at Sacramento
+Dallas Mavericks 115, Toronto Raptors 105 at Toronto
+Golden State Warriors 100, Boston Celtics 88 at Boston
+Jan 6, 2001
+Atlanta Hawks 83, Orlando Magic 82 at Atlanta
+Philadelphia 76ers 107, Cleveland Cavaliers 103 at Cleveland
+Utah Jazz 99, Houston Rockets 97 at Houston
+Miami Heat 112, Boston Celtics 86 at Miami
+New Jersey Nets 97, Golden State Warriors 92 at New Jersey
+San Antonio Spurs 108, Detroit Pistons 101 at San Antonio
+Dallas Mavericks 103, Washington Wizards 85 at Washington
+Jan 7, 2001
+Denver Nuggets 94, Charlotte Hornets 87 at Denver
+Los Angeles Clippers 118, Los Angeles Lakers 95 at Los Angeles
+New York Knicks 103, Washington Wizards 87 at New York
+Minnesota Timberwolves 108, Phoenix Suns 88 at Phoenix
+Toronto Raptors 94, Seattle Supersonics 92 at Toronto
+Vancouver Grizzlies 120, Milwaukee Bucks 117 at Vancouver
+Jan 8, 2001
+Portland Trail Blazers 98, Boston Celtics 90 at Boston
+Dallas Mavericks 104, Chicago Bulls 91 at Chicago
+Cleveland Cavaliers 92, New Jersey Nets 90 at Cleveland
+Indiana Pacers 85, Los Angeles Clippers 82 at Los Angeles
+Miami Heat 88, Golden State Warriors 78 at Miami
+Sacramento Kings 100, Minnesota Timberwolves 97 at Sacramento
+Jan 9, 2001
+Seattle Supersonics 95, Atlanta Hawks 86 at Atlanta
+Charlotte Hornets 102, Chicago Bulls 95 3OT at Charlotte
+Milwaukee Bucks 99, Washington Wizards 95 at Milwaukee
+Philadelphia 76ers 104, New Jersey Nets 87 at New Jersey
+San Antonio Spurs 112, Orlando Magic 95 at Orlando
+Houston Rockets 110, Toronto Raptors 91 at Toronto
+Utah Jazz 103, Indiana Pacers 99 at Utah
+Denver Nuggets 112, Vancouver Grizzlies 105 at Vancouver
+Jan 10, 2001
+Boston Celtics 88, Miami Heat 76 at Boston
+Toronto Raptors 110, Detroit Pistons 85 at Detroit
+Los Angeles Clippers 92, Denver Nuggets 86 at Los Angeles
+Dallas Mavericks 106, Minnesota Timberwolves 86 at Minnesota
+Portland Trail Blazers 93, Philadelphia 76ers 75 at Philadelphia
+Sacramento Kings 108, Cleveland Cavaliers 103 at Sacramento
+Seattle Supersonics 104, Washington Wizards 101 at Washington
+Jan 11, 2001
+Atlanta Hawks 107, Golden State Warriors 96 at Atlanta
+Portland Trail Blazers 83, Charlotte Hornets 70 at Charlotte
+Milwaukee Bucks 102, Dallas Mavericks 94 at Milwaukee
+Orlando Magic 101, New Jersey Nets 87 at New Jersey
+Houston Rockets 76, New York Knicks 75 at New York
+Phoenix Suns 93, Indiana Pacers 85 at Phoenix
+Jan 12, 2001
+Toronto Raptors 93, Boston Celtics 72 at Boston
+Charlotte Hornets 86, Chicago Bulls 85 at Chicago
+Denver Nuggets 106, Sacramento Kings 93 at Denver
+San Antonio Spurs 111, Detroit Pistons 90 at Detroit
+Los Angeles Lakers 101, Cleveland Cavaliers 98 at Los Angeles
+Minnesota Timberwolves 95, Los Angeles Clippers 89 at Minnesota
+Seattle Supersonics 115, Vancouver Grizzlies 102 at Seattle
+Philadelphia 76ers 86, Washington Wizards 82 at Washington
+Jan 13, 2001
+Atlanta Hawks 108, Los Angeles Clippers 88 at Atlanta
+Phoenix Suns 103, Dallas Mavericks 86 at Dallas
+Sacramento Kings 84, Houston Rockets 81 at Houston
+Indiana Pacers 87, Miami Heat 71 at Indiana
+Milwaukee Bucks 115, New Jersey Nets 81 at Milwaukee
+New York Knicks 91, Portland Trail Blazers 78 at New York
+Orlando Magic 111, Golden State Warriors 94 at Orlando
+Philadelphia 76ers 100, San Antonio Spurs 83 at Philadelphia
+Utah Jazz 111, Los Angeles Lakers 103 at Utah
+Vancouver Grizzlies 119, Cleveland Cavaliers 107 at Vancouver
+Jan 14, 2001
+Portland Trail Blazers 103, Detroit Pistons 96 at Detroit
+Miami Heat 90, Chicago Bulls 81 at Miami
+Seattle Supersonics 106, Phoenix Suns 87 at Phoenix
+Toronto Raptors 107, Charlotte Hornets 99 at Toronto
+Jan 15, 2001
+New Jersey Nets 84, Atlanta Hawks 78 at Atlanta
+Sacramento Kings 116, Dallas Mavericks 105 at Dallas
+Denver Nuggets 122, Seattle Supersonics 111 at Denver
+Cleveland Cavaliers 107, Golden State Warriors 101 at Golden State
+Indiana Pacers 89, Los Angeles Clippers 74 at Indiana
+Los Angeles Lakers 113, Vancouver Grizzlies 112 OT at Los Angeles
+Boston Celtics 107, Minnesota Timberwolves 102 at Minnesota
+New York Knicks 104, San Antonio Spurs 82 at New York
+Orlando Magic 113, Chicago Bulls 104 at Orlando
+Philadelphia 76ers 84, Charlotte Hornets 79 at Philadelphia
+Utah Jazz 116, Houston Rockets 104 OT at Utah
+Milwaukee Bucks 101, Washington Wizards 95 at Washington
+Jan 16, 2001
+Houston Rockets 114, Toronto Raptors 99 at Houston
+Miami Heat 93, Detroit Pistons 85 at Miami
+Milwaukee Bucks 112, Los Angeles Clippers 91 at Milwaukee
+Portland Trail Blazers 103, Cleveland Cavaliers 83 at Portland
+Jan 17, 2001
+Dallas Mavericks 91, Charlotte Hornets 90 at Charlotte
+Denver Nuggets 121, Vancouver Grizzlies 97 at Denver
+New Jersey Nets 108, Washington Wizards 89 at New Jersey
+Philadelphia 76ers 99, Chicago Bulls 88 at Philadelphia
+Sacramento Kings 111, Boston Celtics 106 at Sacramento
+Toronto Raptors 98, San Antonio Spurs 91 at San Antonio
+Phoenix Suns 89, Seattle Supersonics 80 at Seattle
+Minnesota Timberwolves 89, Utah Jazz 81 at Utah
+Jan 18, 2001
+Detroit Pistons 116, Chicago Bulls 110 at Chicago
+Dallas Mavericks 115, Orlando Magic 106 OT at Dallas
+Houston Rockets 112, Golden State Warriors 104 at Golden State
+Indiana Pacers 84, Atlanta Hawks 76 at Indiana
+Boston Celtics 82, Los Angeles Clippers 79 at Los Angeles
+Portland Trail Blazers 85, Miami Heat 74 at Portland
+Jan 19, 2001
+Milwaukee Bucks 105, Charlotte Hornets 98 at Charlotte
+Denver Nuggets 91, Cleveland Cavaliers 88 at Denver
+New York Knicks 97, Detroit Pistons 91 at Detroit
+Los Angeles Lakers 114, Houston Rockets 101 at Los Angeles
+Philadelphia 76ers 97, New Jersey Nets 86 at Philadelphia
+Golden State Warriors 103, Phoenix Suns 95 at Phoenix
+Minnesota Timberwolves 98, Seattle Supersonics 93 at Seattle
+Toronto Raptors 101, Washington Wizards 79 at Toronto
+Miami Heat 97, Vancouver Grizzlies 86 at Vancouver
+Jan 20, 2001
+Dallas Mavericks 97, Denver Nuggets 79 at Dallas
+New Jersey Nets 123, Chicago Bulls 103 at New Jersey
+Sacramento Kings 111, Portland Trail Blazers 101 at Portland
+Orlando Magic 112, San Antonio Spurs 109 OT at San Antonio
+Jan 21, 2001
+Milwaukee Bucks 102, Detroit Pistons 98 at Detroit
+Golden State Warriors 94, Boston Celtics 91 at Golden State
+Miami Heat 103, Los Angeles Lakers 92 at Los Angeles
+Indiana Pacers 87, New York Knicks 74 at New York
+Toronto Raptors 110, Philadelphia 76ers 106 OT at Philadelphia
+Seattle Supersonics 109, Sacramento Kings 107 at Seattle
+Utah Jazz 109, Phoenix Suns 98 at Utah
+Minnesota Timberwolves 96, Vancouver Grizzlies 94 at Vancouver
+Washington Wizards 94, Atlanta Hawks 90 at Washington
+Jan 22, 2001
+Cleveland Cavaliers 84, Portland Trail Blazers 58 at Cleveland
+Jan 23, 2001
+Boston Celtics 83, Atlanta Hawks 82 at Boston
+Portland Trail Blazers 104, Chicago Bulls 100 at Chicago
+Philadelphia 76ers 114, Dallas Mavericks 98 at Dallas
+Denver Nuggets 105, Houston Rockets 100 at Denver
+Milwaukee Bucks 105, New York Knicks 91 at Milwaukee
+Minnesota Timberwolves 82, Phoenix Suns 73 at Minnesota
+Orlando Magic 116, Toronto Raptors 111 2OT at Orlando
+Sacramento Kings 130, New Jersey Nets 104 at Sacramento
+San Antonio Spurs 110, Vancouver Grizzlies 77 at San Antonio
+Seattle Supersonics 91, Los Angeles Lakers 80 at Seattle
+Utah Jazz 100, Golden State Warriors 78 at Utah
+Washington Wizards 97, Charlotte Hornets 95 at Washington
+Jan 24, 2001
+Charlotte Hornets 81, New York Knicks 67 at Charlotte
+Cleveland Cavaliers 94, Chicago Bulls 86 at Cleveland
+Phoenix Suns 106, Detroit Pistons 73 at Detroit
+Golden State Warriors 109, New Jersey Nets 87 at Golden State
+Philadelphia 76ers 85, Houston Rockets 84 OT at Houston
+Seattle Supersonics 114, Los Angeles Clippers 110 OT at Los Angeles
+Miami Heat 103, Toronto Raptors 83 at Miami
+Jan 25, 2001
+Dallas Mavericks 120, Vancouver Grizzlies 83 at Dallas
+Portland Trail Blazers 92, Indiana Pacers 82 at Indiana
+Minnesota Timberwolves 109, Orlando Magic 100 at Minnesota
+San Antonio Spurs 97, Sacramento Kings 91 at Sacramento
+Utah Jazz 98, Denver Nuggets 96 at Utah
+Jan 26, 2001
+Washington Wizards 106, Atlanta Hawks 99 at Atlanta
+Boston Celtics 99, Phoenix Suns 83 at Boston
+Seattle Supersonics 107, Golden State Warriors 105 at Golden State
+Houston Rockets 106, Vancouver Grizzlies 89 at Houston
+Los Angeles Lakers 113, New Jersey Nets 101 at Los Angeles
+Philadelphia 76ers 105, Detroit Pistons 89 at Philadelphia
+Jan 27, 2001
+Houston Rockets 110, Charlotte Hornets 97 at Charlotte
+Toronto Raptors 90, Chicago Bulls 80 at Chicago
+Atlanta Hawks 101, Cleveland Cavaliers 90 at Cleveland
+Denver Nuggets 102, Dallas Mavericks 100 at Denver
+Sacramento Kings 101, Los Angeles Clippers 89 at Los Angeles
+Detroit Pistons 108, Milwaukee Bucks 103 at Milwaukee
+Minnesota Timberwolves 93, Portland Trail Blazers 80 at Minnesota
+Miami Heat 81, Orlando Magic 59 at Orlando
+Seattle Supersonics 106, New Jersey Nets 97 at Seattle
+San Antonio Spurs 99, Utah Jazz 86 at Utah
+Washington Wizards 89, Phoenix Suns 82 at Washington
+Jan 28, 2001
+Philadelphia 76ers 86, Indiana Pacers 81 at Indiana
+New York Knicks 91, Los Angeles Lakers 81 at New York
+Jan 29, 2001
+Phoenix Suns 95, Atlanta Hawks 82 at Atlanta
+Boston Celtics 99, Detroit Pistons 87 at Boston
+Utah Jazz 97, Denver Nuggets 91 at Denver
+Charlotte Hornets 93, Golden State Warriors 85 at Golden State
+San Antonio Spurs 96, Los Angeles Clippers 67 at Los Angeles
+Minnesota Timberwolves 99, Milwaukee Bucks 96 at Minnesota
+Vancouver Grizzlies 97, New Jersey Nets 86 at Vancouver
+Washington Wizards 95, Cleveland Cavaliers 89 at Washington
+Jan 30, 2001
+Los Angeles Lakers 102, Cleveland Cavaliers 96 at Cleveland
+Miami Heat 103, Houston Rockets 85 at Houston
+Orlando Magic 93, Indiana Pacers 86 at Orlando
+Portland Trail Blazers 92, Chicago Bulls 81 at Portland
+Sacramento Kings 105, Golden State Warriors 79 at Sacramento
+Utah Jazz 102, Seattle Supersonics 88 at Seattle
+Toronto Raptors 96, Philadelphia 76ers 89 at Toronto
+Jan 31, 2001
+Atlanta Hawks 102, Toronto Raptors 97 at Atlanta
+Boston Celtics 102, Indiana Pacers 96 OT at Indiana
+Milwaukee Bucks 116, Denver Nuggets 111 at Milwaukee
+Minnesota Timberwolves 96, Los Angeles Lakers 83 at Minnesota
+Detroit Pistons 112, New Jersey Nets 103 at New Jersey
+Phoenix Suns 101, Vancouver Grizzlies 92 at Phoenix
+San Antonio Spurs 92, Los Angeles Clippers 70 at San Antonio
+Orlando Magic 100, Washington Wizards 96 at Washington
+Feb 1, 2001
+Minnesota Timberwolves 90, Cleveland Cavaliers 81 at Cleveland
+Dallas Mavericks 95, Miami Heat 91 OT at Dallas
+Los Angeles Clippers 101, Houston Rockets 84 at Houston
+Philadelphia 76ers 87, New York Knicks 80 at New York
+Portland Trail Blazers 100, Phoenix Suns 92 at Portland
+Seattle Supersonics 97, Chicago Bulls 91 at Seattle
+Utah Jazz 87, Charlotte Hornets 76 at Utah
+Feb 2, 2001
+Miami Heat 91, Atlanta Hawks 80 at Atlanta
+Boston Celtics 102, Detroit Pistons 95 at Detroit
+Indiana Pacers 103, Denver Nuggets 94 at Indiana
+Los Angeles Lakers 93, Charlotte Hornets 87 at Los Angeles
+New York Knicks 95, New Jersey Nets 71 at New Jersey
+Orlando Magic 123, Philadelphia 76ers 117 2OT at Philadelphia
+Sacramento Kings 105, Vancouver Grizzlies 95 at Sacramento
+Feb 3, 2001
+Detroit Pistons 88, Cleveland Cavaliers 81 OT at Cleveland
+Dallas Mavericks 101, Golden State Warriors 95 at Dallas
+Los Angeles Clippers 90, Portland Trail Blazers 89 at Los Angeles
+Milwaukee Bucks 104, Indiana Pacers 85 at Milwaukee
+Orlando Magic 96, Atlanta Hawks 84 at Orlando
+San Antonio Spurs 90, Houston Rockets 88 at San Antonio
+Minnesota Timberwolves 108, Toronto Raptors 105 at Toronto
+Utah Jazz 111, Seattle Supersonics 91 at Utah
+Vancouver Grizzlies 91, Chicago Bulls 84 at Vancouver
+Denver Nuggets 105, Washington Wizards 100 at Washington
+Feb 4, 2001
+Boston Celtics 103, Cleveland Cavaliers 82 at Boston
+Los Angeles Lakers 100, Sacramento Kings 94 at Los Angeles
+New York Knicks 103, Miami Heat 100 OT at Miami
+New Jersey Nets 96, Philadelphia 76ers 89 at New Jersey
+Phoenix Suns 85, Charlotte Hornets 82 at Phoenix
+Feb 5, 2001
+Dallas Mavericks 91, Atlanta Hawks 81 at Atlanta
+Houston Rockets 100, New York Knicks 86 at Houston
+Los Angeles Clippers 102, Chicago Bulls 82 at Los Angeles
+Philadelphia 76ers 99, Denver Nuggets 80 at Philadelphia
+San Antonio Spurs 109, Golden State Warriors 85 at San Antonio
+Seattle Supersonics 95, Vancouver Grizzlies 82 at Seattle
+Toronto Raptors 110, Boston Celtics 98 at Toronto
+Feb 6, 2001
+Orlando Magic 109, Charlotte Hornets 83 at Charlotte
+Detroit Pistons 94, Denver Nuggets 83 at Detroit
+Miami Heat 102, Indiana Pacers 89 at Miami
+Milwaukee Bucks 112, Sacramento Kings 109 at Milwaukee
+New Jersey Nets 90, Atlanta Hawks 84 at New Jersey
+Phoenix Suns 97, Chicago Bulls 80 at Phoenix
+Feb 7, 2001
+Boston Celtics 94, Milwaukee Bucks 91 at Boston
+San Antonio Spurs 107, Cleveland Cavaliers 89 at Cleveland
+Golden State Warriors 89, Los Angeles Clippers 88 at Golden State
+Los Angeles Lakers 85, Phoenix Suns 83 at Los Angeles
+Minnesota Timberwolves 117, Sacramento Kings 88 at Minnesota
+New York Knicks 96, Dallas Mavericks 93 2OT at New York
+Orlando Magic 107, Washington Wizards 98 at Orlando
+Houston Rockets 112, Philadelphia 76ers 87 at Philadelphia
+Portland Trail Blazers 97, Seattle Supersonics 80 at Portland
+Utah Jazz 92, Vancouver Grizzlies 82 at Vancouver
+Feb 8, 2001
+Charlotte Hornets 101, Atlanta Hawks 84 at Charlotte
+Houston Rockets 103, Detroit Pistons 90 at Detroit
+New Jersey Nets 99, San Antonio Spurs 97 at New Jersey
+Toronto Raptors 99, Denver Nuggets 92 at Toronto
+Feb 13, 2001
+Vancouver Grizzlies 99, Boston Celtics 98 at Vancouver
+Chicago Bulls 96, Atlanta Hawks 92 at Chicago
+Toronto Raptors 120, Cleveland Cavaliers 105 at Cleveland
+Denver Nuggets 96, New York Knicks 77 at Denver
+Phoenix Suns 93, Golden State Warriors 83 at Golden State
+Houston Rockets 99, Washington Wizards 89 at Houston
+Charlotte Hornets 77, Indiana Pacers 66 at Indiana
+Miami Heat 101, Los Angeles Clippers 99 OT at Miami
+Philadelphia 76ers 107, Milwaukee Bucks 104 at Milwaukee
+Los Angeles Lakers 113, New Jersey Nets 110 OT at New Jersey
+Portland Trail Blazers 109, Minnesota Timberwolves 88 at Portland
+San Antonio Spurs 104, Dallas Mavericks 92 at San Antonio
+Sacramento Kings 97, Utah Jazz 94 OT at Utah
+Feb 14, 2001
+Milwaukee Bucks 102, Atlanta Hawks 98 at Atlanta
+Detroit Pistons 105, New Jersey Nets 86 at Detroit
+Orlando Magic 114, Los Angeles Clippers 101 at Orlando
+Philadelphia 76ers 112, Los Angeles Lakers 97 at Philadelphia
+Phoenix Suns 104, Minnesota Timberwolves 96 at Phoenix
+Utah Jazz 106, New York Knicks 90 at Utah
+Feb 15, 2001
+Dallas Mavericks 102, Cleveland Cavaliers 81 at Dallas
+Indiana Pacers 82, Detroit Pistons 73 at Indiana
+Portland Trail Blazers 105, Sacramento Kings 81 at Portland
+San Antonio Spurs 102, Washington Wizards 78 at San Antonio
+Boston Celtics 108, Seattle Supersonics 88 at Seattle
+Miami Heat 98, Toronto Raptors 91 OT at Toronto
+Vancouver Grizzlies 99, Golden State Warriors 89 at Vancouver
+Feb 16, 2001
+Los Angeles Lakers 99, Charlotte Hornets 94 at Charlotte
+Vancouver Grizzlies 92, Golden State Warriors 79 at Golden State
+San Antonio Spurs 91, Minnesota Timberwolves 85 at Minnesota
+New York Knicks 114, New Jersey Nets 104 at New York
+Orlando Magic 108, Houston Rockets 93 at Orlando
+Philadelphia 76ers 108, Los Angeles Clippers 93 at Philadelphia
+Sacramento Kings 117, Denver Nuggets 84 at Sacramento
+Feb 17, 2001
+Chicago Bulls 89, Miami Heat 82 at Chicago
+Dallas Mavericks 112, Washington Wizards 105 at Dallas
+Houston Rockets 92, Cleveland Cavaliers 80 at Houston
+Charlotte Hornets 103, Milwaukee Bucks 93 at Milwaukee
+Boston Celtics 85, Portland Trail Blazers 81 at Portland
+Atlanta Hawks 101, Seattle Supersonics 94 at Seattle
+Feb 18, 2001
+Washington Wizards 101, Denver Nuggets 98 at Denver
+Atlanta Hawks 98, Golden State Warriors 91 at Golden State
+Indiana Pacers 110, Los Angeles Lakers 109 at Indiana
+Vancouver Grizzlies 110, Minnesota Timberwolves 102 at Minnesota
+New Jersey Nets 102, Los Angeles Clippers 96 OT at New Jersey
+Orlando Magic 96, New York Knicks 88 at Orlando
+Philadelphia 76ers 104, Phoenix Suns 98 at Philadelphia
+Utah Jazz 94, Sacramento Kings 90 at Sacramento
+San Antonio Spurs 92, Toronto Raptors 74 at Toronto
+Feb 19, 2001
+Cleveland Cavaliers 85, Chicago Bulls 84 at Cleveland
+Los Angeles Clippers 111, Detroit Pistons 106 OT at Detroit
+Milwaukee Bucks 102, San Antonio Spurs 98 at Milwaukee
+Utah Jazz 114, Boston Celtics 99 at Utah
+Feb 20, 2001
+Milwaukee Bucks 101, Chicago Bulls 92 at Chicago
+Los Angeles Lakers 119, Dallas Mavericks 109 at Dallas
+Houston Rockets 101, Boston Celtics 84 at Houston
+New York Knicks 76, Miami Heat 74 at New York
+Phoenix Suns 110, Orlando Magic 104 at Orlando
+Portland Trail Blazers 104, Denver Nuggets 94 at Portland
+Sacramento Kings 94, Atlanta Hawks 80 at Sacramento
+Toronto Raptors 113, Golden State Warriors 102 at Toronto
+Vancouver Grizzlies 116, Washington Wizards 104 at Washington
+Feb 21, 2001
+Los Angeles Clippers 100, Cleveland Cavaliers 94 at Cleveland
+Detroit Pistons 90, New York Knicks 85 at Detroit
+Phoenix Suns 100, Miami Heat 85 at Miami
+Houston Rockets 89, Minnesota Timberwolves 83 at Minnesota
+New Jersey Nets 113, Toronto Raptors 111 at New Jersey
+Philadelphia 76ers 107, Vancouver Grizzlies 91 at Philadelphia
+Los Angeles Lakers 101, San Antonio Spurs 99 at San Antonio
+Seattle Supersonics 127, Denver Nuggets 98 at Seattle
+Feb 22, 2001
+Charlotte Hornets 93, Golden State Warriors 91 at Charlotte
+Los Angeles Clippers 93, Chicago Bulls 80 at Chicago
+Dallas Mavericks 98, Boston Celtics 91 at Dallas
+Utah Jazz 90, Portland Trail Blazers 84 at Portland
+Sacramento Kings 115, Washington Wizards 110 at Washington
+Feb 23, 2001
+Indiana Pacers 92, Cleveland Cavaliers 90 at Cleveland
+Philadelphia 76ers 99, Detroit Pistons 78 at Detroit
+Houston Rockets 105, Orlando Magic 95 at Houston
+Los Angeles Lakers 113, Atlanta Hawks 106 at Los Angeles
+Milwaukee Bucks 93, Vancouver Grizzlies 81 at Milwaukee
+Minnesota Timberwolves 122, Golden State Warriors 83 at Minnesota
+Phoenix Suns 88, New York Knicks 84 OT at New York
+San Antonio Spurs 100, Boston Celtics 82 at San Antonio
+Utah Jazz 96, Seattle Supersonics 84 at Seattle
+Sacramento Kings 119, Toronto Raptors 118 3OT at Toronto
+Feb 24, 2001
+Charlotte Hornets 86, Philadelphia 76ers 85 at Charlotte
+Chicago Bulls 90, Vancouver Grizzlies 75 at Chicago
+San Antonio Spurs 107, Dallas Mavericks 104 at Dallas
+Denver Nuggets 85, Atlanta Hawks 82 at Denver
+Los Angeles Clippers 123, Portland Trail Blazers 120 2OT at Los Angeles
+Miami Heat 75, New Jersey Nets 70 at Miami
+Toronto Raptors 106, Washington Wizards 99 at Washington
+Feb 25, 2001
+Cleveland Cavaliers 101, Detroit Pistons 94 at Detroit
+Indiana Pacers 110, Minnesota Timberwolves 100 at Indiana
+Los Angeles Lakers 106, Orlando Magic 100 at Los Angeles
+Milwaukee Bucks 122, Golden State Warriors 95 at Milwaukee
+New Jersey Nets 101, Washington Wizards 91 at New Jersey
+New York Knicks 88, Sacramento Kings 86 at New York
+Phoenix Suns 90, Utah Jazz 80 at Phoenix
+Feb 26, 2001
+Boston Celtics 85, Seattle Supersonics 82 at Boston
+Charlotte Hornets 82, Indiana Pacers 72 at Charlotte
+Golden State Warriors 84, Chicago Bulls 78 at Chicago
+Orlando Magic 93, Denver Nuggets 86 at Denver
+Portland Trail Blazers 95, Houston Rockets 89 at Houston
+Dallas Mavericks 103, Los Angeles Clippers 92 at Los Angeles
+Milwaukee Bucks 98, Philadelphia 76ers 91 at Philadelphia
+Utah Jazz 99, Atlanta Hawks 82 at Utah
+Feb 27, 2001
+Miami Heat 103, Washington Wizards 95 at Miami
+New York Knicks 101, Seattle Supersonics 92 at New York
+Sacramento Kings 106, Los Angeles Clippers 93 OT at Sacramento
+Portland Trail Blazers 95, San Antonio Spurs 87 at San Antonio
+Toronto Raptors 101, Cleveland Cavaliers 89 at Toronto
+Dallas Mavericks 116, Vancouver Grizzlies 112 at Vancouver
+Feb 28, 2001
+Toronto Raptors 95, Atlanta Hawks 88 at Atlanta
+Charlotte Hornets 91, New Jersey Nets 88 at Charlotte
+Houston Rockets 95, Chicago Bulls 78 at Chicago
+Denver Nuggets 107, Los Angeles Lakers 101 at Denver
+Sacramento Kings 122, Golden State Warriors 101 at Golden State
+Indiana Pacers 99, Milwaukee Bucks 86 at Indiana
+Minnesota Timberwolves 111, Detroit Pistons 100 at Minnesota
+Philadelphia 76ers 79, Miami Heat 69 at Philadelphia
+Orlando Magic 97, Phoenix Suns 91 at Phoenix
+Utah Jazz 101, Vancouver Grizzlies 83 at Utah
+Mar 1, 2001
+Seattle Supersonics 101, Cleveland Cavaliers 99 OT at Cleveland
+Houston Rockets 108, Milwaukee Bucks 91 at Milwaukee
+New York Knicks 95, Boston Celtics 88 at New York
+Portland Trail Blazers 94, Los Angeles Clippers 81 at Portland
+San Antonio Spurs 91, Phoenix Suns 71 at San Antonio
+Mar 2, 2001
+Charlotte Hornets 105, Atlanta Hawks 99 at Atlanta
+Boston Celtics 103, Utah Jazz 99 at Boston
+Chicago Bulls 81, New York Knicks 72 at Chicago
+Minnesota Timberwolves 89, Denver Nuggets 71 at Denver
+Miami Heat 97, Detroit Pistons 93 OT at Detroit
+Seattle Supersonics 86, Indiana Pacers 83 at Indiana
+Los Angeles Clippers 88, Sacramento Kings 81 at Los Angeles
+Orlando Magic 120, Cleveland Cavaliers 94 at Orlando
+Philadelphia 76ers 107, Washington Wizards 102 at Philadelphia
+Toronto Raptors 107, New Jersey Nets 90 at Toronto
+Mar 3, 2001
+Dallas Mavericks 100, Houston Rockets 95 at Dallas
+Milwaukee Bucks 126, Chicago Bulls 122 2OT at Milwaukee
+Phoenix Suns 97, Denver Nuggets 82 at Phoenix
+Portland Trail Blazers 122, Golden State Warriors 91 at Portland
+San Antonio Spurs 124, Atlanta Hawks 95 at San Antonio
+Los Angeles Lakers 98, Vancouver Grizzlies 88 at Vancouver
+Mar 4, 2001
+Charlotte Hornets 116, Boston Celtics 97 at Boston
+Miami Heat 91, Cleveland Cavaliers 79 at Cleveland
+Detroit Pistons 93, Orlando Magic 84 at Detroit
+New Jersey Nets 120, Indiana Pacers 96 at Indiana
+Los Angeles Lakers 110, Golden State Warriors 95 at Los Angeles
+Minnesota Timberwolves 119, Seattle Supersonics 111 OT at Minnesota
+Toronto Raptors 98, New York Knicks 88 at Toronto
+Utah Jazz 118, Washington Wizards 98 at Washington
+Mar 5, 2001
+Utah Jazz 109, Atlanta Hawks 102 at Atlanta
+Los Angeles Clippers 99, Denver Nuggets 86 at Los Angeles
+Miami Heat 87, Detroit Pistons 84 at Miami
+Milwaukee Bucks 107, New Jersey Nets 100 at New Jersey
+Orlando Magic 95, Dallas Mavericks 81 at Orlando
+San Antonio Spurs 91, Vancouver Grizzlies 77 at Vancouver
+Mar 6, 2001
+Minnesota Timberwolves 95, Charlotte Hornets 89 at Charlotte
+Chicago Bulls 87, Cleveland Cavaliers 74 at Chicago
+Phoenix Suns 93, Denver Nuggets 82 at Denver
+Los Angeles Lakers 97, Golden State Warriors 85 at Golden State
+New York Knicks 97, Indiana Pacers 83 at New York
+Vancouver Grizzlies 105, Portland Trail Blazers 97 at Portland
+Sacramento Kings 98, Toronto Raptors 91 at Sacramento
+San Antonio Spurs 101, Seattle Supersonics 73 at Seattle
+Mar 7, 2001
+Houston Rockets 104, Atlanta Hawks 98 at Atlanta
+Milwaukee Bucks 101, Boston Celtics 94 at Boston
+Washington Wizards 88, Cleveland Cavaliers 83 at Cleveland
+New York Knicks 79, Indiana Pacers 75 at Indiana
+Los Angeles Lakers 97, Toronto Raptors 85 at Los Angeles
+Dallas Mavericks 93, Miami Heat 86 at Miami
+Orlando Magic 112, Detroit Pistons 102 at Orlando
+Philadelphia 76ers 102, New Jersey Nets 94 at Philadelphia
+Sacramento Kings 100, Phoenix Suns 89 at Phoenix
+Utah Jazz 86, Seattle Supersonics 82 at Utah
+Mar 8, 2001
+Charlotte Hornets 97, Orlando Magic 84 at Charlotte
+Houston Rockets 99, Los Angeles Clippers 87 at Houston
+San Antonio Spurs 93, Portland Trail Blazers 79 at Portland
+Mar 9, 2001
+Boston Celtics 104, Washington Wizards 72 at Boston
+Dallas Mavericks 102, Golden State Warriors 73 at Dallas
+Detroit Pistons 108, Chicago Bulls 75 at Detroit
+Indiana Pacers 99, Cleveland Cavaliers 84 at Indiana
+San Antonio Spurs 93, Los Angeles Lakers 89 OT at Los Angeles
+Miami Heat 86, Minnesota Timberwolves 79 at Miami
+New Jersey Nets 96, New York Knicks 83 at New Jersey
+Philadelphia 76ers 108, Atlanta Hawks 103 at Philadelphia
+Sacramento Kings 110, Denver Nuggets 104 at Sacramento
+Toronto Raptors 110, Seattle Supersonics 99 at Seattle
+Utah Jazz 107, Phoenix Suns 95 at Utah
+Vancouver Grizzlies 95, Portland Trail Blazers 85 at Vancouver
+Mar 10, 2001
+Atlanta Hawks 93, Chicago Bulls 90 at Atlanta
+Charlotte Hornets 100, Milwaukee Bucks 90 at Charlotte
+Houston Rockets 86, Golden State Warriors 81 at Houston
+Orlando Magic 105, Minnesota Timberwolves 93 at Orlando
+Washington Wizards 107, New Jersey Nets 101 at Washington
+Mar 11, 2001
+Philadelphia 76ers 97, Boston Celtics 91 at Boston
+Cleveland Cavaliers 124, Milwaukee Bucks 110 at Cleveland
+Dallas Mavericks 111, Los Angeles Clippers 93 at Dallas
+Detroit Pistons 95, Indiana Pacers 78 at Detroit
+Seattle Supersonics 109, Los Angeles Lakers 97 OT at Los Angeles
+New York Knicks 86, Miami Heat 83 at New York
+Phoenix Suns 94, Houston Rockets 92 at Phoenix
+Sacramento Kings 105, Utah Jazz 90 at Sacramento
+Toronto Raptors 101, Vancouver Grizzlies 84 at Vancouver
+Mar 12, 2001
+Charlotte Hornets 102, Chicago Bulls 94 at Charlotte
+Denver Nuggets 84, Golden State Warriors 79 at Golden State
+Minnesota Timberwolves 94, Miami Heat 77 at Minnesota
+San Antonio Spurs 99, Los Angeles Clippers 81 at San Antonio
+Mar 13, 2001
+Atlanta Hawks 109, Vancouver Grizzlies 99 at Atlanta
+Dallas Mavericks 122, New Jersey Nets 98 at Dallas
+Houston Rockets 127, Indiana Pacers 118 3OT at Houston
+Los Angeles Lakers 112, Boston Celtics 107 at Los Angeles
+New York Knicks 98, Cleveland Cavaliers 79 at New York
+Sacramento Kings 114, Orlando Magic 108 OT at Orlando
+Seattle Supersonics 99, Portland Trail Blazers 90 at Seattle
+Milwaukee Bucks 101, Toronto Raptors 97 at Toronto
+Mar 14, 2001
+Charlotte Hornets 100, Vancouver Grizzlies 95 at Charlotte
+Philadelphia 76ers 85, Chicago Bulls 67 at Chicago
+Orlando Magic 97, Cleveland Cavaliers 87 at Cleveland
+Denver Nuggets 95, Indiana Pacers 83 at Denver
+Utah Jazz 102, Golden State Warriors 83 at Golden State
+Miami Heat 114, Sacramento Kings 104 at Miami
+Phoenix Suns 84, Portland Trail Blazers 79 at Portland
+San Antonio Spurs 106, Minnesota Timberwolves 100 OT at San Antonio
+Washington Wizards 103, Detroit Pistons 96 at Washington
+Mar 15, 2001
+Dallas Mavericks 103, Minnesota Timberwolves 83 at Dallas
+Los Angeles Lakers 125, Detroit Pistons 119 OT at Detroit
+Houston Rockets 108, New Jersey Nets 106 at Houston
+Seattle Supersonics 108, Milwaukee Bucks 102 at Milwaukee
+New York Knicks 88, Toronto Raptors 72 at New York
+Boston Celtics 105, Phoenix Suns 101 at Phoenix
+Mar 16, 2001
+Seattle Supersonics 90, Chicago Bulls 80 at Chicago
+Cleveland Cavaliers 114, Charlotte Hornets 109 at Cleveland
+Boston Celtics 87, Denver Nuggets 83 at Denver
+Indiana Pacers 103, Atlanta Hawks 97 at Indiana
+Los Angeles Clippers 94, Golden State Warriors 76 at Los Angeles
+Orlando Magic 103, Vancouver Grizzlies 99 at Orlando
+Sacramento Kings 100, Philadelphia 76ers 79 at Philadelphia
+Portland Trail Blazers 90, Utah Jazz 87 at Portland
+San Antonio Spurs 95, New Jersey Nets 86 at San Antonio
+Los Angeles Lakers 101, Washington Wizards 89 at Washington
+Mar 17, 2001
+Detroit Pistons 106, Atlanta Hawks 90 at Atlanta
+Charlotte Hornets 95, Washington Wizards 93 at Charlotte
+Dallas Mavericks 109, Phoenix Suns 99 at Dallas
+Houston Rockets 103, San Antonio Spurs 99 at Houston
+Miami Heat 95, Vancouver Grizzlies 81 at Miami
+Milwaukee Bucks 87, Philadelphia 76ers 78 at Milwaukee
+New York Knicks 101, Chicago Bulls 80 at New York
+Mar 18, 2001
+Denver Nuggets 98, New Jersey Nets 84 at Denver
+Milwaukee Bucks 100, Detroit Pistons 96 at Detroit
+Seattle Supersonics 104, Golden State Warriors 99 at Golden State
+Indiana Pacers 101, Sacramento Kings 95 at Indiana
+Utah Jazz 111, Los Angeles Clippers 96 at Los Angeles
+Minnesota Timberwolves 91, Cleveland Cavaliers 76 at Minnesota
+Los Angeles Lakers 95, Orlando Magic 90 at Orlando
+Mar 19, 2001
+Atlanta Hawks 108, Los Angeles Lakers 106 at Atlanta
+San Antonio Spurs 98, Portland Trail Blazers 85 at San Antonio
+Seattle Supersonics 93, Philadelphia 76ers 89 at Seattle
+Mar 20, 2001
+Orlando Magic 103, Chicago Bulls 95 at Chicago
+New York Knicks 110, Cleveland Cavaliers 75 at Cleveland
+Portland Trail Blazers 96, Dallas Mavericks 88 at Dallas
+Los Angeles Clippers 88, Philadelphia 76ers 77 at Los Angeles
+New Jersey Nets 104, Vancouver Grizzlies 90 at New Jersey
+Phoenix Suns 105, Washington Wizards 91 at Phoenix
+Sacramento Kings 125, Houston Rockets 109 at Sacramento
+Toronto Raptors 102, Indiana Pacers 81 at Toronto
+Utah Jazz 84, Detroit Pistons 79 at Utah
+Mar 21, 2001
+Charlotte Hornets 111, Toronto Raptors 95 at Charlotte
+Washington Wizards 99, Golden State Warriors 94 at Golden State
+Indiana Pacers 96, Orlando Magic 95 at Indiana
+Miami Heat 109, Chicago Bulls 81 at Miami
+Milwaukee Bucks 107, Los Angeles Lakers 100 at Milwaukee
+Minnesota Timberwolves 109, Dallas Mavericks 97 at Minnesota
+San Antonio Spurs 97, Boston Celtics 77 at Boston
+Mar 22, 2001
+San Antonio Spurs 115, Atlanta Hawks 101 at Atlanta
+Cleveland Cavaliers 109, Vancouver Grizzlies 95 at Cleveland
+Los Angeles Clippers 97, Houston Rockets 92 at Los Angeles
+Boston Celtics 113, New Jersey Nets 98 at New Jersey
+Sacramento Kings 103, Detroit Pistons 98 at Sacramento
+Phoenix Suns 91, Seattle Supersonics 88 at Seattle
+Portland Trail Blazers 101, Utah Jazz 99 at Utah
+Mar 23, 2001
+Chicago Bulls 93, Charlotte Hornets 90 OT at Chicago
+Indiana Pacers 95, Vancouver Grizzlies 75 at Indiana
+Los Angeles Lakers 104, Washington Wizards 91 at Los Angeles
+Milwaukee Bucks 115, Orlando Magic 103 at Milwaukee
+Minnesota Timberwolves 101, Denver Nuggets 90 at Minnesota
+New Jersey Nets 95, New York Knicks 86 at New York
+Phoenix Suns 84, Philadelphia 76ers 71 at Phoenix
+Toronto Raptors 112, Atlanta Hawks 86 at Toronto
+Mar 24, 2001
+Cleveland Cavaliers 117, Denver Nuggets 105 at Cleveland
+Dallas Mavericks 103, Charlotte Hornets 100 at Dallas
+Golden State Warriors 103, Detroit Pistons 95 at Golden State
+Seattle Supersonics 93, Houston Rockets 90 at Seattle
+Utah Jazz 119, Washington Wizards 93 at Utah
+Mar 25, 2001
+Boston Celtics 102, Chicago Bulls 98 at Boston
+Miami Heat 88, San Antonio Spurs 83 at Miami
+Milwaukee Bucks 105, Atlanta Hawks 98 at Milwaukee
+Minnesota Timberwolves 105, New Jersey Nets 91 at Minnesota
+Orlando Magic 84, Indiana Pacers 82 at Orlando
+Los Angeles Lakers 84, Sacramento Kings 72 at Sacramento
+Toronto Raptors 102, Vancouver Grizzlies 92 at Toronto
+Mar 26, 2001
+Denver Nuggets 109, Chicago Bulls 104 OT at Chicago
+New York Knicks 89, Golden State Warriors 87 OT at Golden State
+Philadelphia 76ers 90, Milwaukee Bucks 78 at Philadelphia
+Phoenix Suns 104, Los Angeles Lakers 83 at Phoenix
+Portland Trail Blazers 104, Los Angeles Clippers 96 at Portland
+Seattle Supersonics 104, Cleveland Cavaliers 86 at Seattle
+Dallas Mavericks 98, Utah Jazz 90 at Utah
+Mar 27, 2001
+Boston Celtics 115, Atlanta Hawks 112 OT at Atlanta
+Houston Rockets 109, Utah Jazz 86 at Houston
+Los Angeles Clippers 101, Detroit Pistons 94 at Los Angeles
+Toronto Raptors 101, Miami Heat 92 at Miami
+Sacramento Kings 124, New York Knicks 117 OT at Sacramento
+San Antonio Spurs 93, Charlotte Hornets 79 at San Antonio
+Indiana Pacers 110, Washington Wizards 102 at Washington
+Mar 28, 2001
+Sacramento Kings 108, Los Angeles Lakers 84 at Los Angeles
+New Jersey Nets 99, Denver Nuggets 96 at New Jersey
+Orlando Magic 96, Philadelphia 76ers 95 at Philadelphia
+Phoenix Suns 103, Cleveland Cavaliers 94 at Phoenix
+Dallas Mavericks 94, Portland Trail Blazers 84 at Portland
+Seattle Supersonics 94, Minnesota Timberwolves 93 at Seattle
+Mar 29, 2001
+Atlanta Hawks 104, Indiana Pacers 93 at Atlanta
+Boston Celtics 106, Chicago Bulls 104 at Chicago
+Phoenix Suns 90, Houston Rockets 85 at Houston
+Milwaukee Bucks 104, Miami Heat 96 at Milwaukee
+San Antonio Spurs 106, Utah Jazz 88 at San Antonio
+Vancouver Grizzlies 89, New York Knicks 68 at Vancouver
+Washington Wizards 116, Golden State Warriors 100 at Washington
+Mar 30, 2001
+Indiana Pacers 92, Boston Celtics 87 at Boston
+Denver Nuggets 103, Charlotte Hornets 96 at Charlotte
+Detroit Pistons 100, Orlando Magic 97 at Detroit
+Los Angeles Lakers 98, Dallas Mavericks 89 at Los Angeles
+Philadelphia 76ers 102, Golden State Warriors 89 at Philadelphia
+Portland Trail Blazers 96, New York Knicks 79 at Portland
+Sacramento Kings 110, Minnesota Timberwolves 98 at Sacramento
+Seattle Supersonics 94, Los Angeles Clippers 84 at Seattle
+Toronto Raptors 110, New Jersey Nets 99 at Toronto
+Utah Jazz 95, Cleveland Cavaliers 88 at Utah
+Mar 31, 2001
+Atlanta Hawks 99, Denver Nuggets 88 at Atlanta
+Miami Heat 97, Chicago Bulls 90 at Chicago
+Los Angeles Clippers 104, Cleveland Cavaliers 97 at Los Angeles
+Milwaukee Bucks 86, San Antonio Spurs 77 at San Antonio
+Houston Rockets 96, Washington Wizards 86 at Washington
+Apr 1, 2001
+Charlotte Hornets 80, Boston Celtics 79 at Charlotte
+Detroit Pistons 104, Golden State Warriors 87 at Detroit
+New York Knicks 79, Los Angeles Lakers 78 at Los Angeles
+New Jersey Nets 101, Houston Rockets 98 at New Jersey
+Philadelphia 76ers 104, Indiana Pacers 93 at Philadelphia
+Phoenix Suns 106, Milwaukee Bucks 99 at Phoenix
+Minnesota Timberwolves 99, Portland Trail Blazers 95 at Portland
+Dallas Mavericks 119, Sacramento Kings 107 at Sacramento
+Orlando Magic 104, Toronto Raptors 101 at Toronto
+Utah Jazz 92, Vancouver Grizzlies 73 at Vancouver
+Apr 3, 2001
+Detroit Pistons 110, Chicago Bulls 83 at Chicago
+Denver Nuggets 94, Portland Trail Blazers 92 at Denver
+Dallas Mavericks 109, Houston Rockets 97 at Houston
+Indiana Pacers 85, Phoenix Suns 81 at Indiana
+Boston Celtics 82, Miami Heat 77 at Miami
+Charlotte Hornets 103, New Jersey Nets 88 at New Jersey
+New York Knicks 94, Orlando Magic 82 at New York
+Milwaukee Bucks 107, Sacramento Kings 101 at Sacramento
+San Antonio Spurs 107, Seattle Supersonics 89 at San Antonio
+Toronto Raptors 100, Philadelphia 76ers 85 at Toronto
+Los Angeles Lakers 96, Utah Jazz 88 at Utah
+Apr 4, 2001
+Phoenix Suns 103, Charlotte Hornets 94 at Charlotte
+Toronto Raptors 97, Cleveland Cavaliers 94 at Cleveland
+Philadelphia 76ers 90, Detroit Pistons 84 at Detroit
+Milwaukee Bucks 108, Golden State Warriors 78 at Golden State
+Minnesota Timberwolves 83, Portland Trail Blazers 79 at Minnesota
+Orlando Magic 108, Boston Celtics 101 at Orlando
+Vancouver Grizzlies 86, Los Angeles Clippers 78 at Vancouver
+Miami Heat 86, Washington Wizards 84 at Washington
+Apr 5, 2001
+Los Angeles Lakers 100, Chicago Bulls 88 at Chicago
+Dallas Mavericks 108, Atlanta Hawks 94 at Dallas
+San Antonio Spurs 101, Denver Nuggets 80 at Denver
+Houston Rockets 91, Seattle Supersonics 88 at Houston
+New York Knicks 93, Washington Wizards 80 at New York
+Sacramento Kings 92, Utah Jazz 86 at Utah
+Apr 6, 2001
+Los Angeles Lakers 100, Boston Celtics 96 at Boston
+Portland Trail Blazers 122, Golden State Warriors 91 at Golden State
+Indiana Pacers 100, Chicago Bulls 93 at Indiana
+Los Angeles Clippers 113, Milwaukee Bucks 110 OT at Los Angeles
+Miami Heat 81, Charlotte Hornets 76 at Miami
+Minnesota Timberwolves 101, Phoenix Suns 88 at Minnesota
+Toronto Raptors 108, Orlando Magic 100 at Orlando
+Philadelphia 76ers 96, Cleveland Cavaliers 88 at Philadelphia
+Sacramento Kings 118, Vancouver Grizzlies 90 at Vancouver
+Apr 7, 2001
+Detroit Pistons 97, Charlotte Hornets 92 at Charlotte
+Phoenix Suns 102, Cleveland Cavaliers 98 at Cleveland
+Utah Jazz 116, Dallas Mavericks 103 at Dallas
+Denver Nuggets 98, Vancouver Grizzlies 97 at Denver
+Houston Rockets 110, Atlanta Hawks 97 at Houston
+San Antonio Spurs 93, Los Angeles Clippers 83 at Los Angeles
+Boston Celtics 102, Washington Wizards 100 at Washington
+Apr 8, 2001
+San Antonio Spurs 84, Golden State Warriors 76 at Golden State
+Miami Heat 81, New York Knicks 76 at Miami
+Los Angeles Lakers 104, Minnesota Timberwolves 99 at Minnesota
+Indiana Pacers 108, New Jersey Nets 83 at New Jersey
+Sacramento Kings 98, Portland Trail Blazers 89 at Sacramento
+Seattle Supersonics 101, Milwaukee Bucks 88 at Seattle
+Toronto Raptors 100, Chicago Bulls 88 at Toronto
+Apr 9, 2001
+Detroit Pistons 81, Atlanta Hawks 69 at Detroit
+Indiana Pacers 100, Washington Wizards 78 at Indiana
+New York Knicks 113, Charlotte Hornets 98 at New York
+Philadelphia 76ers 108, Boston Celtics 95 at Philadelphia
+Utah Jazz 96, Houston Rockets 81 at Utah
+Apr 10, 2001
+Cleveland Cavaliers 101, Orlando Magic 78 at Cleveland
+Denver Nuggets 100, Houston Rockets 99 at Houston
+Los Angeles Lakers 106, Phoenix Suns 80 at Los Angeles
+Miami Heat 83, Philadelphia 76ers 81 at Miami
+Milwaukee Bucks 105, Chicago Bulls 84 at Milwaukee
+Portland Trail Blazers 116, Golden State Warriors 88 at Portland
+Sacramento Kings 116, Los Angeles Clippers 109 OT at Sacramento
+San Antonio Spurs 91, Dallas Mavericks 79 at San Antonio
+Minnesota Timberwolves 104, Vancouver Grizzlies 91 at Vancouver
+Apr 11, 2001
+Atlanta Hawks 107, Cleveland Cavaliers 102 at Atlanta
+Miami Heat 102, Boston Celtics 97 at Boston
+Detroit Pistons 99, Toronto Raptors 87 at Detroit
+Indiana Pacers 100, New York Knicks 93 at Indiana
+Phoenix Suns 111, Dallas Mavericks 106 at Phoenix
+Seattle Supersonics 107, Golden State Warriors 101 at Seattle
+Chicago Bulls 113, Washington Wizards 109 at Washington
+Apr 12, 2001
+Charlotte Hornets 88, New Jersey Nets 78 at Charlotte
+Los Angeles Lakers 119, Minnesota Timberwolves 102 at Los Angeles
+Milwaukee Bucks 115, Utah Jazz 93 at Milwaukee
+Orlando Magic 101, Philadelphia 76ers 77 at Orlando
+Sacramento Kings 107, San Antonio Spurs 105 OT at San Antonio
+Portland Trail Blazers 100, Vancouver Grizzlies 87 at Vancouver
+Apr 13, 2001
+Utah Jazz 94, Chicago Bulls 83 at Chicago
+Dallas Mavericks 101, Sacramento Kings 97 at Dallas
+Denver Nuggets 108, Golden State Warriors 92 at Denver
+Indiana Pacers 113, Boston Celtics 108 OT at Indiana
+Los Angeles Clippers 111, Minnesota Timberwolves 105 at Los Angeles
+Cleveland Cavaliers 97, New Jersey Nets 91 at New Jersey
+New York Knicks 101, Atlanta Hawks 65 at New York
+Phoenix Suns 109, Seattle Supersonics 100 at Phoenix
+Houston Rockets 109, Portland Trail Blazers 103 at Portland
+Toronto Raptors 94, Miami Heat 82 at Toronto
+Washington Wizards 113, Orlando Magic 110 at Washington
+Apr 14, 2001
+Detroit Pistons 129, Atlanta Hawks 124 OT at Atlanta
+Los Angeles Clippers 106, Golden State Warriors 94 at Golden State
+Milwaukee Bucks 112, Toronto Raptors 86 at Milwaukee
+San Antonio Spurs 111, Denver Nuggets 95 at San Antonio
+Houston Rockets 100, Vancouver Grizzlies 95 at Vancouver
+Apr 15, 2001
+Boston Celtics 95, New Jersey Nets 88 at Boston
+Indiana Pacers 93, Chicago Bulls 86 at Chicago
+Charlotte Hornets 99, Detroit Pistons 90 at Detroit
+Los Angeles Lakers 105, Portland Trail Blazers 100 at Los Angeles
+Orlando Magic 90, Miami Heat 73 at Miami
+Minnesota Timberwolves 107, Utah Jazz 100 at Minnesota
+Philadelphia 76ers 89, New York Knicks 82 at Philadelphia
+Phoenix Suns 88, Sacramento Kings 86 at Phoenix
+Dallas Mavericks 107, Seattle Supersonics 99 OT at Seattle
+Cleveland Cavaliers 106, Washington Wizards 98 at Washington
+Apr 16, 2001
+Charlotte Hornets 106, Atlanta Hawks 83 at Charlotte
+Cleveland Cavaliers 80, New York Knicks 78 at Cleveland
+Dallas Mavericks 110, Golden State Warriors 101 at Golden State
+Los Angeles Clippers 100, Phoenix Suns 80 at Los Angeles
+Milwaukee Bucks 101, Orlando Magic 89 at Orlando
+Sacramento Kings 110, Vancouver Grizzlies 100 at Sacramento
+Apr 17, 2001
+Atlanta Hawks 122, Washington Wizards 119 at Atlanta
+Houston Rockets 114, Minnesota Timberwolves 87 at Houston
+Philadelphia 76ers 111, Indiana Pacers 105 OT at Indiana
+Los Angeles Lakers 108, Denver Nuggets 91 at Los Angeles
+Miami Heat 91, Milwaukee Bucks 89 at Miami
+Chicago Bulls 100, New Jersey Nets 94 at New Jersey
+San Antonio Spurs 99, Portland Trail Blazers 93 at Portland
+Toronto Raptors 94, Detroit Pistons 92 OT at Toronto
+Utah Jazz 97, Los Angeles Clippers 92 at Utah
+Apr 18, 2001
+Charlotte Hornets 97, Boston Celtics 92 at Boston
+Indiana Pacers 105, Cleveland Cavaliers 101 OT at Cleveland
+Dallas Mavericks 120, Minnesota Timberwolves 100 at Dallas
+Denver Nuggets 110, Sacramento Kings 100 at Denver
+Vancouver Grizzlies 95, Golden State Warriors 81 at Golden State
+New York Knicks 94, Detroit Pistons 88 at New York
+Miami Heat 103, Orlando Magic 91 at Orlando
+Chicago Bulls 92, Philadelphia 76ers 86 at Philadelphia
+Phoenix Suns 98, Utah Jazz 93 at Phoenix
+Seattle Supersonics 105, San Antonio Spurs 67 at Seattle
+Toronto Raptors 98, Washington Wizards 92 at Washington
+Full List - NBA Playoffs
+Apr 21, 2001
+Charlotte Hornets 106, Miami Heat 80 at Miami
+Indiana Pacers 79, Philadelphia 76ers 78 at Philadelphia
+San Antonio Spurs 87, Minnesota Timberwolves 82 at San Antonio
+Utah Jazz 88, Dallas Mavericks 86 at Utah
+Apr 22, 2001
+Los Angeles Lakers 106, Portland Trail Blazers 93 at Los Angeles
+Milwaukee Bucks 103, Orlando Magic 90 at Milwaukee
+New York Knicks 92, Toronto Raptors 85 at New York
+Phoenix Suns 86, Sacramento Kings 83 at Sacramento
+Apr 23, 2001
+Charlotte Hornets 102, Miami Heat 76 at Miami
+San Antonio Spurs 86, Minnesota Timberwolves 69 at San Antonio
+Apr 24, 2001
+Philadelphia 76ers 116, Indiana Pacers 98 at Philadelphia
+Utah Jazz 109, Dallas Mavericks 98 at Utah
+Apr 25, 2001
+Milwaukee Bucks 103, Orlando Magic 96 at Milwaukee
+Sacramento Kings 116, Phoenix Suns 90 at Sacramento
+Apr 26, 2001
+Los Angeles Lakers 106, Portland Trail Blazers 88 at Los Angeles
+Toronto Raptors 94, New York Knicks 74 at New York
+Apr 27, 2001
+Charlotte Hornets 94, Miami Heat 79 at Charlotte
+Apr 28, 2001
+Dallas Mavericks 94, Utah Jazz 91 at Dallas
+Philadelphia 76ers 92, Indiana Pacers 87 at Indiana
+Minnesota Timberwolves 93, San Antonio Spurs 84 at Minnesota
+Orlando Magic 121, Milwaukee Bucks 116 OT at Orlando
+Apr 29, 2001
+Sacramento Kings 104, Phoenix Suns 96 at Phoenix
+Los Angeles Lakers 99, Portland Trail Blazers 86 at Portland
+New York Knicks 97, Toronto Raptors 89 at Toronto
+Apr 30, 2001
+San Antonio Spurs 97, Minnesota Timberwolves 84 at Minnesota
+May 1, 2001
+Dallas Mavericks 107, Utah Jazz 77 at Dallas
+Milwaukee Bucks 112, Orlando Magic 104 at Orlando
+May 2, 2001
+Philadelphia 76ers 88, Indiana Pacers 85 at Indiana
+Sacramento Kings 89, Phoenix Suns 82 at Phoenix
+Toronto Raptors 100, New York Knicks 93 at Toronto
+May 3, 2001
+Dallas Mavericks 84, Utah Jazz 83 at Utah
+May 4, 2001
+Toronto Raptors 93, New York Knicks 89 at New York
+May 5, 2001
+San Antonio Spurs 94, Dallas Mavericks 78 at San Antonio
+May 6, 2001
+Los Angeles Lakers 108, Sacramento Kings 105 at Los Angeles
+Milwaukee Bucks 104, Charlotte Hornets 92 at Milwaukee
+Toronto Raptors 96, Philadelphia 76ers 93 at Philadelphia
+May 7, 2001
+San Antonio Spurs 100, Dallas Mavericks 86 at San Antonio
+May 8, 2001
+Los Angeles Lakers 96, Sacramento Kings 90 at Los Angeles
+Milwaukee Bucks 91, Charlotte Hornets 90 at Milwaukee
+May 9, 2001
+San Antonio Spurs 104, Dallas Mavericks 90 at Dallas
+Philadelphia 76ers 97, Toronto Raptors 92 at Philadelphia
+May 10, 2001
+Charlotte Hornets 102, Milwaukee Bucks 92 at Charlotte
+May 11, 2001
+Los Angeles Lakers 103, Sacramento Kings 81 at Sacramento
+Toronto Raptors 102, Philadelphia 76ers 78 at Toronto
+May 12, 2001
+Dallas Mavericks 112, San Antonio Spurs 108 at Dallas
+May 13, 2001
+Charlotte Hornets 85, Milwaukee Bucks 78 at Charlotte
+Los Angeles Lakers 119, Sacramento Kings 113 at Sacramento
+Philadelphia 76ers 84, Toronto Raptors 79 at Toronto
+May 14, 2001
+San Antonio Spurs 105, Dallas Mavericks 87 at San Antonio
+May 15, 2001
+Charlotte Hornets 94, Milwaukee Bucks 86 at Milwaukee
+May 16, 2001
+Philadelphia 76ers 121, Toronto Raptors 88 at Philadelphia
+May 17, 2001
+Milwaukee Bucks 104, Charlotte Hornets 97 at Charlotte
+May 18, 2001
+Toronto Raptors 101, Philadelphia 76ers 89 at Toronto
+May 19, 2001
+Los Angeles Lakers 104, San Antonio Spurs 90 at San Antonio
+May 20, 2001
+Milwaukee Bucks 104, Charlotte Hornets 95 at Milwaukee
+Philadelphia 76ers 88, Toronto Raptors 87 at Philadelphia
+May 21, 2001
+Los Angeles Lakers 88, San Antonio Spurs 81 at San Antonio
+May 22, 2001
+Philadelphia 76ers 93, Milwaukee Bucks 85 at Philadelphia
+May 24, 2001
+Milwaukee Bucks 92, Philadelphia 76ers 78 at Philadelphia
+May 25, 2001
+Los Angeles Lakers 111, San Antonio Spurs 72 at Los Angeles
+May 26, 2001
+Milwaukee Bucks 80, Philadelphia 76ers 74 at Milwaukee
+May 27, 2001
+Los Angeles Lakers 111, San Antonio Spurs 82 at Los Angeles
+May 28, 2001
+Philadelphia 76ers 89, Milwaukee Bucks 83 at Milwaukee
+May 30, 2001
+Philadelphia 76ers 89, Milwaukee Bucks 88 at Philadelphia
+Jun 1, 2001
+Milwaukee Bucks 110, Philadelphia 76ers 100 at Milwaukee
+Jun 3, 2001
+Philadelphia 76ers 108, Milwaukee Bucks 91 at Philadelphia
+Jun 6, 2001
+Philadelphia 76ers 107, Los Angeles Lakers 101 OT at Los Angeles
+Jun 8, 2001
+Los Angeles Lakers 98, Philadelphia 76ers 89 at Los Angeles
+Jun 10, 2001
+Los Angeles Lakers 96, Philadelphia 76ers 91 at Philadelphia
+Jun 13, 2001
+Los Angeles Lakers 100, Philadelphia 76ers 86 at Philadelphia
+Jun 15, 2001
+Los Angeles Lakers 108, Philadelphia 76ers 96 at Philadelphia

@@ -5,72 +5,106 @@
 */
 
 
-
-
-
-
 #include <cstdio>
 #include <vector>
 #include <cmath>
 #include <string>
 #include <map>
 #include <iostream>
+#include <assert.h>
 
 using namespace std;
 typedef long double ld;
-map<string,ld> rating;
-map<string,bool> vis;
 
-bool win;
-int totalGames = 1314;
-int regularSeason = 1229;
-int firstRound = 1274;
-int confFinals = 1296;
-int finals = 1307;
-string one,two;
-int P1,P2;
-ld EA,EB,QA,QB;
-int K = 16;
-int startElo = 1500;
-int correct = 0,original = 0;
-vector<string> names;
+// Global data
+map<string,ld> rating; // Map from name of team to its rating
+map<string, vector<ld> > ratingHistory; // list of previous ratings
+vector<string> names; // List of team names
+map<string,bool> vis; // Whether a team is in the list of names
+int playoffCount = 0;
 
-int comp(string one, string two){
-    return rating[one]<rating[two];
-}
-bool update(){
-    bool answer = false;
-    cin >> one >> P1 >> two >> P2;
-    if(!vis[one]){
-        vis[one] = true;
-        rating[one] = startElo;
-        names.push_back(one);
-    }
-    if(!vis[two]){
-        vis[two] = true;
-        rating[two] = startElo;
-        names.push_back(two);
-    }
-    if(rating[one]>rating[two]==P1>P2) answer = true;
-    QA = pow(10,rating[one]/400); 
-    QB = pow(10,rating[two]/400); 
-    EA = QA/(QA+QB);
-    EB = QB/(QA+QB);
-    win = P1>P2;  
-    rating[one] += K*(win-EA);
-    rating[two] += K*(!win-EA);
-    
-    return answer;
+// Elo constants
+const int K = 16;
+const int startElo = 3000;
+
+// Constants for each season
+const int finals = 1307;
+const int totalGames = 1314;
+const int regularSeason = 1229;
+const int firstRound = 1274;
+const int confFinals = 1296;
+
+int compareTwoTeams(string one, string two){
+    return rating[one] > rating[two]; // Sort so the best team is on top
 }
 
+void printTeamRanking(int numToPrint = names.size()) {
+    sort(names.begin(),names.end(), compareTwoTeams);
+    for(int x = 0;x<numToPrint;x++) cout << names[x] << " " << rating[names[x]] << endl; 
+}
 
+void ensureTeamExists(string team) {
+    if(!vis[team]){
+        vis[team] = true;
+        rating[team] = startElo;
+        names.push_back(team);
+    }    
+}
+
+void update(){
+
+    string firstTeam, secondTeam, tmp, location;
+    int score1, score2;
+
+    cin >> tmp;
+    if (tmp == "playoffs") {
+        cout << "THIS IS PLAYOFF ROUND " << playoffCount << endl;
+        playoffCount++;
+        printTeamRanking(20);
+        update();
+        return;
+    } else {
+        firstTeam = tmp;
+    }
+
+    cin >> score1 >> secondTeam >> score2 >> location;
+
+    ensureTeamExists(firstTeam);
+    ensureTeamExists(secondTeam);
+
+    assert(score1 > score2);
+
+    ld QA = pow(10,rating[firstTeam]/400); 
+    ld QB = pow(10,rating[secondTeam]/400); 
+    ld EA = QA/(QA+QB);
+    rating[firstTeam] += K*(1-EA);
+    rating[secondTeam] += K*(-EA);
+    ratingHistory[firstTeam].push_back(rating[firstTeam]);
+    ratingHistory[secondTeam].push_back(rating[secondTeam]);
+}
+
+void printTeamHistory(string team) {
+    for (int x = 0;x<ratingHistory[team].size();x++) {
+        cout << ratingHistory[team][x] << endl;
+    }
+}
+
+void printAllTeamsHistory() {
+    sort(names.begin(),names.end(), compareTwoTeams);
+    for (int a = 0; a<ratingHistory.size(); a++) {
+        string teamName = names[a];
+        cout << teamName << ",";
+        for (int x = 0;x<ratingHistory[teamName].size();x++) {
+            cout << ratingHistory[teamName][x] << ",";
+        } 
+        cout << endl;
+    }
+}
 
 int main(){
     freopen("DATA.txt","r",stdin);
-    for(int x = 0;x<finals;x++){
-        if(update()) original++; 
+    for(int x = 0;x<1311;x++){
+        update();
     }
-    sort(names.begin(),names.end(),comp);
-    for(int x = 0;x<names.size();x++) cout << names[x] << " " << rating[names[x]] << endl;
-    cout << endl;
+    printTeamRanking();
 }

@@ -1,4 +1,4 @@
-neworleanspelicans 101 orlandomagic 84 atneworleans 0
+neworleanspelicans 101 orlandomagic 84 atneworleans
 sanantoniospurs 101 dallasmavericks 100 atsanantonio
 houstonrockets 108 losangeleslakers 90 atlosangeles
 charlottehornets 108 milwaukeebucks 106 atcharlotte
@@ -395,7 +395,7 @@ portlandtrailblazers 114 neworleanspelicans 88 atneworleans
 charlottehornets 104 utahjazz 86 atcharlotte
 atlantahawks 104 houstonrockets 97 athouston
 dallasmavericks 99 sanantoniospurs 93 atdallas
-denvernuggetsSS indianapacers 73 atdenver
+denvernuggets 76 indianapacers 73 atdenver
 losangelesclippers 106 milwaukeebucks 102 atlosangeles
 torontoraptors 118 newyorkknicks 108 attoronto
 clevelandcavaliers 105 memphisgrizzlies 91 atcleveland
@@ -609,7 +609,7 @@ neworleanspelicans 95 torontoraptors 93 attoronto
 oklahomacitythunder 127 orlandomagic 99 atorlando
 sanantoniospurs 89 utahjazz 69 atsanantonio
 charlottehornets 105 minnesotatimberwolves 80 atcharlotte
-washingtonwizards 111 philadelphiaSSersSS atwashington
+washingtonwizards 111 philadelphiaSSers 76 atwashington
 atlantahawks 93 detroitpistons 82 atatlanta
 losangelesclippers 102 bostonceltics 93 atlosangeles
 goldenstatewarriors 122 denvernuggets 79 atgoldenstate
@@ -622,7 +622,7 @@ portlandtrailblazers 98 sacramentokings 94 atportland
 phoenixsuns 115 losangeleslakers 100 atphoenix
 oklahomacitythunder 94 miamiheat 86 atmiami
 sanantoniospurs 109 denvernuggets 99 atdenver
-charlottehornets 78 miamiheatSS atcharlotte
+charlottehornets 78 miamiheat 76 atcharlotte
 clevelandcavaliers 106 utahjazz 92 atcleveland
 newyorkknicks 98 philadelphiaSSers 91 atphiladelphia
 atlantahawks 110 indianapacers 91 atatlanta
@@ -649,7 +649,7 @@ sanantoniospurs 99 losangeleslakers 85 atsanantonio
 bostonceltics 100 denvernuggets 99 atdenver
 houstonrockets 113 phoenixsuns 111 atphoenix
 goldenstatewarriors 126 sacramentokings 101 atgoldenstate
-charlottehornetsSS newyorkknicks 71 atcharlotte
+charlottehornets 76 newyorkknicks 71 atcharlotte
 milwaukeebucks 101 detroitpistons 86 atmilwaukee
 memphisgrizzlies 101 philadelphiaSSers 83 atmemphis
 utahjazz 108 brooklynnets 73 atutah
@@ -807,14 +807,14 @@ minnesotatimberwolves 111 phoenixsuns 109 atminnesota
 clevelandcavaliers 127 washingtonwizards 89 atwashington
 dallasmavericks 111 houstonrockets 100 atdallas
 milwaukeebucks 89 denvernuggets 81 atmilwaukee
-utahjazz 92 portlandtrailblazersSS atutah
+utahjazz 92 portlandtrailblazers 76 atutah
 sacramentokings 109 bostonceltics 101 atsacramento
 goldenstatewarriors 110 sanantoniospurs 99 atgoldenstate
 brooklynnets 114 losangeleslakers 105 atlosangeles
 oklahomacitythunder 110 charlottehornets 103 atcharlotte
 neworleanspelicans 105 miamiheat 91 atmiami
 chicagobulls 112 phoenixsuns 107 atchicago
-houstonrockets 98 torontoraptorsSS athouston
+houstonrockets 98 torontoraptors 76 athouston
 losangelesclippers 126 sacramentokings 99 atlosangeles
 clevelandcavaliers 101 newyorkknicks 83 atnewyork
 atlantahawks 97 milwaukeebucks 86 atmilwaukee
@@ -941,7 +941,7 @@ memphisgrizzlies 101 chicagobulls 91 atchicago
 neworleanspelicans 114 milwaukeebucks 103 atmilwaukee
 denvernuggets 106 newyorkknicks 78 atdenver
 goldenstatewarriors 98 phoenixsuns 80 atphoenix
-losangelesclippers 89 minnesotatimberwolvesSS atlosangeles
+losangelesclippers 89 minnesotatimberwolves 76 atlosangeles
 indianapacers 118 orlandomagic 86 atindiana
 neworleanspelicans 111 brooklynnets 91 atbrooklyn
 clevelandcavaliers 127 dallasmavericks 94 atdallas
@@ -1049,7 +1049,7 @@ bostonceltics 110 brooklynnets 91 atbrooklyn
 memphisgrizzlies 103 newyorkknicks 82 atnewyork
 chicagobulls 98 charlottehornets 86 atchicago
 minnesotatimberwolves 106 utahjazz 104 atutah
-goldenstatewarriors 107 washingtonwizardsSS atgoldenstate
+goldenstatewarriors 107 washingtonwizards 76 atgoldenstate
 detroitpistons 108 torontoraptors 104 atdetroit
 milwaukeebucks 89 miamiheat 88 atmilwaukee
 oklahomacitythunder 127 losangeleslakers 117 atoklahomacity
@@ -1080,7 +1080,7 @@ torontoraptors 94 losangeleslakers 83 attoronto
 houstonrockets 120 minnesotatimberwolves 110 athouston
 goldenstatewarriors 107 memphisgrizzlies 84 atmemphis
 neworleanspelicans 102 sacramentokings 88 atneworleans
-sanantoniospurs 94 dallasmavericksSS atsanantonio
+sanantoniospurs 94 dallasmavericks 76 atsanantonio
 denvernuggets 107 utahjazz 91 atdenver
 portlandtrailblazers 87 phoenixsuns 81 atphoenix
 charlottehornets 115 atlantahawks 100 atcharlotte
