@@ -1,4 +1,4 @@
-neworleanspelicans 101 orlandomagic 84 atneworleans 0
+neworleanspelicans 101 orlandomagic 84 atneworleans
 sanantoniospurs 101 dallasmavericks 100 atsanantonio
 houstonrockets 108 losangeleslakers 90 atlosangeles
 charlottehornets 108 milwaukeebucks 106 atcharlotte
@@ -1270,6 +1270,7 @@ chicagobulls 120 milwaukeebucks 66 atmilwaukee
 losangelesclippers 102 sanantoniospurs 96 atsanantonio
 atlantahawks 111 brooklynnets 87 atbrooklyn
 losangelesclippers 111 sanantoniospurs 109 atlosangeles
+playoffs
 goldenstatewarriors 101 memphisgrizzlies 86 atgoldenstate
 washingtonwizards 104 atlantahawks 98 atatlanta
 chicagobulls 99 clevelandcavaliers 92 atcleveland
@@ -1295,6 +1296,7 @@ houstonrockets 119 losangelesclippers 107 atlosangeles
 goldenstatewarriors 108 memphisgrizzlies 95 atmemphis
 atlantahawks 94 washingtonwizards 91 atwashington
 houstonrockets 113 losangelesclippers 100 athouston
+playoffs
 goldenstatewarriors 110 houstonrockets 106 atgoldenstate
 clevelandcavaliers 97 atlantahawks 89 atatlanta
 goldenstatewarriors 99 houstonrockets 98 atgoldenstate
@@ -1304,6 +1306,7 @@ clevelandcavaliers 114 atlantahawks 111 atcleveland
 houstonrockets 128 goldenstatewarriors 115 athouston
 clevelandcavaliers 118 atlantahawks 88 atcleveland
 goldenstatewarriors 104 houstonrockets 90 atgoldenstate
+playoffs
 goldenstatewarriors 108 clevelandcavaliers 100 atgoldenstate
 clevelandcavaliers 95 goldenstatewarriors 93 atgoldenstate
 clevelandcavaliers 96 goldenstatewarriors 91 atcleveland

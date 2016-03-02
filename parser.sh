@@ -2,6 +2,10 @@
 # This is my parser for the basketball data gathered from landofbasketball.com
 cp $1 cur.txt
 
+# echo ${1:5:4}
+# Tricky here because 1 is the variable
+# 5 is the start location (get rid of data)
+# and 4 is the number of chars to take
 
 sed -i 's/,//g' cur.txt # Remove all the commas
 sed -i 's/[0-9]*OT//g' cur.txt # Remove all the overtime statements
@@ -13,6 +17,6 @@ sed -i 's/\s\+/ /g' cur.txt # Remove extra spaces
 sed -i 's/originally.*//g' cur.txt # Edge case for rescheduled games
 sed -i 's/fulllist.*/playoffs/g' cur.txt # Edge case marking the beginning of playoffs
 
-mv cur.txt ${1:0:4}".txt"
+mv cur.txt "PARSED_DATA/"${1:5:4}".txt"
 
 # At the end, you should get a list of WINNER WSCORE LOSER LSCORE LOCATION

@@ -1,0 +1,1 @@
+I used a script "for file in DATA/*; do ./parser.sh $file; done" to populate the parsed data
