@@ -1,4 +1,4 @@
-neworleanspelicans 101 orlandomagic 84 atneworleans 0
+neworleanspelicans 101 orlandomagic 84 atneworleans
 sanantoniospurs 101 dallasmavericks 100 atsanantonio
 houstonrockets 108 losangeleslakers 90 atlosangeles
 charlottehornets 108 milwaukeebucks 106 atcharlotte
@@ -1228,7 +1228,6 @@ miamiheat 105 philadelphiaSSers 101 atphiladelphia
 torontoraptors 92 charlottehornets 87 attoronto
 goldenstatewarriors 133 denvernuggets 126 atgoldenstate
 sacramentokings 122 losangeleslakers 99 atlosangeles
-playoffs
 chicagobulls 103 milwaukeebucks 91 atchicago
 washingtonwizards 93 torontoraptors 86 attoronto
 goldenstatewarriors 106 neworleanspelicans 99 atgoldenstate

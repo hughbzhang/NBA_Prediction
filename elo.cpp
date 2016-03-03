@@ -60,7 +60,7 @@ void update(){
     if (tmp == "playoffs") {
         cout << "THIS IS PLAYOFF ROUND " << playoffCount << endl;
         playoffCount++;
-        printTeamRanking(20);
+        // printTeamRanking(20);
         update();
         return;
     } else {
@@ -106,5 +106,6 @@ int main(){
     for(int x = 0;x<1311;x++){
         update();
     }
-    printTeamRanking();
+    for(int x = 0;x<names.size();x++) cout << names[x] << endl; 
+    // printTeamRanking();
 }
