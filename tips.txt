@@ -1,1 +1,6 @@
 I used a script "for file in DATA/*; do ./parser.sh $file; done" to populate the parsed data
+
+Used cut to get the columns then manipulated data in Google Sheets to get the Charts.
+Turns out that WinnerPoints, LoserPoints, and AllPoints are all normally distributed. Aggregating two normal distributions with different means (Winners + Losers) usually gets a bimodal distribution, but these overlapped a significant amount so the middle became the new peak. I don't know what to say about this though.
+
+Notably, point differential is not normal in any way. It is right skew. Heavily. With the peak difference around 7 points (3-4 plays) which is NOT trivial.

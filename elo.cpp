@@ -12,6 +12,7 @@
 #include <map>
 #include <iostream>
 #include <assert.h>
+#include <fstream>
 
 using namespace std;
 typedef long double ld;
@@ -33,6 +34,8 @@ const int totalGames = 1314;
 const int regularSeason = 1229;
 const int firstRound = 1274;
 const int confFinals = 1296;
+
+ofstream newfile ("scorefile.txt", ios_base::app);
 
 int compareTwoTeams(string one, string two){
     return rating[one] > rating[two]; // Sort so the best team is on top
@@ -68,11 +71,12 @@ void update(){
     }
 
     cin >> score1 >> secondTeam >> score2 >> location;
+    newfile << score1-score2 << endl;
 
-    ensureTeamExists(firstTeam);
-    ensureTeamExists(secondTeam);
+    // ensureTeamExists(firstTeam);
+    // ensureTeamExists(secondTeam);
 
-    assert(score1 > score2);
+    // assert(score1 > score2);
 
     ld QA = pow(10,rating[firstTeam]/400); 
     ld QB = pow(10,rating[secondTeam]/400); 
@@ -102,10 +106,12 @@ void printAllTeamsHistory() {
 }
 
 int main(){
-    freopen("DATA.txt","r",stdin);
+    //freopen("DATA.txt","r",stdin);
+//     ofstream newfile ("scorefile.txt", ios_base::app);
     for(int x = 0;x<1311;x++){
         update();
     }
     for(int x = 0;x<names.size();x++) cout << names[x] << endl; 
+    newfile << "GAME" << endl;
     // printTeamRanking();
 }
