@@ -4,3 +4,5 @@ sed -i 's/seattlesupersonics/oklahomacitythunder/g' $1
 sed -i 's/neworleanshornets/neworleanspelicans/g' $1
 sed -i 's/vancouvergrizzlies/memphisgrizzlies/g' $1
 sed -i 's/neworleans\/oklahomacityhornets/neworleanspelicans/g' $1
+
+# Pretty self explanatory file. All the teams that have changed locations / names

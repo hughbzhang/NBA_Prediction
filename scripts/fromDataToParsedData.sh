@@ -1,3 +1,6 @@
+# As you might have guessed, if you populate the DATA folder with the right data
+# this script will populate the PARSED_DATA folder with the right data
+
 g++ -o homeGameScript homeGame.cpp 
 g++ -o validate validate.cpp
 

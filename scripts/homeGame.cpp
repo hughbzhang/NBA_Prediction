@@ -1,3 +1,8 @@
+/**
+This script is responsible for telling whether each game is a home game or an away game.
+Note, you need to run this before you replace the names, since location has to change too
+*/
+
 #include <cstdio>
 #include <iostream>
 #include <string>

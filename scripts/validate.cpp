@@ -1,3 +1,13 @@
+/**
+
+This file validates the data I have. It ensures that all teams are:
+
+1) One of the thirty alive today
+2) Winners first
+3) In the format WINNER WSCORE LOSER LSCORE HOME/AWAY
+
+*/
+
 #include <cstdio>
 #include <iostream>
 #include <fstream>
