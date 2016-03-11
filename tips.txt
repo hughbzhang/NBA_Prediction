@@ -4,3 +4,5 @@ Used cut to get the columns then manipulated data in Google Sheets to get the Ch
 Turns out that WinnerPoints, LoserPoints, and AllPoints are all normally distributed. Aggregating two normal distributions with different means (Winners + Losers) usually gets a bimodal distribution, but these overlapped a significant amount so the middle became the new peak. I don't know what to say about this though.
 
 Notably, point differential is not normal in any way. It is right skew. Heavily. With the peak difference around 7 points (3-4 plays) which is NOT trivial.
+
+Note: I decided against using play by play. It is too hard. I don't have the time or the power. I will take into account variance though.

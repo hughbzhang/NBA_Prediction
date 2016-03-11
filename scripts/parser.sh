@@ -17,6 +17,11 @@ sed -i 's/\s\+/ /g' cur.txt # Remove extra spaces
 sed -i 's/originally.*//g' cur.txt # Edge case for rescheduled games
 sed -i 's/fulllist.*/playoffs/g' cur.txt # Edge case marking the beginning of playoffs
 
+sed -i 's/atneworleans.*$/atneworleans/g' cur.txt # funkiness with new orleans
+
 mv cur.txt "PARSED_DATA/"${1:5:4}".txt"
 
 # At the end, you should get a list of WINNER WSCORE LOSER LSCORE LOCATION
+
+
+#TODO maybe keep date and OT
