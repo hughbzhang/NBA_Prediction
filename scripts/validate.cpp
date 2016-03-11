@@ -12,7 +12,7 @@ string input;
 map<string,bool> exists;
 
 int main() {
-  	ifstream NBA ("NBATeams.txt");
+  	ifstream NBA ("../NBATeams.txt");
   	for (int x = 0; x<numTeams; x++) {
   		NBA >> teams[x];
   		exists[teams[x]] = true;
@@ -26,9 +26,7 @@ int main() {
   		}
   		cin >> score1 >> team2 >> input >> location;
   		if (score1 <= score2 || !exists[team1] || !exists[team2]) {
-  			cout << team1 << " " << score1 << " " << team2 << " " << score2 << " " << location << endl;
-  			// for (int x = 0;x<30;x++) cout << teams[x] << endl;
-  			
+  			cout << "VALIDATE ERROR " << team1 << " " << score1 << " " << team2 << " " << score2 << " " << location << endl;
   			assert(false);
   		}
   	}

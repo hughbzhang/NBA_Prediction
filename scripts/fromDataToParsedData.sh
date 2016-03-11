@@ -1,7 +1,18 @@
-g++ 
+g++ -o homeGameScript homeGame.cpp 
+g++ -o validate validate.cpp
 
-for file in DATA/*;
+for file in ../DATA/*;
 	do
-	./parser.sh $file;
+	./parser.sh $file; # Parser gets the prelimary parsing data into tmp1.txt
+	./homeGameScript <tmp1.txt >tmp2.txt; # Puts home and away data into tmp.txt
+	./replaceNameChanges.sh tmp2.txt; # Replaces team names and puts that into tmp.txt
 
+	./validate <tmp2.txt; # Validate the data
+	rm tmp2.txt;
+	# mv tmp.txt "../PARSED_DATA/"${file:8:4}".txt"; #Puts everything together
 done
+
+# Clean up
+rm validate
+rm homeGameScript
+rm tmp1.txt
