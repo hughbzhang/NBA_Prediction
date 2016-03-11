@@ -8,8 +8,7 @@ for file in ../DATA/*;
 	./replaceNameChanges.sh tmp2.txt; # Replaces team names and puts that into tmp.txt
 
 	./validate <tmp2.txt; # Validate the data
-	rm tmp2.txt;
-	# mv tmp.txt "../PARSED_DATA/"${file:8:4}".txt"; #Puts everything together
+	mv tmp2.txt "../PARSED_DATA/"${file:8:4}".txt"; #Puts everything together
 done
 
 # Clean up
