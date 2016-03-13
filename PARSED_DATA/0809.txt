@@ -1228,6 +1228,7 @@ orlandomagic 98 charlottehornets 73 home
 phoenixsuns 117 goldenstatewarriors 113 home
 portlandtrailblazers 104 denvernuggets 76 home
 sanantoniospurs 105 neworleanspelicans 98 home
+playoffs
 chicagobulls 105 bostonceltics 103 away
 clevelandcavaliers 102 detroitpistons 84 home
 houstonrockets 108 portlandtrailblazers 81 away

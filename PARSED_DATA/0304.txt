@@ -1187,6 +1187,7 @@ losangeleslakers 105 portlandtrailblazers 104 away
 sanantoniospurs 93 denvernuggets 67 home
 phoenixsuns 89 utahjazz 84 away
 neworleanspelicans 94 washingtonwizards 78 away
+playoffs
 indianapacers 104 bostonceltics 88 home
 losangeleslakers 72 houstonrockets 71 home
 brooklynnets 107 newyorkknicks 83 home

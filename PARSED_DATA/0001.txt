@@ -1187,6 +1187,7 @@ chicagobulls 92 philadelphiaSSers 86 away
 phoenixsuns 98 utahjazz 93 home
 oklahomacitythunder 105 sanantoniospurs 67 home
 torontoraptors 98 washingtonwizards 92 away
+playoffs
 charlottehornets 106 miamiheat 80 away
 indianapacers 79 philadelphiaSSers 78 away
 sanantoniospurs 87 minnesotatimberwolves 82 home

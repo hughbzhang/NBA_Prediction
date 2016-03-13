@@ -1187,6 +1187,7 @@ portlandtrailblazers 92 houstonrockets 79 home
 oklahomacitythunder 109 memphisgrizzlies 94 home
 torontoraptors 103 clevelandcavaliers 85 home
 sanantoniospurs 86 utahjazz 84 away
+playoffs
 charlottehornets 80 orlandomagic 79 home
 indianapacers 89 brooklynnets 83 away
 sacramentokings 89 utahjazz 86 home

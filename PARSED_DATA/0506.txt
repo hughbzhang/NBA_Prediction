@@ -1228,6 +1228,7 @@ newyorkknicks 90 brooklynnets 83 away
 phoenixsuns 106 portlandtrailblazers 96 away
 oklahomacitythunder 109 denvernuggets 98 home
 utahjazz 105 goldenstatewarriors 102 home
+playoffs
 clevelandcavaliers 97 washingtonwizards 86 home
 losangelesclippers 89 denvernuggets 87 home
 miamiheat 111 chicagobulls 106 home

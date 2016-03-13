@@ -15,6 +15,7 @@ int main() {
 	int score1, score2;
 	while (cin >> team1){
 		if (team1 == "playoffs"){
+			 cout << "playoffs" << endl;
 			 cin >> team1;
 		}
 		cin >> score1 >> team2 >> score2 >> location;

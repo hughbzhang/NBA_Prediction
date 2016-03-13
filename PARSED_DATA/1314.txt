@@ -1228,6 +1228,7 @@ indianapacers 101 orlandomagic 86 away
 portlandtrailblazers 110 losangelesclippers 104 home
 phoenixsuns 104 sacramentokings 99 away
 goldenstatewarriors 116 denvernuggets 112 away
+playoffs
 goldenstatewarriors 109 losangelesclippers 105 away
 oklahomacitythunder 100 memphisgrizzlies 86 home
 atlantahawks 101 indianapacers 93 away

@@ -22,6 +22,10 @@ string input;
 map<string,bool> exists;
 
 int main() {
+
+
+    int playoffCount = 0;
+
   	ifstream NBA ("../NBATeams.txt");
   	for (int x = 0; x<numTeams; x++) {
   		NBA >> teams[x];
@@ -32,6 +36,7 @@ int main() {
   		int score1, score2;
   		team1 = input;
   		if (input == "playoffs") {
+        playoffCount++;
   			cin >> team1;
   		}
   		cin >> score1 >> team2 >> input >> location;
@@ -40,4 +45,5 @@ int main() {
   			assert(false);
   		}
   	}
+    assert(playoffCount == 1);
 }

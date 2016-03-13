@@ -1228,6 +1228,7 @@ phoenixsuns 106 sanantoniospurs 103 home
 losangeleslakers 116 sacramentokings 108 away
 miamiheat 97 torontoraptors 79 away
 utahjazz 107 denvernuggets 103 home
+playoffs
 chicagobulls 104 indianapacers 99 home
 miamiheat 97 philadelphiaSSers 89 home
 atlantahawks 103 orlandomagic 93 away

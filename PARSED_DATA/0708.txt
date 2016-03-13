@@ -1228,6 +1228,7 @@ minnesotatimberwolves 110 milwaukeebucks 101 home
 orlandomagic 103 washingtonwizards 83 home
 phoenixsuns 100 portlandtrailblazers 91 home
 sanantoniospurs 109 utahjazz 80 home
+playoffs
 clevelandcavaliers 93 washingtonwizards 86 home
 utahjazz 93 houstonrockets 82 away
 neworleanspelicans 104 dallasmavericks 92 home

@@ -1228,6 +1228,7 @@ goldenstatewarriors 122 portlandtrailblazers 116 away
 torontoraptors 131 newyorkknicks 113 home
 phoenixsuns 100 utahjazz 86 away
 washingtonwizards 98 indianapacers 97 home
+playoffs
 atlantahawks 102 milwaukeebucks 92 home
 bostonceltics 85 miamiheat 76 home
 clevelandcavaliers 96 chicagobulls 83 home

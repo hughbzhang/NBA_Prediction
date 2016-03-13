@@ -1228,6 +1228,7 @@ denvernuggets 100 sanantoniospurs 77 away
 dallasmavericks 106 oklahomacitythunder 75 away
 philadelphiaSSers 122 torontoraptors 119 away
 utahjazz 101 houstonrockets 91 home
+playoffs
 chicagobulls 96 miamiheat 91 home
 detroitpistons 100 orlandomagic 92 home
 houstonrockets 84 utahjazz 75 home

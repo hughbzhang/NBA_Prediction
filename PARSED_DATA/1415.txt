@@ -1228,6 +1228,7 @@ miamiheat 105 philadelphiaSSers 101 away
 torontoraptors 92 charlottehornets 87 home
 goldenstatewarriors 133 denvernuggets 126 home
 sacramentokings 122 losangeleslakers 99 away
+playoffs
 chicagobulls 103 milwaukeebucks 91 home
 washingtonwizards 93 torontoraptors 86 away
 goldenstatewarriors 106 neworleanspelicans 99 home

@@ -1228,6 +1228,7 @@ philadelphiaSSers 110 atlantahawks 86 home
 portlandtrailblazers 106 losangeleslakers 103 home
 sacramentokings 132 phoenixsuns 107 home
 clevelandcavaliers 104 torontoraptors 95 away
+playoffs
 bostonceltics 102 indianapacers 82 home
 houstonrockets 98 dallasmavericks 86 away
 detroitpistons 106 philadelphiaSSers 85 home
