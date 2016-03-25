@@ -77,11 +77,12 @@ bool zero(ld in) {
     }
 }
 
-pair<ld,int> elo(ld K, ld carryOver) {
+pair<ld,int> elo(ld K, ld carryOver, ld homeBoost) {
     resetRanks();
     ld error = 0;
     int accuracy = 0;
     for (int x = 0; x<counter; x++) {
+
 
         string winTeam = allGames[x].winTeam;
         string loseTeam = allGames[x].loseTeam;
@@ -96,17 +97,25 @@ pair<ld,int> elo(ld K, ld carryOver) {
         } else {
 
             //cout << rating[winTeam] - rating[loseTeam] << "," << eloDiff << endl;
-            ld ratingDiff = rating[winTeam]-rating[loseTeam];
+            ld winTeamBonus = (allGames[x].homeGame ? (homeBoost) : (-homeBoost));
+            ld ratingDiff = rating[winTeam]-rating[loseTeam] + winTeamBonus;
 
-            ld QA = pow(10,rating[winTeam]/DENOM); 
+            ld QA = pow(10,(rating[winTeam]+winTeamBonus)/DENOM); 
             ld QB = pow(10,rating[loseTeam]/DENOM); 
             ld EA = QA/(QA+QB); // winner's probability of winning
 
-            assert(zero(winPercentage(ratingDiff)-EA));
+            if (!zero(winPercentage(ratingDiff)-EA)) {
+                cout << winPercentage(ratingDiff) << " " << EA << endl;
+                throw;
+            }
 
             if (x > trainGames) {
                 error += costFunction(EA);
                 accuracy += (rating[winTeam] > rating[loseTeam]);
+
+                if (x % 100 == 0) {
+                    cout << accuracy/(ld) (x-trainGames) << endl;
+                }
             }
 
             rating[winTeam] += K*(1-EA); //1 for the actual win minus what he was expected is his bonus
@@ -173,13 +182,20 @@ int main(){
 
     initialize();
 
-    for (ld K = 2; K < 100; K*=2) {
-        for (ld carry = 0.1; carry < 1; carry+=.1){
-            pair<ld,int> ans = elo(K, carry);
-            cout << K << " " << carry << " ";
-            cout << ans.first << " " << ans.second << endl;
+    // 538 constants
+    pair<ld,int> ans = elo(20, .75, 100);
+    cout << ans.first << " " << ans.second << endl;
+
+
+    /*for (ld homeBoost = 1; homeBoost < 400; homeBoost *=2) {
+        for (ld K = 10; K < 20; K+=2) {
+            for (ld carry = 0.1; carry < .5; carry+=.1){
+                pair<ld,int> ans = elo(K, carry, homeBoost);
+                cout << K << " " << carry << " " << homeBoost << " ";
+                cout << ans.first << " " << ans.second << endl;
+            }
         }
-    }
+    }*/
 
 
 

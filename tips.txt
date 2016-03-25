@@ -6,3 +6,7 @@ Turns out that WinnerPoints, LoserPoints, and AllPoints are all normally distrib
 Notably, point differential is not normal in any way. It is right skew. Heavily. With the peak difference around 7 points (3-4 plays) which is NOT trivial.
 
 Note: I decided against using play by play. It is too hard. I don't have the time or the power. I will take into account variance though.
+
+538 data is hard to scrape. Determined by sampling though that their accuracy is around 70%. Took around 150 samples so 10% of population. My current model is around 65-66% accuracy just adjusting carry over and K. Still need to do (possibly) dates and home/away. Also 538 just uses the elo model straight from wikipedia. Denom is 400. K is 20. Home is 100. Carryover is a really high 75%. Margin of victory is really odd.
+
+TODO: Try a linear model? What does that even mean? If that is interesting (or even if it is not) do a topo sort of the complete graph and see what it shows.
