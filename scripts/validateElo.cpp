@@ -186,6 +186,13 @@ int main(){
     pair<ld,int> ans = elo(20, .75, 100);
     cout << ans.first << " " << ans.second << endl;
 
+    cout << "START\n";
+    for (int x = 0; x < 32; x++) {
+        cout << names[x] << " " << rating[names[x]] << endl;
+    }
+    cout << "END\n";
+
+
 
     /*for (ld homeBoost = 1; homeBoost < 400; homeBoost *=2) {
         for (ld K = 10; K < 20; K+=2) {
