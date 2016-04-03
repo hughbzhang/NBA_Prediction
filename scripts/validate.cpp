@@ -33,15 +33,15 @@ int main() {
   	}
   	while(cin >> input) {
   		string team1, team2, location;
-  		int score1, score2;
+  		int score1, score2, date;
   		team1 = input;
   		if (input == "playoffs") {
         playoffCount++;
   			cin >> team1;
   		}
-  		cin >> score1 >> team2 >> input >> location;
-  		if (score1 <= score2 || !exists[team1] || !exists[team2]) {
-  			cout << "VALIDATE ERROR " << team1 << " " << score1 << " " << team2 << " " << score2 << " " << location << endl;
+  		cin >> score1 >> team2 >> input >> location >> date;
+  		if (score1 <= score2 || !exists[team1] || !exists[team2] || date < 0 || date > 731) { // Two years
+  			cout << "VALIDATE ERROR " << team1 << " " << score1 << " " << team2 << " " << score2 << " " << location << " " << date << endl;
   			assert(false);
   		}
   	}

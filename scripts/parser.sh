@@ -9,19 +9,16 @@ cp $1 tmp.txt
 
 sed -i 's/,//g' tmp.txt # Remove all the commas
 sed -i 's/[0-9]*OT//g' tmp.txt # Remove all the overtime statements
-sed -i 's/^.\{,20\}$//g' tmp.txt # Remove all lines less than 20 chars long (dates)
 sed -i 's/\([A-Z]\)/\L\1/g' tmp.txt # Make everything lowercase
 sed -i 's/\([a-z]\)\s76ers/\1SSers/g' tmp.txt # Edge case with the 76ers
-sed -i 's/\([a-z]\)\s\+\([a-z]\)/\1\2/g' tmp.txt # Make team names one word
 sed -i 's/\s\+/ /g' tmp.txt # Remove extra spaces
 sed -i 's/originally.*//g' tmp.txt # Edge case for rescheduled games
-sed -i 's/fulllist.*/playoffs/g' tmp.txt # Edge case marking the beginning of playoffs
 
-sed -i 's/playedat.*$//g' tmp.txt # funkiness with non home locations
+sed -i 's/played\sat.*$//g' tmp.txt # funkiness with non home locations
 
 mv tmp.txt tmp1.txt
 
-# At the end, you should get a list of WINNER WSCORE LOSER LSCORE LOCATION
+# At the end, you should get a list of WINNER WSCORE LOSER LSCORE LOCATION [DATE] [X]OT
 
 
 #TODO maybe keep date and OT

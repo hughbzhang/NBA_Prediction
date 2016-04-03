@@ -12,13 +12,13 @@ using namespace std;
 
 int main() {
 	string team1, team2, location, newLoc;
-	int score1, score2;
+	int score1, score2, date;
 	while (cin >> team1){
 		if (team1 == "playoffs"){
 			 cout << "playoffs" << endl;
 			 cin >> team1;
 		}
-		cin >> score1 >> team2 >> score2 >> location;
+		cin >> score1 >> team2 >> score2 >> location >> date;
 		if(team1.find(location.substr(2)) != -1) {
 			newLoc = "home";
 		} else {
@@ -28,6 +28,6 @@ int main() {
 			}
 			newLoc = "away";
 		}
-		cout << team1 << " " << score1 << " " << team2 << " " << score2 << " " << newLoc << endl; 
+		cout << team1 << " " << score1 << " " << team2 << " " << score2 << " " << newLoc << " " << date << endl; 
 	}
 }

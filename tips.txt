@@ -13,3 +13,5 @@ TODO: Try a linear model? What does that even mean? If that is interesting (or e
 
 
 Brier beats logLoss by ~10 predictions. LogLoss beats Elo by ~10 predictions, even though my genetic algorithm doesn't take into account home/away yet, but Elo does. Still work to do, but it seems brier is the continuous loss function closest to what I care about 1-round(probability). Logloss penalizes black swans a lot but I really don't care about that. For my purposes a close miss and a way off are pretty much the same when executing.
+
+Dude, problem though. Your brier right now is like .21, which is kind of scary bad, since 50% guessing is .25 brier. IDK. Keep going.
