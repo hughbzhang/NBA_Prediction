@@ -16,6 +16,9 @@ Optimizations:
 3) Actually optimize calculation in parts of code
 4) Try mixing parents instead of averaging?
 5) Initialize non randomly?
+6) Linear Transformations DONE
+7) Use brier scores or accuracy
+8) Weighted random children
 
 
 We are getting close. Got the spurs vs clippers AND the rockets vs clippers without any extra data
@@ -36,6 +39,7 @@ BUT THIS IS AMAZING CONSIDERING THE NO INPUT AND NO TWEAKING. There is a lot to 
 #include <fstream>
 #include <cstdlib>
 #include <math.h>
+#include <time.h>
 
 using namespace std;
 typedef long double ld;
@@ -58,6 +62,12 @@ struct Creature {
     ld fitness; // fitness is calculated on initialization
 } ELO;
 
+struct Score {
+    int wrongGuess;
+    ld brier;
+    ld logLoss;
+};
+
 // Base constants
 const ld epsilon = 1e-6;
 const int numTeams = 30;
@@ -69,14 +79,16 @@ const ld expBase = 10;
 // Genetic constants
 const int populationSize = 10;
 const int killSize = 5; // Kill all from 0 to killSize
-const int mutationRate = 100; // Percentage is 1/mutationRate. We use this for modding.
-const int maxTimeSteps = 1000;
+const int mutationRate = 50; // Percentage is 1/mutationRate. We use this for modding.
+const int maxTimeSteps = 9000; // 10k total seems good
+const int convergeTimeSteps = 1000;
+
 
 ld ELO_RATINGS[] = {1524.06, 1360.66, 1634.58, 1550.66, 1627.52, 1352.95, 1431.03, 1461.23, 1505.31, 1317.65, 1502.1, 1495.59, 1470.91, 1533.77, 1497.83, 1573.84, 1601.16, 1333.95, 1543.81, 1339.3, 1427.83, 1441.91, 1505.42, 1478.93, 1718.75, 1412.11, 1536.67, 1551.66, 1639.06, 1629.73};
 
 Game* allGames;
 Creature* population;
-int counter = 0;
+int numGamesInSeason = 0;
 int trainGames = 0;
 map<string, int> teamToIndex;
 string indexToTeam[numTeams];
@@ -85,6 +97,10 @@ map<string, ld> finalRating;
 int compareCreatures(Creature one, Creature two) {
 
     return one.fitness > two.fitness; // Sort form high to low
+}
+
+double randomDouble() {
+    return (double)rand() / RAND_MAX;
 }
 
 ld sampleNormal() {
@@ -100,13 +116,21 @@ ld winPercentage (ld eloDiff) {
     return 1/(ld)(1+pow(expBase, -eloDiff/DENOM));
 }
 
-ld logCostFunction(ld probability) {
+ld logCost(ld probability) {
     return -log(probability); // logistic cost function given you win
 }
 
-ld costFunction(Creature creature) { // Can also swap it out for a linear function
-    ld sum = 0;
-    for (int x = 0; x < counter; x++) {
+ld brierCost(ld probability) {
+    return (1-probability)*(1-probability);
+}
+
+Score allScoreFunctions(Creature creature) {
+    Score score;
+    score.logLoss = 0;
+    score.wrongGuess = 0;
+    score.brier = 0;
+
+    for (int x = 0; x < numGamesInSeason; x++) {
         if (allGames[x].winTeam == "playoffs") {
             break;
         }
@@ -114,9 +138,16 @@ ld costFunction(Creature creature) { // Can also swap it out for a linear functi
         int loseIndex = teamToIndex[allGames[x].loseTeam];
 
         ld win = winPercentage(creature.ratings[winIndex] - creature.ratings[loseIndex]);
-        sum += logCostFunction(win);
+        score.logLoss += logCost(win);
+        score.wrongGuess += (win < 0.5);
+        score.brier += brierCost(win);
     }
-    return sum;
+    return score;
+}
+
+
+ld costFunction(Creature creature) { // Can also swap it out for a linear function
+    return allScoreFunctions(creature).brier;
 }
 
 bool zero(ld in) {
@@ -131,13 +162,21 @@ bool zero(ld in) {
 ld validateRatings() {
     ld average = 0;
     for (int x = 0; x < populationSize; x++) {
-        assert (zero(population[x].fitness-costFunction(population[x])));
+        // assert (zero(population[x].fitness-costFunction(population[x])));
         average += population[x].fitness;
     }
     return average/populationSize;
 }
 
-void normalizeRating(int index) {
+ld bestRating() {
+    ld best = 1000000;
+    for (int x = 0; x < populationSize; x++) {
+        best = min(best, population[x].fitness);
+    }
+    return best;
+}
+
+void normalizeRating(int index) { // Since linear differences are all that matter, normalize them this way
 
 	ld sum = 0;
 
@@ -147,7 +186,7 @@ void normalizeRating(int index) {
 		sum += creature.ratings[x];
 	}
 	for (int x = 0; x < numTeams; x++) {
-		creature.ratings[x] *= (averageRating*32/sum);
+		creature.ratings[x] += (averageRating*32-sum)/32;
 	}
 }
 
@@ -170,16 +209,25 @@ int compareTwoTeams(string one, string two){
 }
 
 void printCreature(Creature creature) {
+
+    vector<string> namesToPrint;
     for (int x = 0; x < numTeams; x++) {
+        namesToPrint.push_back(names[x]);
         finalRating[names[x]] = creature.ratings[x];
     }
 
-    sort(names.begin(),names.end(), compareTwoTeams);
-    for(int x = 0;x<names.size();x++) {
-        cout << names[x] << " " << finalRating[names[x]] << endl; 
+    sort(namesToPrint.begin(),namesToPrint.end(), compareTwoTeams);
+    for(int x = 0;x<namesToPrint.size();x++) {
+        cout << namesToPrint[x] << " " << finalRating[namesToPrint[x]] << endl; 
     }
 
     cout << "FITNESS: " << creature.fitness << endl;
+
+    Score score = allScoreFunctions(creature);
+
+    cout << "LOG: " << score.logLoss << endl;
+    cout << "BRIER: " << score.brier << endl;
+    cout << "WRONG GUESSES: " << score.wrongGuess << endl;
 }
 
 // For now we just select two compelely randomly. No weighting.
@@ -196,6 +244,28 @@ pair<int, int> selectTwoRandom(int total) {
     return ans;
 }
 
+// Hacky implementation where person of rank X is multiplicatively more likely to get selected as rank X+1
+const double RANDOM_BASE = 1.3;
+
+int magicLogFunction(int total) {
+    return (int)floor(log(rand()%total)/log(RANDOM_BASE));
+}
+
+pair<int, int> selectTwoRandomLogWeighting(int total) {
+    pair<int, int> ans;
+    int mod = (int)pow(RANDOM_BASE, total);
+
+    ans.first = magicLogFunction(total);
+
+    int next = magicLogFunction(total);
+    while (next == ans.first) {
+        next = magicLogFunction(total);
+    }
+
+    ans.second = next;
+    return ans;
+}
+
 void reproduce(int index, int father, int mother) {
     for (int x = 0; x < numTeams; x++) {
         population[index].ratings[x] = (population[father].ratings[x] + population[mother].ratings[x])/2;
@@ -203,17 +273,24 @@ void reproduce(int index, int father, int mother) {
     population[index].fitness = costFunction(population[index]);
 }
 
-void cycleGeneration() {
+void cycleGeneration(bool mutation) {
     sort(population, population + populationSize, compareCreatures);
     // Note: we never touch the best creature in each round. Don't want to make him suck.
 
     // Mutation phase. For all survivors we see if we want to mutate (randomize) any genes
-    for (int x = killSize; x < populationSize - 1; x++) {
-        for (int a = 0; a < numTeams; a++) {
-            if ((rand() % mutationRate) == 0) {
-                population[x].ratings[a] = sampleNormal()*averageRating;
-                population[x].fitness = costFunction(population[x]);
-            }
+    if (mutation) {
+
+        // Can definitely use 1337 skillz to optimize this
+
+        int numMutations = (int)ceil((populationSize-killSize-1)*numTeams/mutationRate);
+
+        for (int x = 0; x < numMutations; x++) {
+
+            int mutatedCreature = rand() % (populationSize-killSize-1) + killSize;
+            int mutatedGene = rand() % numTeams;
+
+            population[mutatedCreature].ratings[mutatedGene] = sampleNormal()*averageRating;
+            population[mutatedCreature].fitness = costFunction(population[mutatedCreature]);
         }
     }
 
@@ -229,8 +306,13 @@ void evolve() { // Not optimized at all
     generateRandomPopulation();
 
     for (int x = 0; x < maxTimeSteps; x++) {
-        cycleGeneration();
-        // cout << validateRatings() << endl;
+        cycleGeneration(true);
+        if ((x%100)==0) cout << bestRating() << endl;
+    }
+
+    for (int x = 0; x < convergeTimeSteps; x++) {
+        cycleGeneration(false);
+        if ((x%100)==0) cout << "VAL" << validateRatings() << endl;
     }
 
     sort(population, population + populationSize, compareCreatures);
@@ -259,22 +341,22 @@ void initialize() {
 
     while (gameData >> winTeam) {
         if (winTeam == "playoffs") { 
-            allGames[counter].winTeam = winTeam;
+            allGames[numGamesInSeason].winTeam = winTeam;
         } else if (winTeam == "yearEnd") { // separation of years
-            allGames[counter].winTeam = winTeam;
+            allGames[numGamesInSeason].winTeam = winTeam;
         } else {
             gameData >> winScore >> loseTeam >> loseScore >> location;
 
-            allGames[counter].winTeam   = winTeam;
-            allGames[counter].loseTeam  = loseTeam;
-            allGames[counter].loseScore = loseScore;
-            allGames[counter].winScore  = winScore;
-            allGames[counter].homeGame  = location == "home" ? true : false;
+            allGames[numGamesInSeason].winTeam   = winTeam;
+            allGames[numGamesInSeason].loseTeam  = loseTeam;
+            allGames[numGamesInSeason].loseScore = loseScore;
+            allGames[numGamesInSeason].winScore  = winScore;
+            allGames[numGamesInSeason].homeGame  = location == "home" ? true : false;
         }
-        counter++;
+        numGamesInSeason++;
     }
 
-    trainGames = floor(counter*.9);
+    trainGames = floor(numGamesInSeason*.9);
 
     ifstream NBA ("../NBATeams.txt");
     for (int x = 0; x<numTeams; x++) {
@@ -286,10 +368,10 @@ void initialize() {
 
 int main(){
 
-	srand(7);
+	srand(8);
     initialize();
-    evolve();
-    /* for (int x = 0; x < 10; x++) {
+
+    for (int x = 0; x < 10; x++) {
         evolve();
-    }*/
+    }
 }

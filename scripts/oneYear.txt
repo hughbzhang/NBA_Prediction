@@ -1294,7 +1294,6 @@ houstonrockets 119 losangelesclippers 107 away
 goldenstatewarriors 108 memphisgrizzlies 95 away
 atlantahawks 94 washingtonwizards 91 away
 houstonrockets 113 losangelesclippers 100 home
-playoffs
 goldenstatewarriors 110 houstonrockets 106 home
 clevelandcavaliers 97 atlantahawks 89 away
 goldenstatewarriors 99 houstonrockets 98 home
