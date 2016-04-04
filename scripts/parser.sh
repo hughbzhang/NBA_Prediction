@@ -10,7 +10,7 @@ cp $1 tmp.txt
 sed -i 's/,//g' tmp.txt # Remove all the commas
 sed -i 's/[0-9]*OT//g' tmp.txt # Remove all the overtime statements
 sed -i 's/\([A-Z]\)/\L\1/g' tmp.txt # Make everything lowercase
-sed -i 's/\([a-z]\)\s76ers/\1SSers/g' tmp.txt # Edge case with the 76ers
+sed -i 's/\([a-z]\)\s76ers/\1ssers/g' tmp.txt # Edge case with the 76ers
 sed -i 's/\s\+/ /g' tmp.txt # Remove extra spaces
 sed -i 's/originally.*//g' tmp.txt # Edge case for rescheduled games
 

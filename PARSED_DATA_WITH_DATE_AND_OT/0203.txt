@@ -1,5 +1,5 @@
 sanantoniospurs 87 losangeleslakers 82 away 303
-orlandomagic 95 philadelphiaSSers 88 home 303
+orlandomagic 95 philadelphiassers 88 home 303
 sacramentokings 94 clevelandcavaliers 67 home 303
 chicagobulls 99 bostonceltics 96 away 304
 detroitpistons 86 newyorkknicks 77 home 304
@@ -11,7 +11,7 @@ orlandomagic 100 miamiheat 86 away 304
 minnesotatimberwolves 83 denvernuggets 77 home 304
 brooklynnets 105 atlantahawks 94 home 304
 neworleanspelicans 100 utahjazz 75 home 304
-philadelphiaSSers 95 milwaukeebucks 93 home 304
+philadelphiassers 95 milwaukeebucks 93 home 304
 portlandtrailblazers 102 losangeleslakers 90 home 304
 oklahomacitythunder 86 phoenixsuns 73 home 304
 torontoraptors 74 washingtonwizards 68 home 304
@@ -25,7 +25,7 @@ oklahomacitythunder 106 goldenstatewarriors 93 away 306
 losangeleslakers 108 losangelesclippers 93 home 306
 minnesotatimberwolves 111 orlandomagic 105 home 306
 brooklynnets 102 indianapacers 91 home 306
-philadelphiaSSers 98 newyorkknicks 86 home 306
+philadelphiassers 98 newyorkknicks 86 home 306
 phoenixsuns 78 clevelandcavaliers 74 home 306
 sanantoniospurs 91 torontoraptors 72 home 306
 atlantahawks 98 chicagobulls 92 home 307
@@ -60,7 +60,7 @@ bostonceltics 91 chicagobulls 69 away 311
 milwaukeebucks 99 brooklynnets 93 home 311
 neworleanspelicans 86 oklahomacitythunder 84 home 311
 newyorkknicks 95 sacramentokings 88 home 311
-philadelphiaSSers 101 losangelesclippers 99 home 311
+philadelphiassers 101 losangelesclippers 99 home 311
 phoenixsuns 93 atlantahawks 88 home 311
 portlandtrailblazers 94 memphisgrizzlies 88 home 311
 dallasmavericks 106 torontoraptors 92 away 311
@@ -74,7 +74,7 @@ indianapacers 107 newyorkknicks 94 home 313
 brooklynnets 106 losangelesclippers 92 home 313
 neworleanspelicans 110 goldenstatewarriors 104 home 313
 orlandomagic 105 oklahomacitythunder 98 home 313
-philadelphiaSSers 108 clevelandcavaliers 84 home 313
+philadelphiassers 108 clevelandcavaliers 84 home 313
 phoenixsuns 86 portlandtrailblazers 75 home 313
 sacramentokings 99 memphisgrizzlies 91 home 313
 utahjazz 110 atlantahawks 97 home 313
@@ -86,7 +86,7 @@ denvernuggets 84 memphisgrizzlies 73 home 314
 houstonrockets 111 goldenstatewarriors 104 home 314
 indianapacers 108 torontoraptors 84 home 314
 oklahomacitythunder 84 miamiheat 82 away 314
-milwaukeebucks 110 philadelphiaSSers 105 home 314
+milwaukeebucks 110 philadelphiassers 105 home 314
 bostonceltics 105 minnesotatimberwolves 99 away 314
 portlandtrailblazers 95 sanantoniospurs 76 away 314
 neworleanspelicans 97 newyorkknicks 91 away 315
@@ -104,7 +104,7 @@ losangelesclippers 101 miamiheat 82 away 317
 utahjazz 108 newyorkknicks 87 away 317
 torontoraptors 115 orlandomagic 109 away 317
 oklahomacitythunder 101 washingtonwizards 95 away 317
-bostonceltics 91 philadelphiaSSers 81 home 318
+bostonceltics 91 philadelphiassers 81 home 318
 dallasmavericks 103 clevelandcavaliers 99 away 318
 phoenixsuns 75 denvernuggets 72 away 318
 sacramentokings 104 goldenstatewarriors 93 away 318
@@ -112,7 +112,7 @@ milwaukeebucks 108 chicagobulls 101 home 318
 brooklynnets 91 sanantoniospurs 82 home 318
 neworleanspelicans 102 minnesotatimberwolves 98 home 318
 orlandomagic 101 losangelesclippers 80 away 319
-philadelphiaSSers 99 sanantoniospurs 94 home 319
+philadelphiassers 99 sanantoniospurs 94 home 319
 washingtonwizards 105 utahjazz 102 home 319
 dallasmavericks 97 bostonceltics 86 away 320
 detroitpistons 86 utahjazz 75 home 320
@@ -133,11 +133,11 @@ goldenstatewarriors 135 orlandomagic 92 home 321
 milwaukeebucks 104 bostonceltics 85 home 321
 indianapacers 107 minnesotatimberwolves 101 away 321
 dallasmavericks 96 brooklynnets 88 away 321
-philadelphiaSSers 93 newyorkknicks 92 away 321
+philadelphiassers 93 newyorkknicks 92 away 321
 washingtonwizards 95 miamiheat 65 home 321
 oklahomacitythunder 84 losangelesclippers 78 away 322
 houstonrockets 93 losangeleslakers 89 away 322
-philadelphiaSSers 100 washingtonwizards 84 home 322
+philadelphiassers 100 washingtonwizards 84 home 322
 sacramentokings 101 orlandomagic 99 home 322
 utahjazz 82 torontoraptors 78 away 322
 atlantahawks 117 torontoraptors 92 home 323
@@ -149,7 +149,7 @@ dallasmavericks 98 losangeleslakers 72 home 324
 houstonrockets 97 clevelandcavaliers 80 home 324
 miamiheat 97 milwaukeebucks 93 away 324
 minnesotatimberwolves 110 memphisgrizzlies 106 home 324
-neworleanspelicans 99 philadelphiaSSers 98 home 324
+neworleanspelicans 99 philadelphiassers 98 home 324
 sacramentokings 111 chicagobulls 98 home 324
 orlandomagic 101 oklahomacitythunder 84 away 324
 utahjazz 99 phoenixsuns 76 home 324
@@ -159,7 +159,7 @@ utahjazz 96 denvernuggets 79 away 325
 detroitpistons 79 miamiheat 68 home 325
 goldenstatewarriors 100 chicagobulls 94 home 325
 sacramentokings 93 losangelesclippers 89 away 325
-philadelphiaSSers 95 memphisgrizzlies 88 away 325
+philadelphiassers 95 memphisgrizzlies 88 away 325
 portlandtrailblazers 98 orlandomagic 84 home 325
 sanantoniospurs 95 losangeleslakers 88 home 325
 indianapacers 97 torontoraptors 95 away 325
@@ -174,7 +174,7 @@ losangeleslakers 86 chicagobulls 73 home 327
 detroitpistons 75 miamiheat 72 away 327
 brooklynnets 120 clevelandcavaliers 79 home 327
 neworleanspelicans 105 newyorkknicks 97 home 327
-philadelphiaSSers 90 torontoraptors 80 home 327
+philadelphiassers 90 torontoraptors 80 home 327
 sacramentokings 118 phoenixsuns 101 home 327
 sanantoniospurs 95 memphisgrizzlies 86 home 327
 bostonceltics 109 atlantahawks 99 away 328
@@ -191,8 +191,8 @@ losangeleslakers 111 milwaukeebucks 99 home 329
 minnesotatimberwolves 106 newyorkknicks 88 away 329
 orlandomagic 77 miamiheat 75 home 329
 oklahomacitythunder 91 sanantoniospurs 90 away 329
-philadelphiaSSers 94 torontoraptors 84 away 329
-philadelphiaSSers 108 neworleanspelicans 87 home 330
+philadelphiassers 94 torontoraptors 84 away 329
+philadelphiassers 108 neworleanspelicans 87 home 330
 phoenixsuns 86 milwaukeebucks 81 home 330
 atlantahawks 119 oklahomacitythunder 116 home 331
 sacramentokings 91 clevelandcavaliers 85 away 331
@@ -209,7 +209,7 @@ milwaukeebucks 112 clevelandcavaliers 80 home 332
 minnesotatimberwolves 90 sacramentokings 74 home 332
 neworleanspelicans 106 atlantahawks 94 home 332
 orlandomagic 112 losangeleslakers 102 home 332
-philadelphiaSSers 83 miamiheat 74 home 332
+philadelphiassers 83 miamiheat 74 home 332
 phoenixsuns 82 brooklynnets 75 home 332
 sanantoniospurs 99 denvernuggets 68 home 332
 newyorkknicks 87 torontoraptors 81 away 332
@@ -217,7 +217,7 @@ indianapacers 110 dallasmavericks 98 home 333
 losangelesclippers 126 brooklynnets 118 home 333
 atlantahawks 100 miamiheat 94 home 334
 torontoraptors 98 bostonceltics 95 away 334
-philadelphiaSSers 106 clevelandcavaliers 99 away 334
+philadelphiassers 106 clevelandcavaliers 99 away 334
 goldenstatewarriors 92 denvernuggets 82 away 334
 detroitpistons 96 milwaukeebucks 91 home 334
 indianapacers 100 washingtonwizards 84 home 334
@@ -234,7 +234,7 @@ newyorkknicks 92 neworleanspelicans 86 home 335
 orlandomagic 117 atlantahawks 92 home 335
 brooklynnets 93 portlandtrailblazers 86 away 335
 sanantoniospurs 107 utahjazz 85 home 335
-philadelphiaSSers 95 washingtonwizards 94 away 335
+philadelphiassers 95 washingtonwizards 94 away 335
 bostonceltics 95 neworleanspelicans 86 home 336
 indianapacers 92 losangelesclippers 87 away 336
 minnesotatimberwolves 110 losangeleslakers 107 away 336
@@ -259,7 +259,7 @@ washingtonwizards 88 detroitpistons 83 away 339
 losangelesclippers 89 miamiheat 80 home 339
 neworleanspelicans 89 torontoraptors 74 home 339
 orlandomagic 87 newyorkknicks 85 away 339
-philadelphiaSSers 99 bostonceltics 93 home 339
+philadelphiassers 99 bostonceltics 93 home 339
 phoenixsuns 98 memphisgrizzlies 85 home 339
 dallasmavericks 103 portlandtrailblazers 88 away 339
 indianapacers 114 oklahomacitythunder 111 away 339
@@ -273,14 +273,14 @@ orlandomagic 88 washingtonwizards 78 home 341
 phoenixsuns 102 indianapacers 96 home 341
 portlandtrailblazers 88 miamiheat 69 home 341
 sacramentokings 98 denvernuggets 77 home 341
-sanantoniospurs 98 philadelphiaSSers 93 home 341
+sanantoniospurs 98 philadelphiassers 93 home 341
 torontoraptors 103 chicagobulls 89 home 341
 utahjazz 104 memphisgrizzlies 71 home 341
 atlantahawks 94 detroitpistons 92 home 342
 chicagobulls 112 clevelandcavaliers 104 home 342
 denvernuggets 92 indianapacers 81 home 342
 dallasmavericks 121 goldenstatewarriors 116 away 342
-houstonrockets 97 philadelphiaSSers 72 home 342
+houstonrockets 97 philadelphiassers 72 home 342
 losangelesclippers 104 minnesotatimberwolves 88 home 342
 neworleanspelicans 94 milwaukeebucks 88 away 342
 brooklynnets 121 orlandomagic 88 home 342
@@ -308,7 +308,7 @@ detroitpistons 91 atlantahawks 80 home 346
 memphisgrizzlies 96 denvernuggets 93 home 346
 indianapacers 126 milwaukeebucks 119 away 346
 brooklynnets 105 portlandtrailblazers 104 home 346
-oklahomacitythunder 92 philadelphiaSSers 88 away 346
+oklahomacitythunder 92 philadelphiassers 88 away 346
 sanantoniospurs 111 dallasmavericks 104 home 346
 detroitpistons 86 chicagobulls 76 away 347
 minnesotatimberwolves 113 atlantahawks 95 home 347
@@ -321,7 +321,7 @@ newyorkknicks 97 miamiheat 92 away 348
 milwaukeebucks 101 portlandtrailblazers 79 home 348
 brooklynnets 79 washingtonwizards 65 home 348
 orlandomagic 111 goldenstatewarriors 85 home 348
-phoenixsuns 99 philadelphiaSSers 91 away 348
+phoenixsuns 99 philadelphiassers 91 away 348
 sanantoniospurs 97 losangelesclippers 84 home 348
 oklahomacitythunder 91 torontoraptors 79 away 348
 phoenixsuns 102 atlantahawks 88 away 349
@@ -335,7 +335,7 @@ portlandtrailblazers 98 minnesotatimberwolves 92 away 349
 bostonceltics 113 newyorkknicks 90 away 349
 sacramentokings 98 utahjazz 96 away 349
 detroitpistons 101 brooklynnets 91 home 350
-indianapacers 107 philadelphiaSSers 97 home 350
+indianapacers 107 philadelphiassers 97 home 350
 losangeleslakers 107 orlandomagic 84 home 350
 sacramentokings 107 neworleanspelicans 92 home 350
 washingtonwizards 95 torontoraptors 82 away 350
@@ -344,7 +344,7 @@ oklahomacitythunder 111 clevelandcavaliers 98 away 351
 losangelesclippers 91 sanantoniospurs 79 home 351
 memphisgrizzlies 104 goldenstatewarriors 91 home 351
 houstonrockets 105 miamiheat 100 away 351
-philadelphiaSSers 93 denvernuggets 71 home 351
+philadelphiassers 93 denvernuggets 71 home 351
 phoenixsuns 87 orlandomagic 84 home 351
 washingtonwizards 109 atlantahawks 99 away 352
 dallasmavericks 118 indianapacers 97 home 352
@@ -360,7 +360,7 @@ dallasmavericks 80 denvernuggets 75 away 353
 goldenstatewarriors 111 neworleanspelicans 106 home 353
 houstonrockets 95 indianapacers 83 home 353
 portlandtrailblazers 97 losangelesclippers 93 away 353
-philadelphiaSSers 99 minnesotatimberwolves 94 home 353
+philadelphiassers 99 minnesotatimberwolves 94 home 353
 sanantoniospurs 91 oklahomacitythunder 88 away 353
 orlandomagic 97 utahjazz 90 away 353
 washingtonwizards 118 memphisgrizzlies 100 home 353
@@ -375,10 +375,10 @@ houstonrockets 101 atlantahawks 82 home 355
 indianapacers 101 chicagobulls 86 home 355
 phoenixsuns 87 losangelesclippers 76 away 355
 memphisgrizzlies 95 milwaukeebucks 84 home 355
-philadelphiaSSers 107 losangeleslakers 104 home 355
+philadelphiassers 107 losangeleslakers 104 home 355
 neworleanspelicans 88 oklahomacitythunder 86 away 355
 miamiheat 97 torontoraptors 77 away 355
-atlantahawks 79 philadelphiaSSers 77 home 356
+atlantahawks 79 philadelphiassers 77 home 356
 chicagobulls 110 indianapacers 103 home 356
 bostonceltics 89 clevelandcavaliers 82 away 356
 losangelesclippers 92 denvernuggets 89 home 356
@@ -425,7 +425,7 @@ goldenstatewarriors 99 losangelesclippers 92 away 363
 brooklynnets 104 milwaukeebucks 96 away 363
 orlandomagic 101 bostonceltics 95 home 363
 portlandtrailblazers 119 sacramentokings 113 away 363
-utahjazz 98 philadelphiaSSers 69 home 363
+utahjazz 98 philadelphiassers 69 home 363
 washingtonwizards 84 atlantahawks 76 home 363
 phoenixsuns 103 clevelandcavaliers 84 away 364
 houstonrockets 97 neworleanspelicans 85 home 364
@@ -433,7 +433,7 @@ losangeleslakers 104 torontoraptors 88 home 364
 milwaukeebucks 110 dallasmavericks 107 away 365
 oklahomacitythunder 79 denvernuggets 77 away 365
 portlandtrailblazers 85 detroitpistons 74 away 365
-goldenstatewarriors 104 philadelphiaSSers 98 home 365
+goldenstatewarriors 104 philadelphiassers 98 home 365
 miamiheat 93 atlantahawks 84 home 365
 minnesotatimberwolves 104 phoenixsuns 98 home 365
 brooklynnets 102 clevelandcavaliers 88 home 365
@@ -443,14 +443,14 @@ utahjazz 107 torontoraptors 85 home 365
 bostonceltics 96 memphisgrizzlies 89 home 366
 chicagobulls 102 portlandtrailblazers 87 home 366
 houstonrockets 103 milwaukeebucks 80 home 366
-philadelphiaSSers 83 losangelesclippers 75 away 366
+philadelphiassers 83 losangelesclippers 75 away 366
 indianapacers 89 neworleanspelicans 86 away 366
 washingtonwizards 105 sanantoniospurs 103 home 366
 miamiheat 107 atlantahawks 73 away 367
 newyorkknicks 95 torontoraptors 75 home 367
 washingtonwizards 107 chicagobulls 82 away 368
 dallasmavericks 102 losangelesclippers 92 home 368
-phoenixsuns 96 philadelphiaSSers 78 home 368
+phoenixsuns 96 philadelphiassers 78 home 368
 portlandtrailblazers 108 bostonceltics 103 away 369
 memphisgrizzlies 116 losangelesclippers 111 home 369
 brooklynnets 100 miamiheat 80 away 369
@@ -462,7 +462,7 @@ denvernuggets 94 oklahomacitythunder 82 away 369
 clevelandcavaliers 81 torontoraptors 80 away 369
 detroitpistons 90 atlantahawks 86 away 370
 chicagobulls 85 clevelandcavaliers 79 home 370
-dallasmavericks 102 philadelphiaSSers 83 home 370
+dallasmavericks 102 philadelphiassers 83 home 370
 sacramentokings 87 denvernuggets 76 away 370
 goldenstatewarriors 86 houstonrockets 84 away 370
 utahjazz 105 minnesotatimberwolves 97 away 370
@@ -483,7 +483,7 @@ detroitpistons 82 torontoraptors 74 home 372
 goldenstatewarriors 99 miamiheat 85 home 372
 memphisgrizzlies 106 neworleanspelicans 102 home 372
 orlandomagic 103 newyorkknicks 100 home 372
-indianapacers 105 philadelphiaSSers 104 away 372
+indianapacers 105 philadelphiassers 104 away 372
 houstonrockets 94 minnesotatimberwolves 86 home 373
 losangeleslakers 119 oklahomacitythunder 98 home 373
 sacramentokings 101 milwaukeebucks 76 away 373
@@ -495,7 +495,7 @@ losangelesclippers 103 memphisgrizzlies 95 home 374
 minnesotatimberwolves 102 goldenstatewarriors 95 home 374
 bostonceltics 93 neworleanspelicans 83 away 374
 houstonrockets 91 orlandomagic 81 away 374
-detroitpistons 103 philadelphiaSSers 94 away 374
+detroitpistons 103 philadelphiassers 94 away 374
 sanantoniospurs 106 oklahomacitythunder 95 away 374
 utahjazz 99 phoenixsuns 93 home 374
 washingtonwizards 101 chicagobulls 98 home 374
@@ -507,7 +507,7 @@ milwaukeebucks 93 chicagobulls 85 home 376
 minnesotatimberwolves 115 sacramentokings 109 home 376
 detroitpistons 101 neworleanspelicans 99 away 376
 indianapacers 101 orlandomagic 97 away 376
-newyorkknicks 114 philadelphiaSSers 112 away 376
+newyorkknicks 114 philadelphiassers 112 away 376
 phoenixsuns 96 memphisgrizzlies 90 home 376
 losangelesclippers 90 oklahomacitythunder 88 away 376
 brooklynnets 94 torontoraptors 79 away 376
@@ -522,7 +522,7 @@ indianapacers 116 goldenstatewarriors 104 home 377
 washingtonwizards 89 newyorkknicks 84 away 377
 dallasmavericks 96 losangelesclippers 90 away 378
 losangeleslakers 106 miamiheat 81 home 378
-orlandomagic 107 philadelphiaSSers 105 away 378
+orlandomagic 107 philadelphiassers 105 away 378
 phoenixsuns 107 utahjazz 99 home 378
 sacramentokings 106 memphisgrizzlies 98 home 378
 sanantoniospurs 81 bostonceltics 80 home 378
@@ -546,7 +546,7 @@ houstonrockets 102 phoenixsuns 96 home 381
 indianapacers 104 miamiheat 81 home 381
 minnesotatimberwolves 95 losangelesclippers 64 away 381
 losangeleslakers 90 neworleanspelicans 82 away 381
-philadelphiaSSers 108 brooklynnets 107 home 381
+philadelphiassers 108 brooklynnets 107 home 381
 portlandtrailblazers 100 memphisgrizzlies 92 home 381
 sacramentokings 123 dallasmavericks 94 home 381
 milwaukeebucks 99 torontoraptors 87 away 381
@@ -559,7 +559,7 @@ goldenstatewarriors 107 minnesotatimberwolves 98 home 383
 houstonrockets 108 losangeleslakers 104 home 383
 brooklynnets 88 torontoraptors 77 home 383
 neworleanspelicans 90 chicagobulls 83 home 383
-milwaukeebucks 99 philadelphiaSSers 95 away 383
+milwaukeebucks 99 philadelphiassers 95 away 383
 phoenixsuns 111 dallasmavericks 106 home 383
 sanantoniospurs 106 atlantahawks 93 home 383
 oklahomacitythunder 103 memphisgrizzlies 97 home 383
@@ -570,7 +570,7 @@ miamiheat 102 chicagobulls 101 home 384
 bostonceltics 97 milwaukeebucks 95 away 384
 minnesotatimberwolves 104 portlandtrailblazers 98 away 384
 utahjazz 95 clevelandcavaliers 78 home 384
-philadelphiaSSers 88 washingtonwizards 80 away 384
+philadelphiassers 88 washingtonwizards 80 away 384
 oklahomacitythunder 85 dallasmavericks 81 home 385
 orlandomagic 101 torontoraptors 93 away 385
 chicagobulls 115 atlantahawks 102 away 386
@@ -581,7 +581,7 @@ portlandtrailblazers 99 memphisgrizzlies 87 away 386
 minnesotatimberwolves 89 torontoraptors 81 home 386
 neworleanspelicans 114 phoenixsuns 102 home 386
 newyorkknicks 72 miamiheat 65 home 386
-bostonceltics 100 philadelphiaSSers 99 away 386
+bostonceltics 100 philadelphiassers 99 away 386
 sanantoniospurs 87 houstonrockets 82 home 386
 utahjazz 106 brooklynnets 103 home 386
 washingtonwizards 89 denvernuggets 74 home 386
@@ -590,7 +590,7 @@ dallasmavericks 107 houstonrockets 86 home 387
 sacramentokings 109 brooklynnets 102 home 387
 portlandtrailblazers 112 atlantahawks 110 away 388
 milwaukeebucks 106 bostonceltics 97 away 388
-philadelphiaSSers 92 detroitpistons 83 away 388
+philadelphiassers 92 detroitpistons 83 away 388
 indianapacers 101 torontoraptors 98 home 388
 goldenstatewarriors 114 losangeleslakers 110 away 388
 miamiheat 92 phoenixsuns 85 home 388
@@ -602,7 +602,7 @@ memphisgrizzlies 98 sanantoniospurs 93 away 388
 losangelesclippers 96 utahjazz 89 away 388
 goldenstatewarriors 105 brooklynnets 97 home 389
 sacramentokings 104 memphisgrizzlies 98 away 389
-dallasmavericks 107 philadelphiaSSers 94 away 389
+dallasmavericks 107 philadelphiassers 94 away 389
 atlantahawks 115 sacramentokings 104 home 390
 bostonceltics 77 denvernuggets 58 home 390
 chicagobulls 104 washingtonwizards 97 home 390
@@ -617,7 +617,7 @@ sanantoniospurs 91 utahjazz 90 away 390
 atlantahawks 102 clevelandcavaliers 101 away 391
 goldenstatewarriors 108 utahjazz 95 home 391
 oklahomacitythunder 95 memphisgrizzlies 83 away 391
-philadelphiaSSers 97 miamiheat 91 away 391
+philadelphiassers 97 miamiheat 91 away 391
 milwaukeebucks 88 denvernuggets 75 home 391
 sanantoniospurs 108 detroitpistons 76 home 391
 minnesotatimberwolves 97 washingtonwizards 89 away 391
@@ -635,7 +635,7 @@ minnesotatimberwolves 106 sanantoniospurs 95 home 393
 milwaukeebucks 108 neworleanspelicans 93 away 393
 washingtonwizards 98 phoenixsuns 93 home 393
 detroitpistons 86 bostonceltics 83 home 394
-philadelphiaSSers 108 milwaukeebucks 81 away 394
+philadelphiassers 108 milwaukeebucks 81 away 394
 newyorkknicks 103 atlantahawks 98 home 394
 portlandtrailblazers 98 denvernuggets 92 home 394
 utahjazz 102 sacramentokings 92 away 394
@@ -647,7 +647,7 @@ miamiheat 82 newyorkknicks 80 home 395
 brooklynnets 86 washingtonwizards 78 home 395
 neworleanspelicans 104 torontoraptors 83 home 395
 orlandomagic 113 clevelandcavaliers 108 home 395
-atlantahawks 97 philadelphiaSSers 83 away 395
+atlantahawks 97 philadelphiassers 83 away 395
 losangeleslakers 99 phoenixsuns 90 away 395
 utahjazz 95 portlandtrailblazers 71 home 395
 dallasmavericks 112 minnesotatimberwolves 109 home 396
@@ -660,7 +660,7 @@ phoenixsuns 98 losangelesclippers 92 away 397
 newyorkknicks 108 memphisgrizzlies 102 away 397
 brooklynnets 89 neworleanspelicans 72 home 397
 sanantoniospurs 109 orlandomagic 108 away 397
-philadelphiaSSers 104 miamiheat 99 home 397
+philadelphiassers 104 miamiheat 99 home 397
 portlandtrailblazers 107 chicagobulls 94 home 397
 losangeleslakers 124 sacramentokings 113 away 397
 torontoraptors 102 indianapacers 90 home 397
@@ -678,7 +678,7 @@ atlantahawks 97 orlandomagic 89 home 399
 portlandtrailblazers 114 clevelandcavaliers 95 away 399
 denvernuggets 93 memphisgrizzlies 78 home 399
 houstonrockets 105 sacramentokings 89 home 399
-minnesotatimberwolves 99 philadelphiaSSers 91 home 399
+minnesotatimberwolves 99 philadelphiassers 91 home 399
 torontoraptors 100 losangelesclippers 86 home 399
 goldenstatewarriors 101 memphisgrizzlies 91 home 400
 miamiheat 99 atlantahawks 79 home 400
@@ -700,7 +700,7 @@ detroitpistons 89 losangelesclippers 80 home 402
 sanantoniospurs 103 goldenstatewarriors 99 away 402
 portlandtrailblazers 101 miamiheat 87 away 402
 neworleanspelicans 108 sacramentokings 84 home 402
-brooklynnets 111 philadelphiaSSers 85 away 402
+brooklynnets 111 philadelphiassers 85 away 402
 utahjazz 105 memphisgrizzlies 84 home 402
 sanantoniospurs 83 denvernuggets 74 away 403
 milwaukeebucks 97 oklahomacitythunder 91 home 403
@@ -724,7 +724,7 @@ memphisgrizzlies 97 brooklynnets 90 home 409
 milwaukeebucks 120 dallasmavericks 114 home 409
 indianapacers 83 neworleanspelicans 72 away 409
 goldenstatewarriors 113 newyorkknicks 107 away 409
-philadelphiaSSers 119 chicagobulls 111 home 409
+philadelphiassers 119 chicagobulls 111 home 409
 torontoraptors 97 atlantahawks 96 home 409
 houstonrockets 106 utahjazz 76 away 409
 detroitpistons 98 orlandomagic 88 home 410
@@ -736,7 +736,7 @@ dallasmavericks 110 memphisgrizzlies 103 away 411
 milwaukeebucks 96 detroitpistons 86 home 411
 minnesotatimberwolves 114 neworleanspelicans 93 home 411
 brooklynnets 90 chicagobulls 72 home 411
-philadelphiaSSers 99 orlandomagic 98 home 411
+philadelphiassers 99 orlandomagic 98 home 411
 newyorkknicks 116 phoenixsuns 115 away 411
 sacramentokings 110 oklahomacitythunder 81 home 411
 goldenstatewarriors 118 torontoraptors 114 away 411
@@ -750,7 +750,7 @@ detroitpistons 90 clevelandcavaliers 75 away 413
 newyorkknicks 117 losangeleslakers 110 away 413
 memphisgrizzlies 101 milwaukeebucks 95 away 413
 minnesotatimberwolves 109 goldenstatewarriors 102 home 413
-philadelphiaSSers 90 brooklynnets 83 away 413
+philadelphiassers 90 brooklynnets 83 away 413
 neworleanspelicans 100 denvernuggets 92 home 413
 phoenixsuns 102 bostonceltics 92 home 413
 sanantoniospurs 104 sacramentokings 101 away 413
@@ -767,7 +767,7 @@ orlandomagic 99 neworleanspelicans 94 home 415
 sacramentokings 102 milwaukeebucks 93 home 415
 sanantoniospurs 101 denvernuggets 76 home 415
 chicagobulls 107 clevelandcavaliers 101 away 415
-philadelphiaSSers 110 chicagobulls 82 away 416
+philadelphiassers 110 chicagobulls 82 away 416
 minnesotatimberwolves 85 denvernuggets 77 away 416
 losangelesclippers 110 milwaukeebucks 104 home 416
 neworleanspelicans 87 washingtonwizards 75 home 416
@@ -779,7 +779,7 @@ losangeleslakers 93 utahjazz 87 away 416
 dallasmavericks 95 sanantoniospurs 87 home 417
 brooklynnets 98 indianapacers 91 home 417
 sacramentokings 105 bostonceltics 83 home 417
-philadelphiaSSers 119 clevelandcavaliers 99 away 418
+philadelphiassers 119 clevelandcavaliers 99 away 418
 goldenstatewarriors 111 newyorkknicks 107 home 418
 dallasmavericks 100 houstonrockets 85 away 418
 losangeleslakers 92 portlandtrailblazers 84 home 418
@@ -800,7 +800,7 @@ goldenstatewarriors 115 atlantahawks 93 home 420
 losangeleslakers 106 oklahomacitythunder 101 home 420
 minnesotatimberwolves 99 phoenixsuns 97 home 420
 orlandomagic 113 brooklynnets 105 away 420
-philadelphiaSSers 116 clevelandcavaliers 103 home 420
+philadelphiassers 116 clevelandcavaliers 103 home 420
 sacramentokings 99 newyorkknicks 92 home 420
 dallasmavericks 106 washingtonwizards 101 away 420
 houstonrockets 101 bostonceltics 95 away 421
@@ -825,7 +825,7 @@ phoenixsuns 118 milwaukeebucks 112 away 423
 minnesotatimberwolves 92 utahjazz 85 home 423
 brooklynnets 105 newyorkknicks 76 home 423
 neworleanspelicans 91 miamiheat 82 home 423
-philadelphiaSSers 111 memphisgrizzlies 107 home 423
+philadelphiassers 111 memphisgrizzlies 107 home 423
 oklahomacitythunder 93 atlantahawks 76 home 423
 sacramentokings 126 dallasmavericks 124 away 424
 losangeleslakers 95 detroitpistons 85 home 424
@@ -837,7 +837,7 @@ indianapacers 107 milwaukeebucks 98 home 425
 memphisgrizzlies 126 miamiheat 116 home 425
 minnesotatimberwolves 118 clevelandcavaliers 95 home 425
 newyorkknicks 118 orlandomagic 110 home 425
-philadelphiaSSers 104 utahjazz 83 home 425
+philadelphiassers 104 utahjazz 83 home 425
 portlandtrailblazers 109 losangelesclippers 103 home 425
 oklahomacitythunder 107 losangeleslakers 90 home 425
 dallasmavericks 114 memphisgrizzlies 87 home 427
@@ -847,7 +847,7 @@ neworleanspelicans 97 phoenixsuns 92 away 427
 sanantoniospurs 108 sacramentokings 100 home 427
 washingtonwizards 101 chicagobulls 93 home 427
 orlandomagic 102 clevelandcavaliers 76 away 428
-philadelphiaSSers 100 denvernuggets 94 away 428
+philadelphiassers 100 denvernuggets 94 away 428
 sanantoniospurs 97 houstonrockets 88 away 428
 miamiheat 93 washingtonwizards 83 home 428
 milwaukeebucks 120 atlantahawks 93 home 428
@@ -858,7 +858,7 @@ torontoraptors 104 bostonceltics 92 home 428
 orlandomagic 104 chicagobulls 89 away 429
 neworleanspelicans 111 losangelesclippers 108 away 429
 bostonceltics 111 memphisgrizzlies 110 away 429
-sacramentokings 107 philadelphiaSSers 99 home 429
+sacramentokings 107 philadelphiassers 99 home 429
 atlantahawks 92 denvernuggets 86 home 430
 dallasmavericks 88 brooklynnets 79 home 430
 detroitpistons 96 houstonrockets 83 home 430
@@ -879,14 +879,14 @@ houstonrockets 97 torontoraptors 95 away 431
 utahjazz 94 oklahomacitythunder 83 home 431
 washingtonwizards 99 losangelesclippers 80 home 431
 chicagobulls 119 goldenstatewarriors 105 home 432
-philadelphiaSSers 88 portlandtrailblazers 60 away 432
+philadelphiassers 88 portlandtrailblazers 60 away 432
 sanantoniospurs 92 brooklynnets 78 home 432
 bostonceltics 83 losangelesclippers 72 home 433
 losangeleslakers 106 minnesotatimberwolves 96 home 433
 dallasmavericks 91 miamiheat 89 away 433
 neworleanspelicans 102 clevelandcavaliers 76 home 433
 newyorkknicks 111 orlandomagic 102 away 433
-philadelphiaSSers 108 oklahomacitythunder 99 away 433
+philadelphiassers 108 oklahomacitythunder 99 away 433
 sacramentokings 108 utahjazz 105 away 433
 milwaukeebucks 85 washingtonwizards 82 away 433
 torontoraptors 107 atlantahawks 98 away 434
@@ -899,7 +899,7 @@ milwaukeebucks 138 goldenstatewarriors 133 home 434
 portlandtrailblazers 94 indianapacers 80 home 434
 sanantoniospurs 94 bostonceltics 78 away 435
 detroitpistons 107 goldenstatewarriors 105 home 435
-losangeleslakers 106 philadelphiaSSers 92 home 435
+losangeleslakers 106 philadelphiassers 92 home 435
 brooklynnets 102 neworleanspelicans 92 away 435
 newyorkknicks 97 washingtonwizards 96 home 435
 orlandomagic 111 denvernuggets 98 home 435
@@ -925,7 +925,7 @@ houstonrockets 118 losangelesclippers 114 home 438
 memphisgrizzlies 124 chicagobulls 95 home 438
 sanantoniospurs 111 minnesotatimberwolves 99 away 438
 utahjazz 111 orlandomagic 108 away 438
-philadelphiaSSers 96 indianapacers 93 home 438
+philadelphiassers 96 indianapacers 93 home 438
 portlandtrailblazers 125 torontoraptors 103 home 438
 brooklynnets 90 bostonceltics 75 home 439
 phoenixsuns 109 sacramentokings 84 home 439
@@ -937,7 +937,7 @@ houstonrockets 121 chicagobulls 91 home 440
 indianapacers 101 utahjazz 81 home 440
 neworleanspelicans 87 miamiheat 83 away 440
 losangeleslakers 106 minnesotatimberwolves 99 away 440
-philadelphiaSSers 90 portlandtrailblazers 79 home 440
+philadelphiassers 90 portlandtrailblazers 79 home 440
 sacramentokings 119 torontoraptors 84 home 440
 sanantoniospurs 107 losangelesclippers 96 home 440
 bostonceltics 81 detroitpistons 71 away 441
@@ -951,7 +951,7 @@ houstonrockets 85 phoenixsuns 75 home 442
 losangelesclippers 111 torontoraptors 110 home 442
 memphisgrizzlies 124 atlantahawks 92 home 442
 minnesotatimberwolves 111 portlandtrailblazers 95 home 442
-philadelphiaSSers 92 brooklynnets 87 away 442
+philadelphiassers 92 brooklynnets 87 away 442
 newyorkknicks 120 milwaukeebucks 111 home 442
 dallasmavericks 129 sacramentokings 123 away 442
 sanantoniospurs 108 chicagobulls 97 home 442
@@ -961,7 +961,7 @@ phoenixsuns 95 torontoraptors 91 home 443
 brooklynnets 87 bostonceltics 74 away 444
 chicagobulls 103 atlantahawks 78 home 444
 dallasmavericks 114 clevelandcavaliers 93 home 444
-philadelphiaSSers 103 miamiheat 83 away 444
+philadelphiassers 103 miamiheat 83 away 444
 minnesotatimberwolves 96 memphisgrizzlies 80 home 444
 sacramentokings 117 goldenstatewarriors 91 home 444
 newyorkknicks 105 sanantoniospurs 97 away 444
@@ -979,7 +979,7 @@ utahjazz 99 phoenixsuns 86 away 445
 portlandtrailblazers 94 houstonrockets 83 home 445
 torontoraptors 87 atlantahawks 86 home 445
 sanantoniospurs 112 dallasmavericks 110 away 446
-detroitpistons 113 philadelphiaSSers 85 home 446
+detroitpistons 113 philadelphiassers 85 home 446
 sacramentokings 107 losangeleslakers 99 home 446
 houstonrockets 117 goldenstatewarriors 107 away 447
 indianapacers 101 memphisgrizzlies 92 home 447
@@ -988,7 +988,7 @@ miamiheat 107 torontoraptors 98 home 447
 neworleanspelicans 113 milwaukeebucks 98 home 447
 newyorkknicks 97 detroitpistons 93 home 447
 orlandomagic 109 clevelandcavaliers 85 home 447
-atlantahawks 114 philadelphiaSSers 105 away 447
+atlantahawks 114 philadelphiassers 105 away 447
 phoenixsuns 109 washingtonwizards 83 home 447
 minnesotatimberwolves 101 sanantoniospurs 94 away 447
 oklahomacitythunder 101 denvernuggets 99 home 447
@@ -1006,7 +1006,7 @@ goldenstatewarriors 113 washingtonwizards 107 home 449
 orlandomagic 96 miamiheat 74 away 449
 sacramentokings 109 houstonrockets 108 home 449
 sanantoniospurs 98 losangeleslakers 89 home 449
-philadelphiaSSers 112 torontoraptors 95 away 449
+philadelphiassers 112 torontoraptors 95 away 449
 dallasmavericks 108 denvernuggets 96 away 450
 houstonrockets 108 losangelesclippers 90 away 450
 newyorkknicks 100 torontoraptors 90 home 450
@@ -1023,7 +1023,7 @@ chicagobulls 82 miamiheat 74 home 452
 denvernuggets 108 milwaukeebucks 103 home 452
 detroitpistons 102 atlantahawks 99 home 452
 losangeleslakers 96 houstonrockets 93 away 452
-philadelphiaSSers 91 indianapacers 85 away 452
+philadelphiassers 91 indianapacers 85 away 452
 dallasmavericks 114 losangelesclippers 107 away 452
 phoenixsuns 101 memphisgrizzlies 99 away 452
 brooklynnets 101 newyorkknicks 95 home 452
@@ -1040,12 +1040,12 @@ indianapacers 140 chicagobulls 89 home 454
 losangeleslakers 108 washingtonwizards 94 home 454
 miamiheat 111 minnesotatimberwolves 84 home 454
 brooklynnets 122 newyorkknicks 101 away 454
-goldenstatewarriors 102 philadelphiaSSers 98 away 454
+goldenstatewarriors 102 philadelphiassers 98 away 454
 portlandtrailblazers 112 dallasmavericks 95 home 454
 oklahomacitythunder 95 memphisgrizzlies 71 home 454
 neworleanspelicans 101 torontoraptors 92 away 454
 utahjazz 103 milwaukeebucks 90 home 454
-philadelphiaSSers 110 atlantahawks 89 away 455
+philadelphiassers 110 atlantahawks 89 away 455
 sacramentokings 107 chicagobulls 92 away 455
 bostonceltics 110 clevelandcavaliers 106 away 455
 houstonrockets 102 denvernuggets 89 home 455
@@ -1063,7 +1063,7 @@ torontoraptors 95 newyorkknicks 86 home 456
 losangeleslakers 110 memphisgrizzlies 94 home 457
 milwaukeebucks 91 miamiheat 86 away 457
 brooklynnets 110 houstonrockets 86 home 457
-philadelphiaSSers 118 orlandomagic 113 away 457
+philadelphiassers 118 orlandomagic 113 away 457
 oklahomacitythunder 101 chicagobulls 94 away 458
 dallasmavericks 95 neworleanspelicans 86 home 458
 sacramentokings 103 indianapacers 98 away 458
@@ -1080,7 +1080,7 @@ sanantoniospurs 105 memphisgrizzlies 87 away 459
 milwaukeebucks 106 houstonrockets 99 home 459
 minnesotatimberwolves 91 oklahomacitythunder 86 home 459
 neworleanspelicans 106 brooklynnets 97 home 459
-philadelphiaSSers 108 chicagobulls 101 home 459
+philadelphiassers 108 chicagobulls 101 home 459
 sacramentokings 105 washingtonwizards 99 away 459
 atlantahawks 91 washingtonwizards 89 home 460
 losangeleslakers 100 dallasmavericks 89 away 460
@@ -1091,7 +1091,7 @@ portlandtrailblazers 122 goldenstatewarriors 100 away 461
 losangeleslakers 102 memphisgrizzlies 101 away 461
 milwaukeebucks 95 clevelandcavaliers 93 home 461
 brooklynnets 99 miamiheat 83 home 461
-houstonrockets 88 philadelphiaSSers 79 away 461
+houstonrockets 88 philadelphiassers 79 away 461
 oklahomacitythunder 101 losangelesclippers 93 home 461
 sanantoniospurs 124 torontoraptors 98 away 461
 newyorkknicks 94 utahjazz 92 away 461
@@ -1107,7 +1107,7 @@ goldenstatewarriors 106 denvernuggets 99 home 463
 houstonrockets 114 orlandomagic 93 home 463
 indianapacers 90 miamiheat 69 home 463
 losangeleslakers 115 phoenixsuns 113 home 463
-sacramentokings 97 philadelphiaSSers 81 away 463
+sacramentokings 97 philadelphiassers 81 away 463
 minnesotatimberwolves 97 portlandtrailblazers 78 away 463
 oklahomacitythunder 82 utahjazz 80 home 463
 brooklynnets 96 torontoraptors 87 away 463
@@ -1120,7 +1120,7 @@ losangeleslakers 108 dallasmavericks 99 home 465
 memphisgrizzlies 111 losangelesclippers 108 home 465
 miamiheat 89 torontoraptors 83 home 465
 newyorkknicks 99 atlantahawks 95 home 465
-philadelphiaSSers 91 detroitpistons 74 home 465
+philadelphiassers 91 detroitpistons 74 home 465
 sacramentokings 107 oklahomacitythunder 85 home 465
 atlantahawks 97 brooklynnets 92 home 466
 detroitpistons 111 chicagobulls 102 home 466
@@ -1132,7 +1132,7 @@ sanantoniospurs 84 portlandtrailblazers 79 home 466
 oklahomacitythunder 100 minnesotatimberwolves 92 home 466
 utahjazz 94 houstonrockets 73 home 466
 bostonceltics 87 washingtonwizards 83 away 466
-philadelphiaSSers 99 bostonceltics 78 away 467
+philadelphiassers 99 bostonceltics 78 away 467
 losangeleslakers 117 sacramentokings 104 home 467
 atlantahawks 109 clevelandcavaliers 89 home 468
 chicagobulls 95 brooklynnets 86 home 468
@@ -1141,7 +1141,7 @@ memphisgrizzlies 96 portlandtrailblazers 93 home 468
 washingtonwizards 91 miamiheat 87 away 468
 minnesotatimberwolves 106 losangelesclippers 90 home 468
 neworleanspelicans 93 detroitpistons 89 home 468
-newyorkknicks 108 philadelphiaSSers 103 home 468
+newyorkknicks 108 philadelphiassers 103 home 468
 phoenixsuns 117 goldenstatewarriors 101 home 468
 sacramentokings 105 denvernuggets 103 home 468
 sanantoniospurs 94 oklahomacitythunder 86 home 468
@@ -1158,7 +1158,7 @@ detroitpistons 110 memphisgrizzlies 107 away 470
 bostonceltics 94 miamiheat 86 away 470
 milwaukeebucks 107 indianapacers 98 home 470
 minnesotatimberwolves 119 chicagobulls 95 home 470
-neworleanspelicans 94 philadelphiaSSers 89 away 470
+neworleanspelicans 94 philadelphiassers 89 away 470
 phoenixsuns 92 sanantoniospurs 85 home 470
 portlandtrailblazers 101 losangeleslakers 99 home 470
 atlantahawks 100 orlandomagic 84 home 471
@@ -1168,7 +1168,7 @@ losangelesclippers 122 goldenstatewarriors 113 away 471
 neworleanspelicans 87 brooklynnets 74 away 471
 sanantoniospurs 91 utahjazz 83 away 471
 newyorkknicks 93 washingtonwizards 79 away 471
-chicagobulls 115 philadelphiaSSers 106 home 472
+chicagobulls 115 philadelphiassers 106 home 472
 houstonrockets 97 memphisgrizzlies 86 home 472
 losangeleslakers 126 denvernuggets 104 home 472
 indianapacers 109 newyorkknicks 93 away 472
@@ -1183,7 +1183,7 @@ losangelesclippers 107 portlandtrailblazers 93 home 473
 minnesotatimberwolves 95 memphisgrizzlies 87 away 473
 milwaukeebucks 93 orlandomagic 87 home 473
 neworleanspelicans 92 atlantahawks 77 home 473
-philadelphiaSSers 107 washingtonwizards 87 home 473
+philadelphiassers 107 washingtonwizards 87 home 473
 sacramentokings 95 utahjazz 84 home 473
 dallasmavericks 93 sanantoniospurs 72 away 473
 oklahomacitythunder 84 phoenixsuns 70 home 473
@@ -1195,7 +1195,7 @@ sacramentokings 96 utahjazz 90 home 476
 phoenixsuns 96 sanantoniospurs 95 away 476
 orlandomagic 99 detroitpistons 94 away 477
 losangeleslakers 117 minnesotatimberwolves 98 away 477
-philadelphiaSSers 98 neworleanspelicans 90 home 477
+philadelphiassers 98 neworleanspelicans 90 home 477
 indianapacers 89 bostonceltics 77 home 478
 sacramentokings 108 utahjazz 95 home 478
 sanantoniospurs 84 phoenixsuns 76 home 478
@@ -1203,7 +1203,7 @@ minnesotatimberwolves 119 losangeleslakers 91 home 479
 milwaukeebucks 88 brooklynnets 85 away 479
 dallasmavericks 103 portlandtrailblazers 99 home 480
 detroitpistons 89 orlandomagic 77 home 480
-philadelphiaSSers 90 neworleanspelicans 85 home 480
+philadelphiassers 90 neworleanspelicans 85 home 480
 bostonceltics 101 indianapacers 83 home 481
 minnesotatimberwolves 114 losangeleslakers 110 away 481
 brooklynnets 103 milwaukeebucks 101 away 481
@@ -1211,14 +1211,14 @@ orlandomagic 89 detroitpistons 80 home 482
 sanantoniospurs 99 phoenixsuns 86 away 482
 dallasmavericks 115 portlandtrailblazers 103 away 482
 milwaukeebucks 119 brooklynnets 114 home 483
-neworleanspelicans 99 philadelphiaSSers 85 home 483
+neworleanspelicans 99 philadelphiassers 85 home 483
 utahjazz 107 sacramentokings 104 home 483
 bostonceltics 102 indianapacers 92 home 484
 losangeleslakers 102 minnesotatimberwolves 97 home 484
 orlandomagic 100 detroitpistons 92 home 484
 phoenixsuns 86 sanantoniospurs 84 home 484
 portlandtrailblazers 98 dallasmavericks 79 home 484
-philadelphiaSSers 96 neworleanspelicans 87 away 485
+philadelphiassers 96 neworleanspelicans 87 away 485
 sacramentokings 99 utahjazz 82 away 485
 indianapacers 93 bostonceltics 88 home 486
 losangeleslakers 120 minnesotatimberwolves 90 away 486
@@ -1226,13 +1226,13 @@ brooklynnets 89 milwaukeebucks 82 home 486
 sanantoniospurs 94 phoenixsuns 82 home 486
 portlandtrailblazers 103 dallasmavericks 99 away 487
 detroitpistons 98 orlandomagic 67 home 487
-neworleanspelicans 93 philadelphiaSSers 91 away 487
+neworleanspelicans 93 philadelphiassers 91 away 487
 sacramentokings 111 utahjazz 91 home 487
 bostonceltics 110 indianapacers 90 home 488
 losangeleslakers 101 minnesotatimberwolves 85 home 488
 brooklynnets 113 milwaukeebucks 101 away 488
 sanantoniospurs 87 phoenixsuns 85 away 488
-philadelphiaSSers 107 neworleanspelicans 103 away 489
+philadelphiassers 107 neworleanspelicans 103 away 489
 detroitpistons 103 orlandomagic 88 away 489
 portlandtrailblazers 125 dallasmavericks 103 home 489
 dallasmavericks 107 portlandtrailblazers 95 home 491
@@ -1240,25 +1240,25 @@ detroitpistons 108 orlandomagic 93 home 491
 brooklynnets 97 bostonceltics 93 home 492
 sanantoniospurs 87 losangeleslakers 82 home 492
 sacramentokings 124 dallasmavericks 113 away 493
-detroitpistons 98 philadelphiaSSers 87 home 493
+detroitpistons 98 philadelphiassers 87 home 493
 brooklynnets 104 bostonceltics 95 home 494
 sanantoniospurs 114 losangeleslakers 95 home 494
 dallasmavericks 132 sacramentokings 110 home 495
-detroitpistons 104 philadelphiaSSers 97 home 495
+detroitpistons 104 philadelphiassers 97 home 495
 brooklynnets 94 bostonceltics 76 away 496
 losangeleslakers 110 sanantoniospurs 95 home 496
-philadelphiaSSers 93 detroitpistons 83 home 497
+philadelphiassers 93 detroitpistons 83 home 497
 dallasmavericks 141 sacramentokings 137 away 497
 losangeleslakers 99 sanantoniospurs 95 home 498
-philadelphiaSSers 95 detroitpistons 82 home 498
+philadelphiassers 95 detroitpistons 82 home 498
 sacramentokings 99 dallasmavericks 83 home 498
 brooklynnets 110 bostonceltics 101 away 499
 dallasmavericks 112 sacramentokings 93 home 500
 sanantoniospurs 96 losangeleslakers 94 home 500
-detroitpistons 78 philadelphiaSSers 77 home 501
+detroitpistons 78 philadelphiassers 77 home 501
 sanantoniospurs 110 losangeleslakers 82 away 502
 sacramentokings 115 dallasmavericks 109 home 502
-detroitpistons 93 philadelphiaSSers 89 away 503
+detroitpistons 93 philadelphiassers 89 away 503
 dallasmavericks 112 sacramentokings 99 home 504
 brooklynnets 76 detroitpistons 74 away 505
 dallasmavericks 113 sanantoniospurs 110 away 506
