@@ -40,7 +40,7 @@ int main() {
 				iss >> day >> year;
 				int month = isMonth[word]-1;
 				date = cumDays[month]+day;
-				if (date < 250) date += 365; // So that we can calculate Dec 31 -> Jan 1 properly
+				if (date < 250) date += 366; // So that we can calculate Dec 31 -> Jan 1 properly
 				break;
 			}
 	    }
