@@ -12,13 +12,17 @@ Random ratings seem to have costs double this.
 Optimizations:
 
 1) Kill organisms in a more realistic way
-2) Weight parent selection in favor of better creatures
-3) Actually optimize calculation in parts of code
-4) Try mixing parents instead of averaging?
-5) Initialize non randomly?
+
+
+
+
+2) Weight parent selection in favor of better creatures DONE
+3) Actually optimize calculation in parts of code DONE
+4) Try mixing parents instead of averaging? PROBABLY DOESNT MATTER
+5) Initialize non randomly? DOESNT MATTER
 6) Linear Transformations DONE
-7) Use brier scores or accuracy
-8) Weighted random children
+7) Use brier scores or accuracy DONE
+8) Weighted random children DONE
 
 
 We are getting close. Got the spurs vs clippers AND the rockets vs clippers without any extra data
@@ -88,6 +92,7 @@ ld ELO_RATINGS[] = {1524.06, 1360.66, 1634.58, 1550.66, 1627.52, 1352.95, 1431.0
 
 Game* allGames;
 Creature* population;
+Creature* winners;
 int numGamesInSeason = 0;
 int trainGames = 0;
 map<string, int> teamToIndex;
@@ -274,13 +279,20 @@ void reproduce(int index, int father, int mother) {
 }
 
 void cycleGeneration(bool mutation) {
+    
+    // clock_t t1,t2,t3,t4;
+    // t1 = clock();
+
     sort(population, population + populationSize, compareCreatures);
     // Note: we never touch the best creature in each round. Don't want to make him suck.
+
+    // t2 = clock();
 
     // Mutation phase. For all survivors we see if we want to mutate (randomize) any genes
     if (mutation) {
 
         // Can definitely use 1337 skillz to optimize this
+
 
         int numMutations = (int)ceil((populationSize-killSize-1)*numTeams/mutationRate);
 
@@ -294,37 +306,57 @@ void cycleGeneration(bool mutation) {
         }
     }
 
+    // t3 = clock();
+
     // Propogation phase. We just kill all creatures < killSize. This is pretty like gradient descent.
 
     for (int x = 0; x < killSize; x++) {
         pair<int, int> parents = selectTwoRandom(populationSize-killSize);
         reproduce(x, parents.first + killSize, parents.second + killSize);
     }
+
+    // t4 = clock();
+    // cout << (t2-t1)/(float) CLOCKS_PER_SEC << endl;
+    // cout << (t3-t2)/(float) CLOCKS_PER_SEC << endl;
+    // cout << (t4-t3)/(float) CLOCKS_PER_SEC << endl;
 }
 
-void evolve() { // Not optimized at all
+// This is really bad but whatever
+void copyCreature(int cycle, Creature creature) {
+    for (int x = 0; x < numTeams; x++) {
+        winners[cycle].ratings[x] = creature.ratings[x];
+    }
+    winners[cycle].fitness = creature.fitness;
+}
+
+void evolve(int cycle) { // Not optimized at all
     generateRandomPopulation();
 
     for (int x = 0; x < maxTimeSteps; x++) {
         cycleGeneration(true);
-        if ((x%100)==0) cout << bestRating() << endl;
+        // if ((x%100)==0) cout << validateRatings() << endl;
     }
 
     for (int x = 0; x < convergeTimeSteps; x++) {
         cycleGeneration(false);
-        if ((x%100)==0) cout << "VAL" << validateRatings() << endl;
+        // if ((x%100)==0) cout << "VAL" << bestRating() << endl;
     }
 
     sort(population, population + populationSize, compareCreatures);
     normalizeRating(populationSize-1);
     printCreature(population[populationSize-1]);
+    if (cycle != populationSize) {
+        copyCreature(cycle, population[populationSize-1]);
+    }
 }
 
 void initialize() {
     allGames = new Game[100000];
     population = new Creature[populationSize];
+    winners = new Creature[populationSize];
     for (int x = 0;x<populationSize; x++) {
     	population[x].ratings = new ld[numTeams];
+        winners[x].ratings = new ld[numTeams];
     }
 
     string tmp;
@@ -371,7 +403,10 @@ int main(){
 	srand(8);
     initialize();
 
-    for (int x = 0; x < 10; x++) {
-        evolve();
+    for (int x = 0; x < populationSize; x++) {
+        evolve(x);
     }
+    population = winners;
+
+    evolve(populationSize);
 }
