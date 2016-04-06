@@ -208,7 +208,7 @@ Score costForGame(Creature creature, int game, Score score, bool isPlayoffs) {
     int winIndex = teamToIndex[allGames[game].winTeam];
     int loseIndex = teamToIndex[allGames[game].loseTeam];
     int scoreDiff = allGames[game].winScore - allGames[game].loseScore;
-    int homeBonus = allGames[game].homeGame ? creature.homeAdvantage : 0;
+    int homeBonus = allGames[game].homeGame ? creature.homeAdvantage : -creature.homeAdvantage;
 
     ld win = winPercentage(homeBonus + creature.ratings[winIndex] - creature.ratings[loseIndex]);
 
@@ -292,7 +292,7 @@ void generateRandomPopulation() {
 
 // Important functions below
 
-void printCreature(Creature creature) { // xcxc WIP
+void printCreature(Creature creature, bool isPlayoffs) { // xcxc WIP
 
     vector<string> namesToPrint;
     Score score;
@@ -309,12 +309,7 @@ void printCreature(Creature creature) { // xcxc WIP
 
     cout << "FITNESS: " << creature.fitness << endl;
 
-    /*score = playoffScoreFunction(creature);
-
-    cout << "PLAYOFF LOG: " << score.logLoss << endl;
-    cout << "PLAYOFF BRIER: " << score.brier << endl;
-    cout << "PLAYOFF WRONG GUESSES: " << score.wrongGuess << endl;
-    cout << "PLAYOFF PERCENTAGE: " << score.wrongGuess/(ld)(numGamesInSeason - regularSeason) << endl;*/
+    
 
     score = allScoreFunctions(creature);
 
@@ -323,12 +318,21 @@ void printCreature(Creature creature) { // xcxc WIP
     cout << "REGULAR WRONG GUESSES: " << score.wrongGuess << endl;
     cout << "REGULAR PERCENTAGE: " << score.wrongGuess/(ld)regularSeason << endl;
 
-    score = testSetScore(creature);
+    if (isPlayoffs) {
+        score = playoffScoreFunction(creature);
 
-    cout << "TEST LOG: " << score.logLoss << endl;
-    cout << "TEST BRIER: " << score.brier << endl;
-    cout << "TEST WRONG GUESSES: " << score.wrongGuess << endl;
-    cout << "TEST PERCENTAGE: " << score.wrongGuess*10/(ld)(regularSeason) << endl;
+        cout << "PLAYOFF LOG: " << score.logLoss << endl;
+        cout << "PLAYOFF BRIER: " << score.brier << endl;
+        cout << "PLAYOFF WRONG GUESSES: " << score.wrongGuess << endl;
+        cout << "PLAYOFF PERCENTAGE: " << score.wrongGuess/(ld)(numGamesInSeason - regularSeason) << endl;
+    } else {
+        score = testSetScore(creature);
+
+        cout << "TEST LOG: " << score.logLoss << endl;
+        cout << "TEST BRIER: " << score.brier << endl;
+        cout << "TEST WRONG GUESSES: " << score.wrongGuess << endl;
+        cout << "TEST PERCENTAGE: " << score.wrongGuess*10/(ld)(regularSeason) << endl;
+    }
 }
 
 pair<int, int> selectTwoRandomLogWeighting(int total) { // Wrong, maybe not worth trying to debug
@@ -405,18 +409,23 @@ void evolve(int cycle) { // Not optimized at all
     }
 }
 
+void liveGeneration(bool isPlayoffs) {
+    for (int x = 0; x < populationSize; x++) {
+        evolve(x);
+    }
+    population = winners;
+
+    evolve(populationSize);
+    printCreature(population[populationSize-1], isPlayoffs);
+}
+
 int main(){
 	srand(26);
     initialize();
 
     cout << regularSeason << " " << numGamesInSeason << endl;
 
-    /*for (int x = 0; x < populationSize; x++) {
-        evolve(x);
-    }
-    population = winners;
-
-    evolve(populationSize);*/
-    evolve(0);
-    printCreature(population[populationSize-1]);
+    liveGeneration(false);
+    testSet.clear();
+    liveGeneration(true);
 }
