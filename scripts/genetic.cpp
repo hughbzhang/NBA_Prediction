@@ -16,6 +16,7 @@ Random ratings seem to have costs double this.
 #include <string>
 #include <map>
 #include <set>
+#include <fstream>
 #include <iostream>
 #include <assert.h>
 #include <fstream>
@@ -49,8 +50,9 @@ struct Score {
 
 struct Creature {
 	ld* ratings;
-    ld homeAdvantage; // Make it per team later?
+    ld* homeAdvantage;
     ld fitness; // fitness is calculated on initialization
+    ld regular;
     Score score;
 } ELO;
 
@@ -59,16 +61,16 @@ const ld epsilon = 1e-6;
 const int numTeams = 30;
 const ld DENOM = 400;
 const int averageRating = 1500;
+int averageHomeAdvantage = 400;
 const ld RANDOM_MAX_SAFE = 1e9;
 
 // Genetic constants
 const int populationSize = 10;
 const int killSize = 5; // Kill all from 0 to killSize
 const int mutationRate = 50; // Percentage is 1/mutationRate. We use this for modding.
-const int maxTimeSteps = 4000;
+int maxTimeSteps = 40;
 const int convergeTimeSteps = maxTimeSteps/10;
-
-ld ELO_RATINGS[] = {1524.06, 1360.66, 1634.58, 1550.66, 1627.52, 1352.95, 1431.03, 1461.23, 1505.31, 1317.65, 1502.1, 1495.59, 1470.91, 1533.77, 1497.83, 1573.84, 1601.16, 1333.95, 1543.81, 1339.3, 1427.83, 1441.91, 1505.42, 1478.93, 1718.75, 1412.11, 1536.67, 1551.66, 1639.06, 1629.73};
+const ld regularizationConstant = 1;
 
 Game* allGames;
 Creature* population;
@@ -80,14 +82,18 @@ int regularSeason = -1; // Number of games in the regular season (probably data 
 map<string, int> teamToIndex;
 string indexToTeam[numTeams];
 map<string, ld> finalRating;
+map<string, ld> finalHomeAdvantage;
 map<string, int> playoffWrong;
+vector<string> namesToPrint;
+
 
 
 default_random_engine generator;
-normal_distribution<ld> distribution(averageRating, 500);
+
+int testSetWrong = 0;
 
 // Helper functions
-int compareCreatures(Creature one, Creature two) { return one.fitness > two.fitness; } // Sort form high to low 
+int compareCreatures(Creature one, Creature two) { return one.fitness + one.regular > two.fitness + two.regular; } // Sort form high to low 
 int compareTwoTeams(string one, string two) { return finalRating[one] > finalRating[two]; } // Sort so the best team is on top
 double randomDouble() { return (double)rand() / RANDOM_MAX_SAFE; }
 ld winPercentage (ld eloDiff) { return 1/(ld)(1+pow(10, -eloDiff/DENOM)); }
@@ -112,7 +118,8 @@ pair<int, int> selectTwoRandom(int total) {
     return ans;
 }
 
-ld builtInNormal() {
+ld builtInNormal(int average, int std) {
+    normal_distribution<ld> distribution(average, std);
     return distribution(generator);
 }
 
@@ -123,6 +130,9 @@ void initialize() {
     for (int x = 0;x<populationSize; x++) {
         population[x].ratings = new ld[numTeams];
         winners[x].ratings = new ld[numTeams];
+
+        population[x].homeAdvantage = new ld[numTeams];
+        winners[x].homeAdvantage = new ld[numTeams];
     }
 
     string tmp;
@@ -158,22 +168,15 @@ void initialize() {
         indexToTeam[x] = tmp;
         teamToIndex[tmp] = x;
     }
-
-    int cnt = 0;
-    while(cnt < regularSeason/10) {
-        int pos = rand() % regularSeason;
-        if (!testSet.count(pos)) {
-            cnt++;
-            testSet.insert(pos);
-        }
-    }
 }
 
 void copyCreature(int cycle, Creature creature) {
     for (int x = 0; x < numTeams; x++) {
         winners[cycle].ratings[x] = creature.ratings[x];
+        winners[cycle].homeAdvantage[x] = creature.homeAdvantage[x];
     }
     winners[cycle].fitness = creature.fitness;
+    winners[cycle].score = creature.score;
 }
 
 int bestCreature() {
@@ -199,6 +202,15 @@ ld sampleNormal() { // TODO Check if this is actually right
     return u * c;
 }
 
+ld regularization(Creature creature) {
+    ld cost = 0;
+    for (int x = 0;x<numTeams;x++) {
+        cost += (creature.ratings[x] - averageRating)/averageRating;
+        cost += (creature.homeAdvantage[x] - averageHomeAdvantage)/averageHomeAdvantage;
+    }
+    return cost*regularizationConstant;
+}
+
 ld brierCost(ld probability, int scoreDiff) {
     ld unSquaredCost = (1 - probability + log(scoreDiff));
     return unSquaredCost * unSquaredCost;
@@ -208,7 +220,7 @@ Score costForGame(Creature creature, int game, Score score, bool isPlayoffs) {
     int winIndex = teamToIndex[allGames[game].winTeam];
     int loseIndex = teamToIndex[allGames[game].loseTeam];
     int scoreDiff = allGames[game].winScore - allGames[game].loseScore;
-    int homeBonus = allGames[game].homeGame ? creature.homeAdvantage : -creature.homeAdvantage;
+    int homeBonus = allGames[game].homeGame ? creature.homeAdvantage[winIndex] : -creature.homeAdvantage[loseIndex];
 
     ld win = winPercentage(homeBonus + creature.ratings[winIndex] - creature.ratings[loseIndex]);
 
@@ -241,8 +253,10 @@ Score testSetScore(Creature creature) {
         if (allGames[x].winTeam == "playoffs") { assert(false); }
         if (testSet.count(x)) {
             score = costForGame(creature, x, score, false);
+            // cout << allGames[x].winTeam << " " << allGames[x].loseTeam << endl;
         }
     }
+    testSetWrong += score.wrongGuess;
     return score;
 }
 
@@ -278,12 +292,13 @@ void normalizeRating(int index) { // Since linear differences are all that matte
 
 void generateRandomAtIndex(int index) {
     for (int x = 0; x < numTeams; x++) {
-        population[index].ratings[x] = builtInNormal();
+        population[index].ratings[x] = builtInNormal(averageRating, 500);
+        population[index].homeAdvantage[x] = builtInNormal(averageHomeAdvantage, 100);
     }
     normalizeRating(index);
     population[index].score = allScoreFunctions(population[index]);
     population[index].fitness = population[index].score.brier;
-    population[index].homeAdvantage = builtInNormal()/3; // Mean at 500
+    population[index].regular = regularization(population[index]);
 }
 
 void generateRandomPopulation() {
@@ -292,25 +307,34 @@ void generateRandomPopulation() {
 
 // Important functions below
 
-void printCreature(Creature creature, bool isPlayoffs) { // xcxc WIP
+void printScore(Creature creature) {
+    cout << "FITNESS: " << creature.fitness << endl;
+    
+    Score score = allScoreFunctions(creature);
 
-    vector<string> namesToPrint;
+    cout << "REGULAR LOG: " << score.logLoss << endl;
+    cout << "REGULAR BRIER: " << score.brier << endl;
+    cout << "REGULAR WRONG GUESSES: " << score.wrongGuess << endl;
+    cout << "REGULAR PERCENTAGE: " << score.wrongGuess/(ld)regularSeason << endl;
+}
+
+void printCreature(Creature creature, bool isPlayoffs) {
+
+    namesToPrint.clear();
     Score score;
     for (int x = 0; x < numTeams; x++) {
         namesToPrint.push_back(names[x]);
         finalRating[names[x]] = creature.ratings[x];
+        finalHomeAdvantage[names[x]] = creature.homeAdvantage[x];
     }
 
     sort(namesToPrint.begin(),namesToPrint.end(), compareTwoTeams);
     for(int x = 0;x<namesToPrint.size();x++) {
-        cout << namesToPrint[x] << " " << finalRating[namesToPrint[x]] << endl; 
+        cout << namesToPrint[x] << " " << finalRating[namesToPrint[x]] << " " << finalHomeAdvantage[namesToPrint[x]] << endl; 
     }
-    cout << "HOME ADVANTAGE " << creature.homeAdvantage << endl;
 
     cout << "FITNESS: " << creature.fitness << endl;
-
     
-
     score = allScoreFunctions(creature);
 
     cout << "REGULAR LOG: " << score.logLoss << endl;
@@ -333,6 +357,7 @@ void printCreature(Creature creature, bool isPlayoffs) { // xcxc WIP
         cout << "TEST WRONG GUESSES: " << score.wrongGuess << endl;
         cout << "TEST PERCENTAGE: " << score.wrongGuess*10/(ld)(regularSeason) << endl;
     }
+
 }
 
 pair<int, int> selectTwoRandomLogWeighting(int total) { // Wrong, maybe not worth trying to debug
@@ -353,10 +378,11 @@ pair<int, int> selectTwoRandomLogWeighting(int total) { // Wrong, maybe not wort
 void reproduce(int index, int father, int mother) {
     for (int x = 0; x < numTeams; x++) {
         population[index].ratings[x] = (population[father].ratings[x] + population[mother].ratings[x])/2;
+        population[index].homeAdvantage[x] = (population[father].homeAdvantage[x] + population[mother].homeAdvantage[x])/2;
     }
     population[index].score = allScoreFunctions(population[index]);
     population[index].fitness = population[index].score.brier;
-    population[index].homeAdvantage = (rand() % 2) ? population[father].homeAdvantage : population[mother].homeAdvantage;
+    population[index].regular = regularization(population[index]);
 }
 
 void cycleGeneration(bool mutation) {
@@ -373,9 +399,23 @@ void cycleGeneration(bool mutation) {
             int mutatedCreature = rand() % (populationSize-killSize-1) + killSize;
             int mutatedGene = rand() % numTeams;
 
-            population[mutatedCreature].ratings[mutatedGene] = builtInNormal();
-            population[mutatedCreature].score = allScoreFunctions(population[mutatedCreature]);
-            population[mutatedCreature].fitness = population[mutatedCreature].score.brier;
+            population[mutatedCreature].ratings[mutatedGene] = builtInNormal(averageRating, 500);
+            population[mutatedCreature].fitness = 0;
+
+            // Different mutation for the homeGameAdvantage
+            mutatedCreature = rand() % (populationSize-killSize-1) + killSize;
+            mutatedGene = rand() % numTeams;
+
+            population[mutatedCreature].homeAdvantage[mutatedGene] = builtInNormal(averageHomeAdvantage, 100);
+            population[mutatedCreature].fitness = 0;
+
+        }
+        for (int x = 0; x < populationSize; x++) {
+            if (population[x].fitness == 0) {
+                population[x].score = allScoreFunctions(population[x]);
+                population[x].fitness = population[x].score.brier;
+                population[x].regular = regularization(population[x]);
+            }
         }
     }
 
@@ -387,22 +427,26 @@ void cycleGeneration(bool mutation) {
 }
 
 void evolve(int cycle) { // Not optimized at all
-    generateRandomPopulation();
+    bool finalRound = (cycle==populationSize);
+    if (!finalRound) generateRandomPopulation(); // For the last one we already the population
 
-    cout << "Random weight score starts with average rating of " << validateRatings() << endl;
+    // cout << "Random weight score starts with average rating of " << validateRatings() << endl;
+
+    if(finalRound) maxTimeSteps *= 10;
 
     for (int x = 0; x < maxTimeSteps; x++) {
-        cycleGeneration(true);
-        if ((x%1000)==0) cout << "Time step of " << x << " has best rating of " << bestRating() << endl;
+        cycleGeneration(cycle != populationSize); // no mutation on the last one
+        //if ((x%1000)==0) cout << "Time step of " << x << " has best rating of " << bestRating() << endl;
     }
 
     for (int x = 0; x < convergeTimeSteps; x++) {
         cycleGeneration(false);
-        if ((x%100)==0) cout << "No mutation time step of " << x << " has best rating of " << bestRating() << endl;
+        // cout << "No mutation time step of " << x << " has best rating of " << bestRating() << endl;
     }
 
     sort(population, population + populationSize, compareCreatures);
     normalizeRating(populationSize-1);
+    // printScore(population[populationSize-1]);
     if (cycle != populationSize) {
         // Save the winners for a meta round.
         copyCreature(cycle, population[populationSize-1]);
@@ -413,19 +457,42 @@ void liveGeneration(bool isPlayoffs) {
     for (int x = 0; x < populationSize; x++) {
         evolve(x);
     }
-    population = winners;
+    for (int x = 0;x<populationSize;x++) {
+        population[x] = winners[x];
+    }
 
     evolve(populationSize);
     printCreature(population[populationSize-1], isPlayoffs);
 }
 
-int main(){
-	srand(26);
+void generateTestSet() {
+    testSet.clear();
+    int cnt = 0;
+    while(cnt < regularSeason/10) {
+        int pos = rand() % regularSeason;
+        if (!testSet.count(pos)) {
+            cnt++;
+            testSet.insert(pos);
+            // cout << pos << " ";
+        }
+    }
+    cout << endl;
+}
+
+void dumpInfo() {
+    ofstream dump ("dump.txt", fstream::app);
+    dump << testSetWrong*10/(ld)(regularSeason) << endl;
+}
+
+int main() {
+    int seed;
+    cin >> seed >> averageHomeAdvantage;
+	srand(seed); //1241232 is a good number
     initialize();
 
-    cout << regularSeason << " " << numGamesInSeason << endl;
+    // cout << regularSeason << " " << numGamesInSeason << endl;
 
+    generateTestSet();
     liveGeneration(false);
-    testSet.clear();
-    liveGeneration(true);
+    dumpInfo();
 }
