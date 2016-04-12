@@ -29,7 +29,8 @@ Random ratings seem to have costs double this.
 using namespace std;
 typedef long double ld;
 
-int maxTimeSteps = 400;
+int maxTimeSteps = 40;
+int half; // which half to train on
 
 // Global data
 vector<string> names; // List of team names
@@ -112,6 +113,11 @@ Score newScore() { Score score; score.logLoss = 0; score.brier = 0; score.wrongG
 // Hacky implementation where person of rank X is multiplicatively more likely to get selected as rank X+1
 const double RANDOM_BASE = 1.3;
 int magicLogFunction(int total) { return (int)floor(log(rand()%total+1)/log(RANDOM_BASE)); }
+
+void dumpInfo(ld info) {
+    ofstream dump ("dump.txt", fstream::app);
+    dump << info << endl;
+}
 
 pair<int, int> selectTwoRandom(int total) {
     pair<int, int> ans;
@@ -356,7 +362,18 @@ Score testSetScore(Creature creature) {
 Score allScoreFunctions(Creature creature) {
     Score score = newScore();
 
-    for (int x = 0; x < regularSeason; x++) {
+    int start = 0;
+    int end = regularSeason;
+
+    if (half){
+        end = regularSeason/2;
+    }
+    else {
+        start = regularSeason/2;
+        end = (int)0.9*regularSeason; 
+    }
+
+    for (int x = start; x < end; x++) {
         if (allGames[x].winTeam == "playoffs1") { assert(false); }
         if (testSet.count(x)) continue; // skip the test set
         score = costForGame(creature, x, score, false);
@@ -442,8 +459,9 @@ void printCreature(Creature creature, bool isPlayoffs) {
         cout << "PLAYOFF BRIER: " << score.brier << endl;
         cout << "PLAYOFF WRONG GUESSES: " << score.wrongGuess << endl;
         cout << "PLAYOFF PERCENTAGE: " << score.wrongGuess/(ld)(numGamesInSeason - regularSeason) << endl;
+        dumpInfo(score.wrongGuess/(ld)(numGamesInSeason - regularSeason));
 
-        playoffCorrect(creature);
+        // playoffCorrect(creature);
     } else {
         score = testSetScore(creature);
 
@@ -574,17 +592,12 @@ void generateTestSet() {
     cout << endl;
 }
 
-void dumpInfo() {
-    ofstream dump ("dump.txt", fstream::app);
-    dump << testSetWrong*10/(ld)(regularSeason) << endl;
-}
-
 int main() {
     
 
     int seed = 11;
 
-    // cout << "GIVE SEED\n"; cin >> seed;
+    cout << "GIVE SEED\n"; cin >> seed >> half;
 	srand(seed); //1241232 is a good number
 
 
@@ -592,9 +605,6 @@ int main() {
 
     // cout << regularSeason << " " << numGamesInSeason << endl;
 
-    // generateTestSet();
-
-    //for (int x = 800;x<900;x++) testSet.insert(x);
+    generateTestSet();
     liveGeneration(true);
-    dumpInfo();
 }
