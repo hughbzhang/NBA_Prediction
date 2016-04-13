@@ -62,6 +62,7 @@ struct Creature {
     ld fitness; // fitness is calculated on initialization
     ld regular;
     Score score;
+    ld restAdvantage;
 };
 
 // Base constants
@@ -83,7 +84,7 @@ Game* allGames;
 Creature* population;
 Creature* winners; // For round 2 of the genetic algorithm with the winners of the first round
 
-
+map<string, int> lastPlayed;
 map<string, string> opponent;
 map<string, bool> playoffWinners;
 vector<string> homers;
@@ -233,6 +234,7 @@ ld regularization(Creature creature) {
         cost += (creature.ratings[x] - averageRating)/averageRating;
         cost += (creature.homeAdvantage[x] - averageHomeAdvantage)/averageHomeAdvantage;
     }
+    cost += creature.restAdvantage;
     return cost*regularizationConstant;
 }
 
@@ -269,13 +271,13 @@ ld brierOnlyCostForGame(Creature creature, int game) {
     return brierCost(win, scoreDiff);
 }
 
-Score costForGame(Creature creature, int game, Score score, bool print) {
+Score costForGame(Creature creature, int game, Score score, bool print, ld fatigueBonus) {
     int winIndex = teamToIndex[allGames[game].winTeam];
     int loseIndex = teamToIndex[allGames[game].loseTeam];
     int scoreDiff = allGames[game].winScore - allGames[game].loseScore;
     int homeBonus = allGames[game].homeGame ? creature.homeAdvantage[winIndex] : -creature.homeAdvantage[loseIndex];
 
-    ld win = winPercentage(homeBonus + creature.ratings[winIndex] - creature.ratings[loseIndex]);
+    ld win = winPercentage(fatigueBonus + homeBonus + creature.ratings[winIndex] - creature.ratings[loseIndex]);
 
     if (print) {
         cout << win << " " << allGames[game].winTeam << " " << allGames[game].loseTeam << endl;
@@ -381,8 +383,13 @@ Score testSetScore(Creature creature) {
     for (int x = 0; x < regularSeason; x++) {
         if (allGames[x].winTeam == "playoffs") { assert(false); }
         if (testSet.count(x)) {
-            score = costForGame(creature, x, score, false);
+            int winBonus = (allGames[x].date-lastPlayed[allGames[x].winTeam])>1;
+            int loseBonus = (allGames[x].date-lastPlayed[allGames[x].loseTeam])>1;
+
+            score = costForGame(creature, x, score, false, (winBonus-loseBonus)*creature.restAdvantage);
         }
+        lastPlayed[allGames[x].winTeam] = allGames[x].date;
+        lastPlayed[allGames[x].loseTeam] = allGames[x].date;
     }
     testSetWrong += score.wrongGuess;
     return score;
@@ -394,10 +401,22 @@ Score allScoreFunctions(Creature creature) {
     int start = 0;
     int end = regularSeason;
 
+    lastPlayed.clear();
+
     for (int x = start; x < end; x++) {
         if (allGames[x].winTeam == "playoffs") { assert(false); }
-        if (testSet.count(x) || badEggs[x]) continue; // skip the test set and the outliers
-        score = costForGame(creature, x, score, false);
+        if (testSet.count(x)==0 && !badEggs[x]) {
+
+            int winBonus = (allGames[x].date-lastPlayed[allGames[x].winTeam])>1;
+            int loseBonus = (allGames[x].date-lastPlayed[allGames[x].loseTeam])>1;
+
+            score = costForGame(creature, x, score, false, (winBonus-loseBonus)*creature.restAdvantage);
+        }
+
+        lastPlayed[allGames[x].winTeam] = allGames[x].date;
+        lastPlayed[allGames[x].loseTeam] = allGames[x].date;
+
+
     }
     return score;
 }
@@ -426,6 +445,8 @@ void generateRandomAtIndex(int index) {
         population[index].ratings[x] = builtInNormal(averageRating, 500);
         population[index].homeAdvantage[x] = builtInNormal(averageHomeAdvantage, 100);
     }
+    population[index].restAdvantage = builtInNormal(averageHomeAdvantage/6, 10); // Rest advantage is 3% Home advantage is 20%
+
     normalizeRating(index);
     population[index].score = allScoreFunctions(population[index]);
     population[index].fitness = population[index].score.brier;
@@ -513,6 +534,8 @@ void reproduce(int index, int father, int mother) {
         population[index].ratings[x] = (population[father].ratings[x] + population[mother].ratings[x])/2;
         population[index].homeAdvantage[x] = (population[father].homeAdvantage[x] + population[mother].homeAdvantage[x])/2;
     }
+    population[index].restAdvantage = (population[father].restAdvantage + population[mother].restAdvantage)/2;
+
     population[index].score = allScoreFunctions(population[index]);
     population[index].fitness = population[index].score.brier;
     population[index].regular = regularization(population[index]);
