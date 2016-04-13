@@ -1187,7 +1187,7 @@ portlandtrailblazers 92 houstonrockets 79 home 474
 oklahomacitythunder 109 memphisgrizzlies 94 home 474
 torontoraptors 103 clevelandcavaliers 85 home 474
 sanantoniospurs 86 utahjazz 84 away 474
-playoffs1
+playoffs
 charlottehornets 80 orlandomagic 79 home 477
 indianapacers 89 brooklynnets 83 away 477
 sacramentokings 89 utahjazz 86 home 477
@@ -1222,7 +1222,6 @@ detroitpistons 85 torontoraptors 82 home 489
 brooklynnets 120 indianapacers 109 home 489
 bostonceltics 120 philadelphiassers 87 home 490
 sanantoniospurs 101 oklahomacitythunder 78 home 490
-playoffs2
 sacramentokings 108 dallasmavericks 91 home 491
 detroitpistons 96 bostonceltics 84 home 492
 losangeleslakers 86 sanantoniospurs 80 home 492
@@ -1243,7 +1242,6 @@ sacramentokings 114 dallasmavericks 101 home 500
 bostonceltics 90 detroitpistons 81 away 501
 losangeleslakers 93 sanantoniospurs 87 home 501
 brooklynnets 103 charlottehornets 95 home 502
-playoffs3
 losangeleslakers 106 sacramentokings 99 away 505
 brooklynnets 104 bostonceltics 97 home 506
 sacramentokings 96 losangeleslakers 90 home 507
@@ -1257,7 +1255,6 @@ brooklynnets 103 bostonceltics 92 home 516
 brooklynnets 96 bostonceltics 88 away 518
 losangeleslakers 106 sacramentokings 102 home 518
 losangeleslakers 112 sacramentokings 106 away 520
-playoffs4
 losangeleslakers 99 brooklynnets 94 home 523
 losangeleslakers 106 brooklynnets 83 home 525
 losangeleslakers 106 brooklynnets 103 away 527
