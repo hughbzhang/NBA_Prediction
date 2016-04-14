@@ -1220,6 +1220,7 @@ sacramentokings 89 phoenixsuns 82 away 489
 torontoraptors 100 newyorkknicks 93 home 489
 dallasmavericks 84 utahjazz 83 away 490
 torontoraptors 93 newyorkknicks 89 away 491
+playoffs2
 sanantoniospurs 94 dallasmavericks 78 home 492
 losangeleslakers 108 sacramentokings 105 home 493
 milwaukeebucks 104 charlottehornets 92 home 493
@@ -1241,6 +1242,7 @@ charlottehornets 94 milwaukeebucks 86 away 502
 philadelphiassers 121 torontoraptors 88 home 503
 milwaukeebucks 104 charlottehornets 97 away 504
 torontoraptors 101 philadelphiassers 89 home 505
+playoffs3
 losangeleslakers 104 sanantoniospurs 90 away 506
 milwaukeebucks 104 charlottehornets 95 home 507
 philadelphiassers 88 torontoraptors 87 home 507
@@ -1255,6 +1257,7 @@ philadelphiassers 89 milwaukeebucks 88 home 517
 milwaukeebucks 110 philadelphiassers 100 home 519
 philadelphiassers 108 milwaukeebucks 91 home 521
 philadelphiassers 107 losangeleslakers 101 away 524
+playoffs4
 losangeleslakers 98 philadelphiassers 89 home 526
 losangeleslakers 96 philadelphiassers 91 away 528
 losangeleslakers 100 philadelphiassers 86 away 531

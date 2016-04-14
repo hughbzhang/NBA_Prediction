@@ -79,6 +79,7 @@ int main(){
     getInput();
     while(update());
     printTeamRanking();
+    cout << "YEAR" << endl;
 
     // save elo scores
 }
