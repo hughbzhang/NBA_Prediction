@@ -1,0 +1,56 @@
+chicagobulls milwaukeebucks 0.966167 0.832835 0.999
+torontoraptors washingtonwizards 0.849305 0.347489 0.796
+goldenstatewarriors neworleanspelicans 0.9751 0.467153 0.986
+houstonrockets dallasmavericks 0.884564 0.381626 0.873
+atlantahawks brooklynnets 0.999356 0.995122 1
+clevelandcavaliers bostonceltics 0.997813 0.979759 1
+losangelesclippers sanantoniospurs 0.860452 0.389374 0.857
+memphisgrizzlies portlandtrailblazers 0.9343 0.501824 0.958
+chicagobulls milwaukeebucks 0.907943 0.907943 0.998
+torontoraptors washingtonwizards 0.772365 0.772365 0.951
+goldenstatewarriors neworleanspelicans 0.859939 0.859939 0.991
+houstonrockets dallasmavericks 0.694843 0.694843 0.869
+atlantahawks brooklynnets 0.997384 0.997384 1
+clevelandcavaliers bostonceltics 0.9904 0.9904 1
+losangelesclippers sanantoniospurs 0.785841 0.785841 0.969
+memphisgrizzlies portlandtrailblazers 0.848482 0.848482 0.989
+atlantahawks 2352.26 243.762
+goldenstatewarriors 2199.99 321.881
+clevelandcavaliers 2134.74 258.236
+losangelesclippers 2104.98 90.1616
+memphisgrizzlies 2064.69 161.898
+chicagobulls 1952.53 184.684
+houstonrockets 1917.34 210.81
+neworleanspelicans 1884.73 338.118
+sanantoniospurs 1879.14 304.002
+dallasmavericks 1774.4 226.791
+portlandtrailblazers 1765.42 298.004
+torontoraptors 1754.45 88.1531
+oklahomacitythunder 1645.42 226.18
+phoenixsuns 1623.42 211.06
+milwaukeebucks 1554.93 118.636
+washingtonwizards 1542.21 321.692
+utahjazz 1509.78 236.868
+miamiheat 1379.68 150.746
+detroitpistons 1333.05 167.234
+bostonceltics 1329.32 131.463
+indianapacers 1324.91 199.337
+brooklynnets 1319.79 108.636
+charlottehornets 1203.06 162.823
+denvernuggets 1173.72 176.95
+sacramentokings 1170.97 131.725
+orlandomagic 814.54 116.369
+losangeleslakers 803.981 180.102
+newyorkknicks 583.54 150.835
+philadelphiassers 523.528 162.536
+minnesotatimberwolves 379.493 174.164
+REST: 0
+FITNESS: 8104.63
+REGULAR LOG: 1104.77
+REGULAR BRIER: 8104.63
+REGULAR WRONG GUESSES: 348
+REGULAR PERCENTAGE: 0.282927
+PLAYOFF LOG: 69.986
+PLAYOFF BRIER: 562.095
+PLAYOFF WRONG GUESSES: 30
+PLAYOFF PERCENTAGE: 0.365854
