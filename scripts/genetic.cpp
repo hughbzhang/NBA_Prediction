@@ -242,13 +242,18 @@ Score playoffsCostForGame(Creature creature, int game, Score score) {
     return score;
 }
 
-Score costForGame(Creature creature, int game, Score score) {
+Score costForGame(Creature creature, int game, Score score, bool print) {
     int winIndex = teamToIndex[allGames[game].winTeam];
     int loseIndex = teamToIndex[allGames[game].loseTeam];
     int scoreDiff = allGames[game].winScore - allGames[game].loseScore;
     int homeBonus = allGames[game].homeGame ? creature.homeAdvantage[winIndex] : -creature.homeAdvantage[loseIndex];
 
     ld win = winPercentage(homeBonus + creature.ratings[winIndex] - creature.ratings[loseIndex]);
+
+    if (print) {
+        cout << win << " " << allGames[game].winTeam << " " << allGames[game].loseTeam << endl;
+
+    }
 
     score.logLoss += logCost(win);
     score.wrongGuess += (win < 0.5);
@@ -341,8 +346,7 @@ Score testSetScore(Creature creature) {
     for (int x = 0; x < regularSeason; x++) {
         if (allGames[x].winTeam == "playoffs1") { assert(false); }
         if (testSet.count(x)) {
-            score = costForGame(creature, x, score);
-            // cout << allGames[x].winTeam << " " << allGames[x].loseTeam << endl;
+            score = costForGame(creature, x, score, true);
         }
     }
     testSetWrong += score.wrongGuess;
@@ -355,7 +359,7 @@ Score allScoreFunctions(Creature creature) {
     for (int x = 0; x < regularSeason; x++) {
         if (allGames[x].winTeam == "playoffs1") { assert(false); }
         if (testSet.count(x)) continue; // skip the test set
-        score = costForGame(creature, x, score);
+        score = costForGame(creature, x, score, false);
     }
     return score;
 }
@@ -580,7 +584,7 @@ int main() {
 
     int seed = 11;
 
-    cout << "GIVE SEED\n"; cin >> seed;
+    // cout << "GIVE SEED\n"; cin >> seed;
 	srand(seed); //1241232 is a good number
 
 
@@ -589,6 +593,8 @@ int main() {
     // cout << regularSeason << " " << numGamesInSeason << endl;
 
     // generateTestSet();
+
+    //for (int x = 800;x<900;x++) testSet.insert(x);
     liveGeneration(true);
     dumpInfo();
 }
