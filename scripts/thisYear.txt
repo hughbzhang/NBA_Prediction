@@ -1229,3 +1229,11 @@ losangeleslakers 101 utahjazz 96 home 470
 phoenixsuns 114 losangelesclippers 105 home 470
 portlandtrailblazers 107 denvernuggets 99 home 470
 playoffs
+torontoraptors 0 indianapacers 0 home 0
+goldenstatewarriors 0 houstonrockets 0 home 0
+oklahomacitythunder 0 dallasmavericks 0 home 0
+atlantahawks 0 bostonceltics 0 home 0
+sanantoniospurs 0 memphisgrizzlies 0 home 0
+losangelesclippers 0 portlandtrailblazers 0 home 0
+clevelandcavaliers 0 detroitpistons 0 home 0
+miamiheat 0 charlottehornets 0 home 0

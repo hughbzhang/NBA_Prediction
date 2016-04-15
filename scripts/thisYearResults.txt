@@ -1,0 +1,820 @@
+WITHHOME
+torontoraptors indianapacers 0.646448 0.239555 0.419
+goldenstatewarriors houstonrockets 0.912051 0.409039 0.925
+oklahomacitythunder dallasmavericks 0.923016 0.481578 0.964
+atlantahawks bostonceltics 0.89076 0.401649 0.888
+sanantoniospurs memphisgrizzlies 0.905462 0.515351 0.943
+losangelesclippers portlandtrailblazers 0.452225 0.0598138 0.077
+clevelandcavaliers detroitpistons 0.755865 0.319293 0.678
+miamiheat charlottehornets 0.656023 0.169035 0.372
+WITHOUTHOME
+torontoraptors indianapacers 0.399409 0.399409 0.287
+goldenstatewarriors houstonrockets 0.700963 0.700963 0.871
+oklahomacitythunder dallasmavericks 0.767368 0.767368 0.935
+atlantahawks bostonceltics 0.72223 0.72223 0.905
+sanantoniospurs memphisgrizzlies 0.707386 0.707386 0.883
+losangelesclippers portlandtrailblazers 0.181515 0.181515 0.025
+clevelandcavaliers detroitpistons 0.519762 0.519762 0.548
+miamiheat charlottehornets 0.395964 0.395964 0.265
+WINNING CREATURE
+goldenstatewarriors 1828.73 258.328
+portlandtrailblazers 1748.54 216.926
+atlantahawks 1715.49 198.556
+orlandomagic 1711.93 139.191
+clevelandcavaliers 1695.87 182.586
+detroitpistons 1682.13 145.247
+houstonrockets 1680.74 211.906
+utahjazz 1627.15 193.794
+oklahomacitythunder 1613.98 224.19
+sanantoniospurs 1586.23 239.16
+brooklynnets 1581.44 148.834
+charlottehornets 1567.98 203.28
+indianapacers 1553.07 129.801
+bostonceltics 1549.5 235.24
+washingtonwizards 1547.19 149.352
+newyorkknicks 1531.38 167.452
+miamiheat 1494.61 185.519
+losangelesclippers 1486.91 228.34
+sacramentokings 1482.44 253.763
+torontoraptors 1482.2 175.696
+0.352846
+434
+WITHHOME
+torontoraptors indianapacers 0.92845 0.698958 0.992
+goldenstatewarriors houstonrockets 0.81972 0.240942 0.705
+oklahomacitythunder dallasmavericks 0.871833 0.484495 0.904
+atlantahawks bostonceltics 0.806722 0.196849 0.636
+sanantoniospurs memphisgrizzlies 0.947894 0.648602 0.987
+losangelesclippers portlandtrailblazers 0.841547 0.300956 0.774
+clevelandcavaliers detroitpistons 0.643473 0.129963 0.312
+miamiheat charlottehornets 0.820653 0.363698 0.784
+WITHOUTHOME
+torontoraptors indianapacers 0.818748 0.818748 0.983
+goldenstatewarriors houstonrockets 0.530113 0.530113 0.559
+oklahomacitythunder dallasmavericks 0.738752 0.738752 0.914
+atlantahawks bostonceltics 0.511568 0.511568 0.526
+sanantoniospurs memphisgrizzlies 0.849564 0.849564 0.99
+losangelesclippers portlandtrailblazers 0.568494 0.568494 0.648
+clevelandcavaliers detroitpistons 0.34652 0.34652 0.193
+miamiheat charlottehornets 0.634632 0.634632 0.801
+WINNING CREATURE
+detroitpistons 1731.25 220.085
+torontoraptors 1709.91 183.313
+losangelesclippers 1681.24 242.175
+orlandomagic 1678.19 156.702
+goldenstatewarriors 1675.13 242.138
+atlantahawks 1671.55 240.177
+bostonceltics 1663.51 252.305
+houstonrockets 1654.18 220.295
+sanantoniospurs 1651.19 203.212
+oklahomacitythunder 1636.59 152.485
+portlandtrailblazers 1633.34 194.296
+utahjazz 1627.68 224.549
+neworleanspelicans 1626.12 192.932
+clevelandcavaliers 1621.05 212.777
+sacramentokings 1583.88 219.333
+newyorkknicks 1572.67 192.826
+washingtonwizards 1532.86 204.075
+dallasmavericks 1456.01 191.356
+indianapacers 1447.97 115.617
+brooklynnets 1428.62 166.943
+0.37561
+462
+WITHHOME
+torontoraptors indianapacers 0.789645 0.357306 0.746
+goldenstatewarriors houstonrockets 0.952561 0.610002 0.99
+oklahomacitythunder dallasmavericks 0.935476 0.617945 0.976
+atlantahawks bostonceltics 0.880212 0.32203 0.865
+sanantoniospurs memphisgrizzlies 0.878564 0.487097 0.92
+losangelesclippers portlandtrailblazers 0.513025 0.0708968 0.133
+clevelandcavaliers detroitpistons 0.859941 0.29808 0.798
+miamiheat charlottehornets 0.920192 0.608333 0.973
+WITHOUTHOME
+torontoraptors indianapacers 0.565085 0.565085 0.631
+goldenstatewarriors houstonrockets 0.849788 0.849788 0.989
+oklahomacitythunder dallasmavericks 0.799999 0.799999 0.969
+atlantahawks bostonceltics 0.679373 0.679373 0.85
+sanantoniospurs memphisgrizzlies 0.704155 0.704155 0.886
+losangelesclippers portlandtrailblazers 0.212323 0.212323 0.034
+clevelandcavaliers detroitpistons 0.608901 0.608901 0.708
+miamiheat charlottehornets 0.810632 0.810632 0.971
+WINNING CREATURE
+goldenstatewarriors 1840.39 220.059
+orlandomagic 1808.21 192.036
+clevelandcavaliers 1693.72 238.358
+atlantahawks 1671.37 216.025
+oklahomacitythunder 1651.52 223.702
+miamiheat 1636.26 172.126
+detroitpistons 1616.82 225.686
+sanantoniospurs 1606.34 193.128
+utahjazz 1587.46 189.042
+portlandtrailblazers 1584.68 219.234
+washingtonwizards 1548.14 179.836
+bostonceltics 1540.92 259.769
+houstonrockets 1539.34 223.334
+torontoraptors 1539.2 184.309
+denvernuggets 1516.2 161.808
+indianapacers 1493.72 147.469
+newyorkknicks 1457.29 187.796
+memphisgrizzlies 1455.7 159.609
+sacramentokings 1428.49 203.593
+brooklynnets 1422.66 167.24
+0.34878
+429
+WITHHOME
+torontoraptors indianapacers 0.575914 0.150852 0.254
+goldenstatewarriors houstonrockets 0.970066 0.801045 1
+oklahomacitythunder dallasmavericks 0.983056 0.893898 1
+atlantahawks bostonceltics 0.665602 0.167376 0.384
+sanantoniospurs memphisgrizzlies 0.950907 0.570399 0.983
+losangelesclippers portlandtrailblazers 0.498175 0.0846298 0.124
+clevelandcavaliers detroitpistons 0.927526 0.573151 0.972
+miamiheat charlottehornets 0.98739 0.909143 1
+WITHOUTHOME
+torontoraptors indianapacers 0.34378 0.34378 0.185
+goldenstatewarriors houstonrockets 0.914178 0.914178 0.999
+oklahomacitythunder dallasmavericks 0.949097 0.949097 0.999
+atlantahawks bostonceltics 0.42913 0.42913 0.345
+sanantoniospurs memphisgrizzlies 0.812525 0.812525 0.976
+losangelesclippers portlandtrailblazers 0.234237 0.234237 0.06
+clevelandcavaliers detroitpistons 0.802055 0.802055 0.968
+miamiheat charlottehornets 0.958229 0.958229 1
+WINNING CREATURE
+goldenstatewarriors 1915.82 193.284
+miamiheat 1813.34 213.264
+oklahomacitythunder 1806.98 197.197
+clevelandcavaliers 1708.26 199.793
+orlandomagic 1696.98 232.277
+sanantoniospurs 1693.53 260.091
+bostonceltics 1619.27 229.123
+portlandtrailblazers 1575.5 207.854
+atlantahawks 1569.69 169.16
+sacramentokings 1533.1 219.414
+indianapacers 1522.88 187.866
+houstonrockets 1504.85 169.013
+newyorkknicks 1504.85 225.909
+denvernuggets 1501.99 194.56
+washingtonwizards 1482.36 162.317
+utahjazz 1472.36 206.946
+detroitpistons 1465.2 191.866
+brooklynnets 1451.82 201.469
+phoenixsuns 1446.47 173.561
+memphisgrizzlies 1438.77 205.512
+0.377236
+464
+WITHHOME
+torontoraptors indianapacers 0.44934 0.0887165 0.101
+goldenstatewarriors houstonrockets 0.984839 0.780792 1
+oklahomacitythunder dallasmavericks 0.972143 0.829061 0.999
+atlantahawks bostonceltics 0.805889 0.259795 0.699
+sanantoniospurs memphisgrizzlies 0.867334 0.396111 0.849
+losangelesclippers portlandtrailblazers 0.0691633 0.00661741 0
+clevelandcavaliers detroitpistons 0.964208 0.810726 0.998
+miamiheat charlottehornets 0.9313 0.618559 0.98
+WITHOUTHOME
+torontoraptors indianapacers 0.244248 0.244248 0.063
+goldenstatewarriors houstonrockets 0.929471 0.929471 1
+oklahomacitythunder dallasmavericks 0.901518 0.901518 0.995
+atlantahawks bostonceltics 0.569429 0.569429 0.636
+sanantoniospurs memphisgrizzlies 0.648541 0.648541 0.785
+losangelesclippers portlandtrailblazers 0.0191739 0.0191739 0
+clevelandcavaliers detroitpistons 0.920414 0.920414 1
+miamiheat charlottehornets 0.82177 0.82177 0.978
+WINNING CREATURE
+goldenstatewarriors 2025.96 277.107
+washingtonwizards 1877.63 116.565
+orlandomagic 1812.64 97.8165
+clevelandcavaliers 1808.46 146.897
+oklahomacitythunder 1757.89 232.469
+miamiheat 1752.76 187.347
+portlandtrailblazers 1708.56 187.019
+indianapacers 1705.6 208.44
+sanantoniospurs 1634.43 219.746
+houstonrockets 1578.01 227.277
+memphisgrizzlies 1528 179.681
+neworleanspelicans 1510.03 201.552
+torontoraptors 1509.39 160.896
+brooklynnets 1504.73 196.749
+atlantahawks 1504.33 198.732
+charlottehornets 1487.25 181.526
+minnesotatimberwolves 1470.53 319.39
+bostonceltics 1455.77 230.446
+utahjazz 1442.58 118.671
+sacramentokings 1385.45 245.827
+0.365854
+450
+WITHHOME
+torontoraptors indianapacers 0.893124 0.63283 0.968
+goldenstatewarriors houstonrockets 0.987345 0.842842 1
+oklahomacitythunder dallasmavericks 0.881144 0.397753 0.872
+atlantahawks bostonceltics 0.624113 0.0970771 0.288
+sanantoniospurs memphisgrizzlies 0.963831 0.729923 0.997
+losangelesclippers portlandtrailblazers 0.90319 0.398535 0.913
+clevelandcavaliers detroitpistons 0.658463 0.121604 0.338
+miamiheat charlottehornets 0.606336 0.105407 0.246
+WITHOUTHOME
+torontoraptors indianapacers 0.741125 0.741125 0.924
+goldenstatewarriors houstonrockets 0.955581 0.955581 1
+oklahomacitythunder dallasmavericks 0.691671 0.691671 0.881
+atlantahawks bostonceltics 0.299247 0.299247 0.128
+sanantoniospurs memphisgrizzlies 0.882281 0.882281 0.997
+losangelesclippers portlandtrailblazers 0.677372 0.677372 0.837
+clevelandcavaliers detroitpistons 0.324894 0.324894 0.15
+miamiheat charlottehornets 0.302075 0.302075 0.145
+WINNING CREATURE
+goldenstatewarriors 2203.25 223.798
+losangelesclippers 1777.88 259.093
+detroitpistons 1690.94 216.445
+bostonceltics 1687.72 239.599
+brooklynnets 1674.34 159.794
+houstonrockets 1670.17 241.315
+newyorkknicks 1651.63 226.902
+portlandtrailblazers 1649.03 200.348
+utahjazz 1645.34 218.009
+sanantoniospurs 1632.92 220.361
+neworleanspelicans 1618.02 185.458
+oklahomacitythunder 1566.78 207.656
+clevelandcavaliers 1563.88 241.09
+charlottehornets 1560.14 226.025
+torontoraptors 1540.24 186.091
+atlantahawks 1539.91 235.897
+sacramentokings 1519.32 201.058
+orlandomagic 1476.64 162.262
+washingtonwizards 1447.9 180.266
+dallasmavericks 1426.42 212.419
+0.353659
+435
+WITHHOME
+torontoraptors indianapacers 0.678788 0.190498 0.451
+goldenstatewarriors houstonrockets 0.948788 0.623188 0.986
+oklahomacitythunder dallasmavericks 0.959239 0.786992 1
+atlantahawks bostonceltics 0.731538 0.19953 0.521
+sanantoniospurs memphisgrizzlies 0.670978 0.168017 0.401
+losangelesclippers portlandtrailblazers 0.321233 0.0507058 0.034
+clevelandcavaliers detroitpistons 0.965528 0.795135 0.997
+miamiheat charlottehornets 0.962677 0.755892 0.997
+WITHOUTHOME
+torontoraptors indianapacers 0.468773 0.468773 0.418
+goldenstatewarriors houstonrockets 0.815424 0.815424 0.976
+oklahomacitythunder dallasmavericks 0.903702 0.903702 1
+atlantahawks bostonceltics 0.50183 0.50183 0.503
+sanantoniospurs memphisgrizzlies 0.382106 0.382106 0.25
+losangelesclippers portlandtrailblazers 0.126072 0.126072 0.004
+clevelandcavaliers detroitpistons 0.898601 0.898601 0.997
+miamiheat charlottehornets 0.893003 0.893003 0.992
+WINNING CREATURE
+clevelandcavaliers 1891.4 199.905
+oklahomacitythunder 1831.26 159.71
+goldenstatewarriors 1818.31 249.036
+portlandtrailblazers 1731.55 172.594
+orlandomagic 1710.65 223.131
+utahjazz 1699.65 205.686
+sacramentokings 1597.32 225.78
+atlantahawks 1572.72 172.87
+bostonceltics 1571.45 242.607
+houstonrockets 1560.23 170.686
+indianapacers 1547.54 229.604
+memphisgrizzlies 1539.33 194.413
+miamiheat 1535.8 196.011
+torontoraptors 1525.82 151.704
+detroitpistons 1512.38 143.423
+denvernuggets 1501.77 173.611
+neworleanspelicans 1466.4 208.858
+minnesotatimberwolves 1456.03 220.967
+sanantoniospurs 1455.84 207.285
+dallasmavericks 1442.29 161.935
+0.381301
+469
+WITHHOME
+torontoraptors indianapacers 0.838926 0.335835 0.808
+goldenstatewarriors houstonrockets 0.987748 0.891205 1
+oklahomacitythunder dallasmavericks 0.926727 0.651646 0.972
+atlantahawks bostonceltics 0.779412 0.287959 0.67
+sanantoniospurs memphisgrizzlies 0.931284 0.447042 0.949
+losangelesclippers portlandtrailblazers 0.418995 0.0556796 0.063
+clevelandcavaliers detroitpistons 0.953059 0.726113 0.996
+miamiheat charlottehornets 0.836647 0.333871 0.792
+WITHOUTHOME
+torontoraptors indianapacers 0.655632 0.655632 0.813
+goldenstatewarriors houstonrockets 0.957358 0.957358 1
+oklahomacitythunder dallasmavericks 0.82607 0.82607 0.984
+atlantahawks bostonceltics 0.608402 0.608402 0.723
+sanantoniospurs memphisgrizzlies 0.730855 0.730855 0.907
+losangelesclippers portlandtrailblazers 0.16381 0.16381 0.016
+clevelandcavaliers detroitpistons 0.870359 0.870359 0.99
+miamiheat charlottehornets 0.617278 0.617278 0.703
+WINNING CREATURE
+goldenstatewarriors 1908.67 222.074
+clevelandcavaliers 1766.87 192.246
+oklahomacitythunder 1753.14 170.145
+sanantoniospurs 1692.09 279.273
+atlantahawks 1643.85 142.733
+neworleanspelicans 1626.16 196.859
+orlandomagic 1615.08 221.758
+utahjazz 1579.37 213.2
+portlandtrailblazers 1574.01 208.584
+bostonceltics 1567.31 233.81
+torontoraptors 1566.78 174.825
+miamiheat 1562.7 200.728
+brooklynnets 1560.38 174.506
+washingtonwizards 1556.84 180.595
+newyorkknicks 1548.81 247.543
+memphisgrizzlies 1518.56 210.476
+dallasmavericks 1482.49 161.86
+charlottehornets 1479.67 203.031
+indianapacers 1454.93 230.315
+detroitpistons 1436.08 161.409
+0.347967
+428
+WITHHOME
+torontoraptors indianapacers 0.723657 0.343589 0.643
+goldenstatewarriors houstonrockets 0.975498 0.758751 0.999
+oklahomacitythunder dallasmavericks 0.453846 0.0616311 0.08
+atlantahawks bostonceltics 0.726272 0.221844 0.544
+sanantoniospurs memphisgrizzlies 0.932147 0.571525 0.98
+losangelesclippers portlandtrailblazers 0.573631 0.123887 0.25
+clevelandcavaliers detroitpistons 0.925909 0.563712 0.969
+miamiheat charlottehornets 0.870381 0.391249 0.859
+WITHOUTHOME
+torontoraptors indianapacers 0.502397 0.502397 0.483
+goldenstatewarriors houstonrockets 0.906942 0.906942 1
+oklahomacitythunder dallasmavericks 0.205068 0.205068 0.024
+atlantahawks bostonceltics 0.466219 0.466219 0.442
+sanantoniospurs memphisgrizzlies 0.776073 0.776073 0.957
+losangelesclippers portlandtrailblazers 0.300988 0.300988 0.127
+clevelandcavaliers detroitpistons 0.782378 0.782378 0.949
+miamiheat charlottehornets 0.645053 0.645053 0.791
+WINNING CREATURE
+goldenstatewarriors 1876.23 244.479
+bostonceltics 1759.94 194.499
+atlantahawks 1736.43 193.021
+newyorkknicks 1723.6 168.93
+portlandtrailblazers 1721.23 193.44
+clevelandcavaliers 1661.85 216.435
+dallasmavericks 1644.04 237.657
+orlandomagic 1636.53 166.778
+sanantoniospurs 1611.09 239.248
+torontoraptors 1599.45 165.568
+indianapacers 1597.79 114.121
+denvernuggets 1587.74 149.554
+miamiheat 1580.06 227.044
+losangelesclippers 1574.86 197.913
+sacramentokings 1537.64 198.402
+utahjazz 1490.75 183.79
+houstonrockets 1480.7 196.477
+charlottehornets 1476.29 180.567
+chicagobulls 1457.45 163.707
+neworleanspelicans 1454.88 207.194
+0.33252
+409
+WITHHOME
+torontoraptors indianapacers 0.657899 0.209004 0.426
+goldenstatewarriors houstonrockets 0.735672 0.16727 0.497
+oklahomacitythunder dallasmavericks 0.926086 0.53229 0.963
+atlantahawks bostonceltics 0.87051 0.418278 0.881
+sanantoniospurs memphisgrizzlies 0.935873 0.56924 0.971
+losangelesclippers portlandtrailblazers 0.694466 0.18867 0.441
+clevelandcavaliers detroitpistons 0.908095 0.528088 0.949
+miamiheat charlottehornets 0.870649 0.395518 0.872
+WITHOUTHOME
+torontoraptors indianapacers 0.417559 0.417559 0.323
+goldenstatewarriors houstonrockets 0.402223 0.402223 0.304
+oklahomacitythunder dallasmavericks 0.774472 0.774472 0.945
+atlantahawks bostonceltics 0.711508 0.711508 0.898
+sanantoniospurs memphisgrizzlies 0.797803 0.797803 0.965
+losangelesclippers portlandtrailblazers 0.428644 0.428644 0.343
+clevelandcavaliers detroitpistons 0.724441 0.724441 0.898
+miamiheat charlottehornets 0.67748 0.67748 0.841
+WINNING CREATURE
+atlantahawks 1754.4 174.197
+portlandtrailblazers 1737.33 203.474
+clevelandcavaliers 1734.41 230.001
+houstonrockets 1731.11 210.005
+oklahomacitythunder 1727.32 224.849
+losangelesclippers 1687.41 192.561
+goldenstatewarriors 1662.28 246.645
+sanantoniospurs 1598.65 227.222
+bostonceltics 1597.58 214.119
+neworleanspelicans 1580.55 184.168
+detroitpistons 1566.49 148.377
+brooklynnets 1538.52 150.077
+sacramentokings 1529.61 219.801
+dallasmavericks 1513 191.853
+miamiheat 1505.48 202.294
+indianapacers 1496.09 173.394
+newyorkknicks 1489.57 173.146
+orlandomagic 1463.88 207.864
+washingtonwizards 1445.49 153.74
+torontoraptors 1438.27 171.415
+0.366667
+451
+WITHHOME
+torontoraptors indianapacers 0.821834 0.433385 0.835
+goldenstatewarriors houstonrockets 0.747603 0.315605 0.655
+oklahomacitythunder dallasmavericks 0.984648 0.834941 0.998
+atlantahawks bostonceltics 0.803526 0.219322 0.652
+sanantoniospurs memphisgrizzlies 0.896872 0.431332 0.924
+losangelesclippers portlandtrailblazers 0.682454 0.174567 0.407
+clevelandcavaliers detroitpistons 0.973969 0.812851 1
+miamiheat charlottehornets 0.979531 0.815778 0.997
+WITHOUTHOME
+torontoraptors indianapacers 0.618314 0.618314 0.735
+goldenstatewarriors houstonrockets 0.533614 0.533614 0.585
+oklahomacitythunder dallasmavericks 0.948121 0.948121 1
+atlantahawks bostonceltics 0.558481 0.558481 0.632
+sanantoniospurs memphisgrizzlies 0.665744 0.665744 0.835
+losangelesclippers portlandtrailblazers 0.428468 0.428468 0.333
+clevelandcavaliers detroitpistons 0.912091 0.912091 0.996
+miamiheat charlottehornets 0.929172 0.929172 1
+WINNING CREATURE
+clevelandcavaliers 1998.73 222.821
+goldenstatewarriors 1930.31 165.242
+houstonrockets 1906.92 157.858
+portlandtrailblazers 1800.51 219.839
+losangelesclippers 1750.46 182.956
+orlandomagic 1749.99 234.795
+oklahomacitythunder 1715 218.101
+sanantoniospurs 1685.62 256.049
+brooklynnets 1619.97 160.213
+detroitpistons 1592.32 151.273
+atlantahawks 1588.4 203.855
+miamiheat 1583 224.813
+memphisgrizzlies 1565.93 167.711
+bostonceltics 1547.58 261.379
+sacramentokings 1498.99 217.921
+utahjazz 1458.91 235.746
+denvernuggets 1434.81 147.405
+phoenixsuns 1409.06 141.964
+torontoraptors 1407.78 181.782
+philadelphiassers 1374.02 206.269
+0.379675
+467
+WITHHOME
+torontoraptors indianapacers 0.650233 0.223327 0.407
+goldenstatewarriors houstonrockets 0.784834 0.277089 0.647
+oklahomacitythunder dallasmavericks 0.877401 0.356284 0.865
+atlantahawks bostonceltics 0.865553 0.262942 0.776
+sanantoniospurs memphisgrizzlies 0.968491 0.821625 0.999
+losangelesclippers portlandtrailblazers 0.880704 0.404397 0.883
+clevelandcavaliers detroitpistons 0.914474 0.537265 0.961
+miamiheat charlottehornets 0.861307 0.384314 0.863
+WITHOUTHOME
+torontoraptors indianapacers 0.367303 0.367303 0.23
+goldenstatewarriors houstonrockets 0.546326 0.546326 0.583
+oklahomacitythunder dallasmavericks 0.662825 0.662825 0.808
+atlantahawks bostonceltics 0.628638 0.628638 0.768
+sanantoniospurs memphisgrizzlies 0.914663 0.914663 1
+losangelesclippers portlandtrailblazers 0.707614 0.707614 0.876
+clevelandcavaliers detroitpistons 0.781208 0.781208 0.953
+miamiheat charlottehornets 0.637012 0.637012 0.763
+WINNING CREATURE
+goldenstatewarriors 1871.93 192.518
+houstonrockets 1839.65 198.87
+sanantoniospurs 1830.17 183.012
+clevelandcavaliers 1806.71 190.536
+atlantahawks 1758.06 232.056
+denvernuggets 1684.51 157.869
+bostonceltics 1666.62 270.497
+utahjazz 1646.99 228.073
+losangelesclippers 1604.42 193.746
+detroitpistons 1585.62 195.151
+indianapacers 1569.98 122.051
+miamiheat 1520.49 219.539
+orlandomagic 1516.03 219.438
+oklahomacitythunder 1509.75 224.467
+sacramentokings 1492.11 200.274
+newyorkknicks 1490.95 200.717
+torontoraptors 1475.51 202.184
+phoenixsuns 1466.66 200.472
+portlandtrailblazers 1450.88 220.795
+charlottehornets 1422.79 179.571
+0.355285
+437
+WITHHOME
+torontoraptors indianapacers 0.501136 0.169404 0.207
+goldenstatewarriors houstonrockets 0.96484 0.691913 0.994
+oklahomacitythunder dallasmavericks 0.933057 0.542884 0.971
+atlantahawks bostonceltics 0.919798 0.515009 0.945
+sanantoniospurs memphisgrizzlies 0.948163 0.60703 0.985
+losangelesclippers portlandtrailblazers 0.919069 0.475456 0.948
+clevelandcavaliers detroitpistons 0.62803 0.137063 0.305
+miamiheat charlottehornets 0.974535 0.841821 0.999
+WITHOUTHOME
+torontoraptors indianapacers 0.279817 0.279817 0.099
+goldenstatewarriors houstonrockets 0.884841 0.884841 0.999
+oklahomacitythunder dallasmavericks 0.82588 0.82588 0.974
+atlantahawks bostonceltics 0.78156 0.78156 0.948
+sanantoniospurs memphisgrizzlies 0.830317 0.830317 0.979
+losangelesclippers portlandtrailblazers 0.792249 0.792249 0.962
+clevelandcavaliers detroitpistons 0.304612 0.304612 0.128
+miamiheat charlottehornets 0.935569 0.935569 1
+WINNING CREATURE
+goldenstatewarriors 1969.64 221.138
+losangelesclippers 1781.04 189.566
+sanantoniospurs 1750.13 229.056
+atlantahawks 1744.12 202.351
+oklahomacitythunder 1720.42 187.255
+denvernuggets 1714.96 185.997
+orlandomagic 1691.22 226.699
+houstonrockets 1615.41 213.676
+indianapacers 1613.13 111.959
+utahjazz 1611.17 230.963
+detroitpistons 1573.2 176.231
+portlandtrailblazers 1548.51 249.596
+bostonceltics 1522.67 211.02
+washingtonwizards 1502.56 170.964
+brooklynnets 1490.94 137.716
+memphisgrizzlies 1474.29 200.301
+miamiheat 1472.45 168.352
+sacramentokings 1463.79 211.785
+dallasmavericks 1449.99 240.554
+torontoraptors 1448.9 165.016
+0.378862
+466
+WITHHOME
+torontoraptors indianapacers 0.430932 0.121361 0.102
+goldenstatewarriors houstonrockets 0.958074 0.688756 0.996
+oklahomacitythunder dallasmavericks 0.950993 0.65531 0.991
+atlantahawks bostonceltics 0.848381 0.371443 0.823
+sanantoniospurs memphisgrizzlies 0.878628 0.444084 0.91
+losangelesclippers portlandtrailblazers 0.499316 0.0825111 0.134
+clevelandcavaliers detroitpistons 0.946623 0.731941 0.994
+miamiheat charlottehornets 0.905418 0.461055 0.928
+WITHOUTHOME
+torontoraptors indianapacers 0.232936 0.232936 0.056
+goldenstatewarriors houstonrockets 0.872794 0.872794 0.993
+oklahomacitythunder dallasmavericks 0.86797 0.86797 0.994
+atlantahawks bostonceltics 0.676042 0.676042 0.83
+sanantoniospurs memphisgrizzlies 0.655324 0.655324 0.801
+losangelesclippers portlandtrailblazers 0.249742 0.249742 0.072
+clevelandcavaliers detroitpistons 0.8526 0.8526 0.986
+miamiheat charlottehornets 0.72054 0.72054 0.905
+WINNING CREATURE
+goldenstatewarriors 1906.7 209.005
+portlandtrailblazers 1800.25 227.348
+atlantahawks 1741.51 171.341
+clevelandcavaliers 1738.87 194.631
+indianapacers 1660.94 136.855
+sanantoniospurs 1629.27 232.257
+oklahomacitythunder 1618.91 188.036
+bostonceltics 1613.72 219.175
+losangelesclippers 1609.16 190.612
+sacramentokings 1584.59 185.393
+miamiheat 1581.96 227.88
+houstonrockets 1572.14 196.575
+orlandomagic 1540.84 251.434
+denvernuggets 1535 136.799
+brooklynnets 1525.43 166.967
+newyorkknicks 1518.86 184.386
+memphisgrizzlies 1517.65 150.635
+utahjazz 1508.97 179.403
+torontoraptors 1453.9 158.735
+detroitpistons 1433.97 130.402
+0.347967
+428
+WITHHOME
+torontoraptors indianapacers 0.856475 0.48887 0.892
+goldenstatewarriors houstonrockets 0.918635 0.600624 0.973
+oklahomacitythunder dallasmavericks 0.891185 0.415249 0.903
+atlantahawks bostonceltics 0.855303 0.343789 0.804
+sanantoniospurs memphisgrizzlies 0.903201 0.440124 0.914
+losangelesclippers portlandtrailblazers 0.59944 0.103903 0.24
+clevelandcavaliers detroitpistons 0.836069 0.374045 0.818
+miamiheat charlottehornets 0.460226 0.06809 0.088
+WITHOUTHOME
+torontoraptors indianapacers 0.665449 0.665449 0.833
+goldenstatewarriors houstonrockets 0.789417 0.789417 0.964
+oklahomacitythunder dallasmavericks 0.723814 0.723814 0.898
+atlantahawks bostonceltics 0.677681 0.677681 0.836
+sanantoniospurs memphisgrizzlies 0.670954 0.670954 0.824
+losangelesclippers portlandtrailblazers 0.309115 0.309115 0.138
+clevelandcavaliers detroitpistons 0.610055 0.610055 0.712
+miamiheat charlottehornets 0.20537 0.20537 0.034
+WINNING CREATURE
+goldenstatewarriors 1874.71 191.529
+portlandtrailblazers 1762.78 234.576
+atlantahawks 1736.02 179.568
+brooklynnets 1707.92 145.492
+houstonrockets 1645.15 158.665
+losangelesclippers 1623.07 209.745
+clevelandcavaliers 1617.32 205.286
+oklahomacitythunder 1613.57 197.942
+bostonceltics 1606.93 241.397
+sanantoniospurs 1599 264.191
+orlandomagic 1589.06 216.446
+charlottehornets 1575.43 219.464
+torontoraptors 1550.08 190.854
+detroitpistons 1539.58 167.194
+newyorkknicks 1491.77 203.497
+utahjazz 1482.91 225.281
+washingtonwizards 1481 187.742
+memphisgrizzlies 1475.23 165.581
+dallasmavericks 1446.2 226.835
+phoenixsuns 1436.64 208.585
+0.356098
+438
+WITHHOME
+torontoraptors indianapacers 0.898824 0.652025 0.975
+goldenstatewarriors houstonrockets 0.912312 0.488097 0.934
+oklahomacitythunder dallasmavericks 0.78169 0.219944 0.612
+atlantahawks bostonceltics 0.943132 0.446773 0.966
+sanantoniospurs memphisgrizzlies 0.924335 0.630236 0.979
+losangelesclippers portlandtrailblazers 0.611941 0.116045 0.267
+clevelandcavaliers detroitpistons 0.702514 0.155376 0.388
+miamiheat charlottehornets 0.34419 0.0509666 0.032
+WITHOUTHOME
+torontoraptors indianapacers 0.757097 0.757097 0.939
+goldenstatewarriors houstonrockets 0.775896 0.775896 0.944
+oklahomacitythunder dallasmavericks 0.497879 0.497879 0.518
+atlantahawks bostonceltics 0.797122 0.797122 0.967
+sanantoniospurs memphisgrizzlies 0.804212 0.804212 0.968
+losangelesclippers portlandtrailblazers 0.31762 0.31762 0.157
+clevelandcavaliers detroitpistons 0.421794 0.421794 0.305
+miamiheat charlottehornets 0.142192 0.142192 0.007
+WINNING CREATURE
+atlantahawks 1891.77 250.166
+goldenstatewarriors 1854.04 191.14
+orlandomagic 1795.88 215.434
+portlandtrailblazers 1705.06 219.874
+sanantoniospurs 1667.22 189.339
+bostonceltics 1654.05 274.843
+houstonrockets 1638.3 224.014
+torontoraptors 1627.77 181.951
+newyorkknicks 1618.8 153.005
+detroitpistons 1598.75 239.319
+charlottehornets 1581.87 195.792
+losangelesclippers 1572.21 211.972
+clevelandcavaliers 1543.95 204.069
+washingtonwizards 1540.45 218.512
+utahjazz 1519.61 236.248
+dallasmavericks 1455.29 218.451
+oklahomacitythunder 1453.81 223.058
+indianapacers 1430.28 88.4008
+minnesotatimberwolves 1423.58 180.917
+memphisgrizzlies 1421.79 152.803
+0.356911
+439
+WITHHOME
+torontoraptors indianapacers 0.833788 0.422214 0.848
+goldenstatewarriors houstonrockets 0.962079 0.567987 0.986
+oklahomacitythunder dallasmavericks 0.933067 0.654098 0.988
+atlantahawks bostonceltics 0.653569 0.127689 0.325
+sanantoniospurs memphisgrizzlies 0.93952 0.652961 0.988
+losangelesclippers portlandtrailblazers 0.731956 0.21726 0.537
+clevelandcavaliers detroitpistons 0.72018 0.173907 0.472
+miamiheat charlottehornets 0.73879 0.221857 0.581
+WITHOUTHOME
+torontoraptors indianapacers 0.651572 0.651572 0.802
+goldenstatewarriors houstonrockets 0.849191 0.849191 0.982
+oklahomacitythunder dallasmavericks 0.835187 0.835187 0.979
+atlantahawks bostonceltics 0.346413 0.346413 0.192
+sanantoniospurs memphisgrizzlies 0.844505 0.844505 0.993
+losangelesclippers portlandtrailblazers 0.456695 0.456695 0.398
+clevelandcavaliers detroitpistons 0.424948 0.424948 0.301
+miamiheat charlottehornets 0.516096 0.516096 0.528
+WINNING CREATURE
+goldenstatewarriors 2044.07 261.502
+houstonrockets 1743.84 252.694
+detroitpistons 1699.62 218.136
+oklahomacitythunder 1698.1 175.793
+bostonceltics 1685.99 223.523
+clevelandcavaliers 1647.08 216.773
+sanantoniospurs 1620.98 182.564
+portlandtrailblazers 1619.09 192.489
+neworleanspelicans 1604.87 192.955
+losangelesclippers 1588.92 204.678
+washingtonwizards 1581.21 178.169
+atlantahawks 1575.7 220.554
+orlandomagic 1563.99 188.623
+utahjazz 1550.87 198.395
+sacramentokings 1528.95 209.634
+torontoraptors 1524.99 171.418
+newyorkknicks 1486.89 179.44
+brooklynnets 1480.71 188.73
+miamiheat 1420.33 169.424
+indianapacers 1416.25 163.234
+0.360976
+444
+WITHHOME
+torontoraptors indianapacers 0.846078 0.453176 0.889
+goldenstatewarriors houstonrockets 0.86869 0.304594 0.822
+oklahomacitythunder dallasmavericks 0.917378 0.526703 0.962
+atlantahawks bostonceltics 0.730058 0.128152 0.44
+sanantoniospurs memphisgrizzlies 0.952959 0.724558 0.993
+losangelesclippers portlandtrailblazers 0.914957 0.487351 0.946
+clevelandcavaliers detroitpistons 0.708065 0.148 0.435
+miamiheat charlottehornets 0.50936 0.118881 0.159
+WITHOUTHOME
+torontoraptors indianapacers 0.637567 0.637567 0.777
+goldenstatewarriors houstonrockets 0.646628 0.646628 0.794
+oklahomacitythunder dallasmavericks 0.746499 0.746499 0.905
+atlantahawks bostonceltics 0.389931 0.389931 0.255
+sanantoniospurs memphisgrizzlies 0.893303 0.893303 0.997
+losangelesclippers portlandtrailblazers 0.766451 0.766451 0.955
+clevelandcavaliers detroitpistons 0.368034 0.368034 0.231
+miamiheat charlottehornets 0.292468 0.292468 0.092
+WINNING CREATURE
+losangelesclippers 1833.6 206.263
+oklahomacitythunder 1764.84 230.561
+goldenstatewarriors 1753.79 223.257
+sanantoniospurs 1719.4 153.501
+houstonrockets 1648.82 248.376
+bostonceltics 1638.16 255.331
+portlandtrailblazers 1627.16 215.234
+detroitpistons 1607.01 210.149
+dallasmavericks 1577.22 169.047
+atlantahawks 1560.4 250.591
+orlandomagic 1552.19 210.699
+torontoraptors 1549.43 197.925
+newyorkknicks 1520.56 135.77
+clevelandcavaliers 1513.09 247.837
+neworleanspelicans 1506.96 186.705
+washingtonwizards 1495.4 178.544
+utahjazz 1488.07 239.01
+sacramentokings 1479.42 208.835
+denvernuggets 1479.33 153.776
+minnesotatimberwolves 1457.79 189.601
+0.361789
+445
+WITHHOME
+torontoraptors indianapacers 0.856839 0.533718 0.907
+goldenstatewarriors houstonrockets 0.898467 0.548945 0.951
+oklahomacitythunder dallasmavericks 0.802912 0.313978 0.714
+atlantahawks bostonceltics 0.675634 0.161448 0.372
+sanantoniospurs memphisgrizzlies 0.982704 0.8446 1
+losangelesclippers portlandtrailblazers 0.745105 0.214828 0.568
+clevelandcavaliers detroitpistons 0.856837 0.446132 0.867
+miamiheat charlottehornets 0.644574 0.160323 0.318
+WITHOUTHOME
+torontoraptors indianapacers 0.675682 0.675682 0.836
+goldenstatewarriors houstonrockets 0.751902 0.751902 0.95
+oklahomacitythunder dallasmavericks 0.586829 0.586829 0.679
+atlantahawks bostonceltics 0.414574 0.414574 0.302
+sanantoniospurs memphisgrizzlies 0.939233 0.939233 1
+losangelesclippers portlandtrailblazers 0.458357 0.458357 0.383
+clevelandcavaliers detroitpistons 0.662315 0.662315 0.84
+miamiheat charlottehornets 0.374978 0.374978 0.252
+WINNING CREATURE
+sanantoniospurs 1914.41 226.149
+goldenstatewarriors 1780.49 186.143
+clevelandcavaliers 1735.55 193.806
+portlandtrailblazers 1728.46 196.146
+losangelesclippers 1699.46 215.347
+bostonceltics 1689.93 226.251
+atlantahawks 1629.98 187.418
+detroitpistons 1618.53 154.598
+newyorkknicks 1610.48 210.451
+orlandomagic 1608.97 247.705
+brooklynnets 1603.56 155.702
+utahjazz 1592.66 201.866
+houstonrockets 1587.87 158.496
+sacramentokings 1579.73 207.022
+neworleanspelicans 1572.22 205.227
+torontoraptors 1571.14 183.321
+oklahomacitythunder 1503.97 183.05
+charlottehornets 1501.28 198.891
+indianapacers 1443.63 104.043
+dallasmavericks 1443.02 196.728
+0.360163
+443
+WITHHOME
+torontoraptors indianapacers 0.913744 0.608834 0.963
+goldenstatewarriors houstonrockets 0.860542 0.290677 0.762
+oklahomacitythunder dallasmavericks 0.905549 0.528494 0.93
+atlantahawks bostonceltics 0.887218 0.377212 0.866
+sanantoniospurs memphisgrizzlies 0.97422 0.786301 0.997
+losangelesclippers portlandtrailblazers 0.722792 0.174112 0.47
+clevelandcavaliers detroitpistons 0.838307 0.394166 0.851
+miamiheat charlottehornets 0.494585 0.105992 0.161
+WITHOUTHOME
+torontoraptors indianapacers 0.787256 0.787256 0.972
+goldenstatewarriors houstonrockets 0.59866 0.59866 0.712
+oklahomacitythunder dallasmavericks 0.769866 0.769866 0.959
+atlantahawks bostonceltics 0.693504 0.693504 0.852
+sanantoniospurs memphisgrizzlies 0.907057 0.907057 0.998
+losangelesclippers portlandtrailblazers 0.412481 0.412481 0.302
+clevelandcavaliers detroitpistons 0.648677 0.648677 0.803
+miamiheat charlottehornets 0.231357 0.231357 0.055
+WINNING CREATURE
+sanantoniospurs 1779.73 235.182
+atlantahawks 1763.31 216.466
+goldenstatewarriors 1746.82 246.664
+houstonrockets 1677.35 224.44
+clevelandcavaliers 1661.31 179.356
+oklahomacitythunder 1627.22 182.908
+torontoraptors 1623.13 182.71
+bostonceltics 1621.46 228.952
+orlandomagic 1619.12 177.427
+utahjazz 1617.93 216.741
+portlandtrailblazers 1592.57 208.99
+brooklynnets 1584.36 154.504
+newyorkknicks 1574.53 193.485
+charlottehornets 1571.69 161.85
+sacramentokings 1568.8 214.983
+detroitpistons 1554.78 181.198
+washingtonwizards 1540.33 194
+losangelesclippers 1531.13 227.93
+neworleanspelicans 1517.54 179.769
+dallasmavericks 1417.44 189.953
+0.365854
+450
