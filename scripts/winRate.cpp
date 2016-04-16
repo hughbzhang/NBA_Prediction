@@ -24,6 +24,8 @@ map<string,bool> exists;
 string team = "charlottehornets";
 
 int main() {
+    int total = 0;
+
   	while(cin >> input) {
   		string team1, team2, location;
   		int score1, score2, date;
@@ -31,8 +33,8 @@ int main() {
   		if (input == "playoffs") {
   			cin >> team1;
   		}
-  		cin >> score1 >> team2 >> input >> location >> date;
-  		if (team1==team) cout << 1 << endl;
-  		else if (team2==team) cout << 0 << endl;
+  		cin >> score1 >> team2 >> score2 >> location >> date;
+      total += (score1+score2);
   	}
+    cout << total << endl;
 }
