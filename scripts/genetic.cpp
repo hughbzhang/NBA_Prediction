@@ -34,7 +34,7 @@ typedef long double ld;
 typedef pair<ld, int> pid;
 
 
-int maxTimeSteps = 400;
+int maxTimeSteps = 4;
 const int maxSimulations = 1000; // maybe vary based on confidence interval
 
 // Global data
@@ -66,6 +66,7 @@ struct Creature {
 };
 
 // Base constants
+const ld averagePointsPerGame = 205.34; // 2015-2016 NBA Season 195.4 is total average though. IDK.
 const ld epsilon = 1e-6;
 const int numTeams = 30;
 const ld DENOM = 400;
@@ -238,7 +239,7 @@ ld regularization(Creature creature) {
     return cost*regularizationConstant;
 }
 
-ld brierCost(ld probability, int scoreDiff) {
+ld brierCost(ld probability, ld scoreDiff) {
     ld unSquaredCost = (1 - probability + K*log(scoreDiff));
     return unSquaredCost * unSquaredCost;
 }
@@ -275,6 +276,7 @@ Score costForGame(Creature creature, int game, Score score, bool print, ld fatig
     int winIndex = teamToIndex[allGames[game].winTeam];
     int loseIndex = teamToIndex[allGames[game].loseTeam];
     int scoreDiff = allGames[game].winScore - allGames[game].loseScore;
+    int totalScore = allGames[game].winScore + allGames[game].loseScore;
     int homeBonus = allGames[game].homeGame ? creature.homeAdvantage[winIndex] : -creature.homeAdvantage[loseIndex];
 
     ld win = winPercentage(fatigueBonus + homeBonus + creature.ratings[winIndex] - creature.ratings[loseIndex]);
@@ -286,7 +288,7 @@ Score costForGame(Creature creature, int game, Score score, bool print, ld fatig
 
     score.logLoss += logCost(win);
     score.wrongGuess += (win < 0.5);
-    score.brier += brierCost(win, scoreDiff);
+    score.brier += brierCost(win, scoreDiff*averagePointsPerGame/(ld)totalScore);
 
     return score;
 }
