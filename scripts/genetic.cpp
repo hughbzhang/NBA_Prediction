@@ -34,7 +34,7 @@ typedef long double ld;
 typedef pair<ld, int> pid;
 
 
-int maxTimeSteps = 400;
+int maxTimeSteps = 100;
 const int maxSimulations = 1000; // maybe vary based on confidence interval
 
 // Global data
@@ -105,7 +105,7 @@ map<string, int> playoffWrong;
 vector<string> namesToPrint;
 ofstream dump ("dump.txt", fstream::app);
 
-
+ld K = 1;
 
 
 default_random_engine generator;
@@ -239,7 +239,7 @@ ld regularization(Creature creature) {
 }
 
 ld brierCost(ld probability, int scoreDiff) {
-    ld unSquaredCost = (1 - probability + log(scoreDiff));
+    ld unSquaredCost = (1 - probability + K*log(scoreDiff));
     return unSquaredCost * unSquaredCost;
 }
 
@@ -323,8 +323,8 @@ void checkOdds(Creature creature, bool useHome) {
         ld awayWin = winPercentage((useHome ? -creature.homeAdvantage[secondTeamIndex] : 0) +
             creature.ratings[firstTeamIndex] - creature.ratings[secondTeamIndex]);
 
-        // cout << homers[x] << " " << opponent[homers[x]] << " " << homeWin << " ";
-        // cout << awayWin << " " << simulateTwoPlayers(homeWin, awayWin) << endl;
+        //cout << homers[x] << " " << opponent[homers[x]] << " " << homeWin << " ";
+        //cout << awayWin << " " << simulateTwoPlayers(homeWin, awayWin) << endl;
         correct += playoffWinners[homers[x]]==(simulateTwoPlayers(homeWin, awayWin)>.5);
     }
     dump << correct << " ";
@@ -482,9 +482,10 @@ void printCreature(Creature creature, bool isPlayoffs) {
 
     sort(namesToPrint.begin(),namesToPrint.end(), compareTwoTeams);
     for(int x = 0;x<namesToPrint.size();x++) {
-        // cout << namesToPrint[x] << " " << finalRating[namesToPrint[x]] << " " << finalHomeAdvantage[namesToPrint[x]] << endl; 
+        cout << namesToPrint[x] << " " << finalRating[namesToPrint[x]] << " " << finalHomeAdvantage[namesToPrint[x]] << endl; 
     }
 
+    cout << "REST: " << creature.restAdvantage << endl;
     cout << "FITNESS: " << creature.fitness << endl;
     
     score = allScoreFunctions(creature);
@@ -592,7 +593,7 @@ void evolve(int cycle, bool mutate = true) { // Not optimized at all
 
     for (int x = 0; x < maxTimeSteps; x++) {
         cycleGeneration(mutate); // no mutation on the last one
-        //if ((x%1000)==0) cout << "Time step of " << x << " has best rating of " << bestRating() << endl;
+        // if ((x%1000)==0) cout << "Time step of " << x << " has best rating of " << bestRating() << endl;
     }
 
     for (int x = 0; x < convergeTimeSteps; x++) {
@@ -661,7 +662,8 @@ int main() {
     
     int seed = 14;
 
-    cout << "GIVE SEED\n"; cin >> seed;
+    // cout << "GIVE SEED\n";
+    cin >> seed >> K;
 	srand(seed); //1241232 is a good number
 
 
@@ -678,13 +680,16 @@ int main() {
     ld noThrowPlayoffs = playoffScoreFunction(best).wrongGuess/(ld)(numGamesInSeason - regularSeason);
     playoffCorrect(best);
 
-    findBadEggs();
+    //printCreature(best, true);
+
+    /* findBadEggs();
     liveGeneration(true);
     best = population[populationSize-1];
     ld throwTrain = allScoreFunctions(best).wrongGuess/(ld)regularSeason;
     ld throwPlayoffs = playoffScoreFunction(best).wrongGuess/(ld)(numGamesInSeason - regularSeason);
     playoffCorrect(best);
     
-    dump << noThrowTrain << " " << noThrowPlayoffs << " " << throwTrain << " " << throwPlayoffs << "\n";
+    dump << noThrowTrain << " " << noThrowPlayoffs << " " << throwTrain << " " << throwPlayoffs << "\n"; */
+    dump << noThrowTrain << " " << noThrowPlayoffs << endl;
 
 }
