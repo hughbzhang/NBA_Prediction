@@ -14,7 +14,7 @@ string teams[numTeams];
 string input;
 map<string,bool> exists;
 
-string team = "miamiheat";
+string team = "charlottehornets";
 
 int main() {
   	while(cin >> input) {
