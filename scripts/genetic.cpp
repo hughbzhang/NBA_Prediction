@@ -34,7 +34,7 @@ typedef long double ld;
 typedef pair<ld, int> pid;
 
 
-int maxTimeSteps = 4;
+int maxTimeSteps = 400;
 const int maxSimulations = 1000; // maybe vary based on confidence interval
 
 // Global data

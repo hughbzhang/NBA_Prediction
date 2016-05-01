@@ -81,7 +81,7 @@ pair<ld,int> elo(ld K, ld carryOver, ld homeBoost) {
     resetRanks();
     ld error = 0;
     int accuracy = 0;
-    for (int x = 0; x<counter; x++) {
+    for (int x = counter/2; x<counter; x++) {
 
 
         string winTeam = allGames[x].winTeam;
@@ -139,10 +139,10 @@ void initialize() {
         names.push_back(tmp);
         rating[tmp] = INITIAL_ELO;
     }
-    ifstream gameData ("../gameData.txt");
+    ifstream gameData ("oneYear.txt");
 
     string winTeam, loseTeam, location;
-    int winScore, loseScore;
+    int winScore, loseScore, date;
 
     while (gameData >> winTeam) {
         if (winTeam == "playoffs") { 
@@ -150,7 +150,7 @@ void initialize() {
         } else if (winTeam == "yearEnd") { // separation of years
             allGames[counter].winTeam = winTeam;
         } else {
-            gameData >> winScore >> loseTeam >> loseScore >> location;
+            gameData >> winScore >> loseTeam >> loseScore >> location >> date;
 
             allGames[counter].winTeam   = winTeam;
             allGames[counter].loseTeam  = loseTeam;
@@ -187,6 +187,7 @@ int main(){
     cout << ans.first << " " << ans.second << endl;
 
     cout << "START\n";
+    sort(names.begin(),names.end(), compareTwoTeams);
     for (int x = 0; x < 32; x++) {
         cout << names[x] << " " << rating[names[x]] << endl;
     }
