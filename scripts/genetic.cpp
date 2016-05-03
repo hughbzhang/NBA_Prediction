@@ -33,7 +33,7 @@ typedef long double ld;
 typedef pair<ld, int> pid;
 
 
-int maxTimeSteps = 100;
+int maxTimeSteps = 400;
 const int maxSimulations = 1000; // maybe vary based on confidence interval
 
 
@@ -679,4 +679,5 @@ int main() {
     ld noThrowTrain = allScoreFunctions(best).wrongGuess/(ld)regularSeason;
     // playoffCorrect(best, regularSeason + 1, true);
     printCreature(best, true);
+    cout << best.score.brier << endl;
 }
