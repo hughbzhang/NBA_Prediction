@@ -14,7 +14,7 @@ string teams[numTeams];
 string input;
 map<string,bool> exists;
 
-string team = "charlottehornets";
+string team = "torontoraptors";
 
 int main() {
   	while(cin >> input) {
@@ -22,6 +22,7 @@ int main() {
   		int score1, score2, date;
   		team1 = input;
   		if (input == "playoffs") {
+        break;
   			cin >> team1;
   		}
   		cin >> score1 >> team2 >> input >> location >> date;

@@ -117,6 +117,8 @@ int executeCycle(){
             ld winRate = simulateTwoPlayers(homeWin, awayWin);
             if (winRate > .5) predictWin[winTeam] = true;
             else predictWin[loseTeam] = true;
+
+            cout << winTeam << " " << loseTeam << " " << winRate << endl;
         }
 
         // Update ratings
@@ -204,7 +206,7 @@ ld cycle() {
     ratingData.seekg(0, ios::beg);
     int correct = 0;
 
-    for (int x = 0;x<10;x++) {
+    for (int x = 0;x<1;x++) {
 
         resetAll();
         readInitialRatings();
@@ -218,6 +220,16 @@ int main(){
 
     srand(7);
     initialize();
+
+    K = 16;
+    HOME_ADVANTAGE_CONSTANT = 300;
+    SCORE_WEIGHT_CONSTANT = 1;
+
+
+    cycle();
+    printTeamRanking();
+
+    return 0;
 
     for (K = 8;K<64;K*=2) {
         for (HOME_ADVANTAGE_CONSTANT = 300; HOME_ADVANTAGE_CONSTANT < 600; HOME_ADVANTAGE_CONSTANT+=50) {

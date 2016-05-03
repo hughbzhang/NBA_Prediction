@@ -1,1454 +1,1278 @@
-Oct 27, 2015
-Detroit Pistons 106, Atlanta Hawks 94 at Atlanta
-Chicago Bulls 97, Cleveland Cavaliers 95 at Chicago
-Golden State Warriors 111, New Orleans Pelicans 95 at Golden State
-Oct 28, 2015
-Washington Wizards 88, Orlando Magic 87 at Orlando
-Boston Celtics 112, Philadelphia 76ers 95 at Boston
-Chicago Bulls 115, Brooklyn Nets 100 at Brooklyn
-Detroit Pistons 92, Utah Jazz 87 at Detroit
-Miami Heat 104, Charlotte Hornets 94 at Miami
-Toronto Raptors 106, Indiana Pacers 99 at Toronto
-Denver Nuggets 105, Houston Rockets 85 at Houston
-Cleveland Cavaliers 106, Memphis Grizzlies 76 at Memphis
-New York Knicks 122, Milwaukee Bucks 97 at Milwaukee
-Oklahoma City Thunder 112, San Antonio Spurs 106 at Oklahoma City
-Dallas Mavericks 111, Phoenix Suns 95 at Phoenix
-Portland Trail Blazers 112, New Orleans Pelicans 94 at Portland
-Los Angeles Clippers 111, Sacramento Kings 104 at Sacramento
-Minnesota Timberwolves 112, Los Angeles Lakers 111 at Los Angeles
-Oct 29, 2015
-Memphis Grizzlies 112, Indiana Pacers 103 at Indiana
-Atlanta Hawks 112, New York Knicks 101 at New York
-Los Angeles Clippers 104, Dallas Mavericks 88 at Los Angeles
-Oct 30, 2015
-Washington Wizards 118, Milwaukee Bucks 113 at Milwaukee
-San Antonio Spurs 102, Brooklyn Nets 75 at San Antonio
-Minnesota Timberwolves 95, Denver Nuggets 78 at Denver
-Golden State Warriors 112, Houston Rockets 92 at Houston
-Sacramento Kings 132, Los Angeles Lakers 114 at Sacramento
-Phoenix Suns 110, Portland Trail Blazers 92 at Phoenix
-Cleveland Cavaliers 102, Miami Heat 92 at Cleveland
-Oklahoma City Thunder 139, Orlando Magic 136 2OT at Orlando
-Utah Jazz 99, Philadelphia 76ers 71 at Philadelphia
-Toronto Raptors 113, Boston Celtics 103 at Boston
-Detroit Pistons 98, Chicago Bulls 94 OT at Detroit
-Atlanta Hawks 97, Charlotte Hornets 94 at Atlanta
-Oct 31, 2015
-Utah Jazz 97, Indiana Pacers 76 at Indiana
-New York Knicks 117, Washington Wizards 110 at Washington
-Golden State Warriors 134, New Orleans Pelicans 120 at New Orleans
-Memphis Grizzlies 101, Brooklyn Nets 91 at Memphis
-Phoenix Suns 101, Portland Trail Blazers 90 at Portland
-Los Angeles Clippers 114, Sacramento Kings 109 at Los Angeles
-Nov 1, 2015
-Atlanta Hawks 94, Charlotte Hornets 92 at Charlotte
-San Antonio Spurs 95, Boston Celtics 87 at Boston
-Miami Heat 109, Houston Rockets 89 at Miami
-Toronto Raptors 106, Milwaukee Bucks 87 at Toronto
-Chicago Bulls 92, Orlando Magic 87 at Chicago
-Oklahoma City Thunder 117, Denver Nuggets 93 at Oklahoma City
-Dallas Mavericks 103, Los Angeles Lakers 93 at Los Angeles
-Nov 2, 2015
-Cleveland Cavaliers 107, Philadelphia 76ers 100 at Philadelphia
-Milwaukee Bucks 103, Brooklyn Nets 96 at Brooklyn
-San Antonio Spurs 94, New York Knicks 84 at New York
-Houston Rockets 110, Oklahoma City Thunder 105 at Houston
-Portland Trail Blazers 106, Minnesota Timberwolves 101 at Minnesota
-Golden State Warriors 119, Memphis Grizzlies 69 at Golden State
-Los Angeles Clippers 102, Phoenix Suns 96 at Los Angeles
-Nov 3, 2015
-Charlotte Hornets 130, Chicago Bulls 105 at Charlotte
-Indiana Pacers 94, Detroit Pistons 82 at Detroit
-Atlanta Hawks 98, Miami Heat 92 at Miami
-Orlando Magic 103, New Orleans Pelicans 94 at New Orleans
-Toronto Raptors 102, Dallas Mavericks 91 at Dallas
-Memphis Grizzlies 103, Sacramento Kings 89 at Sacramento
-Denver Nuggets 120, Los Angeles Lakers 109 at Los Angeles
-Nov 4, 2015
-Indiana Pacers 100, Boston Celtics 98 at Indiana
-Washington Wizards 102, San Antonio Spurs 99 at Washington
-Atlanta Hawks 101, Brooklyn Nets 87 at Atlanta
-Cleveland Cavaliers 96, New York Knicks 86 at Cleveland
-Houston Rockets 119, Orlando Magic 114 OT at Houston
-Milwaukee Bucks 91, Philadelphia 76ers 87 at Milwaukee
-Toronto Raptors 103, Oklahoma City Thunder 98 at Oklahoma City
-Phoenix Suns 118, Sacramento Kings 97 at Phoenix
-Portland Trail Blazers 108, Utah Jazz 92 at Utah
-Golden State Warriors 112, Los Angeles Clippers 108 at Golden State
-Nov 5, 2015
-Chicago Bulls 104, Oklahoma City Thunder 98 at Chicago
-Miami Heat 96, Minnesota Timberwolves 84 at Minnesota
-Charlotte Hornets 108, Dallas Mavericks 94 at Dallas
-Utah Jazz 96, Denver Nuggets 84 at Denver
-Portland Trail Blazers 115, Memphis Grizzlies 96 at Portland
-Nov 6, 2015
-Orlando Magic 92, Toronto Raptors 87 at Orlando
-Boston Celtics 118, Washington Wizards 98 at Boston
-Los Angeles Lakers 104, Brooklyn Nets 98 at Brooklyn
-Cleveland Cavaliers 108, Philadelphia 76ers 102 at Cleveland
-Milwaukee Bucks 99, New York Knicks 92 at New York
-Indiana Pacers 90, Miami Heat 87 at Indiana
-Atlanta Hawks 121, New Orleans Pelicans 115 at New Orleans
-Detroit Pistons 100, Phoenix Suns 92 at Phoenix
-Golden State Warriors 119, Denver Nuggets 104 at Golden State
-Houston Rockets 116, Sacramento Kings 110 at Sacramento
-Nov 7, 2015
-Minnesota Timberwolves 102, Chicago Bulls 93 OT at Chicago
-Orlando Magic 105, Philadelphia 76ers 97 at Philadelphia
-Atlanta Hawks 114, Washington Wizards 99 at Atlanta
-Dallas Mavericks 107, New Orleans Pelicans 98 at Dallas
-Milwaukee Bucks 94, Brooklyn Nets 86 at Milwaukee
-San Antonio Spurs 114, Charlotte Hornets 94 at San Antonio
-Utah Jazz 89, Memphis Grizzlies 79 at Utah
-Golden State Warriors 103, Sacramento Kings 94 at Sacramento
-Houston Rockets 109, Los Angeles Clippers 105 at Los Angeles
-Nov 8, 2015
-Cleveland Cavaliers 101, Indiana Pacers 97 at Cleveland
-New York Knicks 99, Los Angeles Lakers 95 at New York
-Miami Heat 96, Toronto Raptors 76 at Miami
-Oklahoma City Thunder 124, Phoenix Suns 103 at Oklahoma City
-Detroit Pistons 120, Portland Trail Blazers 103 at Portland
-Nov 9, 2015
-Indiana Pacers 97, Orlando Magic 84 at Indiana
-Chicago Bulls 111, Philadelphia 76ers 88 at Philadelphia
-Minnesota Timberwolves 117, Atlanta Hawks 107 at Atlanta
-Denver Nuggets 108, Portland Trail Blazers 104 at Denver
-San Antonio Spurs 106, Sacramento Kings 88 at Sacramento
-Golden State Warriors 109, Detroit Pistons 95 at Golden State
-Los Angeles Clippers 94, Memphis Grizzlies 92 at Los Angeles
-Nov 10, 2015
-Cleveland Cavaliers 118, Utah Jazz 114 at Cleveland
-Oklahoma City Thunder 125, Washington Wizards 101 at Washington
-Miami Heat 101, Los Angeles Lakers 88 at Miami
-New York Knicks 111, Toronto Raptors 109 at Toronto
-Boston Celtics 99, Milwaukee Bucks 83 at Milwaukee
-Charlotte Hornets 104, Minnesota Timberwolves 95 at Minnesota
-New Orleans Pelicans 120, Dallas Mavericks 105 at New Orleans
-Nov 11, 2015
-Charlotte Hornets 95, New York Knicks 93 at Charlotte
-Orlando Magic 101, Los Angeles Lakers 99 at Orlando
-Toronto Raptors 119, Philadelphia 76ers 103 at Philadelphia
-Indiana Pacers 102, Boston Celtics 91 at Boston
-Atlanta Hawks 106, New Orleans Pelicans 98 at Atlanta
-Dallas Mavericks 118, Los Angeles Clippers 108 at Dallas
-Brooklyn Nets 106, Houston Rockets 98 at Houston
-Golden State Warriors 100, Memphis Grizzlies 84 at Memphis
-Denver Nuggets 103, Milwaukee Bucks 102 at Denver
-Sacramento Kings 101, Detroit Pistons 92 at Sacramento
-San Antonio Spurs 113, Portland Trail Blazers 101 at Portland
-Nov 12, 2015
-Miami Heat 92, Utah Jazz 91 at Miami
-Golden State Warriors 129, Minnesota Timberwolves 116 at Minnesota
-Phoenix Suns 118, Los Angeles Clippers 104 at Phoenix
-Nov 13, 2015
-Indiana Pacers 107, Minnesota Timberwolves 103 at Indiana
-Orlando Magic 102, Utah Jazz 93 at Orlando
-Boston Celtics 106, Atlanta Hawks 93 at Boston
-Cleveland Cavaliers 90, New York Knicks 84 at New York
-Toronto Raptors 100, New Orleans Pelicans 81 at Toronto
-Chicago Bulls 102, Charlotte Hornets 97 at Chicago
-Memphis Grizzlies 101, Portland Trail Blazers 100 at Memphis
-Oklahoma City Thunder 102, Philadelphia 76ers 85 at Oklahoma City
-Dallas Mavericks 90, Los Angeles Lakers 82 at Dallas
-Denver Nuggets 107, Houston Rockets 98 at Denver
-Sacramento Kings 111, Brooklyn Nets 109 at Sacramento
-Nov 14, 2015
-Los Angeles Clippers 101, Detroit Pistons 96 at Los Angeles
-Washington Wizards 108, Orlando Magic 99 at Washington
-Dallas Mavericks 110, Houston Rockets 98 at Houston
-Milwaukee Bucks 108, Cleveland Cavaliers 105 2OT at Milwaukee
-San Antonio Spurs 92, Philadelphia 76ers 83 at San Antonio
-Phoenix Suns 105, Denver Nuggets 81 at Phoenix
-Golden State Warriors 107, Brooklyn Nets 99 OT at Golden State
-Nov 15, 2015
-New York Knicks 95, New Orleans Pelicans 87 at New York
-Memphis Grizzlies 114, Minnesota Timberwolves 106 at Minnesota
-Charlotte Hornets 106, Portland Trail Blazers 94 at Charlotte
-Utah Jazz 97, Atlanta Hawks 96 at Atlanta
-Boston Celtics 100, Oklahoma City Thunder 85 at Oklahoma City
-Sacramento Kings 107, Toronto Raptors 101 at Sacramento
-Los Angeles Lakers 97, Detroit Pistons 85 at Los Angeles
-Nov 16, 2015
-Dallas Mavericks 92, Philadelphia 76ers 86 at Philadelphia
-Chicago Bulls 96, Indiana Pacers 95 at Chicago
-Boston Celtics 111, Houston Rockets 95 at Houston
-Memphis Grizzlies 122, Oklahoma City Thunder 114 at Memphis
-San Antonio Spurs 93, Portland Trail Blazers 80 at San Antonio
-Phoenix Suns 120, Los Angeles Lakers 101 at Phoenix
-Nov 17, 2015
-Washington Wizards 115, Milwaukee Bucks 86 at Washington
-Brooklyn Nets 90, Atlanta Hawks 88 at Brooklyn
-Detroit Pistons 104, Cleveland Cavaliers 99 at Detroit
-Minnesota Timberwolves 103, Miami Heat 91 at Miami
-New York Knicks 102, Charlotte Hornets 94 at New York
-Denver Nuggets 115, New Orleans Pelicans 98 at New Orleans
-Golden State Warriors 115, Toronto Raptors 110 at Golden State
-Nov 18, 2015
-Charlotte Hornets 116, Brooklyn Nets 111 at Charlotte
-Orlando Magic 104, Minnesota Timberwolves 101 OT at Orlando
-Indiana Pacers 112, Philadelphia 76ers 85 at Philadelphia
-Dallas Mavericks 106, Boston Celtics 102 at Boston
-Atlanta Hawks 103, Sacramento Kings 97 at Atlanta
-Houston Rockets 108, Portland Trail Blazers 103 OT at Houston
-Oklahoma City Thunder 110, New Orleans Pelicans 103 at Oklahoma City
-San Antonio Spurs 109, Denver Nuggets 98 at San Antonio
-Utah Jazz 93, Toronto Raptors 89 at Utah
-Chicago Bulls 103, Phoenix Suns 97 at Phoenix
-Nov 19, 2015
-Miami Heat 116, Sacramento Kings 109 at Miami
-Cleveland Cavaliers 115, Milwaukee Bucks 100 at Cleveland
-Golden State Warriors 124, Los Angeles Clippers 117 at Los Angeles
-Nov 20, 2015
-Charlotte Hornets 113, Philadelphia 76ers 88 at Charlotte
-Boston Celtics 120, Brooklyn Nets 95 at Boston
-Memphis Grizzlies 96, Houston Rockets 84 at Memphis
-Detroit Pistons 96, Minnesota Timberwolves 86 at Minnesota
-New Orleans Pelicans 104, San Antonio Spurs 90 at New Orleans
-New York Knicks 93, Oklahoma City Thunder 90 at Oklahoma City
-Dallas Mavericks 102, Utah Jazz 93 at Dallas
-Phoenix Suns 114, Denver Nuggets 107 at Denver
-Portland Trail Blazers 102, Los Angeles Clippers 91 at Portland
-Golden State Warriors 106, Chicago Bulls 94 at Golden State
-Toronto Raptors 102, Los Angeles Lakers 91 at Los Angeles
-Nov 21, 2015
-Sacramento Kings 97, Orlando Magic 91 at Orlando
-Indiana Pacers 123, Milwaukee Bucks 86 at Indiana
-Cleveland Cavaliers 109, Atlanta Hawks 97 at Cleveland
-Washington Wizards 97, Detroit Pistons 95 at Detroit
-Miami Heat 96, Philadelphia 76ers 91 at Miami
-New York Knicks 107, Houston Rockets 102 at Houston
-San Antonio Spurs 92, Memphis Grizzlies 82 at San Antonio
-Nov 22, 2015
-Toronto Raptors 91, Los Angeles Clippers 80 at Los Angeles
-Brooklyn Nets 111, Boston Celtics 101 at Brooklyn
-New Orleans Pelicans 122, Phoenix Suns 116 at New Orleans
-Oklahoma City Thunder 117, Dallas Mavericks 114 at Oklahoma City
-Golden State Warriors 118, Denver Nuggets 105 at Denver
-Portland Trail Blazers 107, Los Angeles Lakers 93 at Los Angeles
-Nov 23, 2015
-Charlotte Hornets 127, Sacramento Kings 122 OT at Charlotte
-Cleveland Cavaliers 117, Orlando Magic 103 at Cleveland
-Miami Heat 95, New York Knicks 78 at Miami
-Milwaukee Bucks 109, Detroit Pistons 88 at Milwaukee
-Minnesota Timberwolves 100, Philadelphia 76ers 95 at Minnesota
-San Antonio Spurs 98, Phoenix Suns 84 at San Antonio
-Oklahoma City Thunder 111, Utah Jazz 89 at Utah
-Nov 24, 2015
-Indiana Pacers 123, Washington Wizards 106 at Washington
-Atlanta Hawks 121, Boston Celtics 97 at Atlanta
-Memphis Grizzlies 110, Dallas Mavericks 96 at Memphis
-Los Angeles Clippers 111, Denver Nuggets 94 at Denver
-Chicago Bulls 93, Portland Trail Blazers 88 at Portland
-Golden State Warriors 111, Los Angeles Lakers 77 at Golden State
-Nov 25, 2015
-Charlotte Hornets 101, Washington Wizards 87 at Charlotte
-Orlando Magic 100, New York Knicks 91 at Orlando
-Boston Celtics 84, Philadelphia 76ers 80 at Boston
-Detroit Pistons 104, Miami Heat 81 at Detroit
-Toronto Raptors 103, Cleveland Cavaliers 99 at Toronto
-Memphis Grizzlies 102, Houston Rockets 93 at Houston
-Sacramento Kings 129, Milwaukee Bucks 118 at Milwaukee
-Minnesota Timberwolves 99, Atlanta Hawks 95 at Minnesota
-Oklahoma City Thunder 110, Brooklyn Nets 99 at Oklahoma City
-San Antonio Spurs 88, Dallas Mavericks 83 at San Antonio
-New Orleans Pelicans 120, Phoenix Suns 114 at Phoenix
-Utah Jazz 102, Los Angeles Clippers 91 at Los Angeles
-Nov 27, 2015
-Cleveland Cavaliers 95, Charlotte Hornets 90 at Charlotte
-Orlando Magic 114, Milwaukee Bucks 90 at Orlando
-Boston Celtics 111, Washington Wizards 78 at Boston
-Miami Heat 97, New York Knicks 78 at New York
-Indiana Pacers 104, Chicago Bulls 92 at Indiana
-Houston Rockets 116, Philadelphia 76ers 114 at Houston
-Atlanta Hawks 116, Memphis Grizzlies 101 at Memphis
-Oklahoma City Thunder 103, Detroit Pistons 87 at Oklahoma City
-San Antonio Spurs 91, Denver Nuggets 80 at Denver
-Golden State Warriors 135, Phoenix Suns 116 at Phoenix
-Minnesota Timberwolves 101, Sacramento Kings 91 at Sacramento
-Los Angeles Clippers 111, New Orleans Pelicans 90 at Los Angeles
-Nov 28, 2015
-Toronto Raptors 84, Washington Wizards 82 at Washington
-Cleveland Cavaliers 90, Brooklyn Nets 88 at Cleveland
-Dallas Mavericks 92, Denver Nuggets 81 at Dallas
-San Antonio Spurs 108, Atlanta Hawks 88 at San Antonio
-Utah Jazz 101, New Orleans Pelicans 87 at Utah
-Portland Trail Blazers 108, Los Angeles Lakers 96 at Portland
-Golden State Warriors 120, Sacramento Kings 101 at Golden State
-Nov 29, 2015
-Charlotte Hornets 87, Milwaukee Bucks 82 at Charlotte
-Los Angeles Clippers 107, Minnesota Timberwolves 99 at Los Angeles
-Brooklyn Nets 87, Detroit Pistons 83 at Brooklyn
-Orlando Magic 110, Boston Celtics 91 at Orlando
-Phoenix Suns 107, Toronto Raptors 102 at Toronto
-Memphis Grizzlies 92, Philadelphia 76ers 84 at Memphis
-Houston Rockets 116, New York Knicks 111 OT at New York
-Indiana Pacers 107, Los Angeles Lakers 103 at Los Angeles
-Nov 30, 2015
-Detroit Pistons 116, Houston Rockets 105 at Detroit
-Boston Celtics 105, Miami Heat 95 at Miami
-Atlanta Hawks 106, Oklahoma City Thunder 100 at Atlanta
-Chicago Bulls 92, San Antonio Spurs 89 at Chicago
-Milwaukee Bucks 92, Denver Nuggets 74 at Milwaukee
-Golden State Warriors 106, Utah Jazz 103 at Utah
-Sacramento Kings 112, Dallas Mavericks 98 at Sacramento
-Los Angeles Clippers 102, Portland Trail Blazers 87 at Los Angeles
-Dec 1, 2015
-Washington Wizards 97, Cleveland Cavaliers 85 at Cleveland
-Philadelphia 76ers 103, Los Angeles Lakers 91 at Philadelphia
-Brooklyn Nets 94, Phoenix Suns 91 at Brooklyn
-Orlando Magic 96, Minnesota Timberwolves 93 at Minnesota
-Memphis Grizzlies 113, New Orleans Pelicans 104 at New Orleans
-Dallas Mavericks 115, Portland Trail Blazers 112 OT at Portland
-Dec 2, 2015
-Golden State Warriors 116, Charlotte Hornets 99 at Charlotte
-Los Angeles Lakers 108, Washington Wizards 104 at Washington
-Detroit Pistons 127, Phoenix Suns 122 OT at Detroit
-New York Knicks 99, Philadelphia 76ers 87 at New York
-Toronto Raptors 96, Atlanta Hawks 86 at Atlanta
-Chicago Bulls 99, Denver Nuggets 90 at Chicago
-Houston Rockets 108, New Orleans Pelicans 101 at Houston
-San Antonio Spurs 95, Milwaukee Bucks 70 at San Antonio
-Indiana Pacers 103, Los Angeles Clippers 91 at Los Angeles
-Dec 3, 2015
-Miami Heat 97, Oklahoma City Thunder 95 at Miami
-Denver Nuggets 106, Toronto Raptors 105 at Toronto
-Orlando Magic 103, Utah Jazz 94 at Utah
-San Antonio Spurs 103, Memphis Grizzlies 83 at Memphis
-Portland Trail Blazers 123, Indiana Pacers 111 at Portland
-Boston Celtics 114, Sacramento Kings 97 at Sacramento
-Dec 4, 2015
-New York Knicks 108, Brooklyn Nets 91 at New York
-Washington Wizards 109, Phoenix Suns 106 at Washington
-Detroit Pistons 102, Milwaukee Bucks 95 at Detroit
-Atlanta Hawks 100, Los Angeles Lakers 87 at Atlanta
-Houston Rockets 100, Dallas Mavericks 96 at Dallas
-New Orleans Pelicans 114, Cleveland Cavaliers 108 OT at New Orleans
-Dec 5, 2015
-Denver Nuggets 108, Philadelphia 76ers 105 at Philadelphia
-Golden State Warriors 112, Toronto Raptors 109 at Toronto
-Miami Heat 99, Cleveland Cavaliers 84 at Miami
-Charlotte Hornets 102, Chicago Bulls 96 at Chicago
-Houston Rockets 120, Sacramento Kings 113 at Houston
-Portland Trail Blazers 109, Minnesota Timberwolves 103 at Minnesota
-Milwaukee Bucks 106, New York Knicks 91 at Milwaukee
-San Antonio Spurs 108, Boston Celtics 105 at San Antonio
-Utah Jazz 122, Indiana Pacers 119 OT at Utah
-Los Angeles Clippers 103, Orlando Magic 101 at Los Angeles
-Dec 6, 2015
-Memphis Grizzlies 95, Phoenix Suns 93 at Memphis
-Golden State Warriors 114, Brooklyn Nets 98 at Brooklyn
-Detroit Pistons 111, Los Angeles Lakers 91 at Detroit
-Dallas Mavericks 116, Washington Wizards 104 at Washington
-Oklahoma City Thunder 98, Sacramento Kings 95 at Oklahoma City
-Dec 7, 2015
-Charlotte Hornets 104, Detroit Pistons 84 at Charlotte
-San Antonio Spurs 119, Philadelphia 76ers 68 at Philadelphia
-Washington Wizards 114, Miami Heat 103 at Miami
-Dallas Mavericks 104, New York Knicks 97 at New York
-Toronto Raptors 102, Los Angeles Lakers 93 at Toronto
-Phoenix Suns 103, Chicago Bulls 101 at Chicago
-Milwaukee Bucks 90, Portland Trail Blazers 88 at Milwaukee
-Los Angeles Clippers 110, Minnesota Timberwolves 106 at Minnesota
-Boston Celtics 111, New Orleans Pelicans 93 at New Orleans
-Dec 8, 2015
-Cleveland Cavaliers 105, Portland Trail Blazers 100 at Cleveland
-Golden State Warriors 131, Indiana Pacers 123 at Indiana
-Brooklyn Nets 110, Houston Rockets 105 at Brooklyn
-Oklahoma City Thunder 125, Memphis Grizzlies 88 at Memphis
-Orlando Magic 85, Denver Nuggets 74 at Denver
-Sacramento Kings 114, Utah Jazz 106 at Sacramento
-Dec 9, 2015
-Boston Celtics 105, Chicago Bulls 100 at Boston
-Charlotte Hornets 99, Miami Heat 81 at Charlotte
-Houston Rockets 109, Washington Wizards 103 at Washington
-Memphis Grizzlies 93, Detroit Pistons 92 at Detroit
-Toronto Raptors 97, San Antonio Spurs 94 at Toronto
-Los Angeles Clippers 109, Milwaukee Bucks 95 at Milwaukee
-Minnesota Timberwolves 123, Los Angeles Lakers 122 OT at Minnesota
-Phoenix Suns 107, Orlando Magic 104 at Phoenix
-Utah Jazz 106, New York Knicks 85 at Utah
-Atlanta Hawks 98, Dallas Mavericks 95 at Dallas
-Dec 10, 2015
-Brooklyn Nets 100, Philadelphia 76ers 91 at Brooklyn
-Chicago Bulls 83, Los Angeles Clippers 80 at Chicago
-Oklahoma City Thunder 107, Atlanta Hawks 94 at Oklahoma City
-Sacramento Kings 99, New York Knicks 97 at Sacramento
-Dec 11, 2015
-Indiana Pacers 96, Miami Heat 83 at Indiana
-Cleveland Cavaliers 111, Orlando Magic 76 at Orlando
-Detroit Pistons 107, Philadelphia 76ers 95 at Philadelphia
-Golden State Warriors 124, Boston Celtics 119 2OT at Boston
-Toronto Raptors 90, Milwaukee Bucks 83 at Toronto
-Charlotte Hornets 123, Memphis Grizzlies 99 at Memphis
-New Orleans Pelicans 107, Washington Wizards 105 at New Orleans
-Denver Nuggets 111, Minnesota Timberwolves 108 OT at Denver
-Oklahoma City Thunder 94, Utah Jazz 90 at Utah
-San Antonio Spurs 109, Los Angeles Lakers 87 at San Antonio
-Portland Trail Blazers 106, Phoenix Suns 96 at Phoenix
-Dec 12, 2015
-Los Angeles Clippers 105, Brooklyn Nets 100 at Brooklyn
-Boston Celtics 98, Charlotte Hornets 93 at Charlotte
-Detroit Pistons 118, Indiana Pacers 96 at Detroit
-San Antonio Spurs 103, Atlanta Hawks 78 at Atlanta
-Chicago Bulls 98, New Orleans Pelicans 94 at Chicago
-Houston Rockets 126, Los Angeles Lakers 97 at Houston
-Washington Wizards 114, Dallas Mavericks 111 at Dallas
-Milwaukee Bucks 108, Golden State Warriors 95 at Milwaukee
-New York Knicks 112, Portland Trail Blazers 110 at Portland
-Dec 13, 2015
-Phoenix Suns 108, Minnesota Timberwolves 101 at Phoenix
-Miami Heat 100, Memphis Grizzlies 97 at Miami
-Toronto Raptors 96, Philadelphia 76ers 76 at Toronto
-Oklahoma City Thunder 104, Utah Jazz 98 OT at Oklahoma City
-Dec 14, 2015
-Indiana Pacers 106, Toronto Raptors 90 at Indiana
-Orlando Magic 105, Brooklyn Nets 82 at Brooklyn
-Los Angeles Clippers 105, Detroit Pistons 103 OT at Detroit
-Miami Heat 100, Atlanta Hawks 88 at Atlanta
-Chicago Bulls 115, Philadelphia 76ers 96 at Chicago
-Memphis Grizzlies 112, Washington Wizards 95 at Memphis
-Dallas Mavericks 104, Phoenix Suns 94 at Dallas
-San Antonio Spurs 118, Utah Jazz 81 at San Antonio
-Denver Nuggets 114, Houston Rockets 108 at Denver
-Portland Trail Blazers 105, New Orleans Pelicans 101 at Portland
-Dec 15, 2015
-Cleveland Cavaliers 89, Boston Celtics 77 at Boston
-Denver Nuggets 112, Minnesota Timberwolves 100 at Minnesota
-Sacramento Kings 107, Houston Rockets 97 at Sacramento
-Los Angeles Lakers 113, Milwaukee Bucks 95 at Los Angeles
-Dec 16, 2015
-Indiana Pacers 107, Dallas Mavericks 81 at Indiana
-Orlando Magic 113, Charlotte Hornets 98 at Orlando
-Miami Heat 104, Brooklyn Nets 98 at Brooklyn
-Detroit Pistons 119, Boston Celtics 116 at Detroit
-New York Knicks 107, Minnesota Timberwolves 102 at New York
-Atlanta Hawks 127, Philadelphia 76ers 106 at Atlanta
-Chicago Bulls 98, Memphis Grizzlies 85 at Chicago
-Oklahoma City Thunder 106, Portland Trail Blazers 90 at Oklahoma City
-San Antonio Spurs 114, Washington Wizards 95 at San Antonio
-New Orleans Pelicans 104, Utah Jazz 94 at Utah
-Golden State Warriors 128, Phoenix Suns 103 at Golden State
-Los Angeles Clippers 103, Milwaukee Bucks 90 at Los Angeles
-Dec 17, 2015
-Charlotte Hornets 109, Toronto Raptors 99 OT at Charlotte
-Cleveland Cavaliers 104, Oklahoma City Thunder 100 at Cleveland
-Houston Rockets 107, Los Angeles Lakers 87 at Los Angeles
-Dec 18, 2015
-Indiana Pacers 104, Brooklyn Nets 97 at Indiana
-Orlando Magic 102, Portland Trail Blazers 94 at Orlando
-New York Knicks 107, Philadelphia 76ers 97 at Philadelphia
-Atlanta Hawks 109, Boston Celtics 101 at Boston
-Toronto Raptors 108, Miami Heat 94 at Miami
-Detroit Pistons 147, Chicago Bulls 144 4OT at Chicago
-Minnesota Timberwolves 99, Sacramento Kings 95 at Minnesota
-San Antonio Spurs 115, Los Angeles Clippers 107 at San Antonio
-Dallas Mavericks 97, Memphis Grizzlies 88 at Dallas
-Utah Jazz 97, Denver Nuggets 88 at Utah
-Phoenix Suns 104, New Orleans Pelicans 88 at Phoenix
-Golden State Warriors 121, Milwaukee Bucks 112 at Golden State
-Dec 19, 2015
-Oklahoma City Thunder 118, Los Angeles Lakers 78 at Oklahoma City
-Washington Wizards 109, Charlotte Hornets 101 at Washington
-New York Knicks 107, Chicago Bulls 91 at New York
-Houston Rockets 107, Los Angeles Clippers 97 at Houston
-Memphis Grizzlies 96, Indiana Pacers 84 at Memphis
-Dec 20, 2015
-Minnesota Timberwolves 100, Brooklyn Nets 85 at Brooklyn
-Miami Heat 116, Portland Trail Blazers 109 at Miami
-Cleveland Cavaliers 108, Philadelphia 76ers 86 at Cleveland
-Milwaukee Bucks 101, Phoenix Suns 95 at Phoenix
-Atlanta Hawks 103, Orlando Magic 100 at Orlando
-Sacramento Kings 104, Toronto Raptors 94 at Toronto
-New Orleans Pelicans 130, Denver Nuggets 125 at Denver
-Dec 21, 2015
-Washington Wizards 113, Sacramento Kings 99 at Washington
-Boston Celtics 113, Minnesota Timberwolves 99 at Boston
-Orlando Magic 107, New York Knicks 99 at New York
-Atlanta Hawks 106, Portland Trail Blazers 97 at Atlanta
-Brooklyn Nets 105, Chicago Bulls 102 at Chicago
-Houston Rockets 102, Charlotte Hornets 95 at Houston
-San Antonio Spurs 106, Indiana Pacers 92 at San Antonio
-Utah Jazz 110, Phoenix Suns 89 at Utah
-Oklahoma City Thunder 100, Los Angeles Clippers 99 at Los Angeles
-Dec 22, 2015
-Memphis Grizzlies 104, Philadelphia 76ers 90 at Philadelphia
-Detroit Pistons 93, Miami Heat 92 at Miami
-Toronto Raptors 103, Dallas Mavericks 99 at Toronto
-Los Angeles Lakers 111, Denver Nuggets 107 at Denver
-Dec 23, 2015
-Boston Celtics 102, Charlotte Hornets 89 at Charlotte
-Cleveland Cavaliers 91, New York Knicks 84 at Cleveland
-Sacramento Kings 108, Indiana Pacers 106 at Indiana
-Orlando Magic 104, Houston Rockets 101 at Orlando
-Washington Wizards 100, Memphis Grizzlies 91 at Washington
-Dallas Mavericks 119, Brooklyn Nets 118 OT at Brooklyn
-Atlanta Hawks 107, Detroit Pistons 100 at Atlanta
-Milwaukee Bucks 113, Philadelphia 76ers 100 at Milwaukee
-San Antonio Spurs 108, Minnesota Timberwolves 83 at Minnesota
-New Orleans Pelicans 115, Portland Trail Blazers 89 at New Orleans
-Denver Nuggets 104, Phoenix Suns 96 at Phoenix
-Golden State Warriors 103, Utah Jazz 85 at Golden State
-Oklahoma City Thunder 120, Los Angeles Lakers 85 at Los Angeles
-Dec 25, 2015
-Miami Heat 94, New Orleans Pelicans 88 OT at Miami
-Chicago Bulls 105, Oklahoma City Thunder 96 at Oklahoma City
-Golden State Warriors 89, Cleveland Cavaliers 83 at Golden State
-Houston Rockets 88, San Antonio Spurs 84 at Houston
-Los Angeles Clippers 94, Los Angeles Lakers 84 at Los Angeles
-Dec 26, 2015
-Toronto Raptors 111, Milwaukee Bucks 90 at Milwaukee
-Charlotte Hornets 98, Memphis Grizzlies 92 at Charlotte
-Miami Heat 108, Orlando Magic 101 at Orlando
-New Orleans Pelicans 110, Houston Rockets 108 at New Orleans
-Atlanta Hawks 117, New York Knicks 98 at Atlanta
-Boston Celtics 99, Detroit Pistons 93 at Detroit
-Washington Wizards 111, Brooklyn Nets 96 at Brooklyn
-Indiana Pacers 102, Minnesota Timberwolves 88 at Minnesota
-Dallas Mavericks 118, Chicago Bulls 111 at Dallas
-San Antonio Spurs 101, Denver Nuggets 86 at San Antonio
-Philadelphia 76ers 111, Phoenix Suns 104 at Phoenix
-Los Angeles Clippers 109, Utah Jazz 104 at Utah
-Portland Trail Blazers 105, Cleveland Cavaliers 76 at Portland
-Dec 27, 2015
-Boston Celtics 100, New York Knicks 91 at Boston
-Memphis Grizzlies 112, Los Angeles Lakers 96 at Memphis
-Oklahoma City Thunder 122, Denver Nuggets 112 at Oklahoma City
-Portland Trail Blazers 98, Sacramento Kings 94 at Sacramento
-Dec 28, 2015
-Charlotte Hornets 108, Los Angeles Lakers 98 at Charlotte
-Indiana Pacers 93, Atlanta Hawks 87 at Indiana
-Orlando Magic 104, New Orleans Pelicans 89 at Orlando
-Los Angeles Clippers 108, Washington Wizards 91 at Washington
-Brooklyn Nets 111, Miami Heat 105 at Miami
-Chicago Bulls 104, Toronto Raptors 97 at Chicago
-Dallas Mavericks 103, Milwaukee Bucks 93 at Dallas
-San Antonio Spurs 101, Minnesota Timberwolves 95 at San Antonio
-Cleveland Cavaliers 101, Phoenix Suns 97 at Phoenix
-Utah Jazz 95, Philadelphia 76ers 91 at Utah
-Golden State Warriors 122, Sacramento Kings 103 at Golden State
-Dec 29, 2015
-New York Knicks 108, Detroit Pistons 96 at New York
-Atlanta Hawks 121, Houston Rockets 115 at Houston
-Memphis Grizzlies 99, Miami Heat 90 OT at Memphis
-Oklahoma City Thunder 131, Milwaukee Bucks 123 at Oklahoma City
-Cleveland Cavaliers 93, Denver Nuggets 87 at Denver
-Dec 30, 2015
-Los Angeles Clippers 122, Charlotte Hornets 117 at Charlotte
-Orlando Magic 100, Brooklyn Nets 93 at Orlando
-Los Angeles Lakers 112, Boston Celtics 104 at Boston
-Toronto Raptors 94, Washington Wizards 91 at Toronto
-Chicago Bulls 102, Indiana Pacers 100 OT at Chicago
-Minnesota Timberwolves 94, Utah Jazz 80 at Minnesota
-Dallas Mavericks 114, Golden State Warriors 91 at Dallas
-San Antonio Spurs 112, Phoenix Suns 79 at San Antonio
-Portland Trail Blazers 110, Denver Nuggets 103 at Portland
-Philadelphia 76ers 110, Sacramento Kings 105 at Sacramento
-Dec 31, 2015
-Milwaukee Bucks 120, Indiana Pacers 116 at Indiana
-Detroit Pistons 115, Minnesota Timberwolves 90 at Detroit
-Golden State Warriors 114, Houston Rockets 110 at Houston
-Los Angeles Clippers 95, New Orleans Pelicans 89 at New Orleans
-Oklahoma City Thunder 110, Phoenix Suns 106 at Oklahoma City
-Utah Jazz 109, Portland Trail Blazers 96 at Utah
-Jan 1, 2016
-Washington Wizards 103, Orlando Magic 91 at Washington
-Miami Heat 106, Dallas Mavericks 82 at Miami
-Toronto Raptors 104, Charlotte Hornets 94 at Toronto
-Chicago Bulls 108, New York Knicks 81 at Chicago
-Los Angeles Lakers 93, Philadelphia 76ers 84 at Los Angeles
-Jan 2, 2016
-Brooklyn Nets 100, Boston Celtics 97 at Boston
-Sacramento Kings 142, Phoenix Suns 119 at Sacramento
-Oklahoma City Thunder 109, Charlotte Hornets 90 at Charlotte
-Indiana Pacers 94, Detroit Pistons 82 at Indiana
-Cleveland Cavaliers 104, Orlando Magic 79 at Cleveland
-Milwaukee Bucks 95, Minnesota Timberwolves 85 at Minnesota
-New Orleans Pelicans 105, Dallas Mavericks 98 at Dallas
-San Antonio Spurs 121, Houston Rockets 103 at San Antonio
-Utah Jazz 92, Memphis Grizzlies 87 OT at Utah
-Golden State Warriors 111, Denver Nuggets 108 OT at Golden State
-Los Angeles Clippers 130, Philadelphia 76ers 99 at Los Angeles
-Jan 3, 2016
-New York Knicks 111, Atlanta Hawks 97 at New York
-Chicago Bulls 115, Toronto Raptors 113 at Toronto
-Miami Heat 97, Washington Wizards 75 at Washington
-Portland Trail Blazers 112, Denver Nuggets 106 at Denver
-Los Angeles Lakers 97, Phoenix Suns 77 at Los Angeles
-Jan 4, 2016
-Cleveland Cavaliers 122, Toronto Raptors 100 at Cleveland
-Philadelphia 76ers 109, Minnesota Timberwolves 99 at Philadelphia
-Boston Celtics 103, Brooklyn Nets 94 at Brooklyn
-Detroit Pistons 115, Orlando Magic 89 at Detroit
-Miami Heat 103, Indiana Pacers 100 OT at Miami
-San Antonio Spurs 123, Milwaukee Bucks 98 at Milwaukee
-Sacramento Kings 116, Oklahoma City Thunder 104 at Oklahoma City
-Houston Rockets 93, Utah Jazz 91 at Utah
-Memphis Grizzlies 91, Portland Trail Blazers 78 at Portland
-Golden State Warriors 111, Charlotte Hornets 101 at Golden State
-Jan 5, 2016
-New York Knicks 107, Atlanta Hawks 101 at Atlanta
-Chicago Bulls 117, Milwaukee Bucks 106 at Chicago
-Dallas Mavericks 117, Sacramento Kings 116 2OT at Dallas
-Golden State Warriors 109, Los Angeles Lakers 88 at Los Angeles
-Jan 6, 2016
-New York Knicks 98, Miami Heat 90 at Miami
-Indiana Pacers 95, Orlando Magic 86 at Orlando
-Cleveland Cavaliers 121, Washington Wizards 115 at Washington
-Detroit Pistons 99, Boston Celtics 94 at Boston
-Toronto Raptors 91, Brooklyn Nets 74 at Brooklyn
-Denver Nuggets 78, Minnesota Timberwolves 74 at Minnesota
-Dallas Mavericks 100, New Orleans Pelicans 91 at New Orleans
-San Antonio Spurs 123, Utah Jazz 98 at San Antonio
-Phoenix Suns 111, Charlotte Hornets 102 at Phoenix
-Oklahoma City Thunder 112, Memphis Grizzlies 94 at Oklahoma City
-Los Angeles Clippers 109, Portland Trail Blazers 98 at Portland
-Jan 7, 2016
-Sacramento Kings 118, Los Angeles Lakers 115 at Sacramento
-Atlanta Hawks 126, Philadelphia 76ers 98 at Philadelphia
-Chicago Bulls 101, Boston Celtics 92 at Chicago
-Houston Rockets 103, Utah Jazz 94 at Houston
-Jan 8, 2016
-Toronto Raptors 97, Washington Wizards 88 at Washington
-Orlando Magic 83, Brooklyn Nets 77 at Brooklyn
-Memphis Grizzlies 91, Denver Nuggets 84 at Memphis
-Cleveland Cavaliers 125, Minnesota Timberwolves 99 at Minnesota
-Indiana Pacers 91, New Orleans Pelicans 86 at New Orleans
-Milwaukee Bucks 96, Dallas Mavericks 95 at Milwaukee
-San Antonio Spurs 100, New York Knicks 99 at San Antonio
-Miami Heat 103, Phoenix Suns 95 at Phoenix
-Golden State Warriors 128, Portland Trail Blazers 108 at Portland
-Oklahoma City Thunder 117, Los Angeles Lakers 113 at Los Angeles
-Jan 9, 2016
-Los Angeles Clippers 97, Charlotte Hornets 83 at Los Angeles
-Atlanta Hawks 120, Chicago Bulls 105 at Atlanta
-Washington Wizards 105, Orlando Magic 99 at Orlando
-Detroit Pistons 103, Brooklyn Nets 89 at Detroit
-Toronto Raptors 108, Philadelphia 76ers 95 at Philadelphia
-Utah Jazz 98, Miami Heat 83 at Utah
-Golden State Warriors 128, Sacramento Kings 116 at Sacramento
-Jan 10, 2016
-Dallas Mavericks 93, Minnesota Timberwolves 87 at Minnesota
-Los Angeles Clippers 114, New Orleans Pelicans 111 OT at Los Angeles
-Cleveland Cavaliers 95, Philadelphia 76ers 85 at Philadelphia
-Memphis Grizzlies 101, Boston Celtics 98 at Memphis
-Houston Rockets 107, Indiana Pacers 103 OT at Houston
-New York Knicks 100, Milwaukee Bucks 88 at New York
-Denver Nuggets 95, Charlotte Hornets 92 at Denver
-Portland Trail Blazers 115, Oklahoma City Thunder 110 at Portland
-Utah Jazz 86, Los Angeles Lakers 74 at Los Angeles
-Jan 11, 2016
-San Antonio Spurs 106, Brooklyn Nets 79 at Brooklyn
-Washington Wizards 114, Chicago Bulls 100 at Chicago
-Golden State Warriors 111, Miami Heat 103 at Golden State
-Jan 12, 2016
-Indiana Pacers 116, Phoenix Suns 97 at Indiana
-San Antonio Spurs 109, Detroit Pistons 99 at Detroit
-New York Knicks 120, Boston Celtics 114 at New York
-Houston Rockets 107, Memphis Grizzlies 91 at Memphis
-Milwaukee Bucks 106, Chicago Bulls 101 at Milwaukee
-Oklahoma City Thunder 101, Minnesota Timberwolves 96 at Minnesota
-Cleveland Cavaliers 110, Dallas Mavericks 107 OT at Dallas
-Los Angeles Lakers 95, New Orleans Pelicans 91 at Los Angeles
-Jan 13, 2016
-Charlotte Hornets 107, Atlanta Hawks 84 at Charlotte
-Washington Wizards 106, Milwaukee Bucks 101 at Washington
-Brooklyn Nets 110, New York Knicks 104 at Brooklyn
-Boston Celtics 103, Indiana Pacers 94 at Boston
-Houston Rockets 107, Minnesota Timberwolves 104 at Houston
-Oklahoma City Thunder 108, Dallas Mavericks 89 at Oklahoma City
-Denver Nuggets 112, Golden State Warriors 110 at Denver
-Portland Trail Blazers 99, Utah Jazz 85 at Portland
-New Orleans Pelicans 109, Sacramento Kings 97 at Sacramento
-Los Angeles Clippers 104, Miami Heat 90 at Los Angeles
-Jan 14, 2016
-Toronto Raptors 106, Orlando Magic 103 OT at Orlando
-Chicago Bulls 115, Philadelphia 76ers 111 OT at Philadelphia
-Memphis Grizzlies 103, Detroit Pistons 101 at Memphis
-San Antonio Spurs 99, Cleveland Cavaliers 95 at San Antonio
-Sacramento Kings 103, Utah Jazz 101 at Utah
-Golden State Warriors 116, Los Angeles Lakers 98 at Golden State
-Jan 15, 2016
-Washington Wizards 118, Indiana Pacers 104 at Indiana
-Oklahoma City Thunder 113, Minnesota Timberwolves 93 at Oklahoma City
-Boston Celtics 117, Phoenix Suns 103 at Boston
-Portland Trail Blazers 116, Brooklyn Nets 104 at Brooklyn
-Dallas Mavericks 83, Chicago Bulls 77 at Chicago
-New Orleans Pelicans 109, Charlotte Hornets 107 at New Orleans
-Milwaukee Bucks 108, Atlanta Hawks 101 OT at Milwaukee
-Miami Heat 98, Denver Nuggets 95 at Denver
-Cleveland Cavaliers 91, Houston Rockets 77 at Houston
-Jan 16, 2016
-Milwaukee Bucks 105, Charlotte Hornets 92 at Charlotte
-Boston Celtics 119, Washington Wizards 117 at Washington
-Atlanta Hawks 114, Brooklyn Nets 86 at Atlanta
-Detroit Pistons 113, Golden State Warriors 95 at Detroit
-Philadelphia 76ers 114, Portland Trail Blazers 89 at Philadelphia
-Memphis Grizzlies 103, New York Knicks 95 at Memphis
-Utah Jazz 109, Los Angeles Lakers 82 at Utah
-Sacramento Kings 110, Los Angeles Clippers 103 at Los Angeles
-Jan 17, 2016
-Minnesota Timberwolves 117, Phoenix Suns 87 at Minnesota
-Oklahoma City Thunder 99, Miami Heat 74 at Oklahoma City
-San Antonio Spurs 112, Dallas Mavericks 83 at San Antonio
-Denver Nuggets 129, Indiana Pacers 126 at Denver
-Houston Rockets 112, Los Angeles Lakers 95 at Los Angeles
-Jan 18, 2016
-New York Knicks 119, Philadelphia 76ers 113 2OT at New York
-Charlotte Hornets 124, Utah Jazz 119 2OT at Charlotte
-Portland Trail Blazers 108, Washington Wizards 98 at Washington
-Memphis Grizzlies 101, New Orleans Pelicans 99 at Memphis
-Chicago Bulls 111, Detroit Pistons 101 at Detroit
-Atlanta Hawks 98, Orlando Magic 81 at Atlanta
-Toronto Raptors 112, Brooklyn Nets 100 at Toronto
-Golden State Warriors 132, Cleveland Cavaliers 98 at Cleveland
-Dallas Mavericks 118, Boston Celtics 113 OT at Dallas
-Los Angeles Clippers 140, Houston Rockets 132 OT at Los Angeles
-Jan 19, 2016
-Milwaukee Bucks 91, Miami Heat 79 at Miami
-New Orleans Pelicans 114, Minnesota Timberwolves 99 at New Orleans
-Oklahoma City Thunder 110, Denver Nuggets 104 at Denver
-Indiana Pacers 97, Phoenix Suns 94 at Phoenix
-Jan 20, 2016
-Philadelphia 76ers 96, Orlando Magic 87 at Orlando
-Washington Wizards 106, Miami Heat 87 at Washington
-Cleveland Cavaliers 91, Brooklyn Nets 78 at Brooklyn
-New York Knicks 118, Utah Jazz 111 OT at New York
-Toronto Raptors 115, Boston Celtics 109 at Toronto
-Golden State Warriors 125, Chicago Bulls 94 at Chicago
-Detroit Pistons 123, Houston Rockets 114 at Houston
-Oklahoma City Thunder 109, Charlotte Hornets 95 at Oklahoma City
-Dallas Mavericks 106, Minnesota Timberwolves 94 OT at Dallas
-Sacramento Kings 112, Los Angeles Lakers 93 at Los Angeles
-Atlanta Hawks 104, Portland Trail Blazers 98 at Portland
-Jan 21, 2016
-Cleveland Cavaliers 115, Los Angeles Clippers 102 at Cleveland
-New Orleans Pelicans 115, Detroit Pistons 99 at New Orleans
-Memphis Grizzlies 102, Denver Nuggets 101 at Denver
-Sacramento Kings 91, Atlanta Hawks 88 at Sacramento
-San Antonio Spurs 117, Phoenix Suns 89 at Phoenix
-Jan 22, 2016
-Charlotte Hornets 120, Orlando Magic 116 OT at Orlando
-Boston Celtics 110, Chicago Bulls 101 at Boston
-Utah Jazz 108, Brooklyn Nets 86 at Brooklyn
-Los Angeles Clippers 116, New York Knicks 88 at New York
-Toronto Raptors 101, Miami Heat 81 at Toronto
-Houston Rockets 102, Milwaukee Bucks 98 at Houston
-Oklahoma City Thunder 109, Dallas Mavericks 106 at Dallas
-Golden State Warriors 122, Indiana Pacers 110 at Golden State
-San Antonio Spurs 108, Los Angeles Lakers 95 at Los Angeles
-Jan 23, 2016
-Charlotte Hornets 97, New York Knicks 84 at Charlotte
-New Orleans Pelicans 116, Milwaukee Bucks 99 at New Orleans
-Minnesota Timberwolves 106, Memphis Grizzlies 101 at Minnesota
-Chicago Bulls 96, Cleveland Cavaliers 83 at Cleveland
-Phoenix Suns 98, Atlanta Hawks 95 at Phoenix
-Denver Nuggets 104, Detroit Pistons 101 at Denver
-Portland Trail Blazers 121, Los Angeles Lakers 103 at Portland
-Sacramento Kings 108, Indiana Pacers 97 at Sacramento
-Jan 24, 2016
-Boston Celtics 112, Philadelphia 76ers 92 at Philadelphia Originally scheduled for Jan 23, 2016. Postponed due to weather
-Brooklyn Nets 116, Oklahoma City Thunder 106 at Brooklyn
-Houston Rockets 115, Dallas Mavericks 104 at Houston
-Toronto Raptors 112, Los Angeles Clippers 94 at Toronto
-Jan 25, 2016
-Cleveland Cavaliers 114, Minnesota Timberwolves 107 at Cleveland
-Boston Celtics 116, Washington Wizards 91 at Washington
-Miami Heat 89, Chicago Bulls 84 at Chicago
-Memphis Grizzlies 108, Orlando Magic 102 OT at Memphis
-Houston Rockets 112, New Orleans Pelicans 111 at New Orleans
-Atlanta Hawks 119, Denver Nuggets 105 at Denver
-Detroit Pistons 95, Utah Jazz 92 at Utah
-Charlotte Hornets 129, Sacramento Kings 128 2OT at Sacramento
-Golden State Warriors 120, San Antonio Spurs 90 at Golden State
-Jan 26, 2016
-Los Angeles Clippers 91, Indiana Pacers 89 at Indiana
-Philadelphia 76ers 113, Phoenix Suns 103 at Philadelphia
-Miami Heat 102, Brooklyn Nets 98 at Brooklyn
-Oklahoma City Thunder 128, New York Knicks 122 OT at New York
-Toronto Raptors 106, Washington Wizards 89 at Toronto
-Milwaukee Bucks 107, Orlando Magic 100 at Milwaukee
-Portland Trail Blazers 112, Sacramento Kings 97 at Portland
-Dallas Mavericks 92, Los Angeles Lakers 90 at Los Angeles
-Jan 27, 2016
-Cleveland Cavaliers 115, Phoenix Suns 93 at Cleveland
-Boston Celtics 111, Denver Nuggets 103 at Boston
-Detroit Pistons 110, Philadelphia 76ers 97 at Detroit
-Los Angeles Clippers 85, Atlanta Hawks 83 at Atlanta
-Oklahoma City Thunder 126, Minnesota Timberwolves 123 at Minnesota
-San Antonio Spurs 130, Houston Rockets 99 at San Antonio
-Utah Jazz 102, Charlotte Hornets 73 at Utah
-Golden State Warriors 127, Dallas Mavericks 107 at Golden State
-Jan 28, 2016
-Indiana Pacers 111, Atlanta Hawks 92 at Indiana
-Denver Nuggets 117, Washington Wizards 113 at Washington
-Toronto Raptors 103, New York Knicks 93 at Toronto
-Memphis Grizzlies 103, Milwaukee Bucks 83 at Memphis
-New Orleans Pelicans 114, Sacramento Kings 105 at New Orleans
-Chicago Bulls 114, Los Angeles Lakers 91 at Los Angeles
-Jan 29, 2016
-Boston Celtics 113, Orlando Magic 94 at Boston
-Cleveland Cavaliers 114, Detroit Pistons 106 at Detroit
-New York Knicks 102, Phoenix Suns 84 at New York
-Oklahoma City Thunder 116, Houston Rockets 108 at Oklahoma City
-Miami Heat 107, Milwaukee Bucks 103 at Milwaukee
-Dallas Mavericks 91, Brooklyn Nets 79 at Dallas
-Utah Jazz 103, Minnesota Timberwolves 90 at Utah
-Portland Trail Blazers 109, Charlotte Hornets 91 at Portland
-Los Angeles Clippers 105, Los Angeles Lakers 93 at Los Angeles
-Jan 30, 2016
-Golden State Warriors 108, Philadelphia 76ers 105 at Philadelphia
-Toronto Raptors 111, Detroit Pistons 107 at Toronto
-Indiana Pacers 109, Denver Nuggets 105 OT at Indiana
-New Orleans Pelicans 105, Brooklyn Nets 103 at New Orleans
-Washington Wizards 123, Houston Rockets 122 at Houston
-Memphis Grizzlies 121, Sacramento Kings 117 at Memphis
-Cleveland Cavaliers 117, San Antonio Spurs 103 at Cleveland
-Jan 31, 2016
-Los Angeles Clippers 120, Chicago Bulls 93 at Los Angeles
-Miami Heat 105, Atlanta Hawks 87 at Miami
-Orlando Magic 119, Boston Celtics 114 at Orlando
-Dallas Mavericks 91, Phoenix Suns 78 at Dallas
-Golden State Warriors 116, New York Knicks 95 at New York
-Portland Trail Blazers 96, Minnesota Timberwolves 93 at Portland
-Charlotte Hornets 101, Los Angeles Lakers 82 at Los Angeles
-Feb 1, 2016
-Cleveland Cavaliers 111, Indiana Pacers 106 OT at Indiana
-Detroit Pistons 105, Brooklyn Nets 100 at Brooklyn
-Atlanta Hawks 112, Dallas Mavericks 97 at Atlanta
-Memphis Grizzlies 110, New Orleans Pelicans 95 at New Orleans
-Oklahoma City Thunder 114, Washington Wizards 98 at Oklahoma City
-San Antonio Spurs 107, Orlando Magic 92 at San Antonio
-Denver Nuggets 112, Toronto Raptors 93 at Denver
-Utah Jazz 105, Chicago Bulls 96 OT at Utah
-Sacramento Kings 111, Milwaukee Bucks 104 at Sacramento
-Feb 2, 2016
-Boston Celtics 97, New York Knicks 89 at New York
-Houston Rockets 115, Miami Heat 102 at Houston
-Toronto Raptors 104, Phoenix Suns 97 at Phoenix
-Portland Trail Blazers 107, Milwaukee Bucks 95 at Portland
-Los Angeles Lakers 119, Minnesota Timberwolves 115 at Los Angeles
-Feb 3, 2016
-Charlotte Hornets 106, Cleveland Cavaliers 97 at Charlotte
-Atlanta Hawks 124, Philadelphia 76ers 86 at Philadelphia
-Boston Celtics 102, Detroit Pistons 95 at Boston
-Indiana Pacers 114, Brooklyn Nets 100 at Brooklyn
-Golden State Warriors 134, Washington Wizards 121 at Washington
-Oklahoma City Thunder 117, Orlando Magic 114 at Oklahoma City
-Miami Heat 93, Dallas Mavericks 90 at Dallas
-San Antonio Spurs 110, New Orleans Pelicans 97 at San Antonio
-Utah Jazz 85, Denver Nuggets 81 at Utah
-Chicago Bulls 107, Sacramento Kings 102 at Sacramento
-Minnesota Timberwolves 108, Los Angeles Clippers 102 at Los Angeles
-Feb 4, 2016
-Detroit Pistons 111, New York Knicks 105 at Detroit
-Los Angeles Lakers 99, New Orleans Pelicans 96 at New Orleans
-Toronto Raptors 110, Portland Trail Blazers 103 at Portland
-Houston Rockets 111, Phoenix Suns 105 at Phoenix
-Feb 5, 2016
-Atlanta Hawks 102, Indiana Pacers 96 at Atlanta
-Miami Heat 98, Charlotte Hornets 95 at Charlotte
-Los Angeles Clippers 107, Orlando Magic 93 at Orlando
-Washington Wizards 106, Philadelphia 76ers 94 at Washington
-Brooklyn Nets 128, Sacramento Kings 119 at Brooklyn
-Boston Celtics 104, Cleveland Cavaliers 103 at Cleveland
-Memphis Grizzlies 91, New York Knicks 85 at New York
-Denver Nuggets 115, Chicago Bulls 110 at Denver
-Utah Jazz 84, Milwaukee Bucks 81 at Utah
-San Antonio Spurs 116, Dallas Mavericks 90 at Dallas
-Feb 6, 2016
-Portland Trail Blazers 96, Houston Rockets 79 at Houston
-Charlotte Hornets 108, Washington Wizards 104 at Charlotte
-Indiana Pacers 112, Detroit Pistons 104 at Indiana
-Cleveland Cavaliers 99, New Orleans Pelicans 84 at Cleveland
-Philadelphia 76ers 103, Brooklyn Nets 98 at Philadelphia
-Dallas Mavericks 114, Memphis Grizzlies 110 OT at Memphis
-Minnesota Timberwolves 112, Chicago Bulls 105 at Minnesota
-San Antonio Spurs 106, Los Angeles Lakers 102 at San Antonio
-Utah Jazz 98, Phoenix Suns 89 at Phoenix
-Golden State Warriors 116, Oklahoma City Thunder 108 at Golden State
-Feb 7, 2016
-Denver Nuggets 101, New York Knicks 96 at New York
-Orlando Magic 96, Atlanta Hawks 94 at Orlando
-Boston Celtics 128, Sacramento Kings 119 at Boston
-Los Angeles Clippers 100, Miami Heat 93 at Miami
-Feb 8, 2016
-Charlotte Hornets 108, Chicago Bulls 91 at Charlotte
-Cleveland Cavaliers 120, Sacramento Kings 100 at Cleveland
-Indiana Pacers 89, Los Angeles Lakers 87 at Indiana
-Los Angeles Clippers 98, Philadelphia 76ers 92 OT at Philadelphia
-Brooklyn Nets 105, Denver Nuggets 104 at Brooklyn
-Toronto Raptors 103, Detroit Pistons 89 at Detroit
-Orlando Magic 117, Atlanta Hawks 110 OT at Atlanta
-Portland Trail Blazers 112, Memphis Grizzlies 106 OT at Memphis
-New Orleans Pelicans 116, Minnesota Timberwolves 102 at Minnesota
-Oklahoma City Thunder 122, Phoenix Suns 106 at Phoenix
-Feb 9, 2016
-San Antonio Spurs 119, Miami Heat 101 at Miami
-Washington Wizards 111, New York Knicks 108 at New York
-Milwaukee Bucks 112, Boston Celtics 111 at Milwaukee
-Utah Jazz 121, Dallas Mavericks 119 OT at Dallas
-Golden State Warriors 123, Houston Rockets 110 at Golden State
-Feb 10, 2016
-Cleveland Cavaliers 120, Los Angeles Lakers 111 at Cleveland
-Atlanta Hawks 113, Chicago Bulls 90 at Chicago
-Minnesota Timberwolves 117, Toronto Raptors 112 at Minnesota
-New Orleans Pelicans 100, Utah Jazz 96 at New Orleans
-Golden State Warriors 112, Phoenix Suns 104 at Phoenix
-Portland Trail Blazers 116, Houston Rockets 103 at Portland
-Charlotte Hornets 117, Indiana Pacers 95 at Indiana
-San Antonio Spurs 98, Orlando Magic 96 at Orlando
-Sacramento Kings 114, Philadelphia 76ers 110 at Philadelphia
-Boston Celtics 139, Los Angeles Clippers 134 OT at Boston
-Memphis Grizzlies 109, Brooklyn Nets 90 at Brooklyn
-Denver Nuggets 103, Detroit Pistons 92 at Detroit
-Feb 11, 2016
-Milwaukee Bucks 99, Washington Wizards 92 at Milwaukee
-Oklahoma City Thunder 121, New Orleans Pelicans 95 at Oklahoma City
-Feb 18, 2016
-Cleveland Cavaliers 106, Chicago Bulls 95 at Cleveland
-Los Angeles Clippers 105, San Antonio Spurs 86 at Los Angeles
-Washington Wizards 103, Utah Jazz 89 at Washington Originally scheduled for Jan 23, 2016. Postponed due to weather.
-Feb 19, 2016
-Orlando Magic 110, Dallas Mavericks 104 OT at Orlando
-Washington Wizards 98, Detroit Pistons 86 at Washington
-Brooklyn Nets 109, New York Knicks 98 at Brooklyn
-Miami Heat 115, Atlanta Hawks 111 at Atlanta
-Chicago Bulls 116, Toronto Raptors 106 at Chicago
-Memphis Grizzlies 109, Minnesota Timberwolves 104 at Memphis
-New Orleans Pelicans 121, Philadelphia 76ers 114 at New Orleans
-Indiana Pacers 101, Oklahoma City Thunder 98 at Oklahoma City
-Charlotte Hornets 98, Milwaukee Bucks 95 at Milwaukee
-Houston Rockets 116, Phoenix Suns 100 at Phoenix
-Portland Trail Blazers 137, Golden State Warriors 105 at Portland
-Sacramento Kings 116, Denver Nuggets 110 at Sacramento
-Utah Jazz 111, Boston Celtics 93 at Utah
-San Antonio Spurs 119, Los Angeles Lakers 113 at Los Angeles
-Feb 20, 2016
-Milwaukee Bucks 117, Atlanta Hawks 109 2OT at Atlanta
-Miami Heat 114, Washington Wizards 94 at Miami
-New York Knicks 103, Minnesota Timberwolves 95 at Minnesota
-Golden State Warriors 115, Los Angeles Clippers 112 at Los Angeles
-Feb 21, 2016
-New Orleans Pelicans 111, Detroit Pistons 106 at Detroit
-Cleveland Cavaliers 115, Oklahoma City Thunder 92 at Oklahoma City
-Boston Celtics 121, Denver Nuggets 101 at Denver
-San Antonio Spurs 118, Phoenix Suns 111 at Phoenix
-Charlotte Hornets 104, Brooklyn Nets 96 at Brooklyn
-Indiana Pacers 105, Orlando Magic 102 at Orlando
-Toronto Raptors 98, Memphis Grizzlies 85 at Toronto
-Dallas Mavericks 129, Philadelphia 76ers 103 at Dallas
-Chicago Bulls 126, Los Angeles Lakers 115 at Chicago
-Portland Trail Blazers 115, Utah Jazz 111 at Portland
-Feb 22, 2016
-Detroit Pistons 96, Cleveland Cavaliers 88 at Cleveland
-Miami Heat 101, Indiana Pacers 93 OT at Miami
-Toronto Raptors 122, New York Knicks 95 at New York
-Golden State Warriors 102, Atlanta Hawks 92 at Atlanta
-Milwaukee Bucks 108, Los Angeles Lakers 101 at Milwaukee
-Minnesota Timberwolves 124, Boston Celtics 122 at Minnesota
-Los Angeles Clippers 124, Phoenix Suns 84 at Los Angeles
-Feb 23, 2016
-Orlando Magic 124, Philadelphia 76ers 115 at Philadelphia
-Washington Wizards 109, New Orleans Pelicans 89 at Washington
-Sacramento Kings 114, Denver Nuggets 110 at Denver
-Utah Jazz 117, Houston Rockets 114 OT at Utah
-Portland Trail Blazers 112, Brooklyn Nets 104 at Portland
-Feb 24, 2016
-Cleveland Cavaliers 114, Charlotte Hornets 103 at Cleveland
-Indiana Pacers 108, New York Knicks 105 at Indiana
-Detroit Pistons 111, Philadelphia 76ers 91 at Detroit
-Golden State Warriors 118, Miami Heat 112 at Miami
-Toronto Raptors 114, Minnesota Timberwolves 105 at Toronto
-Chicago Bulls 109, Washington Wizards 104 at Chicago
-Memphis Grizzlies 128, Los Angeles Lakers 119 at Memphis
-Oklahoma City Thunder 116, Dallas Mavericks 103 at Dallas
-Denver Nuggets 87, Los Angeles Clippers 81 at Los Angeles
-San Antonio Spurs 108, Sacramento Kings 92 at Sacramento
-Feb 25, 2016
-Golden State Warriors 130, Orlando Magic 114 at Orlando
-Boston Celtics 112, Milwaukee Bucks 107 at Boston
-New Orleans Pelicans 123, Oklahoma City Thunder 119 at New Orleans
-Brooklyn Nets 116, Phoenix Suns 106 at Phoenix
-Houston Rockets 119, Portland Trail Blazers 105 at Portland
-San Antonio Spurs 96, Utah Jazz 78 at Utah
-Feb 26, 2016
-Charlotte Hornets 96, Indiana Pacers 95 at Indiana
-Washington Wizards 103, Philadelphia 76ers 94 at Philadelphia
-New York Knicks 108, Orlando Magic 95 at New York
-Toronto Raptors 99, Cleveland Cavaliers 97 at Toronto
-Atlanta Hawks 103, Chicago Bulls 88 at Atlanta
-Dallas Mavericks 122, Denver Nuggets 116 OT at Dallas
-Los Angeles Clippers 117, Sacramento Kings 107 at Sacramento
-Memphis Grizzlies 112, Los Angeles Lakers 95 at Los Angeles
-Feb 27, 2016
-Boston Celtics 101, Miami Heat 89 at Boston
-Minnesota Timberwolves 112, New Orleans Pelicans 110 at New Orleans
-Portland Trail Blazers 103, Chicago Bulls 95 at Chicago
-San Antonio Spurs 104, Houston Rockets 94 at Houston
-Detroit Pistons 102, Milwaukee Bucks 91 at Milwaukee
-Golden State Warriors 121, Oklahoma City Thunder 118 OT at Oklahoma City
-Phoenix Suns 111, Memphis Grizzlies 106 at Phoenix
-Brooklyn Nets 98, Utah Jazz 96 at Utah
-Feb 28, 2016
-Washington Wizards 113, Cleveland Cavaliers 99 at Washington
-Atlanta Hawks 87, Charlotte Hornets 76 at Atlanta
-Detroit Pistons 114, Toronto Raptors 101 at Detroit
-Portland Trail Blazers 111, Indiana Pacers 102 at Indiana
-Orlando Magic 130, Philadelphia 76ers 116 at Orlando
-Dallas Mavericks 128, Minnesota Timberwolves 101 at Dallas
-Miami Heat 98, New York Knicks 81 at New York
-Feb 29, 2016
-Cleveland Cavaliers 100, Indiana Pacers 96 at Cleveland
-Washington Wizards 116, Philadelphia 76ers 108 at Washington
-Boston Celtics 100, Utah Jazz 95 at Boston
-Milwaukee Bucks 128, Houston Rockets 121 at Milwaukee
-Memphis Grizzlies 103, Denver Nuggets 96 at Denver
-Oklahoma City Thunder 131, Sacramento Kings 116 at Sacramento
-Los Angeles Clippers 105, Brooklyn Nets 95 at Los Angeles
-Mar 1, 2016
-Charlotte Hornets 126, Phoenix Suns 92 at Charlotte
-Miami Heat 129, Chicago Bulls 111 at Miami
-Portland Trail Blazers 104, New York Knicks 85 at New York
-Dallas Mavericks 121, Orlando Magic 108 at Dallas
-Golden State Warriors 109, Atlanta Hawks 105 OT at Golden State
-Los Angeles Lakers 107, Brooklyn Nets 101 at Los Angeles
-Mar 2, 2016
-Orlando Magic 102, Chicago Bulls 89 at Orlando
-Charlotte Hornets 119, Philadelphia 76ers 99 at Philadelphia
-Boston Celtics 116, Portland Trail Blazers 93 at Boston
-Toronto Raptors 104, Utah Jazz 94 at Toronto
-Houston Rockets 100, New Orleans Pelicans 95 at Houston
-Memphis Grizzlies 104, Sacramento Kings 98 at Memphis
-Indiana Pacers 104, Milwaukee Bucks 99 at Milwaukee
-Washington Wizards 104, Minnesota Timberwolves 98 at Minnesota
-San Antonio Spurs 97, Detroit Pistons 81 at San Antonio
-Denver Nuggets 117, Los Angeles Lakers 107 at Denver
-Los Angeles Clippers 103, Oklahoma City Thunder 98 at Los Angeles
-Mar 3, 2016
-Miami Heat 108, Phoenix Suns 92 at Miami
-San Antonio Spurs 94, New Orleans Pelicans 86 at New Orleans
-Sacramento Kings 104, Dallas Mavericks 101 at Dallas
-Golden State Warriors 121, Oklahoma City Thunder 106 at Golden State
-Mar 4, 2016
-Charlotte Hornets 108, Indiana Pacers 101 at Charlotte
-Phoenix Suns 102, Orlando Magic 84 at Orlando
-Miami Heat 112, Philadelphia 76ers 102 at Philadelphia
-Boston Celtics 105, New York Knicks 104 at Boston
-Toronto Raptors 117, Portland Trail Blazers 115 at Toronto
-Cleveland Cavaliers 108, Washington Wizards 83 at Cleveland
-Memphis Grizzlies 94, Utah Jazz 88 at Memphis
-Milwaukee Bucks 116, Minnesota Timberwolves 101 at Milwaukee
-Brooklyn Nets 121, Denver Nuggets 120 OT at Denver
-Atlanta Hawks 106, Los Angeles Lakers 77 at Los Angeles
-Mar 5, 2016
-Cleveland Cavaliers 120, Boston Celtics 103 at Cleveland
-New York Knicks 102, Detroit Pistons 89 at New York
-Indiana Pacers 100, Washington Wizards 99 at Washington
-Utah Jazz 106, New Orleans Pelicans 94 at New Orleans
-Minnesota Timberwolves 132, Brooklyn Nets 118 at Minnesota
-Chicago Bulls 108, Houston Rockets 100 at Chicago
-San Antonio Spurs 104, Sacramento Kings 94 at San Antonio
-Atlanta Hawks 107, Los Angeles Clippers 97 at Los Angeles
-Mar 6, 2016
-Oklahoma City Thunder 104, Milwaukee Bucks 96 at Milwaukee
-Los Angeles Lakers 112, Golden State Warriors 95 at Los Angeles
-Phoenix Suns 109, Memphis Grizzlies 100 at Memphis
-Denver Nuggets 116, Dallas Mavericks 114 OT at Denver
-Detroit Pistons 123, Portland Trail Blazers 103 at Detroit
-Miami Heat 103, Philadelphia 76ers 98 at Miami
-Houston Rockets 113, Toronto Raptors 107 at Toronto
-Mar 7, 2016
-Charlotte Hornets 108, Minnesota Timberwolves 103 at Charlotte
-Memphis Grizzlies 106, Cleveland Cavaliers 103 at Cleveland
-Indiana Pacers 99, San Antonio Spurs 91 at Indiana
-Chicago Bulls 100, Milwaukee Bucks 90 at Chicago
-New Orleans Pelicans 115, Sacramento Kings 112 at New Orleans
-Los Angeles Clippers 109, Dallas Mavericks 90 at Dallas
-Golden State Warriors 119, Orlando Magic 113 at Golden State
-Mar 8, 2016
-Toronto Raptors 104, Brooklyn Nets 99 at Toronto
-San Antonio Spurs 116, Minnesota Timberwolves 91 at Minnesota
-Denver Nuggets 110, New York Knicks 94 at Denver
-Atlanta Hawks 91, Utah Jazz 84 at Utah
-Portland Trail Blazers 116, Washington Wizards 109 OT at Portland
-Los Angeles Lakers 107, Orlando Magic 98 at Los Angeles
-Mar 9, 2016
-Charlotte Hornets 122, New Orleans Pelicans 113 at Charlotte
-Houston Rockets 118, Philadelphia 76ers 104 at Philadelphia
-Milwaukee Bucks 114, Miami Heat 108 at Milwaukee
-Boston Celtics 116, Memphis Grizzlies 96 at Boston
-Detroit Pistons 102, Dallas Mavericks 96 at Dallas
-Oklahoma City Thunder 120, Los Angeles Clippers 108 at Oklahoma City
-New York Knicks 128, Phoenix Suns 97 at Phoenix
-Cleveland Cavaliers 120, Sacramento Kings 111 at Sacramento
-Golden State Warriors 115, Utah Jazz 94 at Golden State
-Mar 10, 2016
-Toronto Raptors 104, Atlanta Hawks 96 at Toronto
-San Antonio Spurs 109, Chicago Bulls 101 at San Antonio
-Denver Nuggets 116, Phoenix Suns 98 at Denver
-Cleveland Cavaliers 120, Los Angeles Lakers 108 at Los Angeles
-Mar 11, 2016
-Charlotte Hornets 118, Detroit Pistons 103 at Charlotte
-Philadelphia 76ers 95, Brooklyn Nets 89 at Philadelphia
-Houston Rockets 102, Boston Celtics 98 at Boston
-Miami Heat 118, Chicago Bulls 96 at Chicago
-Memphis Grizzlies 121, New Orleans Pelicans 114 OT at Memphis
-Minnesota Timberwolves 99, Oklahoma City Thunder 96 at Oklahoma City
-Utah Jazz 114, Washington Wizards 93 at Utah
-Orlando Magic 107, Sacramento Kings 100 at Sacramento
-Golden State Warriors 128, Portland Trail Blazers 112 at Golden State
-Los Angeles Clippers 101, New York Knicks 94 at Los Angeles
-Mar 12, 2016
-Indiana Pacers 112, Dallas Mavericks 105 at Dallas
-Charlotte Hornets 125, Houston Rockets 109 at Charlotte
-Detroit Pistons 125, Philadelphia 76ers 111 at Philadelphia
-Toronto Raptors 112, Miami Heat 104 OT at Toronto
-Atlanta Hawks 95, Memphis Grizzlies 83 at Atlanta
-Milwaukee Bucks 103, New Orleans Pelicans 92 at Milwaukee
-San Antonio Spurs 93, Oklahoma City Thunder 85 at San Antonio
-Denver Nuggets 116, Washington Wizards 100 at Denver
-Golden State Warriors 123, Phoenix Suns 116 at Golden State
-Portland Trail Blazers 121, Orlando Magic 84 at Portland
-Mar 13, 2016
-Cleveland Cavaliers 114, Los Angeles Clippers 90 at Los Angeles
-Atlanta Hawks 104, Indiana Pacers 75 at Atlanta
-Milwaukee Bucks 109, Brooklyn Nets 100 at Brooklyn
-Utah Jazz 108, Sacramento Kings 99 at Sacramento
-New York Knicks 90, Los Angeles Lakers 87 at Los Angeles
-Mar 14, 2016
-Dallas Mavericks 107, Charlotte Hornets 96 at Charlotte
-Washington Wizards 124, Detroit Pistons 81 at Washington
-Miami Heat 124, Denver Nuggets 119 at Miami
-Chicago Bulls 109, Toronto Raptors 107 at Toronto
-Houston Rockets 130, Memphis Grizzlies 81 at Houston
-Oklahoma City Thunder 128, Portland Trail Blazers 94 at Oklahoma City
-Utah Jazz 94, Cleveland Cavaliers 85 at Utah
-Phoenix Suns 107, Minnesota Timberwolves 104 at Phoenix
-Golden State Warriors 125, New Orleans Pelicans 107 at Golden State
-Mar 15, 2016
-Indiana Pacers 103, Boston Celtics 98 at Indiana
-Orlando Magic 116, Denver Nuggets 110 at Orlando
-Brooklyn Nets 131, Philadelphia 76ers 114 at Brooklyn
-Toronto Raptors 107, Milwaukee Bucks 89 at Milwaukee
-San Antonio Spurs 108, Los Angeles Clippers 87 at San Antonio
-Sacramento Kings 106, Los Angeles Lakers 98 at Los Angeles
-Mar 16, 2016
-Oklahoma City Thunder 130, Boston Celtics 109 at Boston
-Charlotte Hornets 107, Orlando Magic 99 at Charlotte
-Cleveland Cavaliers 99, Dallas Mavericks 98 at Cleveland
-Washington Wizards 117, Chicago Bulls 96 at Washington
-Atlanta Hawks 118, Detroit Pistons 114 at Detroit
-Minnesota Timberwolves 114, Memphis Grizzlies 108 at Memphis
-Los Angeles Clippers 122, Houston Rockets 106 at Houston
-New Orleans Pelicans 123, Sacramento Kings 108 at Sacramento
-Golden State Warriors 121, New York Knicks 85 at Golden State
-Mar 17, 2016
-Toronto Raptors 101, Indiana Pacers 94 OT at Indiana
-Washington Wizards 99, Philadelphia 76ers 94 at Philadelphia
-Charlotte Hornets 109, Miami Heat 106 at Miami
-Atlanta Hawks 116, Denver Nuggets 98 at Atlanta
-Chicago Bulls 118, Brooklyn Nets 102 at Chicago
-Milwaukee Bucks 96, Memphis Grizzlies 86 at Milwaukee
-San Antonio Spurs 118, Portland Trail Blazers 110 at San Antonio
-Utah Jazz 103, Phoenix Suns 69 at Utah
-Mar 18, 2016
-Cleveland Cavaliers 109, Orlando Magic 103 at Orlando
-Oklahoma City Thunder 111, Philadelphia 76ers 97 at Philadelphia
-Detroit Pistons 115, Sacramento Kings 108 at Detroit
-Toronto Raptors 105, Boston Celtics 91 at Toronto
-Houston Rockets 116, Minnesota Timberwolves 111 at Houston
-Portland Trail Blazers 117, New Orleans Pelicans 112 at New Orleans
-Golden State Warriors 130, Dallas Mavericks 112 at Dallas
-Phoenix Suns 95, Los Angeles Lakers 90 at Los Angeles
-Mar 19, 2016
-Denver Nuggets 101, Charlotte Hornets 93 at Charlotte
-Detroit Pistons 115, Brooklyn Nets 103 at Detroit
-Oklahoma City Thunder 115, Indiana Pacers 111 at Indiana
-Washington Wizards 99, New York Knicks 89 at Washington
-Atlanta Hawks 109, Houston Rockets 97 at Atlanta
-Miami Heat 122, Cleveland Cavaliers 101 at Miami
-Chicago Bulls 92, Utah Jazz 85 at Chicago
-Memphis Grizzlies 113, Los Angeles Clippers 102 at Memphis
-San Antonio Spurs 87, Golden State Warriors 79 at San Antonio
-Mar 20, 2016
-Dallas Mavericks 132, Portland Trail Blazers 120 OT at Dallas
-Toronto Raptors 105, Orlando Magic 100 at Toronto
-Boston Celtics 120, Philadelphia 76ers 105 at Philadelphia
-New Orleans Pelicans 109, Los Angeles Clippers 105 at New Orleans
-Utah Jazz 94, Milwaukee Bucks 85 at Milwaukee
-Sacramento Kings 88, New York Knicks 80 at New York
-Mar 21, 2016
-Memphis Grizzlies 103, Phoenix Suns 97 at Phoenix
-Charlotte Hornets 91, San Antonio Spurs 88 at Charlotte
-Cleveland Cavaliers 124, Denver Nuggets 91 at Cleveland
-Indiana Pacers 91, Philadelphia 76ers 75 at Indiana
-Boston Celtics 107, Orlando Magic 96 at Boston
-Detroit Pistons 92, Milwaukee Bucks 91 at Detroit
-Washington Wizards 117, Atlanta Hawks 102 at Atlanta
-Chicago Bulls 109, Sacramento Kings 102 at Chicago
-Golden State Warriors 109, Minnesota Timberwolves 104 at Minnesota
-Mar 22, 2016
-Charlotte Hornets 105, Brooklyn Nets 100 at Brooklyn
-Miami Heat 113, New Orleans Pelicans 99 at New Orleans
-Oklahoma City Thunder 111, Houston Rockets 107 at Oklahoma City
-Los Angeles Lakers 107, Memphis Grizzlies 100 at Los Angeles
-Mar 23, 2016
-Atlanta Hawks 122, Washington Wizards 101 at Washington
-Boston Celtics 91, Toronto Raptors 79 at Boston
-Detroit Pistons 118, Orlando Magic 102 at Detroit
-Cleveland Cavaliers 113, Milwaukee Bucks 104 at Cleveland
-New York Knicks 115, Chicago Bulls 107 at Chicago
-Utah Jazz 89, Houston Rockets 87 at Houston
-Minnesota Timberwolves 113, Sacramento Kings 104 at Minnesota
-San Antonio Spurs 112, Miami Heat 88 at San Antonio
-Denver Nuggets 104, Philadelphia 76ers 103 at Denver
-Phoenix Suns 119, Los Angeles Lakers 107 at Phoenix
-Golden State Warriors 114, Los Angeles Clippers 98 at Golden State
-Portland Trail Blazers 109, Dallas Mavericks 103 at Portland
-Mar 24, 2016
-Indiana Pacers 92, New Orleans Pelicans 84 at Indiana
-Brooklyn Nets 104, Cleveland Cavaliers 95 at Brooklyn
-New York Knicks 106, Chicago Bulls 94 at New York
-Oklahoma City Thunder 113, Utah Jazz 91 at Oklahoma City
-Los Angeles Clippers 96, Portland Trail Blazers 94 at Los Angeles
-Mar 25, 2016
-Minnesota Timberwolves 132, Washington Wizards 129 2OT at Washington
-Detroit Pistons 112, Charlotte Hornets 105 at Detroit
-Miami Heat 108, Orlando Magic 97 at Miami
-Atlanta Hawks 101, Milwaukee Bucks 90 at Atlanta
-Houston Rockets 112, Toronto Raptors 109 at Houston
-San Antonio Spurs 110, Memphis Grizzlies 104 at San Antonio
-Sacramento Kings 116, Phoenix Suns 94 at Sacramento
-Golden State Warriors 128, Dallas Mavericks 120 at Golden State
-Denver Nuggets 116, Los Angeles Lakers 105 at Los Angeles
-Mar 26, 2016
-Brooklyn Nets 120, Indiana Pacers 110 at Brooklyn
-Orlando Magic 111, Chicago Bulls 89 at Orlando
-Toronto Raptors 115, New Orleans Pelicans 91 at New Orleans
-Atlanta Hawks 112, Detroit Pistons 95 at Detroit
-Cleveland Cavaliers 107, New York Knicks 93 at New York
-Utah Jazz 93, Minnesota Timberwolves 84 at Minnesota
-Oklahoma City Thunder 111, San Antonio Spurs 92 at Oklahoma City
-Charlotte Hornets 115, Milwaukee Bucks 91 at Milwaukee
-Boston Celtics 102, Phoenix Suns 99 at Phoenix
-Portland Trail Blazers 108, Philadelphia 76ers 105 at Portland
-Mar 27, 2016
-Los Angeles Clippers 105, Denver Nuggets 90 at Los Angeles
-Indiana Pacers 104, Houston Rockets 101 at Indiana
-Sacramento Kings 133, Dallas Mavericks 111 at Sacramento
-Golden State Warriors 117, Philadelphia 76ers 105 at Golden State
-Washington Wizards 101, Los Angeles Lakers 88 at Los Angeles
-Mar 28, 2016
-Miami Heat 110, Brooklyn Nets 99 at Miami
-Oklahoma City Thunder 119, Toronto Raptors 100 at Toronto
-Atlanta Hawks 102, Chicago Bulls 100 at Chicago
-San Antonio Spurs 101, Memphis Grizzlies 87 at Memphis
-Minnesota Timberwolves 121, Phoenix Suns 116 at Minnesota
-New Orleans Pelicans 99, New York Knicks 91 at New Orleans
-Dallas Mavericks 97, Denver Nuggets 88 at Denver
-Utah Jazz 123, Los Angeles Lakers 75 at Utah
-Portland Trail Blazers 105, Sacramento Kings 93 at Portland
-Los Angeles Clippers 114, Boston Celtics 90 at Los Angeles
-Mar 29, 2016
-Chicago Bulls 98, Indiana Pacers 96 at Indiana
-Orlando Magic 139, Brooklyn Nets 105 at Orlando
-Charlotte Hornets 100, Philadelphia 76ers 85 at Philadelphia
-Detroit Pistons 88, Oklahoma City Thunder 82 at Detroit
-Houston Rockets 106, Cleveland Cavaliers 100 at Cleveland
-Golden State Warriors 102, Washington Wizards 94 at Golden State
-Mar 30, 2016
-Toronto Raptors 105, Atlanta Hawks 97 at Toronto
-Denver Nuggets 109, Memphis Grizzlies 105 at Memphis
-Milwaukee Bucks 105, Phoenix Suns 94 at Milwaukee
-Los Angeles Clippers 99, Minnesota Timberwolves 79 at Minnesota
-Dallas Mavericks 91, New York Knicks 89 at Dallas
-San Antonio Spurs 100, New Orleans Pelicans 92 at San Antonio
-Golden State Warriors 103, Utah Jazz 96 OT at Utah
-Sacramento Kings 120, Washington Wizards 111 at Sacramento
-Los Angeles Lakers 102, Miami Heat 100 OT at Los Angeles
-Mar 31, 2016
-Cleveland Cavaliers 107, Brooklyn Nets 87 at Cleveland
-Orlando Magic 114, Indiana Pacers 94 at Indiana
-Chicago Bulls 103, Houston Rockets 100 at Houston
-New Orleans Pelicans 101, Denver Nuggets 95 at New Orleans
-Oklahoma City Thunder 119, Los Angeles Clippers 117 at Oklahoma City
-Portland Trail Blazers 116, Boston Celtics 109 at Portland
-Apr 1, 2016
-Charlotte Hornets 100, Philadelphia 76ers 91 at Charlotte
-Dallas Mavericks 98, Detroit Pistons 89 at Detroit
-New York Knicks 105, Brooklyn Nets 91 at New York
-Cleveland Cavaliers 110, Atlanta Hawks 108 OT at Atlanta
-Toronto Raptors 99, Memphis Grizzlies 95 at Memphis
-Milwaukee Bucks 113, Orlando Magic 110 at Milwaukee
-Utah Jazz 98, Minnesota Timberwolves 85 at Utah
-Miami Heat 112, Sacramento Kings 106 at Sacramento
-Boston Celtics 109, Golden State Warriors 106 at Golden State
-Washington Wizards 106, Phoenix Suns 99 at Phoenix
-Apr 2, 2016
-Indiana Pacers 115, Philadelphia 76ers 102 at Philadelphia
-Detroit Pistons 94, Chicago Bulls 90 at Chicago
-San Antonio Spurs 102, Toronto Raptors 95 at San Antonio
-Sacramento Kings 115, Denver Nuggets 106 at Denver
-Portland Trail Blazers 110, Miami Heat 93 at Portland
-Apr 3, 2016
-New Orleans Pelicans 106, Brooklyn Nets 87 at Brooklyn
-Cleveland Cavaliers 112, Charlotte Hornets 103 at Cleveland
-Houston Rockets 118, Oklahoma City Thunder 110 at Houston
-Dallas Mavericks 88, Minnesota Timberwolves 78 at Minnesota
-Los Angeles Clippers 114, Washington Wizards 109 at Los Angeles
-Orlando Magic 119, Memphis Grizzlies 107 at Orlando
-Utah Jazz 101, Phoenix Suns 86 at Phoenix
-Chicago Bulls 102, Milwaukee Bucks 98 at Milwaukee
-Indiana Pacers 92, New York Knicks 87 at New York
-Golden State Warriors 136, Portland Trail Blazers 111 at Golden State
-Boston Celtics 107, Los Angeles Lakers 100 at Los Angeles
-Apr 5, 2016
-Philadelphia 76ers 107, New Orleans Pelicans 93 at Philadelphia
-Miami Heat 107, Detroit Pistons 89 at Miami
-Toronto Raptors 96, Charlotte Hornets 90 at Toronto
-Atlanta Hawks 103, Phoenix Suns 90 at Atlanta
-Memphis Grizzlies 108, Chicago Bulls 92 at Memphis
-Cleveland Cavaliers 109, Milwaukee Bucks 80 at Milwaukee
-Oklahoma City Thunder 124, Denver Nuggets 102 at Denver
-San Antonio Spurs 88, Utah Jazz 86 at Utah
-Portland Trail Blazers 115, Sacramento Kings 107 at Sacramento
-Minnesota Timberwolves 124, Golden State Warriors 117 OT at Golden State
-Los Angeles Clippers 103, Los Angeles Lakers 81 at Los Angeles
-Apr 6, 2016
-Indiana Pacers 123, Cleveland Cavaliers 109 at Indiana
-Detroit Pistons 108, Orlando Magic 104 at Orlando
-Washington Wizards 121, Brooklyn Nets 103 at Washington
-Boston Celtics 104, New Orleans Pelicans 97 at Boston
-Charlotte Hornets 111, New York Knicks 97 at New York
-Dallas Mavericks 88, Houston Rockets 86 at Dallas
-Portland Trail Blazers 120, Oklahoma City Thunder 115 at Portland
-Los Angeles Clippers 91, Los Angeles Lakers 81 at Los Angeles
-Apr 7, 2016
-Atlanta Hawks 95, Toronto Raptors 87 at Atlanta
-Miami Heat 106, Chicago Bulls 98 at Miami
-Phoenix Suns 124, Houston Rockets 115 at Houston
-Minnesota Timberwolves 105, Sacramento Kings 97 at Sacramento
-Golden State Warriors 112, San Antonio Spurs 101 at Golden State
-Apr 8, 2016
-Charlotte Hornets 113, Brooklyn Nets 99 at Charlotte
-Orlando Magic 112, Miami Heat 109 at Orlando
-New York Knicks 109, Philadelphia 76ers 102 at Philadelphia
-Boston Celtics 124, Milwaukee Bucks 109 at Boston
-Detroit Pistons 112, Washington Wizards 99 at Detroit
-Toronto Raptors 111, Indiana Pacers 98 at Toronto
-New Orleans Pelicans 110, Los Angeles Lakers 102 at New Orleans
-Dallas Mavericks 103, Memphis Grizzlies 93 at Dallas
-Denver Nuggets 102, San Antonio Spurs 98 at Denver
-Los Angeles Clippers 102, Utah Jazz 99 OT at Utah
-Apr 9, 2016
-Phoenix Suns 121, New Orleans Pelicans 100 at New Orleans
-Atlanta Hawks 118, Boston Celtics 107 at Atlanta
-Golden State Warriors 100, Memphis Grizzlies 99 at Memphis
-Chicago Bulls 105, Cleveland Cavaliers 102 at Chicago
-Minnesota Timberwolves 106, Portland Trail Blazers 105 at Portland
-Sacramento Kings 114, Oklahoma City Thunder 112 at Sacramento
-Apr 10, 2016
-Washington Wizards 113, Charlotte Hornets 98 at Washington
-Houston Rockets 130, Los Angeles Lakers 110 at Houston
-Los Angeles Clippers 98, Dallas Mavericks 91 at Los Angeles
-Milwaukee Bucks 109, Philadelphia 76ers 108 OT at Philadelphia
-Utah Jazz 100, Denver Nuggets 84 at Denver
-Indiana Pacers 129, Brooklyn Nets 105 at Indiana
-Miami Heat 118, Orlando Magic 96 at Miami
-Golden State Warriors 92, San Antonio Spurs 86 at San Antonio
-Toronto Raptors 93, New York Knicks 89 at New York
-Apr 11, 2016
-Cleveland Cavaliers 109, Atlanta Hawks 94 at Cleveland
-Orlando Magic 107, Milwaukee Bucks 98 at Orlando
-Charlotte Hornets 114, Boston Celtics 100 at Boston
-Washington Wizards 120, Brooklyn Nets 111 at Brooklyn
-Houston Rockets 129, Minnesota Timberwolves 105 at Minnesota
-Chicago Bulls 121, New Orleans Pelicans 116 at New Orleans
-Oklahoma City Thunder 112, Los Angeles Lakers 79 at Oklahoma City
-Dallas Mavericks 101, Utah Jazz 92 at Utah
-Sacramento Kings 105, Phoenix Suns 101 at Phoenix
-Apr 12, 2016
-Indiana Pacers 102, New York Knicks 90 at Indiana
-Miami Heat 99, Detroit Pistons 93 at Detroit
-Toronto Raptors 122, Philadelphia 76ers 98 at Toronto
-San Antonio Spurs 102, Oklahoma City Thunder 98 OT at San Antonio
-Los Angeles Clippers 110, Memphis Grizzlies 84 at Los Angeles
-Apr 13, 2016
-Boston Celtics 98, Miami Heat 88 at Boston
-Toronto Raptors 103, Brooklyn Nets 96 at Brooklyn
-Charlotte Hornets 117, Orlando Magic 103 at Charlotte
-Detroit Pistons 112, Cleveland Cavaliers 110 OT at Cleveland
-Washington Wizards 109, Atlanta Hawks 98 at Washington
-Chicago Bulls 115, Philadelphia 76ers 105 at Chicago
-San Antonio Spurs 96, Dallas Mavericks 91 at Dallas
-Houston Rockets 116, Sacramento Kings 81 at Houston
-Indiana Pacers 97, Milwaukee Bucks 92 at Milwaukee
-Minnesota Timberwolves 144, New Orleans Pelicans 109 at Minnesota
-Golden State Warriors 125, Memphis Grizzlies 104 at Golden State
-Los Angeles Lakers 101, Utah Jazz 96 at Los Angeles
-Phoenix Suns 114, Los Angeles Clippers 105 at Phoenix
-Portland Trail Blazers 107, Denver Nuggets 99 at Portland
-Full List - NBA Playoffs
-Apr 16, 2016
-Indiana Pacers 100, Toronto Raptors 90 at Toronto
-Golden State Warriors 104, Houston Rockets 78 at Golden State
-Oklahoma City Thunder 108, Dallas Mavericks 70 at Oklahoma City
-Atlanta Hawks 102, Boston Celtics 101 at Atlanta
-Apr 17, 2016
-San Antonio Spurs 106, Memphis Grizzlies 74 at San Antonio
-Los Angeles Clippers 115, Portland Trail Blazers 95 at Los Angeles
-Cleveland Cavaliers 106, Detroit Pistons 101 at Cleveland
-Miami Heat 123, Charlotte Hornets 91 at Miami
-Apr 18, 2016
-Toronto Raptors 98, Indiana Pacers 87 at Toronto
-Golden State Warriors 115, Houston Rockets 106 at Golden State
-Dallas Mavericks 85, Oklahoma City Thunder 84 at Oklahoma City
-Apr 19, 2016
-San Antonio Spurs 94, Memphis Grizzlies 68 at San Antonio
-Atlanta Hawks 89, Boston Celtics 72 at Atlanta
-Apr 20, 2016
-Los Angeles Clippers 102, Portland Trail Blazers 81 at Los Angeles
-Cleveland Cavaliers 107, Detroit Pistons 90 at Cleveland
-Miami Heat 115, Charlotte Hornets 103 at Miami
-Apr 21, 2016
-Toronto Raptors 101, Indiana Pacers 85 at Indiana
-Houston Rockets 97, Golden State Warriors 96 at Houston
-Oklahoma City Thunder 131, Dallas Mavericks 102 at Dallas
-Apr 22, 2016
-San Antonio Spurs 96, Memphis Grizzlies 87 at Memphis
-Cleveland Cavaliers 101, Detroit Pistons 91 at Detroit
-Boston Celtics 111, Atlanta Hawks 103 at Boston
-Apr 23, 2016
-Indiana Pacers 100, Toronto Raptors 83 at Indiana
-Oklahoma City Thunder 119, Dallas Mavericks 108 at Dallas
-Portland Trail Blazers 96, Los Angeles Clippers 88 at Portland
-Charlotte Hornets 96, Miami Heat 80 at Charlotte
-Apr 24, 2016
-Golden State Warriors 121, Houston Rockets 94 at Houston
-San Antonio Spurs 116, Memphis Grizzlies 95 at Memphis
-Cleveland Cavaliers 100, Detroit Pistons 98 at Detroit
-Boston Celtics 104, Atlanta Hawks 95 OT at Boston
-Apr 25, 2016
-Oklahoma City Thunder 118, Dallas Mavericks 104 at Oklahoma City
-Portland Trail Blazers 98, Los Angeles Clippers 84 at Portland
-Charlotte Hornets 89, Miami Heat 85 at Charlotte
-Apr 26, 2016
-Toronto Raptors 102, Indiana Pacers 99 at Toronto
-Atlanta Hawks 110, Boston Celtics 83 at Atlanta
-Apr 27, 2016
-Golden State Warriors 114, Houston Rockets 81 at Golden State
-Portland Trail Blazers 108, Los Angeles Clippers 98 at Los Angeles
-Charlotte Hornets 90, Miami Heat 88 at Miami
-Apr 28, 2016
-Atlanta Hawks 104, Boston Celtics 92 at Boston
-Apr 29, 2016
-Indiana Pacers 101, Toronto Raptors 83 at Indiana
-Portland Trail Blazers 106, Los Angeles Clippers 103 at Portland
-Miami Heat 97, Charlotte Hornets 90 at Charlotte
-Apr 30, 2016
-San Antonio Spurs 124, Oklahoma City Thunder 92 at San Antonio
-May 1, 2016
-Golden State Warriors 118, Portland Trail Blazers 106 at Golden State
-Toronto Raptors 89, Indiana Pacers 84 at Toronto
-Miami Heat 106, Charlotte Hornets 73 at Miami
+detroitpistons 106 atlantahawks 94 away 301
+chicagobulls 97 clevelandcavaliers 95 home 301
+goldenstatewarriors 111 neworleanspelicans 95 home 301
+washingtonwizards 88 orlandomagic 87 away 302
+bostonceltics 112 philadelphiassers 95 home 302
+chicagobulls 115 brooklynnets 100 away 302
+detroitpistons 92 utahjazz 87 home 302
+miamiheat 104 charlottehornets 94 home 302
+torontoraptors 106 indianapacers 99 home 302
+denvernuggets 105 houstonrockets 85 away 302
+clevelandcavaliers 106 memphisgrizzlies 76 away 302
+newyorkknicks 122 milwaukeebucks 97 away 302
+oklahomacitythunder 112 sanantoniospurs 106 home 302
+dallasmavericks 111 phoenixsuns 95 away 302
+portlandtrailblazers 112 neworleanspelicans 94 home 302
+losangelesclippers 111 sacramentokings 104 away 302
+minnesotatimberwolves 112 losangeleslakers 111 away 302
+memphisgrizzlies 112 indianapacers 103 away 303
+atlantahawks 112 newyorkknicks 101 away 303
+losangelesclippers 104 dallasmavericks 88 home 303
+washingtonwizards 118 milwaukeebucks 113 away 304
+sanantoniospurs 102 brooklynnets 75 home 304
+minnesotatimberwolves 95 denvernuggets 78 away 304
+goldenstatewarriors 112 houstonrockets 92 away 304
+sacramentokings 132 losangeleslakers 114 home 304
+phoenixsuns 110 portlandtrailblazers 92 home 304
+clevelandcavaliers 102 miamiheat 92 home 304
+oklahomacitythunder 139 orlandomagic 136 away 304
+utahjazz 99 philadelphiassers 71 away 304
+torontoraptors 113 bostonceltics 103 away 304
+detroitpistons 98 chicagobulls 94 home 304
+atlantahawks 97 charlottehornets 94 home 304
+utahjazz 97 indianapacers 76 away 305
+newyorkknicks 117 washingtonwizards 110 away 305
+goldenstatewarriors 134 neworleanspelicans 120 away 305
+memphisgrizzlies 101 brooklynnets 91 home 305
+phoenixsuns 101 portlandtrailblazers 90 away 305
+losangelesclippers 114 sacramentokings 109 home 305
+atlantahawks 94 charlottehornets 92 away 306
+sanantoniospurs 95 bostonceltics 87 away 306
+miamiheat 109 houstonrockets 89 home 306
+torontoraptors 106 milwaukeebucks 87 home 306
+chicagobulls 92 orlandomagic 87 home 306
+oklahomacitythunder 117 denvernuggets 93 home 306
+dallasmavericks 103 losangeleslakers 93 away 306
+clevelandcavaliers 107 philadelphiassers 100 away 307
+milwaukeebucks 103 brooklynnets 96 away 307
+sanantoniospurs 94 newyorkknicks 84 away 307
+houstonrockets 110 oklahomacitythunder 105 home 307
+portlandtrailblazers 106 minnesotatimberwolves 101 away 307
+goldenstatewarriors 119 memphisgrizzlies 69 home 307
+losangelesclippers 102 phoenixsuns 96 home 307
+charlottehornets 130 chicagobulls 105 home 308
+indianapacers 94 detroitpistons 82 away 308
+atlantahawks 98 miamiheat 92 away 308
+orlandomagic 103 neworleanspelicans 94 away 308
+torontoraptors 102 dallasmavericks 91 away 308
+memphisgrizzlies 103 sacramentokings 89 away 308
+denvernuggets 120 losangeleslakers 109 away 308
+indianapacers 100 bostonceltics 98 home 309
+washingtonwizards 102 sanantoniospurs 99 home 309
+atlantahawks 101 brooklynnets 87 home 309
+clevelandcavaliers 96 newyorkknicks 86 home 309
+houstonrockets 119 orlandomagic 114 home 309
+milwaukeebucks 91 philadelphiassers 87 home 309
+torontoraptors 103 oklahomacitythunder 98 away 309
+phoenixsuns 118 sacramentokings 97 home 309
+portlandtrailblazers 108 utahjazz 92 away 309
+goldenstatewarriors 112 losangelesclippers 108 home 309
+chicagobulls 104 oklahomacitythunder 98 home 310
+miamiheat 96 minnesotatimberwolves 84 away 310
+charlottehornets 108 dallasmavericks 94 away 310
+utahjazz 96 denvernuggets 84 away 310
+portlandtrailblazers 115 memphisgrizzlies 96 home 310
+orlandomagic 92 torontoraptors 87 home 311
+bostonceltics 118 washingtonwizards 98 home 311
+losangeleslakers 104 brooklynnets 98 away 311
+clevelandcavaliers 108 philadelphiassers 102 home 311
+milwaukeebucks 99 newyorkknicks 92 away 311
+indianapacers 90 miamiheat 87 home 311
+atlantahawks 121 neworleanspelicans 115 away 311
+detroitpistons 100 phoenixsuns 92 away 311
+goldenstatewarriors 119 denvernuggets 104 home 311
+houstonrockets 116 sacramentokings 110 away 311
+minnesotatimberwolves 102 chicagobulls 93 away 312
+orlandomagic 105 philadelphiassers 97 away 312
+atlantahawks 114 washingtonwizards 99 home 312
+dallasmavericks 107 neworleanspelicans 98 home 312
+milwaukeebucks 94 brooklynnets 86 home 312
+sanantoniospurs 114 charlottehornets 94 home 312
+utahjazz 89 memphisgrizzlies 79 home 312
+goldenstatewarriors 103 sacramentokings 94 away 312
+houstonrockets 109 losangelesclippers 105 away 312
+clevelandcavaliers 101 indianapacers 97 home 313
+newyorkknicks 99 losangeleslakers 95 home 313
+miamiheat 96 torontoraptors 76 home 313
+oklahomacitythunder 124 phoenixsuns 103 home 313
+detroitpistons 120 portlandtrailblazers 103 away 313
+indianapacers 97 orlandomagic 84 home 314
+chicagobulls 111 philadelphiassers 88 away 314
+minnesotatimberwolves 117 atlantahawks 107 away 314
+denvernuggets 108 portlandtrailblazers 104 home 314
+sanantoniospurs 106 sacramentokings 88 away 314
+goldenstatewarriors 109 detroitpistons 95 home 314
+losangelesclippers 94 memphisgrizzlies 92 home 314
+clevelandcavaliers 118 utahjazz 114 home 315
+oklahomacitythunder 125 washingtonwizards 101 away 315
+miamiheat 101 losangeleslakers 88 home 315
+newyorkknicks 111 torontoraptors 109 away 315
+bostonceltics 99 milwaukeebucks 83 away 315
+charlottehornets 104 minnesotatimberwolves 95 away 315
+neworleanspelicans 120 dallasmavericks 105 home 315
+charlottehornets 95 newyorkknicks 93 home 316
+orlandomagic 101 losangeleslakers 99 home 316
+torontoraptors 119 philadelphiassers 103 away 316
+indianapacers 102 bostonceltics 91 away 316
+atlantahawks 106 neworleanspelicans 98 home 316
+dallasmavericks 118 losangelesclippers 108 home 316
+brooklynnets 106 houstonrockets 98 away 316
+goldenstatewarriors 100 memphisgrizzlies 84 away 316
+denvernuggets 103 milwaukeebucks 102 home 316
+sacramentokings 101 detroitpistons 92 home 316
+sanantoniospurs 113 portlandtrailblazers 101 away 316
+miamiheat 92 utahjazz 91 home 317
+goldenstatewarriors 129 minnesotatimberwolves 116 away 317
+phoenixsuns 118 losangelesclippers 104 home 317
+indianapacers 107 minnesotatimberwolves 103 home 318
+orlandomagic 102 utahjazz 93 home 318
+bostonceltics 106 atlantahawks 93 home 318
+clevelandcavaliers 90 newyorkknicks 84 away 318
+torontoraptors 100 neworleanspelicans 81 home 318
+chicagobulls 102 charlottehornets 97 home 318
+memphisgrizzlies 101 portlandtrailblazers 100 home 318
+oklahomacitythunder 102 philadelphiassers 85 home 318
+dallasmavericks 90 losangeleslakers 82 home 318
+denvernuggets 107 houstonrockets 98 home 318
+sacramentokings 111 brooklynnets 109 home 318
+losangelesclippers 101 detroitpistons 96 home 319
+washingtonwizards 108 orlandomagic 99 home 319
+dallasmavericks 110 houstonrockets 98 away 319
+milwaukeebucks 108 clevelandcavaliers 105 home 319
+sanantoniospurs 92 philadelphiassers 83 home 319
+phoenixsuns 105 denvernuggets 81 home 319
+goldenstatewarriors 107 brooklynnets 99 home 319
+newyorkknicks 95 neworleanspelicans 87 home 320
+memphisgrizzlies 114 minnesotatimberwolves 106 away 320
+charlottehornets 106 portlandtrailblazers 94 home 320
+utahjazz 97 atlantahawks 96 away 320
+bostonceltics 100 oklahomacitythunder 85 away 320
+sacramentokings 107 torontoraptors 101 home 320
+losangeleslakers 97 detroitpistons 85 home 320
+dallasmavericks 92 philadelphiassers 86 away 321
+chicagobulls 96 indianapacers 95 home 321
+bostonceltics 111 houstonrockets 95 away 321
+memphisgrizzlies 122 oklahomacitythunder 114 home 321
+sanantoniospurs 93 portlandtrailblazers 80 home 321
+phoenixsuns 120 losangeleslakers 101 home 321
+washingtonwizards 115 milwaukeebucks 86 home 322
+brooklynnets 90 atlantahawks 88 home 322
+detroitpistons 104 clevelandcavaliers 99 home 322
+minnesotatimberwolves 103 miamiheat 91 away 322
+newyorkknicks 102 charlottehornets 94 home 322
+denvernuggets 115 neworleanspelicans 98 away 322
+goldenstatewarriors 115 torontoraptors 110 home 322
+charlottehornets 116 brooklynnets 111 home 323
+orlandomagic 104 minnesotatimberwolves 101 home 323
+indianapacers 112 philadelphiassers 85 away 323
+dallasmavericks 106 bostonceltics 102 away 323
+atlantahawks 103 sacramentokings 97 home 323
+houstonrockets 108 portlandtrailblazers 103 home 323
+oklahomacitythunder 110 neworleanspelicans 103 home 323
+sanantoniospurs 109 denvernuggets 98 home 323
+utahjazz 93 torontoraptors 89 home 323
+chicagobulls 103 phoenixsuns 97 away 323
+miamiheat 116 sacramentokings 109 home 324
+clevelandcavaliers 115 milwaukeebucks 100 home 324
+goldenstatewarriors 124 losangelesclippers 117 away 324
+charlottehornets 113 philadelphiassers 88 home 325
+bostonceltics 120 brooklynnets 95 home 325
+memphisgrizzlies 96 houstonrockets 84 home 325
+detroitpistons 96 minnesotatimberwolves 86 away 325
+neworleanspelicans 104 sanantoniospurs 90 home 325
+newyorkknicks 93 oklahomacitythunder 90 away 325
+dallasmavericks 102 utahjazz 93 home 325
+phoenixsuns 114 denvernuggets 107 away 325
+portlandtrailblazers 102 losangelesclippers 91 home 325
+goldenstatewarriors 106 chicagobulls 94 home 325
+torontoraptors 102 losangeleslakers 91 away 325
+sacramentokings 97 orlandomagic 91 away 326
+indianapacers 123 milwaukeebucks 86 home 326
+clevelandcavaliers 109 atlantahawks 97 home 326
+washingtonwizards 97 detroitpistons 95 away 326
+miamiheat 96 philadelphiassers 91 home 326
+newyorkknicks 107 houstonrockets 102 away 326
+sanantoniospurs 92 memphisgrizzlies 82 home 326
+torontoraptors 91 losangelesclippers 80 away 327
+brooklynnets 111 bostonceltics 101 home 327
+neworleanspelicans 122 phoenixsuns 116 home 327
+oklahomacitythunder 117 dallasmavericks 114 home 327
+goldenstatewarriors 118 denvernuggets 105 away 327
+portlandtrailblazers 107 losangeleslakers 93 away 327
+charlottehornets 127 sacramentokings 122 home 328
+clevelandcavaliers 117 orlandomagic 103 home 328
+miamiheat 95 newyorkknicks 78 home 328
+milwaukeebucks 109 detroitpistons 88 home 328
+minnesotatimberwolves 100 philadelphiassers 95 home 328
+sanantoniospurs 98 phoenixsuns 84 home 328
+oklahomacitythunder 111 utahjazz 89 away 328
+indianapacers 123 washingtonwizards 106 away 329
+atlantahawks 121 bostonceltics 97 home 329
+memphisgrizzlies 110 dallasmavericks 96 home 329
+losangelesclippers 111 denvernuggets 94 away 329
+chicagobulls 93 portlandtrailblazers 88 away 329
+goldenstatewarriors 111 losangeleslakers 77 home 329
+charlottehornets 101 washingtonwizards 87 home 330
+orlandomagic 100 newyorkknicks 91 home 330
+bostonceltics 84 philadelphiassers 80 home 330
+detroitpistons 104 miamiheat 81 home 330
+torontoraptors 103 clevelandcavaliers 99 home 330
+memphisgrizzlies 102 houstonrockets 93 away 330
+sacramentokings 129 milwaukeebucks 118 away 330
+minnesotatimberwolves 99 atlantahawks 95 home 330
+oklahomacitythunder 110 brooklynnets 99 home 330
+sanantoniospurs 88 dallasmavericks 83 home 330
+neworleanspelicans 120 phoenixsuns 114 away 330
+utahjazz 102 losangelesclippers 91 away 330
+clevelandcavaliers 95 charlottehornets 90 away 332
+orlandomagic 114 milwaukeebucks 90 home 332
+bostonceltics 111 washingtonwizards 78 home 332
+miamiheat 97 newyorkknicks 78 away 332
+indianapacers 104 chicagobulls 92 home 332
+houstonrockets 116 philadelphiassers 114 home 332
+atlantahawks 116 memphisgrizzlies 101 away 332
+oklahomacitythunder 103 detroitpistons 87 home 332
+sanantoniospurs 91 denvernuggets 80 away 332
+goldenstatewarriors 135 phoenixsuns 116 away 332
+minnesotatimberwolves 101 sacramentokings 91 away 332
+losangelesclippers 111 neworleanspelicans 90 home 332
+torontoraptors 84 washingtonwizards 82 away 333
+clevelandcavaliers 90 brooklynnets 88 home 333
+dallasmavericks 92 denvernuggets 81 home 333
+sanantoniospurs 108 atlantahawks 88 home 333
+utahjazz 101 neworleanspelicans 87 home 333
+portlandtrailblazers 108 losangeleslakers 96 home 333
+goldenstatewarriors 120 sacramentokings 101 home 333
+charlottehornets 87 milwaukeebucks 82 home 334
+losangelesclippers 107 minnesotatimberwolves 99 home 334
+brooklynnets 87 detroitpistons 83 home 334
+orlandomagic 110 bostonceltics 91 home 334
+phoenixsuns 107 torontoraptors 102 away 334
+memphisgrizzlies 92 philadelphiassers 84 home 334
+houstonrockets 116 newyorkknicks 111 away 334
+indianapacers 107 losangeleslakers 103 away 334
+detroitpistons 116 houstonrockets 105 home 335
+bostonceltics 105 miamiheat 95 away 335
+atlantahawks 106 oklahomacitythunder 100 home 335
+chicagobulls 92 sanantoniospurs 89 home 335
+milwaukeebucks 92 denvernuggets 74 home 335
+goldenstatewarriors 106 utahjazz 103 away 335
+sacramentokings 112 dallasmavericks 98 home 335
+losangelesclippers 102 portlandtrailblazers 87 home 335
+washingtonwizards 97 clevelandcavaliers 85 away 336
+philadelphiassers 103 losangeleslakers 91 home 336
+brooklynnets 94 phoenixsuns 91 home 336
+orlandomagic 96 minnesotatimberwolves 93 away 336
+memphisgrizzlies 113 neworleanspelicans 104 away 336
+dallasmavericks 115 portlandtrailblazers 112 away 336
+goldenstatewarriors 116 charlottehornets 99 away 337
+losangeleslakers 108 washingtonwizards 104 away 337
+detroitpistons 127 phoenixsuns 122 home 337
+newyorkknicks 99 philadelphiassers 87 home 337
+torontoraptors 96 atlantahawks 86 away 337
+chicagobulls 99 denvernuggets 90 home 337
+houstonrockets 108 neworleanspelicans 101 home 337
+sanantoniospurs 95 milwaukeebucks 70 home 337
+indianapacers 103 losangelesclippers 91 away 337
+miamiheat 97 oklahomacitythunder 95 home 338
+denvernuggets 106 torontoraptors 105 away 338
+orlandomagic 103 utahjazz 94 away 338
+sanantoniospurs 103 memphisgrizzlies 83 away 338
+portlandtrailblazers 123 indianapacers 111 home 338
+bostonceltics 114 sacramentokings 97 away 338
+newyorkknicks 108 brooklynnets 91 home 339
+washingtonwizards 109 phoenixsuns 106 home 339
+detroitpistons 102 milwaukeebucks 95 home 339
+atlantahawks 100 losangeleslakers 87 home 339
+houstonrockets 100 dallasmavericks 96 away 339
+neworleanspelicans 114 clevelandcavaliers 108 home 339
+denvernuggets 108 philadelphiassers 105 away 340
+goldenstatewarriors 112 torontoraptors 109 away 340
+miamiheat 99 clevelandcavaliers 84 home 340
+charlottehornets 102 chicagobulls 96 away 340
+houstonrockets 120 sacramentokings 113 home 340
+portlandtrailblazers 109 minnesotatimberwolves 103 away 340
+milwaukeebucks 106 newyorkknicks 91 home 340
+sanantoniospurs 108 bostonceltics 105 home 340
+utahjazz 122 indianapacers 119 home 340
+losangelesclippers 103 orlandomagic 101 home 340
+memphisgrizzlies 95 phoenixsuns 93 home 341
+goldenstatewarriors 114 brooklynnets 98 away 341
+detroitpistons 111 losangeleslakers 91 home 341
+dallasmavericks 116 washingtonwizards 104 away 341
+oklahomacitythunder 98 sacramentokings 95 home 341
+charlottehornets 104 detroitpistons 84 home 342
+sanantoniospurs 119 philadelphiassers 68 away 342
+washingtonwizards 114 miamiheat 103 away 342
+dallasmavericks 104 newyorkknicks 97 away 342
+torontoraptors 102 losangeleslakers 93 home 342
+phoenixsuns 103 chicagobulls 101 away 342
+milwaukeebucks 90 portlandtrailblazers 88 home 342
+losangelesclippers 110 minnesotatimberwolves 106 away 342
+bostonceltics 111 neworleanspelicans 93 away 342
+clevelandcavaliers 105 portlandtrailblazers 100 home 343
+goldenstatewarriors 131 indianapacers 123 away 343
+brooklynnets 110 houstonrockets 105 home 343
+oklahomacitythunder 125 memphisgrizzlies 88 away 343
+orlandomagic 85 denvernuggets 74 away 343
+sacramentokings 114 utahjazz 106 home 343
+bostonceltics 105 chicagobulls 100 home 344
+charlottehornets 99 miamiheat 81 home 344
+houstonrockets 109 washingtonwizards 103 away 344
+memphisgrizzlies 93 detroitpistons 92 away 344
+torontoraptors 97 sanantoniospurs 94 home 344
+losangelesclippers 109 milwaukeebucks 95 away 344
+minnesotatimberwolves 123 losangeleslakers 122 home 344
+phoenixsuns 107 orlandomagic 104 home 344
+utahjazz 106 newyorkknicks 85 home 344
+atlantahawks 98 dallasmavericks 95 away 344
+brooklynnets 100 philadelphiassers 91 home 345
+chicagobulls 83 losangelesclippers 80 home 345
+oklahomacitythunder 107 atlantahawks 94 home 345
+sacramentokings 99 newyorkknicks 97 home 345
+indianapacers 96 miamiheat 83 home 346
+clevelandcavaliers 111 orlandomagic 76 away 346
+detroitpistons 107 philadelphiassers 95 away 346
+goldenstatewarriors 124 bostonceltics 119 away 346
+torontoraptors 90 milwaukeebucks 83 home 346
+charlottehornets 123 memphisgrizzlies 99 away 346
+neworleanspelicans 107 washingtonwizards 105 home 346
+denvernuggets 111 minnesotatimberwolves 108 home 346
+oklahomacitythunder 94 utahjazz 90 away 346
+sanantoniospurs 109 losangeleslakers 87 home 346
+portlandtrailblazers 106 phoenixsuns 96 away 346
+losangelesclippers 105 brooklynnets 100 away 347
+bostonceltics 98 charlottehornets 93 away 347
+detroitpistons 118 indianapacers 96 home 347
+sanantoniospurs 103 atlantahawks 78 away 347
+chicagobulls 98 neworleanspelicans 94 home 347
+houstonrockets 126 losangeleslakers 97 home 347
+washingtonwizards 114 dallasmavericks 111 away 347
+milwaukeebucks 108 goldenstatewarriors 95 home 347
+newyorkknicks 112 portlandtrailblazers 110 away 347
+phoenixsuns 108 minnesotatimberwolves 101 home 348
+miamiheat 100 memphisgrizzlies 97 home 348
+torontoraptors 96 philadelphiassers 76 home 348
+oklahomacitythunder 104 utahjazz 98 home 348
+indianapacers 106 torontoraptors 90 home 349
+orlandomagic 105 brooklynnets 82 away 349
+losangelesclippers 105 detroitpistons 103 away 349
+miamiheat 100 atlantahawks 88 away 349
+chicagobulls 115 philadelphiassers 96 home 349
+memphisgrizzlies 112 washingtonwizards 95 home 349
+dallasmavericks 104 phoenixsuns 94 home 349
+sanantoniospurs 118 utahjazz 81 home 349
+denvernuggets 114 houstonrockets 108 home 349
+portlandtrailblazers 105 neworleanspelicans 101 home 349
+clevelandcavaliers 89 bostonceltics 77 away 350
+denvernuggets 112 minnesotatimberwolves 100 away 350
+sacramentokings 107 houstonrockets 97 home 350
+losangeleslakers 113 milwaukeebucks 95 home 350
+indianapacers 107 dallasmavericks 81 home 351
+orlandomagic 113 charlottehornets 98 home 351
+miamiheat 104 brooklynnets 98 away 351
+detroitpistons 119 bostonceltics 116 home 351
+newyorkknicks 107 minnesotatimberwolves 102 home 351
+atlantahawks 127 philadelphiassers 106 home 351
+chicagobulls 98 memphisgrizzlies 85 home 351
+oklahomacitythunder 106 portlandtrailblazers 90 home 351
+sanantoniospurs 114 washingtonwizards 95 home 351
+neworleanspelicans 104 utahjazz 94 away 351
+goldenstatewarriors 128 phoenixsuns 103 home 351
+losangelesclippers 103 milwaukeebucks 90 home 351
+charlottehornets 109 torontoraptors 99 home 352
+clevelandcavaliers 104 oklahomacitythunder 100 home 352
+houstonrockets 107 losangeleslakers 87 away 352
+indianapacers 104 brooklynnets 97 home 353
+orlandomagic 102 portlandtrailblazers 94 home 353
+newyorkknicks 107 philadelphiassers 97 away 353
+atlantahawks 109 bostonceltics 101 away 353
+torontoraptors 108 miamiheat 94 away 353
+detroitpistons 147 chicagobulls 144 away 353
+minnesotatimberwolves 99 sacramentokings 95 home 353
+sanantoniospurs 115 losangelesclippers 107 home 353
+dallasmavericks 97 memphisgrizzlies 88 home 353
+utahjazz 97 denvernuggets 88 home 353
+phoenixsuns 104 neworleanspelicans 88 home 353
+goldenstatewarriors 121 milwaukeebucks 112 home 353
+oklahomacitythunder 118 losangeleslakers 78 home 354
+washingtonwizards 109 charlottehornets 101 home 354
+newyorkknicks 107 chicagobulls 91 home 354
+houstonrockets 107 losangelesclippers 97 home 354
+memphisgrizzlies 96 indianapacers 84 home 354
+minnesotatimberwolves 100 brooklynnets 85 away 355
+miamiheat 116 portlandtrailblazers 109 home 355
+clevelandcavaliers 108 philadelphiassers 86 home 355
+milwaukeebucks 101 phoenixsuns 95 away 355
+atlantahawks 103 orlandomagic 100 away 355
+sacramentokings 104 torontoraptors 94 away 355
+neworleanspelicans 130 denvernuggets 125 away 355
+washingtonwizards 113 sacramentokings 99 home 356
+bostonceltics 113 minnesotatimberwolves 99 home 356
+orlandomagic 107 newyorkknicks 99 away 356
+atlantahawks 106 portlandtrailblazers 97 home 356
+brooklynnets 105 chicagobulls 102 away 356
+houstonrockets 102 charlottehornets 95 home 356
+sanantoniospurs 106 indianapacers 92 home 356
+utahjazz 110 phoenixsuns 89 home 356
+oklahomacitythunder 100 losangelesclippers 99 away 356
+memphisgrizzlies 104 philadelphiassers 90 away 357
+detroitpistons 93 miamiheat 92 away 357
+torontoraptors 103 dallasmavericks 99 home 357
+losangeleslakers 111 denvernuggets 107 away 357
+bostonceltics 102 charlottehornets 89 away 358
+clevelandcavaliers 91 newyorkknicks 84 home 358
+sacramentokings 108 indianapacers 106 away 358
+orlandomagic 104 houstonrockets 101 home 358
+washingtonwizards 100 memphisgrizzlies 91 home 358
+dallasmavericks 119 brooklynnets 118 away 358
+atlantahawks 107 detroitpistons 100 home 358
+milwaukeebucks 113 philadelphiassers 100 home 358
+sanantoniospurs 108 minnesotatimberwolves 83 away 358
+neworleanspelicans 115 portlandtrailblazers 89 home 358
+denvernuggets 104 phoenixsuns 96 away 358
+goldenstatewarriors 103 utahjazz 85 home 358
+oklahomacitythunder 120 losangeleslakers 85 away 358
+miamiheat 94 neworleanspelicans 88 home 360
+chicagobulls 105 oklahomacitythunder 96 away 360
+goldenstatewarriors 89 clevelandcavaliers 83 home 360
+houstonrockets 88 sanantoniospurs 84 home 360
+losangelesclippers 94 losangeleslakers 84 home 360
+torontoraptors 111 milwaukeebucks 90 away 361
+charlottehornets 98 memphisgrizzlies 92 home 361
+miamiheat 108 orlandomagic 101 away 361
+neworleanspelicans 110 houstonrockets 108 home 361
+atlantahawks 117 newyorkknicks 98 home 361
+bostonceltics 99 detroitpistons 93 away 361
+washingtonwizards 111 brooklynnets 96 away 361
+indianapacers 102 minnesotatimberwolves 88 away 361
+dallasmavericks 118 chicagobulls 111 home 361
+sanantoniospurs 101 denvernuggets 86 home 361
+philadelphiassers 111 phoenixsuns 104 away 361
+losangelesclippers 109 utahjazz 104 away 361
+portlandtrailblazers 105 clevelandcavaliers 76 home 361
+bostonceltics 100 newyorkknicks 91 home 362
+memphisgrizzlies 112 losangeleslakers 96 home 362
+oklahomacitythunder 122 denvernuggets 112 home 362
+portlandtrailblazers 98 sacramentokings 94 away 362
+charlottehornets 108 losangeleslakers 98 home 363
+indianapacers 93 atlantahawks 87 home 363
+orlandomagic 104 neworleanspelicans 89 home 363
+losangelesclippers 108 washingtonwizards 91 away 363
+brooklynnets 111 miamiheat 105 away 363
+chicagobulls 104 torontoraptors 97 home 363
+dallasmavericks 103 milwaukeebucks 93 home 363
+sanantoniospurs 101 minnesotatimberwolves 95 home 363
+clevelandcavaliers 101 phoenixsuns 97 away 363
+utahjazz 95 philadelphiassers 91 home 363
+goldenstatewarriors 122 sacramentokings 103 home 363
+newyorkknicks 108 detroitpistons 96 home 364
+atlantahawks 121 houstonrockets 115 away 364
+memphisgrizzlies 99 miamiheat 90 home 364
+oklahomacitythunder 131 milwaukeebucks 123 home 364
+clevelandcavaliers 93 denvernuggets 87 away 364
+losangelesclippers 122 charlottehornets 117 away 365
+orlandomagic 100 brooklynnets 93 home 365
+losangeleslakers 112 bostonceltics 104 away 365
+torontoraptors 94 washingtonwizards 91 home 365
+chicagobulls 102 indianapacers 100 home 365
+minnesotatimberwolves 94 utahjazz 80 home 365
+dallasmavericks 114 goldenstatewarriors 91 home 365
+sanantoniospurs 112 phoenixsuns 79 home 365
+portlandtrailblazers 110 denvernuggets 103 home 365
+philadelphiassers 110 sacramentokings 105 away 365
+milwaukeebucks 120 indianapacers 116 away 366
+detroitpistons 115 minnesotatimberwolves 90 home 366
+goldenstatewarriors 114 houstonrockets 110 away 366
+losangelesclippers 95 neworleanspelicans 89 away 366
+oklahomacitythunder 110 phoenixsuns 106 home 366
+utahjazz 109 portlandtrailblazers 96 home 366
+washingtonwizards 103 orlandomagic 91 home 367
+miamiheat 106 dallasmavericks 82 home 367
+torontoraptors 104 charlottehornets 94 home 367
+chicagobulls 108 newyorkknicks 81 home 367
+losangeleslakers 93 philadelphiassers 84 home 367
+brooklynnets 100 bostonceltics 97 away 368
+sacramentokings 142 phoenixsuns 119 home 368
+oklahomacitythunder 109 charlottehornets 90 away 368
+indianapacers 94 detroitpistons 82 home 368
+clevelandcavaliers 104 orlandomagic 79 home 368
+milwaukeebucks 95 minnesotatimberwolves 85 away 368
+neworleanspelicans 105 dallasmavericks 98 away 368
+sanantoniospurs 121 houstonrockets 103 home 368
+utahjazz 92 memphisgrizzlies 87 home 368
+goldenstatewarriors 111 denvernuggets 108 home 368
+losangelesclippers 130 philadelphiassers 99 home 368
+newyorkknicks 111 atlantahawks 97 home 369
+chicagobulls 115 torontoraptors 113 away 369
+miamiheat 97 washingtonwizards 75 away 369
+portlandtrailblazers 112 denvernuggets 106 away 369
+losangeleslakers 97 phoenixsuns 77 home 369
+clevelandcavaliers 122 torontoraptors 100 home 370
+philadelphiassers 109 minnesotatimberwolves 99 home 370
+bostonceltics 103 brooklynnets 94 away 370
+detroitpistons 115 orlandomagic 89 home 370
+miamiheat 103 indianapacers 100 home 370
+sanantoniospurs 123 milwaukeebucks 98 away 370
+sacramentokings 116 oklahomacitythunder 104 away 370
+houstonrockets 93 utahjazz 91 away 370
+memphisgrizzlies 91 portlandtrailblazers 78 away 370
+goldenstatewarriors 111 charlottehornets 101 home 370
+newyorkknicks 107 atlantahawks 101 away 371
+chicagobulls 117 milwaukeebucks 106 home 371
+dallasmavericks 117 sacramentokings 116 home 371
+goldenstatewarriors 109 losangeleslakers 88 away 371
+newyorkknicks 98 miamiheat 90 away 372
+indianapacers 95 orlandomagic 86 away 372
+clevelandcavaliers 121 washingtonwizards 115 away 372
+detroitpistons 99 bostonceltics 94 away 372
+torontoraptors 91 brooklynnets 74 away 372
+denvernuggets 78 minnesotatimberwolves 74 away 372
+dallasmavericks 100 neworleanspelicans 91 away 372
+sanantoniospurs 123 utahjazz 98 home 372
+phoenixsuns 111 charlottehornets 102 home 372
+oklahomacitythunder 112 memphisgrizzlies 94 home 372
+losangelesclippers 109 portlandtrailblazers 98 away 372
+sacramentokings 118 losangeleslakers 115 home 373
+atlantahawks 126 philadelphiassers 98 away 373
+chicagobulls 101 bostonceltics 92 home 373
+houstonrockets 103 utahjazz 94 home 373
+torontoraptors 97 washingtonwizards 88 away 374
+orlandomagic 83 brooklynnets 77 away 374
+memphisgrizzlies 91 denvernuggets 84 home 374
+clevelandcavaliers 125 minnesotatimberwolves 99 away 374
+indianapacers 91 neworleanspelicans 86 away 374
+milwaukeebucks 96 dallasmavericks 95 home 374
+sanantoniospurs 100 newyorkknicks 99 home 374
+miamiheat 103 phoenixsuns 95 away 374
+goldenstatewarriors 128 portlandtrailblazers 108 away 374
+oklahomacitythunder 117 losangeleslakers 113 away 374
+losangelesclippers 97 charlottehornets 83 home 375
+atlantahawks 120 chicagobulls 105 home 375
+washingtonwizards 105 orlandomagic 99 away 375
+detroitpistons 103 brooklynnets 89 home 375
+torontoraptors 108 philadelphiassers 95 away 375
+utahjazz 98 miamiheat 83 home 375
+goldenstatewarriors 128 sacramentokings 116 away 375
+dallasmavericks 93 minnesotatimberwolves 87 away 376
+losangelesclippers 114 neworleanspelicans 111 home 376
+clevelandcavaliers 95 philadelphiassers 85 away 376
+memphisgrizzlies 101 bostonceltics 98 home 376
+houstonrockets 107 indianapacers 103 home 376
+newyorkknicks 100 milwaukeebucks 88 home 376
+denvernuggets 95 charlottehornets 92 home 376
+portlandtrailblazers 115 oklahomacitythunder 110 home 376
+utahjazz 86 losangeleslakers 74 away 376
+sanantoniospurs 106 brooklynnets 79 away 377
+washingtonwizards 114 chicagobulls 100 away 377
+goldenstatewarriors 111 miamiheat 103 home 377
+indianapacers 116 phoenixsuns 97 home 378
+sanantoniospurs 109 detroitpistons 99 away 378
+newyorkknicks 120 bostonceltics 114 home 378
+houstonrockets 107 memphisgrizzlies 91 away 378
+milwaukeebucks 106 chicagobulls 101 home 378
+oklahomacitythunder 101 minnesotatimberwolves 96 away 378
+clevelandcavaliers 110 dallasmavericks 107 away 378
+losangeleslakers 95 neworleanspelicans 91 home 378
+charlottehornets 107 atlantahawks 84 home 379
+washingtonwizards 106 milwaukeebucks 101 home 379
+brooklynnets 110 newyorkknicks 104 home 379
+bostonceltics 103 indianapacers 94 home 379
+houstonrockets 107 minnesotatimberwolves 104 home 379
+oklahomacitythunder 108 dallasmavericks 89 home 379
+denvernuggets 112 goldenstatewarriors 110 home 379
+portlandtrailblazers 99 utahjazz 85 home 379
+neworleanspelicans 109 sacramentokings 97 away 379
+losangelesclippers 104 miamiheat 90 home 379
+torontoraptors 106 orlandomagic 103 away 380
+chicagobulls 115 philadelphiassers 111 away 380
+memphisgrizzlies 103 detroitpistons 101 home 380
+sanantoniospurs 99 clevelandcavaliers 95 home 380
+sacramentokings 103 utahjazz 101 away 380
+goldenstatewarriors 116 losangeleslakers 98 home 380
+washingtonwizards 118 indianapacers 104 away 381
+oklahomacitythunder 113 minnesotatimberwolves 93 home 381
+bostonceltics 117 phoenixsuns 103 home 381
+portlandtrailblazers 116 brooklynnets 104 away 381
+dallasmavericks 83 chicagobulls 77 away 381
+neworleanspelicans 109 charlottehornets 107 home 381
+milwaukeebucks 108 atlantahawks 101 home 381
+miamiheat 98 denvernuggets 95 away 381
+clevelandcavaliers 91 houstonrockets 77 away 381
+milwaukeebucks 105 charlottehornets 92 away 382
+bostonceltics 119 washingtonwizards 117 away 382
+atlantahawks 114 brooklynnets 86 home 382
+detroitpistons 113 goldenstatewarriors 95 home 382
+philadelphiassers 114 portlandtrailblazers 89 home 382
+memphisgrizzlies 103 newyorkknicks 95 home 382
+utahjazz 109 losangeleslakers 82 home 382
+sacramentokings 110 losangelesclippers 103 away 382
+minnesotatimberwolves 117 phoenixsuns 87 home 383
+oklahomacitythunder 99 miamiheat 74 home 383
+sanantoniospurs 112 dallasmavericks 83 home 383
+denvernuggets 129 indianapacers 126 home 383
+houstonrockets 112 losangeleslakers 95 away 383
+newyorkknicks 119 philadelphiassers 113 home 384
+charlottehornets 124 utahjazz 119 home 384
+portlandtrailblazers 108 washingtonwizards 98 away 384
+memphisgrizzlies 101 neworleanspelicans 99 home 384
+chicagobulls 111 detroitpistons 101 away 384
+atlantahawks 98 orlandomagic 81 home 384
+torontoraptors 112 brooklynnets 100 home 384
+goldenstatewarriors 132 clevelandcavaliers 98 away 384
+dallasmavericks 118 bostonceltics 113 home 384
+losangelesclippers 140 houstonrockets 132 home 384
+milwaukeebucks 91 miamiheat 79 away 385
+neworleanspelicans 114 minnesotatimberwolves 99 home 385
+oklahomacitythunder 110 denvernuggets 104 away 385
+indianapacers 97 phoenixsuns 94 away 385
+philadelphiassers 96 orlandomagic 87 away 386
+washingtonwizards 106 miamiheat 87 home 386
+clevelandcavaliers 91 brooklynnets 78 away 386
+newyorkknicks 118 utahjazz 111 home 386
+torontoraptors 115 bostonceltics 109 home 386
+goldenstatewarriors 125 chicagobulls 94 away 386
+detroitpistons 123 houstonrockets 114 away 386
+oklahomacitythunder 109 charlottehornets 95 home 386
+dallasmavericks 106 minnesotatimberwolves 94 home 386
+sacramentokings 112 losangeleslakers 93 away 386
+atlantahawks 104 portlandtrailblazers 98 away 386
+clevelandcavaliers 115 losangelesclippers 102 home 387
+neworleanspelicans 115 detroitpistons 99 home 387
+memphisgrizzlies 102 denvernuggets 101 away 387
+sacramentokings 91 atlantahawks 88 home 387
+sanantoniospurs 117 phoenixsuns 89 away 387
+charlottehornets 120 orlandomagic 116 away 388
+bostonceltics 110 chicagobulls 101 home 388
+utahjazz 108 brooklynnets 86 away 388
+losangelesclippers 116 newyorkknicks 88 away 388
+torontoraptors 101 miamiheat 81 home 388
+houstonrockets 102 milwaukeebucks 98 home 388
+oklahomacitythunder 109 dallasmavericks 106 away 388
+goldenstatewarriors 122 indianapacers 110 home 388
+sanantoniospurs 108 losangeleslakers 95 away 388
+charlottehornets 97 newyorkknicks 84 home 389
+neworleanspelicans 116 milwaukeebucks 99 home 389
+minnesotatimberwolves 106 memphisgrizzlies 101 home 389
+chicagobulls 96 clevelandcavaliers 83 away 389
+phoenixsuns 98 atlantahawks 95 home 389
+denvernuggets 104 detroitpistons 101 home 389
+portlandtrailblazers 121 losangeleslakers 103 home 389
+sacramentokings 108 indianapacers 97 home 389
+bostonceltics 112 philadelphiassers 92 away 390
+brooklynnets 116 oklahomacitythunder 106 home 390
+houstonrockets 115 dallasmavericks 104 home 390
+torontoraptors 112 losangelesclippers 94 home 390
+clevelandcavaliers 114 minnesotatimberwolves 107 home 391
+bostonceltics 116 washingtonwizards 91 away 391
+miamiheat 89 chicagobulls 84 away 391
+memphisgrizzlies 108 orlandomagic 102 home 391
+houstonrockets 112 neworleanspelicans 111 away 391
+atlantahawks 119 denvernuggets 105 away 391
+detroitpistons 95 utahjazz 92 away 391
+charlottehornets 129 sacramentokings 128 away 391
+goldenstatewarriors 120 sanantoniospurs 90 home 391
+losangelesclippers 91 indianapacers 89 away 392
+philadelphiassers 113 phoenixsuns 103 home 392
+miamiheat 102 brooklynnets 98 away 392
+oklahomacitythunder 128 newyorkknicks 122 away 392
+torontoraptors 106 washingtonwizards 89 home 392
+milwaukeebucks 107 orlandomagic 100 home 392
+portlandtrailblazers 112 sacramentokings 97 home 392
+dallasmavericks 92 losangeleslakers 90 away 392
+clevelandcavaliers 115 phoenixsuns 93 home 393
+bostonceltics 111 denvernuggets 103 home 393
+detroitpistons 110 philadelphiassers 97 home 393
+losangelesclippers 85 atlantahawks 83 away 393
+oklahomacitythunder 126 minnesotatimberwolves 123 away 393
+sanantoniospurs 130 houstonrockets 99 home 393
+utahjazz 102 charlottehornets 73 home 393
+goldenstatewarriors 127 dallasmavericks 107 home 393
+indianapacers 111 atlantahawks 92 home 394
+denvernuggets 117 washingtonwizards 113 away 394
+torontoraptors 103 newyorkknicks 93 home 394
+memphisgrizzlies 103 milwaukeebucks 83 home 394
+neworleanspelicans 114 sacramentokings 105 home 394
+chicagobulls 114 losangeleslakers 91 away 394
+bostonceltics 113 orlandomagic 94 home 395
+clevelandcavaliers 114 detroitpistons 106 away 395
+newyorkknicks 102 phoenixsuns 84 home 395
+oklahomacitythunder 116 houstonrockets 108 home 395
+miamiheat 107 milwaukeebucks 103 away 395
+dallasmavericks 91 brooklynnets 79 home 395
+utahjazz 103 minnesotatimberwolves 90 home 395
+portlandtrailblazers 109 charlottehornets 91 home 395
+losangelesclippers 105 losangeleslakers 93 home 395
+goldenstatewarriors 108 philadelphiassers 105 away 396
+torontoraptors 111 detroitpistons 107 home 396
+indianapacers 109 denvernuggets 105 home 396
+neworleanspelicans 105 brooklynnets 103 home 396
+washingtonwizards 123 houstonrockets 122 away 396
+memphisgrizzlies 121 sacramentokings 117 home 396
+clevelandcavaliers 117 sanantoniospurs 103 home 396
+losangelesclippers 120 chicagobulls 93 home 397
+miamiheat 105 atlantahawks 87 home 397
+orlandomagic 119 bostonceltics 114 home 397
+dallasmavericks 91 phoenixsuns 78 home 397
+goldenstatewarriors 116 newyorkknicks 95 away 397
+portlandtrailblazers 96 minnesotatimberwolves 93 home 397
+charlottehornets 101 losangeleslakers 82 away 397
+clevelandcavaliers 111 indianapacers 106 away 398
+detroitpistons 105 brooklynnets 100 away 398
+atlantahawks 112 dallasmavericks 97 home 398
+memphisgrizzlies 110 neworleanspelicans 95 away 398
+oklahomacitythunder 114 washingtonwizards 98 home 398
+sanantoniospurs 107 orlandomagic 92 home 398
+denvernuggets 112 torontoraptors 93 home 398
+utahjazz 105 chicagobulls 96 home 398
+sacramentokings 111 milwaukeebucks 104 home 398
+bostonceltics 97 newyorkknicks 89 away 399
+houstonrockets 115 miamiheat 102 home 399
+torontoraptors 104 phoenixsuns 97 away 399
+portlandtrailblazers 107 milwaukeebucks 95 home 399
+losangeleslakers 119 minnesotatimberwolves 115 home 399
+charlottehornets 106 clevelandcavaliers 97 home 400
+atlantahawks 124 philadelphiassers 86 away 400
+bostonceltics 102 detroitpistons 95 home 400
+indianapacers 114 brooklynnets 100 away 400
+goldenstatewarriors 134 washingtonwizards 121 away 400
+oklahomacitythunder 117 orlandomagic 114 home 400
+miamiheat 93 dallasmavericks 90 away 400
+sanantoniospurs 110 neworleanspelicans 97 home 400
+utahjazz 85 denvernuggets 81 home 400
+chicagobulls 107 sacramentokings 102 away 400
+minnesotatimberwolves 108 losangelesclippers 102 away 400
+detroitpistons 111 newyorkknicks 105 home 401
+losangeleslakers 99 neworleanspelicans 96 away 401
+torontoraptors 110 portlandtrailblazers 103 away 401
+houstonrockets 111 phoenixsuns 105 away 401
+atlantahawks 102 indianapacers 96 home 402
+miamiheat 98 charlottehornets 95 away 402
+losangelesclippers 107 orlandomagic 93 away 402
+washingtonwizards 106 philadelphiassers 94 home 402
+brooklynnets 128 sacramentokings 119 home 402
+bostonceltics 104 clevelandcavaliers 103 away 402
+memphisgrizzlies 91 newyorkknicks 85 away 402
+denvernuggets 115 chicagobulls 110 home 402
+utahjazz 84 milwaukeebucks 81 home 402
+sanantoniospurs 116 dallasmavericks 90 away 402
+portlandtrailblazers 96 houstonrockets 79 away 403
+charlottehornets 108 washingtonwizards 104 home 403
+indianapacers 112 detroitpistons 104 home 403
+clevelandcavaliers 99 neworleanspelicans 84 home 403
+philadelphiassers 103 brooklynnets 98 home 403
+dallasmavericks 114 memphisgrizzlies 110 away 403
+minnesotatimberwolves 112 chicagobulls 105 home 403
+sanantoniospurs 106 losangeleslakers 102 home 403
+utahjazz 98 phoenixsuns 89 away 403
+goldenstatewarriors 116 oklahomacitythunder 108 home 403
+denvernuggets 101 newyorkknicks 96 away 404
+orlandomagic 96 atlantahawks 94 home 404
+bostonceltics 128 sacramentokings 119 home 404
+losangelesclippers 100 miamiheat 93 away 404
+charlottehornets 108 chicagobulls 91 home 405
+clevelandcavaliers 120 sacramentokings 100 home 405
+indianapacers 89 losangeleslakers 87 home 405
+losangelesclippers 98 philadelphiassers 92 away 405
+brooklynnets 105 denvernuggets 104 home 405
+torontoraptors 103 detroitpistons 89 away 405
+orlandomagic 117 atlantahawks 110 away 405
+portlandtrailblazers 112 memphisgrizzlies 106 away 405
+neworleanspelicans 116 minnesotatimberwolves 102 away 405
+oklahomacitythunder 122 phoenixsuns 106 away 405
+sanantoniospurs 119 miamiheat 101 away 406
+washingtonwizards 111 newyorkknicks 108 away 406
+milwaukeebucks 112 bostonceltics 111 home 406
+utahjazz 121 dallasmavericks 119 away 406
+goldenstatewarriors 123 houstonrockets 110 home 406
+clevelandcavaliers 120 losangeleslakers 111 home 407
+atlantahawks 113 chicagobulls 90 away 407
+minnesotatimberwolves 117 torontoraptors 112 home 407
+neworleanspelicans 100 utahjazz 96 home 407
+goldenstatewarriors 112 phoenixsuns 104 away 407
+portlandtrailblazers 116 houstonrockets 103 home 407
+charlottehornets 117 indianapacers 95 away 407
+sanantoniospurs 98 orlandomagic 96 away 407
+sacramentokings 114 philadelphiassers 110 away 407
+bostonceltics 139 losangelesclippers 134 home 407
+memphisgrizzlies 109 brooklynnets 90 away 407
+denvernuggets 103 detroitpistons 92 away 407
+milwaukeebucks 99 washingtonwizards 92 home 408
+oklahomacitythunder 121 neworleanspelicans 95 home 408
+clevelandcavaliers 106 chicagobulls 95 home 415
+losangelesclippers 105 sanantoniospurs 86 home 415
+washingtonwizards 103 utahjazz 89 home 415
+orlandomagic 110 dallasmavericks 104 home 416
+washingtonwizards 98 detroitpistons 86 home 416
+brooklynnets 109 newyorkknicks 98 home 416
+miamiheat 115 atlantahawks 111 away 416
+chicagobulls 116 torontoraptors 106 home 416
+memphisgrizzlies 109 minnesotatimberwolves 104 home 416
+neworleanspelicans 121 philadelphiassers 114 home 416
+indianapacers 101 oklahomacitythunder 98 away 416
+charlottehornets 98 milwaukeebucks 95 away 416
+houstonrockets 116 phoenixsuns 100 away 416
+portlandtrailblazers 137 goldenstatewarriors 105 home 416
+sacramentokings 116 denvernuggets 110 home 416
+utahjazz 111 bostonceltics 93 home 416
+sanantoniospurs 119 losangeleslakers 113 away 416
+milwaukeebucks 117 atlantahawks 109 away 417
+miamiheat 114 washingtonwizards 94 home 417
+newyorkknicks 103 minnesotatimberwolves 95 away 417
+goldenstatewarriors 115 losangelesclippers 112 away 417
+neworleanspelicans 111 detroitpistons 106 away 418
+clevelandcavaliers 115 oklahomacitythunder 92 away 418
+bostonceltics 121 denvernuggets 101 away 418
+sanantoniospurs 118 phoenixsuns 111 away 418
+charlottehornets 104 brooklynnets 96 away 418
+indianapacers 105 orlandomagic 102 away 418
+torontoraptors 98 memphisgrizzlies 85 home 418
+dallasmavericks 129 philadelphiassers 103 home 418
+chicagobulls 126 losangeleslakers 115 home 418
+portlandtrailblazers 115 utahjazz 111 home 418
+detroitpistons 96 clevelandcavaliers 88 away 419
+miamiheat 101 indianapacers 93 home 419
+torontoraptors 122 newyorkknicks 95 away 419
+goldenstatewarriors 102 atlantahawks 92 away 419
+milwaukeebucks 108 losangeleslakers 101 home 419
+minnesotatimberwolves 124 bostonceltics 122 home 419
+losangelesclippers 124 phoenixsuns 84 home 419
+orlandomagic 124 philadelphiassers 115 away 420
+washingtonwizards 109 neworleanspelicans 89 home 420
+sacramentokings 114 denvernuggets 110 away 420
+utahjazz 117 houstonrockets 114 home 420
+portlandtrailblazers 112 brooklynnets 104 home 420
+clevelandcavaliers 114 charlottehornets 103 home 421
+indianapacers 108 newyorkknicks 105 home 421
+detroitpistons 111 philadelphiassers 91 home 421
+goldenstatewarriors 118 miamiheat 112 away 421
+torontoraptors 114 minnesotatimberwolves 105 home 421
+chicagobulls 109 washingtonwizards 104 home 421
+memphisgrizzlies 128 losangeleslakers 119 home 421
+oklahomacitythunder 116 dallasmavericks 103 away 421
+denvernuggets 87 losangelesclippers 81 away 421
+sanantoniospurs 108 sacramentokings 92 away 421
+goldenstatewarriors 130 orlandomagic 114 away 422
+bostonceltics 112 milwaukeebucks 107 home 422
+neworleanspelicans 123 oklahomacitythunder 119 home 422
+brooklynnets 116 phoenixsuns 106 away 422
+houstonrockets 119 portlandtrailblazers 105 away 422
+sanantoniospurs 96 utahjazz 78 away 422
+charlottehornets 96 indianapacers 95 away 423
+washingtonwizards 103 philadelphiassers 94 away 423
+newyorkknicks 108 orlandomagic 95 home 423
+torontoraptors 99 clevelandcavaliers 97 home 423
+atlantahawks 103 chicagobulls 88 home 423
+dallasmavericks 122 denvernuggets 116 home 423
+losangelesclippers 117 sacramentokings 107 away 423
+memphisgrizzlies 112 losangeleslakers 95 away 423
+bostonceltics 101 miamiheat 89 home 424
+minnesotatimberwolves 112 neworleanspelicans 110 away 424
+portlandtrailblazers 103 chicagobulls 95 away 424
+sanantoniospurs 104 houstonrockets 94 away 424
+detroitpistons 102 milwaukeebucks 91 away 424
+goldenstatewarriors 121 oklahomacitythunder 118 away 424
+phoenixsuns 111 memphisgrizzlies 106 home 424
+brooklynnets 98 utahjazz 96 away 424
+washingtonwizards 113 clevelandcavaliers 99 home 425
+atlantahawks 87 charlottehornets 76 home 425
+detroitpistons 114 torontoraptors 101 home 425
+portlandtrailblazers 111 indianapacers 102 away 425
+orlandomagic 130 philadelphiassers 116 home 425
+dallasmavericks 128 minnesotatimberwolves 101 home 425
+miamiheat 98 newyorkknicks 81 away 425
+clevelandcavaliers 100 indianapacers 96 home 426
+washingtonwizards 116 philadelphiassers 108 home 426
+bostonceltics 100 utahjazz 95 home 426
+milwaukeebucks 128 houstonrockets 121 home 426
+memphisgrizzlies 103 denvernuggets 96 away 426
+oklahomacitythunder 131 sacramentokings 116 away 426
+losangelesclippers 105 brooklynnets 95 home 426
+charlottehornets 126 phoenixsuns 92 home 427
+miamiheat 129 chicagobulls 111 home 427
+portlandtrailblazers 104 newyorkknicks 85 away 427
+dallasmavericks 121 orlandomagic 108 home 427
+goldenstatewarriors 109 atlantahawks 105 home 427
+losangeleslakers 107 brooklynnets 101 home 427
+orlandomagic 102 chicagobulls 89 home 428
+charlottehornets 119 philadelphiassers 99 away 428
+bostonceltics 116 portlandtrailblazers 93 home 428
+torontoraptors 104 utahjazz 94 home 428
+houstonrockets 100 neworleanspelicans 95 home 428
+memphisgrizzlies 104 sacramentokings 98 home 428
+indianapacers 104 milwaukeebucks 99 away 428
+washingtonwizards 104 minnesotatimberwolves 98 away 428
+sanantoniospurs 97 detroitpistons 81 home 428
+denvernuggets 117 losangeleslakers 107 home 428
+losangelesclippers 103 oklahomacitythunder 98 home 428
+miamiheat 108 phoenixsuns 92 home 429
+sanantoniospurs 94 neworleanspelicans 86 away 429
+sacramentokings 104 dallasmavericks 101 away 429
+goldenstatewarriors 121 oklahomacitythunder 106 home 429
+charlottehornets 108 indianapacers 101 home 430
+phoenixsuns 102 orlandomagic 84 away 430
+miamiheat 112 philadelphiassers 102 away 430
+bostonceltics 105 newyorkknicks 104 home 430
+torontoraptors 117 portlandtrailblazers 115 home 430
+clevelandcavaliers 108 washingtonwizards 83 home 430
+memphisgrizzlies 94 utahjazz 88 home 430
+milwaukeebucks 116 minnesotatimberwolves 101 home 430
+brooklynnets 121 denvernuggets 120 away 430
+atlantahawks 106 losangeleslakers 77 away 430
+clevelandcavaliers 120 bostonceltics 103 home 431
+newyorkknicks 102 detroitpistons 89 home 431
+indianapacers 100 washingtonwizards 99 away 431
+utahjazz 106 neworleanspelicans 94 away 431
+minnesotatimberwolves 132 brooklynnets 118 home 431
+chicagobulls 108 houstonrockets 100 home 431
+sanantoniospurs 104 sacramentokings 94 home 431
+atlantahawks 107 losangelesclippers 97 away 431
+oklahomacitythunder 104 milwaukeebucks 96 away 432
+losangeleslakers 112 goldenstatewarriors 95 home 432
+phoenixsuns 109 memphisgrizzlies 100 away 432
+denvernuggets 116 dallasmavericks 114 home 432
+detroitpistons 123 portlandtrailblazers 103 home 432
+miamiheat 103 philadelphiassers 98 home 432
+houstonrockets 113 torontoraptors 107 away 432
+charlottehornets 108 minnesotatimberwolves 103 home 433
+memphisgrizzlies 106 clevelandcavaliers 103 away 433
+indianapacers 99 sanantoniospurs 91 home 433
+chicagobulls 100 milwaukeebucks 90 home 433
+neworleanspelicans 115 sacramentokings 112 home 433
+losangelesclippers 109 dallasmavericks 90 away 433
+goldenstatewarriors 119 orlandomagic 113 home 433
+torontoraptors 104 brooklynnets 99 home 434
+sanantoniospurs 116 minnesotatimberwolves 91 away 434
+denvernuggets 110 newyorkknicks 94 home 434
+atlantahawks 91 utahjazz 84 away 434
+portlandtrailblazers 116 washingtonwizards 109 home 434
+losangeleslakers 107 orlandomagic 98 home 434
+charlottehornets 122 neworleanspelicans 113 home 435
+houstonrockets 118 philadelphiassers 104 away 435
+milwaukeebucks 114 miamiheat 108 home 435
+bostonceltics 116 memphisgrizzlies 96 home 435
+detroitpistons 102 dallasmavericks 96 away 435
+oklahomacitythunder 120 losangelesclippers 108 home 435
+newyorkknicks 128 phoenixsuns 97 away 435
+clevelandcavaliers 120 sacramentokings 111 away 435
+goldenstatewarriors 115 utahjazz 94 home 435
+torontoraptors 104 atlantahawks 96 home 436
+sanantoniospurs 109 chicagobulls 101 home 436
+denvernuggets 116 phoenixsuns 98 home 436
+clevelandcavaliers 120 losangeleslakers 108 away 436
+charlottehornets 118 detroitpistons 103 home 437
+philadelphiassers 95 brooklynnets 89 home 437
+houstonrockets 102 bostonceltics 98 away 437
+miamiheat 118 chicagobulls 96 away 437
+memphisgrizzlies 121 neworleanspelicans 114 home 437
+minnesotatimberwolves 99 oklahomacitythunder 96 away 437
+utahjazz 114 washingtonwizards 93 home 437
+orlandomagic 107 sacramentokings 100 away 437
+goldenstatewarriors 128 portlandtrailblazers 112 home 437
+losangelesclippers 101 newyorkknicks 94 home 437
+indianapacers 112 dallasmavericks 105 away 438
+charlottehornets 125 houstonrockets 109 home 438
+detroitpistons 125 philadelphiassers 111 away 438
+torontoraptors 112 miamiheat 104 home 438
+atlantahawks 95 memphisgrizzlies 83 home 438
+milwaukeebucks 103 neworleanspelicans 92 home 438
+sanantoniospurs 93 oklahomacitythunder 85 home 438
+denvernuggets 116 washingtonwizards 100 home 438
+goldenstatewarriors 123 phoenixsuns 116 home 438
+portlandtrailblazers 121 orlandomagic 84 home 438
+clevelandcavaliers 114 losangelesclippers 90 away 439
+atlantahawks 104 indianapacers 75 home 439
+milwaukeebucks 109 brooklynnets 100 away 439
+utahjazz 108 sacramentokings 99 away 439
+newyorkknicks 90 losangeleslakers 87 away 439
+dallasmavericks 107 charlottehornets 96 away 440
+washingtonwizards 124 detroitpistons 81 home 440
+miamiheat 124 denvernuggets 119 home 440
+chicagobulls 109 torontoraptors 107 away 440
+houstonrockets 130 memphisgrizzlies 81 home 440
+oklahomacitythunder 128 portlandtrailblazers 94 home 440
+utahjazz 94 clevelandcavaliers 85 home 440
+phoenixsuns 107 minnesotatimberwolves 104 home 440
+goldenstatewarriors 125 neworleanspelicans 107 home 440
+indianapacers 103 bostonceltics 98 home 441
+orlandomagic 116 denvernuggets 110 home 441
+brooklynnets 131 philadelphiassers 114 home 441
+torontoraptors 107 milwaukeebucks 89 away 441
+sanantoniospurs 108 losangelesclippers 87 home 441
+sacramentokings 106 losangeleslakers 98 away 441
+oklahomacitythunder 130 bostonceltics 109 away 442
+charlottehornets 107 orlandomagic 99 home 442
+clevelandcavaliers 99 dallasmavericks 98 home 442
+washingtonwizards 117 chicagobulls 96 home 442
+atlantahawks 118 detroitpistons 114 away 442
+minnesotatimberwolves 114 memphisgrizzlies 108 away 442
+losangelesclippers 122 houstonrockets 106 away 442
+neworleanspelicans 123 sacramentokings 108 away 442
+goldenstatewarriors 121 newyorkknicks 85 home 442
+torontoraptors 101 indianapacers 94 away 443
+washingtonwizards 99 philadelphiassers 94 away 443
+charlottehornets 109 miamiheat 106 away 443
+atlantahawks 116 denvernuggets 98 home 443
+chicagobulls 118 brooklynnets 102 home 443
+milwaukeebucks 96 memphisgrizzlies 86 home 443
+sanantoniospurs 118 portlandtrailblazers 110 home 443
+utahjazz 103 phoenixsuns 69 home 443
+clevelandcavaliers 109 orlandomagic 103 away 444
+oklahomacitythunder 111 philadelphiassers 97 away 444
+detroitpistons 115 sacramentokings 108 home 444
+torontoraptors 105 bostonceltics 91 home 444
+houstonrockets 116 minnesotatimberwolves 111 home 444
+portlandtrailblazers 117 neworleanspelicans 112 away 444
+goldenstatewarriors 130 dallasmavericks 112 away 444
+phoenixsuns 95 losangeleslakers 90 away 444
+denvernuggets 101 charlottehornets 93 away 445
+detroitpistons 115 brooklynnets 103 home 445
+oklahomacitythunder 115 indianapacers 111 away 445
+washingtonwizards 99 newyorkknicks 89 home 445
+atlantahawks 109 houstonrockets 97 home 445
+miamiheat 122 clevelandcavaliers 101 home 445
+chicagobulls 92 utahjazz 85 home 445
+memphisgrizzlies 113 losangelesclippers 102 home 445
+sanantoniospurs 87 goldenstatewarriors 79 home 445
+dallasmavericks 132 portlandtrailblazers 120 home 446
+torontoraptors 105 orlandomagic 100 home 446
+bostonceltics 120 philadelphiassers 105 away 446
+neworleanspelicans 109 losangelesclippers 105 home 446
+utahjazz 94 milwaukeebucks 85 away 446
+sacramentokings 88 newyorkknicks 80 away 446
+memphisgrizzlies 103 phoenixsuns 97 away 447
+charlottehornets 91 sanantoniospurs 88 home 447
+clevelandcavaliers 124 denvernuggets 91 home 447
+indianapacers 91 philadelphiassers 75 home 447
+bostonceltics 107 orlandomagic 96 home 447
+detroitpistons 92 milwaukeebucks 91 home 447
+washingtonwizards 117 atlantahawks 102 away 447
+chicagobulls 109 sacramentokings 102 home 447
+goldenstatewarriors 109 minnesotatimberwolves 104 away 447
+charlottehornets 105 brooklynnets 100 away 448
+miamiheat 113 neworleanspelicans 99 away 448
+oklahomacitythunder 111 houstonrockets 107 home 448
+losangeleslakers 107 memphisgrizzlies 100 home 448
+atlantahawks 122 washingtonwizards 101 away 449
+bostonceltics 91 torontoraptors 79 home 449
+detroitpistons 118 orlandomagic 102 home 449
+clevelandcavaliers 113 milwaukeebucks 104 home 449
+newyorkknicks 115 chicagobulls 107 away 449
+utahjazz 89 houstonrockets 87 away 449
+minnesotatimberwolves 113 sacramentokings 104 home 449
+sanantoniospurs 112 miamiheat 88 home 449
+denvernuggets 104 philadelphiassers 103 home 449
+phoenixsuns 119 losangeleslakers 107 home 449
+goldenstatewarriors 114 losangelesclippers 98 home 449
+portlandtrailblazers 109 dallasmavericks 103 home 449
+indianapacers 92 neworleanspelicans 84 home 450
+brooklynnets 104 clevelandcavaliers 95 home 450
+newyorkknicks 106 chicagobulls 94 home 450
+oklahomacitythunder 113 utahjazz 91 home 450
+losangelesclippers 96 portlandtrailblazers 94 home 450
+minnesotatimberwolves 132 washingtonwizards 129 away 451
+detroitpistons 112 charlottehornets 105 home 451
+miamiheat 108 orlandomagic 97 home 451
+atlantahawks 101 milwaukeebucks 90 home 451
+houstonrockets 112 torontoraptors 109 home 451
+sanantoniospurs 110 memphisgrizzlies 104 home 451
+sacramentokings 116 phoenixsuns 94 home 451
+goldenstatewarriors 128 dallasmavericks 120 home 451
+denvernuggets 116 losangeleslakers 105 away 451
+brooklynnets 120 indianapacers 110 home 452
+orlandomagic 111 chicagobulls 89 home 452
+torontoraptors 115 neworleanspelicans 91 away 452
+atlantahawks 112 detroitpistons 95 away 452
+clevelandcavaliers 107 newyorkknicks 93 away 452
+utahjazz 93 minnesotatimberwolves 84 away 452
+oklahomacitythunder 111 sanantoniospurs 92 home 452
+charlottehornets 115 milwaukeebucks 91 away 452
+bostonceltics 102 phoenixsuns 99 away 452
+portlandtrailblazers 108 philadelphiassers 105 home 452
+losangelesclippers 105 denvernuggets 90 home 453
+indianapacers 104 houstonrockets 101 home 453
+sacramentokings 133 dallasmavericks 111 home 453
+goldenstatewarriors 117 philadelphiassers 105 home 453
+washingtonwizards 101 losangeleslakers 88 away 453
+miamiheat 110 brooklynnets 99 home 454
+oklahomacitythunder 119 torontoraptors 100 away 454
+atlantahawks 102 chicagobulls 100 away 454
+sanantoniospurs 101 memphisgrizzlies 87 away 454
+minnesotatimberwolves 121 phoenixsuns 116 home 454
+neworleanspelicans 99 newyorkknicks 91 home 454
+dallasmavericks 97 denvernuggets 88 away 454
+utahjazz 123 losangeleslakers 75 home 454
+portlandtrailblazers 105 sacramentokings 93 home 454
+losangelesclippers 114 bostonceltics 90 home 454
+chicagobulls 98 indianapacers 96 away 455
+orlandomagic 139 brooklynnets 105 home 455
+charlottehornets 100 philadelphiassers 85 away 455
+detroitpistons 88 oklahomacitythunder 82 home 455
+houstonrockets 106 clevelandcavaliers 100 away 455
+goldenstatewarriors 102 washingtonwizards 94 home 455
+torontoraptors 105 atlantahawks 97 home 456
+denvernuggets 109 memphisgrizzlies 105 away 456
+milwaukeebucks 105 phoenixsuns 94 home 456
+losangelesclippers 99 minnesotatimberwolves 79 away 456
+dallasmavericks 91 newyorkknicks 89 home 456
+sanantoniospurs 100 neworleanspelicans 92 home 456
+goldenstatewarriors 103 utahjazz 96 away 456
+sacramentokings 120 washingtonwizards 111 home 456
+losangeleslakers 102 miamiheat 100 home 456
+clevelandcavaliers 107 brooklynnets 87 home 457
+orlandomagic 114 indianapacers 94 away 457
+chicagobulls 103 houstonrockets 100 away 457
+neworleanspelicans 101 denvernuggets 95 home 457
+oklahomacitythunder 119 losangelesclippers 117 home 457
+portlandtrailblazers 116 bostonceltics 109 home 457
+charlottehornets 100 philadelphiassers 91 home 458
+dallasmavericks 98 detroitpistons 89 away 458
+newyorkknicks 105 brooklynnets 91 home 458
+clevelandcavaliers 110 atlantahawks 108 away 458
+torontoraptors 99 memphisgrizzlies 95 away 458
+milwaukeebucks 113 orlandomagic 110 home 458
+utahjazz 98 minnesotatimberwolves 85 home 458
+miamiheat 112 sacramentokings 106 away 458
+bostonceltics 109 goldenstatewarriors 106 away 458
+washingtonwizards 106 phoenixsuns 99 away 458
+indianapacers 115 philadelphiassers 102 away 459
+detroitpistons 94 chicagobulls 90 away 459
+sanantoniospurs 102 torontoraptors 95 home 459
+sacramentokings 115 denvernuggets 106 away 459
+portlandtrailblazers 110 miamiheat 93 home 459
+neworleanspelicans 106 brooklynnets 87 away 460
+clevelandcavaliers 112 charlottehornets 103 home 460
+houstonrockets 118 oklahomacitythunder 110 home 460
+dallasmavericks 88 minnesotatimberwolves 78 away 460
+losangelesclippers 114 washingtonwizards 109 home 460
+orlandomagic 119 memphisgrizzlies 107 home 460
+utahjazz 101 phoenixsuns 86 away 460
+chicagobulls 102 milwaukeebucks 98 away 460
+indianapacers 92 newyorkknicks 87 away 460
+goldenstatewarriors 136 portlandtrailblazers 111 home 460
+bostonceltics 107 losangeleslakers 100 away 460
+philadelphiassers 107 neworleanspelicans 93 home 462
+miamiheat 107 detroitpistons 89 home 462
+torontoraptors 96 charlottehornets 90 home 462
+atlantahawks 103 phoenixsuns 90 home 462
+memphisgrizzlies 108 chicagobulls 92 home 462
+clevelandcavaliers 109 milwaukeebucks 80 away 462
+oklahomacitythunder 124 denvernuggets 102 away 462
+sanantoniospurs 88 utahjazz 86 away 462
+portlandtrailblazers 115 sacramentokings 107 away 462
+minnesotatimberwolves 124 goldenstatewarriors 117 away 462
+losangelesclippers 103 losangeleslakers 81 home 462
+indianapacers 123 clevelandcavaliers 109 home 463
+detroitpistons 108 orlandomagic 104 away 463
+washingtonwizards 121 brooklynnets 103 home 463
+bostonceltics 104 neworleanspelicans 97 home 463
+charlottehornets 111 newyorkknicks 97 away 463
+dallasmavericks 88 houstonrockets 86 home 463
+portlandtrailblazers 120 oklahomacitythunder 115 home 463
+losangelesclippers 91 losangeleslakers 81 home 463
+atlantahawks 95 torontoraptors 87 home 464
+miamiheat 106 chicagobulls 98 home 464
+phoenixsuns 124 houstonrockets 115 away 464
+minnesotatimberwolves 105 sacramentokings 97 away 464
+goldenstatewarriors 112 sanantoniospurs 101 home 464
+charlottehornets 113 brooklynnets 99 home 465
+orlandomagic 112 miamiheat 109 home 465
+newyorkknicks 109 philadelphiassers 102 away 465
+bostonceltics 124 milwaukeebucks 109 home 465
+detroitpistons 112 washingtonwizards 99 home 465
+torontoraptors 111 indianapacers 98 home 465
+neworleanspelicans 110 losangeleslakers 102 home 465
+dallasmavericks 103 memphisgrizzlies 93 home 465
+denvernuggets 102 sanantoniospurs 98 home 465
+losangelesclippers 102 utahjazz 99 away 465
+phoenixsuns 121 neworleanspelicans 100 away 466
+atlantahawks 118 bostonceltics 107 home 466
+goldenstatewarriors 100 memphisgrizzlies 99 away 466
+chicagobulls 105 clevelandcavaliers 102 home 466
+minnesotatimberwolves 106 portlandtrailblazers 105 away 466
+sacramentokings 114 oklahomacitythunder 112 home 466
+washingtonwizards 113 charlottehornets 98 home 467
+houstonrockets 130 losangeleslakers 110 home 467
+losangelesclippers 98 dallasmavericks 91 home 467
+milwaukeebucks 109 philadelphiassers 108 away 467
+utahjazz 100 denvernuggets 84 away 467
+indianapacers 129 brooklynnets 105 home 467
+miamiheat 118 orlandomagic 96 home 467
+goldenstatewarriors 92 sanantoniospurs 86 away 467
+torontoraptors 93 newyorkknicks 89 away 467
+clevelandcavaliers 109 atlantahawks 94 home 468
+orlandomagic 107 milwaukeebucks 98 home 468
+charlottehornets 114 bostonceltics 100 away 468
+washingtonwizards 120 brooklynnets 111 away 468
+houstonrockets 129 minnesotatimberwolves 105 away 468
+chicagobulls 121 neworleanspelicans 116 away 468
+oklahomacitythunder 112 losangeleslakers 79 home 468
+dallasmavericks 101 utahjazz 92 away 468
+sacramentokings 105 phoenixsuns 101 away 468
+indianapacers 102 newyorkknicks 90 home 469
+miamiheat 99 detroitpistons 93 away 469
+torontoraptors 122 philadelphiassers 98 home 469
+sanantoniospurs 102 oklahomacitythunder 98 home 469
+losangelesclippers 110 memphisgrizzlies 84 home 469
+bostonceltics 98 miamiheat 88 home 470
+torontoraptors 103 brooklynnets 96 away 470
+charlottehornets 117 orlandomagic 103 home 470
+detroitpistons 112 clevelandcavaliers 110 away 470
+washingtonwizards 109 atlantahawks 98 home 470
+chicagobulls 115 philadelphiassers 105 home 470
+sanantoniospurs 96 dallasmavericks 91 away 470
+houstonrockets 116 sacramentokings 81 home 470
+indianapacers 97 milwaukeebucks 92 away 470
+minnesotatimberwolves 144 neworleanspelicans 109 home 470
+goldenstatewarriors 125 memphisgrizzlies 104 home 470
+losangeleslakers 101 utahjazz 96 home 470
+phoenixsuns 114 losangelesclippers 105 home 470
+portlandtrailblazers 107 denvernuggets 99 home 470
+playoffs
+indianapacers 100 torontoraptors 90 away 473
+goldenstatewarriors 104 houstonrockets 78 home 473
+oklahomacitythunder 108 dallasmavericks 70 home 473
+atlantahawks 102 bostonceltics 101 home 473
+sanantoniospurs 106 memphisgrizzlies 74 home 474
+losangelesclippers 115 portlandtrailblazers 95 home 474
+clevelandcavaliers 106 detroitpistons 101 home 474
+miamiheat 123 charlottehornets 91 home 474
+torontoraptors 98 indianapacers 87 home 475
+goldenstatewarriors 115 houstonrockets 106 home 475
+dallasmavericks 85 oklahomacitythunder 84 away 475
+sanantoniospurs 94 memphisgrizzlies 68 home 476
+atlantahawks 89 bostonceltics 72 home 476
+losangelesclippers 102 portlandtrailblazers 81 home 477
+clevelandcavaliers 107 detroitpistons 90 home 477
+miamiheat 115 charlottehornets 103 home 477
+torontoraptors 101 indianapacers 85 away 478
+houstonrockets 97 goldenstatewarriors 96 home 478
+oklahomacitythunder 131 dallasmavericks 102 away 478
+sanantoniospurs 96 memphisgrizzlies 87 away 479
+clevelandcavaliers 101 detroitpistons 91 away 479
+bostonceltics 111 atlantahawks 103 home 479
+indianapacers 100 torontoraptors 83 home 480
+oklahomacitythunder 119 dallasmavericks 108 away 480
+portlandtrailblazers 96 losangelesclippers 88 home 480
+charlottehornets 96 miamiheat 80 home 480
+goldenstatewarriors 121 houstonrockets 94 away 481
+sanantoniospurs 116 memphisgrizzlies 95 away 481
+clevelandcavaliers 100 detroitpistons 98 away 481
+bostonceltics 104 atlantahawks 95 home 481
+oklahomacitythunder 118 dallasmavericks 104 home 482
+portlandtrailblazers 98 losangelesclippers 84 home 482
+charlottehornets 89 miamiheat 85 home 482
+torontoraptors 102 indianapacers 99 home 483
+atlantahawks 110 bostonceltics 83 home 483
+goldenstatewarriors 114 houstonrockets 81 home 484
+portlandtrailblazers 108 losangelesclippers 98 away 484
+charlottehornets 90 miamiheat 88 away 484
+atlantahawks 104 bostonceltics 92 away 485
+indianapacers 101 torontoraptors 83 home 486
+portlandtrailblazers 106 losangelesclippers 103 home 486
+miamiheat 97 charlottehornets 90 away 486
+sanantoniospurs 124 oklahomacitythunder 92 home 487
+goldenstatewarriors 118 portlandtrailblazers 106 home 488
+torontoraptors 89 indianapacers 84 home 488
+miamiheat 106 charlottehornets 73 home 488
+miamiheat 100 torontoraptors 99 home 490 
