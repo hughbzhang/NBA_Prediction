@@ -1,16 +1,11 @@
-g++ -O3 -o genetic genetic.cpp;
-
-echo > dump.txt;
+g++ -o genetic genetic.cpp;
 
 for file in ../PARSED_DATA_WITH_DATE_AND_OT/*; do
+	echo > ${file:32:4}"Rating.txt"
+
 	cp $file oneYear.txt
-	step="0.25"
-	echo "NEWYEAR" >> dump.txt
-	for (( a=4; $a<=$(bc<<<"2/$step"); a++ )); do
-		echo $a >> dump.txt
-		for i in {401..405}; do
-			echo $i $(bc<<<"$step * $a") > in.txt
-			./genetic < in.txt
-		done
+	for i in {401..410}; do
+		echo $i > in.txt
+		./genetic <in.txt >>${file:32:4}"Rating.txt"
 	done
-done	
+done

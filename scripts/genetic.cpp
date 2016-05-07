@@ -28,7 +28,6 @@ Random ratings seem to have costs double this.
 #include <utility>
 #define A first
 #define B second
-
 using namespace std;
 typedef long double ld;
 typedef pair<ld, int> pid;
@@ -36,6 +35,9 @@ typedef pair<ld, int> pid;
 
 int maxTimeSteps = 400;
 const int maxSimulations = 1000; // maybe vary based on confidence interval
+
+
+ld playoffWeight = 1;
 
 // Global data
 vector<string> names; // List of team names
@@ -87,7 +89,8 @@ Creature* winners; // For round 2 of the genetic algorithm with the winners of t
 
 map<string, int> lastPlayed;
 map<string, string> opponent;
-map<string, bool> playoffWinners;
+map<string, int> playoffWins;
+
 vector<string> homers;
 
 vector<pid> allScores;
@@ -286,9 +289,12 @@ Score costForGame(Creature creature, int game, Score score, bool print, ld fatig
 
     }
 
+    int playoffMultiplier = (game > regularSeason) ? playoffWeight : 1;
+
+
     score.logLoss += logCost(win);
     score.wrongGuess += (win < 0.5);
-    score.brier += brierCost(win, scoreDiff*averagePointsPerGame/(ld)totalScore);
+    score.brier += (playoffMultiplier*brierCost(win, scoreDiff*averagePointsPerGame/(ld)totalScore));
 
     return score;
 }
@@ -327,23 +333,23 @@ void checkOdds(Creature creature, bool useHome) {
 
         cout << homers[x] << " " << opponent[homers[x]] << " " << homeWin << " ";
         cout << awayWin << " " << simulateTwoPlayers(homeWin, awayWin) << endl;
-        correct += playoffWinners[homers[x]]==(simulateTwoPlayers(homeWin, awayWin)>.5);
+        //xcxc correct += playoffWinners[homers[x]]==(simulateTwoPlayers(homeWin, awayWin)>.5);
     }
     dump << correct << " ";
 
 }
 
-void playoffCorrect(Creature creature) {
+int playoffCorrect(Creature creature, int starGame, bool print) {
+
     opponent.clear();
     homers.clear();
-    playoffWinners.clear();
+    playoffWins.clear();
 
     for (int x = regularSeason + 1; x < numGamesInSeason; x++) {
         string winTeam = allGames[x].winTeam;
         string loseTeam = allGames[x].loseTeam;
 
         if (winTeam == "playoffs") { assert(false); }
-        // if (winTeam == "playoffs2") break;
         if(opponent[winTeam] == "") {
 
             opponent[winTeam] = loseTeam;
@@ -352,22 +358,21 @@ void playoffCorrect(Creature creature) {
             if (allGames[x].homeGame) homers.push_back(winTeam);
             else homers.push_back(loseTeam);
 
-        } else if (opponent[winTeam] != loseTeam) {
-            break;
-        } else {
-            // assert (opponent[winTeam] == loseTeam);
-            assert (opponent[loseTeam] == winTeam);
-            playoffWinners[winTeam] = true;
-            playoffWinners[loseTeam] = false; // The person who wins the last in the series wins the series
+        } else if (opponent[winTeam] == loseTeam) {
+            
+            playoffWins[winTeam]++;
+
         }
     }
     // for (int x = 0;x<homers.size();x++) cout << homers[x] << endl;
-    assert(homers.size() == 8);
-    
-    cout << "WITHHOME" << endl;
-    checkOdds(creature, true);
-    cout << "WITHOUTHOME" << endl;
-    checkOdds(creature, false);
+    if (print) {
+         cout << "WITHHOME" << endl;
+        checkOdds(creature, true);
+        cout << "WITHOUTHOME" << endl;
+        checkOdds(creature, false);
+    }
+   
+    return -1;
 }
 
 Score playoffScoreFunction(Creature creature) {
@@ -403,24 +408,20 @@ Score testSetScore(Creature creature) {
 Score allScoreFunctions(Creature creature) {
     Score score = newScore();
 
-    int start = 0;
-    int end = regularSeason;
-
     lastPlayed.clear();
 
-    for (int x = start; x < end; x++) {
+    for (int x = 0; x < regularSeason; x++) {
         if (allGames[x].winTeam == "playoffs") { assert(false); }
-        if (testSet.count(x)==0 && !badEggs[x]) {
 
-            int winBonus = (allGames[x].date-lastPlayed[allGames[x].winTeam])>1;
-            int loseBonus = (allGames[x].date-lastPlayed[allGames[x].loseTeam])>1;
+        int winBonus = (allGames[x].date-lastPlayed[allGames[x].winTeam])>1;
+        int loseBonus = (allGames[x].date-lastPlayed[allGames[x].loseTeam])>1;
 
-            score = costForGame(creature, x, score, false, (winBonus-loseBonus)*creature.restAdvantage);
-        }
+        score = costForGame(creature, x, score, false, (winBonus-loseBonus)*creature.restAdvantage);
 
         lastPlayed[allGames[x].winTeam] = allGames[x].date;
         lastPlayed[allGames[x].loseTeam] = allGames[x].date;
     }
+
     return score;
 }
 
@@ -665,39 +666,18 @@ void findBadEggs() {
 
 int main() {
     
-    int seed = 14;
-
-    // cout << "GIVE SEED\n";
+    int seed = 15;
     cin >> seed;
-	srand(seed); //1241232 is a good number
 
+	srand(seed);
 
     initialize();
 
-
-
-    // cout << regularSeason << " " << numGamesInSeason << endl;
-
-    // generateTestSet();
-    
     liveGeneration(true);
     Creature best = population[populationSize-1];
 
     ld noThrowTrain = allScoreFunctions(best).wrongGuess/(ld)regularSeason;
-    //ld noThrowPlayoffs = playoffScoreFunction(best).wrongGuess/(ld)(numGamesInSeason - regularSeason);
-    playoffCorrect(best);
-
-    printCreature(best, false);
-
-    /* findBadEggs();
-    liveGeneration(true);
-    best = population[populationSize-1];
-    ld throwTrain = allScoreFunctions(best).wrongGuess/(ld)regularSeason;
-    ld throwPlayoffs = playoffScoreFunction(best).wrongGuess/(ld)(numGamesInSeason - regularSeason);
-    playoffCorrect(best);
-    
-    dump << noThrowTrain << " " << noThrowPlayoffs << " " << throwTrain << " " << throwPlayoffs << "\n"; */
-    //cout << noThrowTrain << " " << noThrowPlayoffs << endl;
-    cout << noThrowTrain << endl;
-    cout << allScoreFunctions(best).wrongGuess << endl;
+    // playoffCorrect(best, regularSeason + 1, true);
+    printCreature(best, true);
+    cout << best.score.brier << endl;
 }

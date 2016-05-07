@@ -1,0 +1,221 @@
+
+WINNING CREATURE
+miamiheat 2593.67 220.864
+oklahomacitythunder 2318.31 190.588
+sanantoniospurs 2076.28 279.367
+denvernuggets 2076.02 359.754
+losangelesclippers 2054.24 238.96
+memphisgrizzlies 1958.95 292.507
+newyorkknicks 1798.43 312.203
+houstonrockets 1789.41 228.525
+losangeleslakers 1740.98 309.127
+indianapacers 1730.32 248.948
+goldenstatewarriors 1721.87 250.74
+chicagobulls 1716.58 197.099
+brooklynnets 1686.56 102.547
+atlantahawks 1661.54 214.684
+utahjazz 1557.97 233.566
+dallasmavericks 1553.49 181.591
+milwaukeebucks 1341.49 171.454
+bostonceltics 1334.65 306.297
+minnesotatimberwolves 1304.24 137.764
+torontoraptors 1225.93 244.639
+17281.1
+WINNING CREATURE
+miamiheat 2354.15 296.548
+oklahomacitythunder 2278.06 201.575
+sanantoniospurs 2164.2 271.537
+memphisgrizzlies 2093.59 327.307
+denvernuggets 2089.23 296.099
+losangelesclippers 1944.04 294.831
+newyorkknicks 1908.9 250.728
+houstonrockets 1851.05 193.82
+goldenstatewarriors 1740.32 248.186
+indianapacers 1733.72 311.846
+atlantahawks 1698.04 189.369
+chicagobulls 1665.44 260.243
+brooklynnets 1662.71 142.123
+losangeleslakers 1655.3 317.887
+dallasmavericks 1566.61 211.705
+utahjazz 1530.72 286.543
+bostonceltics 1503.43 300.657
+milwaukeebucks 1384.14 146.701
+minnesotatimberwolves 1314.61 156.221
+torontoraptors 1252.65 264.211
+17285.6
+WINNING CREATURE
+miamiheat 2297.3 224.467
+oklahomacitythunder 2262.24 237.891
+sanantoniospurs 2130.27 310.702
+denvernuggets 2103.66 355.668
+memphisgrizzlies 2023.92 302.053
+losangelesclippers 2023.5 283.399
+newyorkknicks 1841.77 236.412
+houstonrockets 1825.75 220.169
+losangeleslakers 1776.54 276.262
+brooklynnets 1734.64 82.7602
+chicagobulls 1720.08 254.969
+goldenstatewarriors 1716.8 225.126
+indianapacers 1701.99 290.723
+atlantahawks 1677.46 130.011
+utahjazz 1578.1 263.79
+dallasmavericks 1552.12 142.493
+milwaukeebucks 1410.4 151.65
+bostonceltics 1361.56 298.033
+minnesotatimberwolves 1315.6 153.94
+detroitpistons 1228.42 104.443
+17281.7
+WINNING CREATURE
+miamiheat 2581.75 214.113
+oklahomacitythunder 2306.29 201.618
+denvernuggets 2154.02 278.52
+sanantoniospurs 2074.76 290.362
+losangelesclippers 2034.26 272.008
+memphisgrizzlies 1976.19 270.021
+newyorkknicks 1793.63 324.229
+losangeleslakers 1759.79 285.016
+brooklynnets 1749.57 123.638
+houstonrockets 1742.15 307.581
+indianapacers 1738.03 248.942
+goldenstatewarriors 1719.62 325.317
+chicagobulls 1719.33 235.215
+atlantahawks 1667.22 201.22
+dallasmavericks 1566.73 157.845
+utahjazz 1520.54 278.668
+bostonceltics 1297.67 306.074
+milwaukeebucks 1271.23 169.319
+minnesotatimberwolves 1250.17 190.453
+philadelphiassers 1221.83 221.27
+17282.1
+WINNING CREATURE
+miamiheat 2418.61 177.703
+losangelesclippers 2268.7 268.236
+oklahomacitythunder 2159.19 256.695
+denvernuggets 2077 344.028
+sanantoniospurs 2012.38 306.205
+memphisgrizzlies 1999.57 205.492
+newyorkknicks 1847.98 270.836
+goldenstatewarriors 1740.47 230.066
+losangeleslakers 1729.24 301.378
+houstonrockets 1712.65 250.774
+indianapacers 1711.9 330.055
+chicagobulls 1685.03 274.466
+brooklynnets 1665.57 2.85459
+atlantahawks 1659.62 143.628
+dallasmavericks 1585.81 94.917
+utahjazz 1577.49 242.152
+bostonceltics 1345.42 299.675
+minnesotatimberwolves 1312.01 165.147
+milwaukeebucks 1254.44 181.913
+torontoraptors 1187.59 241.567
+17286.9
+WINNING CREATURE
+miamiheat 2444.32 198.586
+oklahomacitythunder 2289.47 155.572
+denvernuggets 2099.85 297.851
+sanantoniospurs 2063.86 298.173
+memphisgrizzlies 2017.48 295.693
+losangelesclippers 1915.84 292.618
+newyorkknicks 1867.5 290.194
+houstonrockets 1801.15 203.196
+indianapacers 1744.22 258.08
+losangeleslakers 1733.11 275.673
+brooklynnets 1689.76 116.903
+goldenstatewarriors 1678.97 237.36
+atlantahawks 1660.47 190.58
+chicagobulls 1652.86 245.4
+utahjazz 1553.18 295.283
+dallasmavericks 1552.33 159.792
+milwaukeebucks 1381.91 142.711
+bostonceltics 1310.18 334.28
+minnesotatimberwolves 1270.55 170.03
+torontoraptors 1251.92 222.101
+17291.7
+WINNING CREATURE
+miamiheat 2464.99 211.856
+oklahomacitythunder 2219.5 228.311
+denvernuggets 2110.1 284.634
+sanantoniospurs 2094.14 314.907
+memphisgrizzlies 2029.69 304.572
+losangelesclippers 1994.24 270.369
+newyorkknicks 1804.1 273.498
+losangeleslakers 1745.41 278.066
+houstonrockets 1744.49 261.423
+chicagobulls 1740.92 215.095
+brooklynnets 1718.53 49.5303
+indianapacers 1711.75 256.062
+goldenstatewarriors 1698.29 255.206
+atlantahawks 1665.89 176.957
+dallasmavericks 1594.74 128.919
+utahjazz 1568.7 251.063
+milwaukeebucks 1386.63 181.335
+bostonceltics 1336.97 337.622
+minnesotatimberwolves 1315.07 159.245
+torontoraptors 1252.24 210.414
+17283.4
+WINNING CREATURE
+oklahomacitythunder 2350.78 199.177
+miamiheat 2238.35 250.028
+denvernuggets 2162.66 312.058
+sanantoniospurs 2088.15 348.219
+losangelesclippers 2082.95 263.609
+memphisgrizzlies 1981.42 298.857
+newyorkknicks 1841.02 259.593
+houstonrockets 1791.3 223.833
+indianapacers 1756.24 273.338
+goldenstatewarriors 1718.12 324.536
+chicagobulls 1710.41 216.244
+brooklynnets 1701.37 85.9736
+losangeleslakers 1687.74 367.161
+atlantahawks 1619.84 113.661
+dallasmavericks 1557.29 166.136
+utahjazz 1529.36 285.881
+bostonceltics 1428.78 245.194
+milwaukeebucks 1329.65 212.233
+torontoraptors 1298.91 263.811
+minnesotatimberwolves 1285.95 133.809
+17283.7
+WINNING CREATURE
+losangelesclippers 2278.53 169.899
+oklahomacitythunder 2269.15 219.86
+denvernuggets 2212.2 295.737
+miamiheat 2150.52 276.326
+sanantoniospurs 2065.62 318.164
+memphisgrizzlies 2014.85 272.467
+newyorkknicks 1850.94 295.574
+houstonrockets 1824.3 234.671
+indianapacers 1798.28 298.571
+losangeleslakers 1790.53 235.458
+brooklynnets 1731.31 67.5225
+chicagobulls 1724.56 232.788
+goldenstatewarriors 1666.47 217.982
+atlantahawks 1642.22 181.579
+utahjazz 1578.85 314.916
+milwaukeebucks 1423.32 133.737
+dallasmavericks 1418.68 238.506
+bostonceltics 1287.31 358.065
+minnesotatimberwolves 1234.63 194.939
+torontoraptors 1222.44 212.857
+17283.9
+WINNING CREATURE
+miamiheat 2460.6 237.438
+oklahomacitythunder 2160.54 252.744
+sanantoniospurs 2081.69 301.039
+denvernuggets 2077.02 345.455
+losangelesclippers 2031.28 262.873
+memphisgrizzlies 2014.17 283.118
+newyorkknicks 1894.6 240.241
+houstonrockets 1824.16 231.192
+losangeleslakers 1773.97 316.821
+chicagobulls 1715.54 213.718
+brooklynnets 1709.56 67.7921
+indianapacers 1692.41 299.898
+goldenstatewarriors 1641.71 270.409
+atlantahawks 1640.55 187.375
+utahjazz 1599.62 213.268
+dallasmavericks 1541.57 204.766
+bostonceltics 1415.7 309.163
+minnesotatimberwolves 1296 194.824
+torontoraptors 1267.28 223.277
+milwaukeebucks 1184.69 227.171
+17292
