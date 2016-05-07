@@ -54,9 +54,6 @@ ifstream ratingData ("ratings.txt");
 ifstream gameData ("oneYear.txt");
 ifstream NBA ("../NBATeams.txt");
 
-
-
-
 int compareTwoTeams(string one, string two){
     return rating[one] > rating[two]; // Sort so the best team is on top
 }
@@ -117,6 +114,8 @@ int executeCycle(){
             ld winRate = simulateTwoPlayers(homeWin, awayWin);
             if (winRate > .5) predictWin[winTeam] = true;
             else predictWin[loseTeam] = true;
+
+            //if (winTeam=="miamiheat" && loseTeam=="torontoraptors") cout << winTeam << " " << loseTeam << " " << winRate << endl;
         }
 
         // Update ratings
@@ -204,12 +203,23 @@ ld cycle() {
     ratingData.seekg(0, ios::beg);
     int correct = 0;
 
-    for (int x = 0;x<10;x++) {
+    for (int x = 0;x<40;x++) {
+
 
         resetAll();
         readInitialRatings();
+        cout << rating["torontoraptors"] << " " << rating["miamiheat"] << endl;
+        
 
         correct += executeCycle();
+
+        string winTeam = "torontoraptors"; string loseTeam = "miamiheat";
+
+        cout << rating["torontoraptors"] << " " << rating["miamiheat"] << endl;
+        ld homeWin = winPercentage(rating[winTeam] - rating[loseTeam] + HOME_ADVANTAGE_CONSTANT);
+        ld awayWin = winPercentage(rating[winTeam] - rating[loseTeam] - HOME_ADVANTAGE_CONSTANT);
+        ld winRate = simulateTwoPlayers(homeWin, awayWin);
+        cout << winTeam << " " << loseTeam << " " << winRate << endl;
     }
     return correct/(ld)10;
 }
@@ -218,6 +228,14 @@ int main(){
 
     srand(7);
     initialize();
+
+    K = 32;
+    HOME_ADVANTAGE_CONSTANT = 200;
+    SCORE_WEIGHT_CONSTANT = 2;
+
+    cycle();
+
+    return 0;
 
     for (K = 8;K<64;K*=2) {
         for (HOME_ADVANTAGE_CONSTANT = 300; HOME_ADVANTAGE_CONSTANT < 600; HOME_ADVANTAGE_CONSTANT+=50) {

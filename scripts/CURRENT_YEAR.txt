@@ -1271,3 +1271,7 @@ atlantahawks 104 bostonceltics 92 away 485
 indianapacers 101 torontoraptors 83 home 486
 portlandtrailblazers 106 losangelesclippers 103 home 486
 miamiheat 97 charlottehornets 90 away 486
+sanantoniospurs 124 oklahomacitythunder 92 home 487
+goldenstatewarriors 118 portlandtrailblazers 106 home 488
+torontoraptors 89 indianapacers 84 home 488
+miamiheat 106 charlottehornets 73 home 488

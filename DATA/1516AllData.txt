@@ -1446,3 +1446,9 @@ Apr 29, 2016
 Indiana Pacers 101, Toronto Raptors 83 at Indiana
 Portland Trail Blazers 106, Los Angeles Clippers 103 at Portland
 Miami Heat 97, Charlotte Hornets 90 at Charlotte
+Apr 30, 2016
+San Antonio Spurs 124, Oklahoma City Thunder 92 at San Antonio
+May 1, 2016
+Golden State Warriors 118, Portland Trail Blazers 106 at Golden State
+Toronto Raptors 89, Indiana Pacers 84 at Toronto
+Miami Heat 106, Charlotte Hornets 73 at Miami
