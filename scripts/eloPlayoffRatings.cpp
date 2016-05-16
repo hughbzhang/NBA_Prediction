@@ -115,7 +115,7 @@ int executeCycle(){
             if (winRate > .5) predictWin[winTeam] = true;
             else predictWin[loseTeam] = true;
 
-            //if (winTeam=="miamiheat" && loseTeam=="torontoraptors") cout << winTeam << " " << loseTeam << " " << winRate << endl;
+            //if (winTeam==team2 && loseTeam==team1) cout << winTeam << " " << loseTeam << " " << winRate << endl;
         }
 
         // Update ratings
@@ -205,17 +205,18 @@ ld cycle() {
 
     for (int x = 0;x<40;x++) {
 
-
+        string team1 = "goldenstatewarriors";
+        string team2 = "oklahomacitythunder";
         resetAll();
         readInitialRatings();
-        cout << rating["torontoraptors"] << " " << rating["miamiheat"] << endl;
+        cout << rating[team1] << " " << rating[team2] << endl;
         
 
         correct += executeCycle();
 
-        string winTeam = "torontoraptors"; string loseTeam = "miamiheat";
+        string winTeam = team1; string loseTeam = team2;
 
-        cout << rating["torontoraptors"] << " " << rating["miamiheat"] << endl;
+        cout << rating[team1] << " " << rating[team2] << endl;
         ld homeWin = winPercentage(rating[winTeam] - rating[loseTeam] + HOME_ADVANTAGE_CONSTANT);
         ld awayWin = winPercentage(rating[winTeam] - rating[loseTeam] - HOME_ADVANTAGE_CONSTANT);
         ld winRate = simulateTwoPlayers(homeWin, awayWin);

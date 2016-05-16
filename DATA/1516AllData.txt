@@ -1452,3 +1452,36 @@ May 1, 2016
 Golden State Warriors 118, Portland Trail Blazers 106 at Golden State
 Toronto Raptors 89, Indiana Pacers 84 at Toronto
 Miami Heat 106, Charlotte Hornets 73 at Miami
+May 2, 2016
+Oklahoma City Thunder 98, San Antonio Spurs 97 at San Antonio
+Cleveland Cavaliers 104, Atlanta Hawks 93 at Cleveland
+May 3, 2016
+Miami Heat 102, Toronto Raptors 96 OT at Toronto
+Golden State Warriors 110, Portland Trail Blazers 99 at Golden State
+May 4, 2016
+Cleveland Cavaliers 123, Atlanta Hawks 98 at Cleveland
+May 5, 2016
+Toronto Raptors 96, Miami Heat 92 OT at Toronto
+May 6, 2016
+San Antonio Spurs 100, Oklahoma City Thunder 96 at Oklahoma City
+Cleveland Cavaliers 121, Atlanta Hawks 108 at Atlanta
+May 7, 2016
+Toronto Raptors 95, Miami Heat 91 at Miami
+Portland Trail Blazers 120, Golden State Warriors 108 at Portland
+May 8, 2016
+Oklahoma City Thunder 111, San Antonio Spurs 97 at Oklahoma City
+Cleveland Cavaliers 100, Atlanta Hawks 99 at Atlanta
+May 9, 2016
+Miami Heat 94, Toronto Raptors 87 OT at Miami
+Golden State Warriors 132, Portland Trail Blazers 125 OT at Portland
+May 10, 2016
+Oklahoma City Thunder 95, San Antonio Spurs 91 at San Antonio
+May 11, 2016
+Toronto Raptors 99, Miami Heat 91 at Toronto
+Golden State Warriors 125, Portland Trail Blazers 121 at Golden State
+May 12, 2016
+Oklahoma City Thunder 113, San Antonio Spurs 99 at Oklahoma City
+May 13, 2016
+Miami Heat 103, Toronto Raptors 91 at Miami
+May 15, 2016
+Toronto Raptors 116, Miami Heat 89 at Toronto
