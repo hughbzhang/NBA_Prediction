@@ -1,0 +1,22 @@
+WINNING CREATURE
+goldenstatewarriors 2559.43 220.032
+sanantoniospurs 2192.36 412.02
+oklahomacitythunder 2182.37 274.58
+clevelandcavaliers 2142.97 225.451
+torontoraptors 2088.6 275.043
+losangelesclippers 1964.69 254.732
+atlantahawks 1878.47 231.137
+indianapacers 1838.88 313.777
+portlandtrailblazers 1775.59 306.004
+miamiheat 1763.54 328.114
+dallasmavericks 1722.17 120.51
+charlottehornets 1706.65 294.758
+bostonceltics 1699.02 244.483
+washingtonwizards 1500.25 202.079
+utahjazz 1478.96 236.499
+memphisgrizzlies 1474.85 275.661
+detroitpistons 1468.17 206.363
+orlandomagic 1437.44 251.514
+houstonrockets 1350.9 238.962
+chicagobulls 1348.18 213.594
+0.276423
