@@ -1485,3 +1485,29 @@ May 13, 2016
 Miami Heat 103, Toronto Raptors 91 at Miami
 May 15, 2016
 Toronto Raptors 116, Miami Heat 89 at Toronto
+May 16, 2016
+Oklahoma City Thunder 108, Golden State Warriors 102 at Golden State
+May 17, 2016
+Cleveland Cavaliers 115, Toronto Raptors 84 at Cleveland
+May 18, 2016
+Golden State Warriors 118, Oklahoma City Thunder 91 at Golden State
+May 19, 2016
+Cleveland Cavaliers 108, Toronto Raptors 89 at Cleveland
+May 21, 2016
+Toronto Raptors 99, Cleveland Cavaliers 84 at Toronto
+May 22, 2016
+Oklahoma City Thunder 133, Golden State Warriors 105 at Oklahoma City
+May 23, 2016
+Toronto Raptors 105, Cleveland Cavaliers 99 at Toronto
+May 24, 2016
+Oklahoma City Thunder 118, Golden State Warriors 94 at Oklahoma City
+May 25, 2016
+Cleveland Cavaliers 116, Toronto Raptors 78 at Cleveland
+May 26, 2016
+Golden State Warriors 120, Oklahoma City Thunder 111 at Golden State
+May 27, 2016
+Cleveland Cavaliers 113, Toronto Raptors 87 at Toronto
+May 28, 2016
+Golden State Warriors 108, Oklahoma City Thunder 101 at Oklahoma City
+May 30, 2016
+Golden State Warriors 96, Oklahoma City Thunder 88 at Golden State

@@ -206,7 +206,7 @@ ld cycle() {
     for (int x = 0;x<40;x++) {
 
         string team1 = "goldenstatewarriors";
-        string team2 = "oklahomacitythunder";
+        string team2 = "clevelandcavaliers";
         resetAll();
         readInitialRatings();
         cout << rating[team1] << " " << rating[team2] << endl;
@@ -230,9 +230,9 @@ int main(){
     srand(7);
     initialize();
 
-    K = 32;
+    K = 100;
     HOME_ADVANTAGE_CONSTANT = 200;
-    SCORE_WEIGHT_CONSTANT = 2;
+    SCORE_WEIGHT_CONSTANT = 4;
 
     cycle();
 
